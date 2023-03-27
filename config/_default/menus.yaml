@@ -19,6 +19,11 @@ main:
   #- name: Publications
     #url: publication
     #weight: 50
-  - name: Registration Contact
+  - name: Registration
     url: contact
     weight: 60
+
+  - name: GitHub
+    url: 'https://github.com/multimodalAI'
+    weight: 70
+

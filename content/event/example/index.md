@@ -1,4 +1,4 @@
----
+<!---
 title: Example Event
 
 event: Wowchemy Conference
@@ -52,7 +52,7 @@ slides:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
----
+#---
 
 Slides can be added in a few ways:
 
@@ -61,3 +61,4 @@ Slides can be added in a few ways:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
 Further event details, including page elements such as image galleries, can be added to the body of this page.
+-->
