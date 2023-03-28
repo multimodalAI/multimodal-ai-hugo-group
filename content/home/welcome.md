@@ -19,4 +19,4 @@ design:
 
 <br>
 
-Multimodal AI Workshop .......
+First Multimodal AI Workshop

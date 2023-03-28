@@ -10,7 +10,7 @@ headless: true
 weight: 68
 
 title: Speakers (sorted by last name)
-subtitle:
+subtitle: Speakers details will soon be published!
 
 content:
   # Choose which groups/teams of users to display.

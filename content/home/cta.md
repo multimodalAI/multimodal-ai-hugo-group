@@ -8,7 +8,7 @@ design:
   columns: '1'
 ---
 
-Developed with support from the [Alan Turing Institute](https://www.turing.ac.uk/)
+
 
 
 <!---

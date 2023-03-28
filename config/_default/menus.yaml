@@ -20,7 +20,7 @@ main:
     #url: publication
     #weight: 50
   - name: Registration
-    url: contact
+    url: home
     weight: 60
 
   - name: GitHub

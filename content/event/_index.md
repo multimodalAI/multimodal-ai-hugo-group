@@ -1,6 +1,6 @@
 ---
 title: Recent & Upcoming Events
-
+subtitle: Multimodal AI workshop events will be up to date here!
 # Listing view
 view: compact
 

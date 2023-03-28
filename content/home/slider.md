@@ -2,7 +2,7 @@
 widget: slider
 weight: 1
 active: true
-headless: true
+headless: false
 
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
@@ -15,8 +15,8 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the MultimodalAI Workshop
-      content: Take a look ...........
+    - title: Welcome to the First Workshop on Multimodal AI
+      content: 27th June 2023 <br> 9:30am - 5pm at The Edge, Sheffield S10 3ED
       align: center
       background:
         position: right
