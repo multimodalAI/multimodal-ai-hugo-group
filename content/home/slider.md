@@ -22,9 +22,9 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: 
+        media: slide.jpg
     - title: Lunch & Learn ☕️
-      content: 'Share your knowledge in the MultimodalAI Workshop and explore exciting new topics together!'
+      content: 'Share your knowledge in our first MultimodalAI Workshop and explore exciting new topics together!'
       align: left
       background:
         position: center

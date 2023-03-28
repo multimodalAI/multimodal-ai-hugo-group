@@ -20,7 +20,7 @@ main:
     #url: publication
     #weight: 50
   - name: Registration
-    url: 'https://multimodalai.github.io/#:~:text=soon%20be%20published!-,Registration,-Our%20online%20registration'
+    url: contact
     weight: 60
 
   - name: GitHub
