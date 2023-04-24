@@ -15,13 +15,13 @@ design:
 
 content:
   slides:
-    - title: Welcome to the First Workshop on Multimodal AI
+    - title: First Workshop on Multimodal AI
       content: 27th June 2023 <br> 9:30am - 5pm at The Edge, Sheffield S10 3ED
       align: center
       background:
         position: right
         color: '#666'
-        brightness: 0.7
+        brightness: 0.6
         media: slide.jpg
     - title: Lunch & Learn ☕️
       content: 'Share your knowledge in our first MultimodalAI Workshop and explore exciting new topics together!'
