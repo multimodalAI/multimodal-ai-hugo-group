@@ -14,7 +14,7 @@ main:
     #url: post
     #weight: 20
   - name: Speakers
-    url: people
+    url: #home
     weight: 30
   #- name: Publications
     #url: publication

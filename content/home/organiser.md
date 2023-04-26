@@ -5,20 +5,25 @@ widget: people
 
 # This file represents a page section.
 headless: true
-active: true
 
 # Order that this section appears on the page.
-weight: 68
+weight: 30
 
-title: Keynote Speakers
+title: Organisers (sorted by last name)
+subtitle: Organisers details will soon be published!
 
 content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups:
-    - Researchers
+#  user_groups:
+#    - Principal Investigators
+#    - Researchers
+#    - Grad Students
+#    - Administration
+#    - Visitors
+#   - Alumni
 design:
-  show_organizations: true
+  show_interests: false
   show_role: true
-  show_social: false
+  show_social: true
 ---

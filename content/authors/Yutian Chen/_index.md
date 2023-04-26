@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yutian Chen
+title: Dr. Yutian Chen
 
 # Is this the primary user of the site?
 superuser: false
