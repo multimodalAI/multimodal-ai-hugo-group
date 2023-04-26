@@ -5,25 +5,20 @@ widget: people
 
 # This file represents a page section.
 headless: true
+active: true
 
 # Order that this section appears on the page.
 weight: 68
 
-title: Speakers (sorted by last name)
-subtitle: Speakers details will soon be published!
+title: Speakers
 
 content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-#  user_groups:
-#    - Principal Investigators
-#    - Researchers
-#    - Grad Students
-#    - Administration
-#    - Visitors
-#    - Alumni
+  user_groups:
+    - Researchers
 design:
-  show_interests: false
+  show_organizations: true
   show_role: true
   show_social: true
 ---
