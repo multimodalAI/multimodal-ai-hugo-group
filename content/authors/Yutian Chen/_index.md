@@ -6,7 +6,7 @@ title: Dr. Yutian Chen
 superuser: false
 
 # Role/position
-role: Staff Research Scientist
+role: Staff Research Scientist, Google DeepMind, AlphaGo Developer
 
 # Organizations/Affiliations
 organizations:
