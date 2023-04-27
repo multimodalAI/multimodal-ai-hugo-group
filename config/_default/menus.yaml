@@ -4,26 +4,19 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: home
+  - name: About
+    url: '#about'
     weight: 10
-  - name: Programme
-    url: event
-    weight: 40
-  #- name: News
-    #url: post
-    #weight: 20
   - name: Speakers
-    url: people
+    url: '#speaker'
+    weight: 20
+  - name: Programme
+    url: '#schedule'
     weight: 30
-  #- name: Publications
-    #url: publication
-    #weight: 50
-  - name: Registration
-    url: contact
+  - name: Organisers
+    url: '#organiser'
     weight: 60
-
-  - name: GitHub
-    url: 'https://github.com/multimodalAI'
-    weight: 70
+  - name: Registration
+    url: '#registration'
+    weight: 60
 

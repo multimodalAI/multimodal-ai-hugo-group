@@ -7,10 +7,10 @@ widget: people
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 30
 
-title: Organising Committee
-subtitle: Organisers details will soon be published!
+title: Schedule
+subtitle: Schedule details will soon be published!
 
 content:
   # Choose which groups/teams of users to display.
