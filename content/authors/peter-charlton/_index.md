@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Peter Chaleton
+title: Peter Charlton
 
 # Is this the primary user of the site?
 superuser: false
