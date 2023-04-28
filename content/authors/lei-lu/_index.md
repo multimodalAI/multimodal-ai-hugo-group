@@ -9,7 +9,7 @@ superuser: false
 role: Postdoctoral Research Assistant, University of Oxford
 
 # Order that this section appears on the page.
-weight: 40
+weight: 50
 
 # Organizations/Affiliations
 organizations:

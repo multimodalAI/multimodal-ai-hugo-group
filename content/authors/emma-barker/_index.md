@@ -9,7 +9,7 @@ superuser: false
 role: Research Fellow and Data Science & AI Community Manager, University of Sheffield
 
 # Order that this section appears on the page.
-weight: 50
+weight: 60
 
 # Organizations/Affiliations
 organizations:

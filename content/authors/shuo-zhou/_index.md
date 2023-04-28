@@ -13,7 +13,7 @@ superuser: false
 role: Academic Fellow, Department of Computer Science, University of Sheffield 
 
 # Order that this section appears on the page.
-weight: 60
+weight: 40
 
 # Organizations/Affiliations
 organizations:
