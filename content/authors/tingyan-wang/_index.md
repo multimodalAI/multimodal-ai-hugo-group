@@ -1,15 +1,15 @@
 ---
 # Display name
-title: Emma Barker
+title: Tingyan (Tina) Wang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Fellow and Data Science & AI Community Manager, University of Sheffield
+role: Postdoctoral Scientist, University of Oxford
 
 # Order that this section appears on the page.
-weight: 60
+weight: 20
 
 # Organizations/Affiliations
 organizations:
