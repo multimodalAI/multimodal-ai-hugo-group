@@ -7,7 +7,7 @@ widget: people
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 40
 
 title: Organising Committee
 

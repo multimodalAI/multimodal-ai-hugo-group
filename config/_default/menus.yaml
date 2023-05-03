@@ -16,7 +16,10 @@ main:
   - name: Organisers
     url: '#organiser'
     weight: 60
+  - name: Partners
+    url: '#partners'
+    weight: 70
   - name: Registration
     url: '#registration'
-    weight: 60
+    weight: 80
 
