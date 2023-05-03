@@ -23,6 +23,11 @@ content:
         color: '#666'
         brightness: 0.6
         media: slide.jpg
+      link:
+        icon: pen
+        icon_pack: fas
+        text: Register Now
+        url: ../contact/
     - title: Lunch & Learn ☕️
       content: 'Share your knowledge in our first MultimodalAI Workshop and explore exciting new topics together!'
       align: left
