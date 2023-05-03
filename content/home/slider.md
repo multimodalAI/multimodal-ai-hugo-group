@@ -27,7 +27,7 @@ content:
         icon: pen
         icon_pack: fas
         text: Register Now
-        url: ../contact/
+        url: https://multimodalai.github.io/
     - title: Lunch & Learn ☕️
       content: 'Share your knowledge in our first MultimodalAI Workshop and explore exciting new topics together!'
       align: left

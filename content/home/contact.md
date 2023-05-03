@@ -31,7 +31,7 @@ content:
     - icon: pen
       icon_pack: fas
       name: Register
-      link: 'https://discourse.gohugo.io'
+      link: 'https://multimodalai.github.io/'
 
   # Automatically link email and phone or display as text?
   autolink: true
