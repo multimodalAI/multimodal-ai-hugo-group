@@ -16,9 +16,9 @@ design:
   css_class:
 ---
 <p style="text-align: justify;">
-The First Workshop on Multimodal AI is a one day event that will bring together leading edge researchers interested in key challenges and application areas for Multimodal AI.
+Multimodal AI combines multiple types of data (image, text, audio, etc) via machine learning models and algorithms to achieve better performance. Multimodal AI is key for AI research and applications in healthcare, net zero, finance, robotics, manufacturing, etc. Multimodal AI in these areas is challenging due to the inherent complexity of data integration and the limited availability of labelled data. Unimodal AI for a single type of data input is maturing at an accelerating pace, thus creating vast opportunities for tackling multimodal AI challenges.
 <br>
-Multimodal data is common in applications including healthcare, finance, robotics, environment, multimedia, and manufacturing. Integrating multimodal data is a genuine need from these applications but it is a challenging problem for data science and artificial intelligence (AI) mainly due to the inherent complexity and the limited availability of labelled data.
+MultimodalAI’23 brings together researchers and practitioners from AI, data science, and various scientific and application domains to discuss problems and challenges, share experiences and solutions, explore collaborations and future directions, and build networks and a vibrant community on multimodal AI. We have three keynote speakers covering academic research, industrial research, and industrial applications: Professor Mirella Lapata (University of Edinburgh, UKRI Turing AI World-Leading Researcher Fellow), Dr Yutian Chen (Google DeepMind, AlphaGo Developer), and Dr Chew-Yean Yam (Microsoft, Principal Data and Applied Scientist). We offer participants opportunities to give 3-min pitches and present posters, with four prizes in total for the best pitches and best posters.
 <br>
 The First Workshop on Multimodal AI aims to bring together machine learning researchers, data scientists, and domain experts from diverse backgrounds, career stages, and disciplines to share experiences and solutions, discuss open problems and future directions, and build networks and collaborations in multimodal data integration.
 </p>

@@ -16,7 +16,8 @@ design:
 content:
   slides:
     - title: First Workshop on Multimodal AI
-      content: 27th June 2023 <br> 9:30am - 5pm at The Edge, Sheffield S10 3ED
+      content: <font size="4.9">With unimodal AI maturing, what new doors will multimodal AI open for us? <br> 27th June 2023, Sheffield S10 3ED</font>
+      align: center
       align: center
       background:
         position: right
