@@ -16,19 +16,18 @@ design:
 content:
   slides:
     - title: First Workshop on Multimodal AI
-      content: <font size="4.9">With unimodal AI maturing, what new doors will multimodal AI open for us? <br> 27th June 2023, Sheffield S10 3ED</font>
-      align: center
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.6
         media: slide.jpg
-      link:
-        icon: pen
-        icon_pack: fas
-        text: Register Now
-        url: https://multimodalai.github.io/
+      content: >
+        <font size="4.9" style="color: white !important;">With unimodal AI maturing, what new doors will multimodal AI open for us? <br> 27th June 2023, Sheffield S10 3ED</font>
+        <div style="text-align: center;">
+          <a href="https://multimodalai.github.io/" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fas fa-pen"></i> Register Now</a>
+          <a href="https://twitter.com/MultimodalAI_UK" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fab fa-twitter"></i> Follow Us</a>
+        </div>
     - title: Lunch & Learn ☕️
       content: 'Share your knowledge in our first MultimodalAI Workshop and explore exciting new topics together!'
       align: left
