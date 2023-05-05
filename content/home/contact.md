@@ -14,7 +14,7 @@ subtitle:
 
 content:
   # Contact (edit or remove options as required)
-  email: samratshovon@gmail.com
+  email: 
   address:
     street: The Edge, The Endcliffe Village, 34 Endcliffe Cres
     city: Sheffield
