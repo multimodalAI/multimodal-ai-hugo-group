@@ -6,10 +6,10 @@
 main:
   - name: Speakers
     url: '#speaker'
-    weight: 10
+    weight: 20
   - name: About
     url: '#about'
-    weight: 20
+    weight: 10
   - name: Programme
     url: '#schedule'
     weight: 30

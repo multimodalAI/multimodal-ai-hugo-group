@@ -14,7 +14,7 @@ subtitle:
 
 content:
   # Contact (edit or remove options as required)
-  email: 
+  email: samratshovon@gmail.com
   address:
     street: The Edge, The Endcliffe Village, 34 Endcliffe Cres
     city: Sheffield
@@ -31,7 +31,7 @@ content:
     - icon: pen
       icon_pack: fas
       name: Register
-      link: 'https://multimodalai.github.io/'
+      link: '#registration'
 
   # Automatically link email and phone or display as text?
   autolink: true
