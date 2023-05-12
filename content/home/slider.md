@@ -29,7 +29,11 @@ content:
           <a href="https://twitter.com/MultimodalAI_UK" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fab fa-twitter"></i> Follow Us</a>
         </div>
     - title: Lunch & Learn ☕️
-      content: 'Share your knowledge in our first MultimodalAI Workshop and explore exciting new topics together!'
+      content: >
+        <font size="" style="color: white !important;"> <i>Share your knowledge in our first MultimodalAI Workshop and explore exciting new topics together! </i></font>
+        <div style="text-align:"> 
+          <a href="media/flyer.pdf" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fas fa-rocket"></i> See our Workshop Flyer</a>
+        </div>
       align: left
       background:
         position: center
