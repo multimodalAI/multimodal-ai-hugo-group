@@ -6,7 +6,7 @@ title: Mirella Lapata
 superuser: false
 
 # Role/position
-role: Professor of Natural Language Processing, University of Edinburgh \& UKRI Turing AI World-Leading Researcher Fellow, The Alan Turing Institute.
+role: Professor of Natural Language Processing, University of Edinburgh \& UKRI Turing AI World-Leading Researcher Fellow
 
 # Organizations/Affiliations
 organizations:

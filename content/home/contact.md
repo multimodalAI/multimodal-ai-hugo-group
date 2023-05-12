@@ -31,21 +31,16 @@ content:
     - icon: pen
       icon_pack: fas
       name: Register
-      link: '#registration'
+      link: 'https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/faculty-of-engineering/first-workshop-on-multimodal-ai'
+    - icon: envelope
+      icon_pack: fas
+      name: Email the organisers
+      link: 'mailto:multimodal-ai-enquiry-group@shef.ac.uk'
 
   # Automatically link email and phone or display as text?
-  autolink: true
-
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  autolink:
 
 design:
-  columns: '2'
+  columns: '1'
 ---
 

@@ -20,6 +20,6 @@ main:
     url: '#partners'
     weight: 70
   - name: Registration
-    url: '#registration'
+    url: 'https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/faculty-of-engineering/first-workshop-on-multimodal-ai'
     weight: 80
 
