@@ -25,7 +25,7 @@ content:
       content: >
         <font size="" style="color: white !important;"> <i>With unimodal AI maturing, what new doors will multimodal AI open for us? </i></font> <br> <font size="3" style="color: white !important;">27th June 2023, Sheffield S10 3ED</font>
         <div style="text-align: center;">
-          <a href="https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/faculty-of-engineering/first-workshop-on-multimodal-ai" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fas fa-pen"></i> Register Now</a>
+          <a href="https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/faculty-of-engineering/first-workshop-on-multimodal-ai" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fas fa-pen"></i> Register by 14<sup>th</sup> June</a>
           <a href="https://twitter.com/MultimodalAI_UK" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fab fa-twitter"></i> Follow Us</a>
         </div>
     - title: Lunch & Learn ☕️
@@ -36,17 +36,4 @@ content:
         color: '#555'
         brightness: 0.7
         media:
-    - title: Under Construction
-      content: 'This website is under construction.'
-      align: right
-      background:
-        position: center
-        color: '#333'
-        brightness: 0.5
-        media:
-      link:
-        icon: fa-github
-        icon_pack: fas
-        text: Join Us
-        url: ../contact/
 ---
