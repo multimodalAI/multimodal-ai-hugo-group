@@ -28,16 +28,18 @@ content:
           <a href="https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/faculty-of-engineering/first-workshop-on-multimodal-ai" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fas fa-pen"></i> Register by 14<sup>th</sup> June</a>
           <a href="https://twitter.com/MultimodalAI_UK" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fab fa-twitter"></i> Follow Us</a>
         </div>
-    - title: Lunch & Learn ☕️
-      content: >
-        <font size="" style="color: white !important;"> <i>Share your knowledge in our first MultimodalAI Workshop and explore exciting new topics together! </i></font>
-        <div style="text-align:"> 
-          <a href="media/flyer.pdf" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fas fa-rocket"></i> See our Workshop Flyer</a>
-        </div>
+    - title:
+      content:
       align: left
       background:
         position: center
-        color: '#555'
+        brightness: 1
+        media: slider2.svg
+    - title: Opportunities
+      content: Pitches and posters, Four prizes - £150 each and Travel cost support available
+      align: left
+      background:
+        position: center
         brightness: 0.7
-        media:
+        media: slider3.png
 ---
