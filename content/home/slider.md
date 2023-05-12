@@ -36,7 +36,7 @@ content:
         brightness: 1
         media: slider2.svg
     - title: Opportunities
-      content: Pitches and posters, four prizes - £150 each, travel cost support
+      content: Pitches and posters, four prizes - £150 each and travel cost support
       align: center
       background:
         position: center
