@@ -22,4 +22,4 @@ MultimodalAI’23 brings together researchers and practitioners from AI, data sc
 
 The First Workshop on Multimodal AI aims to bring together machine learning researchers, data scientists, and domain experts from diverse backgrounds, career stages, and disciplines to share experiences and solutions, discuss open problems and future directions, and build networks and collaborations in multimodal data integration.
 
-To get a detailed overview of the keynote speakers, and registration information, please [download our workshop flyer.](/starter-hugo-research-group/assets/media/icon.png)
+To get a detailed overview of the keynote speakers, and registration information, please [download our workshop flyer.](/media/icon.png)

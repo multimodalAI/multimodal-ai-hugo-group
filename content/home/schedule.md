@@ -28,7 +28,7 @@ design:
   show_social: true
 ---
 
-### 09:30 - 10:00 | Registration and Morning Refreshments :coffee:
+#### 09:30 - 10:00 | Registration and Morning Refreshments :coffee:
 
 ---
 
