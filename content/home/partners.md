@@ -13,7 +13,6 @@ This workshop is jointly organised by University of Sheffield and University of 
   <img src="/media/cmi_logo.png" alt="CMI Logo" style="width: 420px; height: auto; display: inline-block; margin-right: 20px;">
   <img src="/media/ati_logo.jpg" alt="ATI Logo" style="width: 250px; height: auto; display: inline-block; margin-right: 20px;">
   <img src="/media/ox_logo.png" alt="OX Logo" style="width: 200px; height: auto; display: inline-block;">
-  <img hidden="hidden" src="/media/flyer.pdf" alt="Flyer">
 </div>
 <br>
 <b>Disclaimer:</b> This event is supported by The Alan Turing Institute. The Turing is not involved in the agenda or content planning.
