@@ -22,4 +22,4 @@ MultimodalAI’23 brings together researchers and practitioners from AI, data sc
 
 Join this interdisciplinary event to create a diverse community that shapes and builds the future of multimodal AI research and developments.
 
-**Welcome to share the attached workshop flyer in [PDF](media/flyer.pdf) and [PNG](media/flyer.png) with your network**
+**Welcome to share the attached workshop flyer in [PDF](media/flyer.pdf) and [PNG](media/flyer.png) with your network. Thank you!**
