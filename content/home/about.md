@@ -20,4 +20,6 @@ Multimodal AI combines multiple types of data (image, text, audio, etc) via mach
 
 MultimodalAI’23 brings together researchers and practitioners from AI, data science, and various scientific and application domains to discuss problems and challenges, share experiences and solutions, explore collaborations and future directions, and build networks and a vibrant community on multimodal AI. We have three keynote speakers covering academic research, industrial research, and industrial applications: [Professor Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/) (University of Edinburgh, UKRI Turing AI World-Leading Researcher Fellow), [Dr Yutian Chen](https://www.cantab.net/users/yutian.chen/index.html) (Google DeepMind, AlphaGo Developer), and [Dr Chew-Yean Yam](https://www.linkedin.com/in/cyyam/?originalSubdomain=uk) (Microsoft, Principal Data and Applied Scientist). We offer participants opportunities to give 3-min pitches and present posters, with four prizes (£150 each) in total for the best pitches and best posters. We also have funds to support travel costs.
 
+Join this interdisciplinary event to create a diverse community that shapes and builds the future of multimodal AI research and developments.
+
 **Welcome to share our workshop flyer ([PDF](media/flyer.pdf) or [PNG](media/flyer.png)) with anyone who is interested. Thank you!**
