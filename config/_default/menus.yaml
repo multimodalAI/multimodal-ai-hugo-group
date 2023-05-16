@@ -22,4 +22,7 @@ main:
   - name: Registration
     url: 'https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/faculty-of-engineering/first-workshop-on-multimodal-ai'
     weight: 80
+  - name: Contact Us
+    url: '#contact'
+    weight: 90
 
