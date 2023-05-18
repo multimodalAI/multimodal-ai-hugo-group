@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: Schedule
-subtitle:
+subtitle: (27th June 2023)
 
 content:
   # Choose which groups/teams of users to display.
