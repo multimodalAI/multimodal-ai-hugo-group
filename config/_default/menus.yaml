@@ -10,7 +10,7 @@ main:
   - name: About
     url: '#about'
     weight: 10
-  - name: Schedule
+  - name: Programme
     url: '#schedule'
     weight: 30
   - name: Organisers
