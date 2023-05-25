@@ -5,6 +5,9 @@ title: Chew-Yean Yam
 # Is this the primary user of the site?
 superuser: false
 
+# Order that this section appears on the page.
+weight: 30
+
 # Role/position
 role: Principal Data and Applied Scientist, Microsoft
 

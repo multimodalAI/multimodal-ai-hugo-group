@@ -5,6 +5,9 @@ title: Yutian Chen
 # Is this the primary user of the site?
 superuser: false
 
+# Order that this section appears on the page.
+weight: 10
+
 # Role/position
 role: Staff Research Scientist, Google DeepMind, AlphaGo Developer
 
