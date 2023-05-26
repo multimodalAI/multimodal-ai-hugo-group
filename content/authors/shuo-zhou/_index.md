@@ -27,10 +27,24 @@ bio:
 # - Transfer Learning
 # - Brain/Cardiac Image Analysis
 
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'mlap@inf.ed.ac.uk'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=b90lZb4AAAAJ
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/shuo-zhou-02754763/
+  - icon: globe
+    icon_pack: fas
+    link: https://shuo-zhou.github.io/
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -38,4 +52,6 @@ user_groups:
 - Principal Investigators
 ---
 
-Shuo is now an Academic Fellow in our department. He was a PhD student under the supervision of Haiping from March 2018 to Feb 2022. He did his MSc on domain adaptation for brain fMRI classification with Haiping in 2016/17. His research focuses on domain adaptation for medical image analysis, particularly domain-independence maximisation for multisource domain adaptation. He will start as an Academic Fellow at the University of Sheffield in 2022. See [his homepage](https://shuo-zhou.github.io/) for more information.
+<p style="text-align:justify">
+Shuo is now an Academic Fellow in our department. He was a PhD student under the supervision of Haiping from March 2018 to Feb 2022. He did his MSc on domain adaptation for brain fMRI classification with Haiping in 2016/17. His research focuses on domain adaptation for medical image analysis, particularly domain-independence maximisation for multisource domain adaptation. He will start as an Academic Fellow at the University of Sheffield in 2022. See <a href="https://shuo-zhou.github.io/">his homepage</a> for more information.
+</p>

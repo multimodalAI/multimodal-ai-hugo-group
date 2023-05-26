@@ -28,7 +28,10 @@ social:
 #    link: 'mlap@inf.ed.ac.uk'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=j67B9Q4AAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=M4Q_9wsAAAAJ&hl=zh-CN
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/tingyan-wang-602138256/?originalSubdomain=uk
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

@@ -28,7 +28,13 @@ social:
 #    link: 'mlap@inf.ed.ac.uk'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=j67B9Q4AAAAJ&hl=en
+    link: https://scholar.google.co.uk/citations?user=mFN2KJ4AAAAJ&hl=en
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/davidclifton/?originalSubdomain=uk
+  - icon: globe
+    icon_pack: fas
+    link: https://ibme.ox.ac.uk/people/david-clifton/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -43,3 +49,9 @@ highlight_name: true
 user_groups:
   - Principal Investigators
 ---
+<p style="text-align:justify">
+David A. Clifton is Professor of Clinical Machine Learning in the Department of Engineering Science of the University of Oxford, and OCC Fellow in AI & Machine Learning at Reuben College, Oxford.  He is a Research Fellow of the Royal Academy of Engineering, Visiting Chair in AI for Healthcare at the University of Manchester, and a Fellow of Fudan University, China.
+</p>
+<p style="text-align:justify">
+David studied Information Engineering at Oxford's Department of Engineering Science.  His research focuses on the development of machine learning for tracking the health of complex systems.  Prof. Clifton teaches the undergraduate mathematics syllabus and biomedical syllabus in Engineering Science.  He holds a Grand Challenge award from the UK Engineering and Physical Sciences Research Council, which is an EPSRC Fellowship that provides long-term strategic support for "future leaders in healthcare".  His research has been awarded over 35 academic prizes; in 2018, he was joint winner of the inaugural "Vice-Chancellor's Innovation Prize", which identifies the best interdisciplinary research across the entirety of the University of Oxford.
+</p>

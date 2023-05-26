@@ -25,13 +25,22 @@ bio:
 
 interests:
 
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'mlap@inf.ed.ac.uk'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=DGYUifQAAAAJ&hl=en
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/md-naimul/
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Visitors
 ---
+<p style="text-align:justify">
+Mohammod Suvon completed his bachelor’s degree in Computer Science and Engineering from North South University, Dhaka, Bangladesh. He has recently completed his Master’s in Computer Science with speech and language processing at the University of Sheffield, UK. Currently, he is working as a Research Assistant at the University of Sheffield.
+</p> 

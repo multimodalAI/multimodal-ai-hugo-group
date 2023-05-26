@@ -26,9 +26,6 @@ social:
 #  - icon: envelope
 #    icon_pack: fas
 #    link: 'mlap@inf.ed.ac.uk'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=j67B9Q4AAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -43,3 +40,6 @@ highlight_name: true
 user_groups:
   - Principal Investigators
 ---
+<p style="text-align:justify">
+Lei obtained his PhD degree in Mechatronic Engineering from the Harbin Institute of Technology, China in 2016. During his PhD study, he had two-years (2013-2015) visiting research at the University of British Columbia, Canada. Since November 2017, he was a postdoctoral researcher at the University of Melbourne, Australia. His research focused on advanced signal processing for noisy and weak signal, and robust machine learning with applications in biomedical engineering and intelligent machine condition monitoring. He had research experience on developing unsupervised machine learning model for the prediction analysis of motion data from robotic-assisted stroke rehabilitation, and sEMG data processing for muscle fatigue analysis. Lei joins the CHI Lab as an EPSRC supported postdoctoral researcher, and his research focuses on investigating multivariate time-series data from electronic health records with machine learning techniques.
+</p>

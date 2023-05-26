@@ -23,14 +23,19 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-- Feature Selection for Big Data
-- Multi-omics Data Integration
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+# interests:
+# - Feature Selection for Big Data
+# - Multi-omics Data Integration
+social:
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=G6JSFp8AAAAJ&hl=en
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/sina-tabakhi/?originalSubdomain=uk
+  - icon: globe
+    icon_pack: fas
+    link: https://sinatabakhi.github.io
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -38,4 +43,6 @@ user_groups:
 - Principal Investigators
 ---
 
-Sina joined us in November 2021. Before joining our team, he had worked in the industry as a software engineer for five years. Sina has also developed a feature selection tool, [Universal Feature Selection Tool (UniFeat)](https://unifeat.github.io/), from his Master's work. He has started conducting research on multi-omics data integration by feature selection to obtain a deep understanding of molecular mechanisms. See [his homepage](https://sinatabakhi.github.io/) for more information.
+<p style="text-align:justify">
+Sina joined us in November 2021. Before joining our team, he had worked in the industry as a software engineer for five years. Sina has also developed a feature selection tool, <a href="https://unifeat.github.io/">Universal Feature Selection Tool (UniFeat)</a>, from his Master's work. He has started conducting research on multi-omics data integration by feature selection to obtain a deep understanding of molecular mechanisms. See <a href="https://sinatabakhi.github.io/">his homepage</a> for more information.
+</p>

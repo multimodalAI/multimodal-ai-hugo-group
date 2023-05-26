@@ -28,7 +28,10 @@ social:
 #    link: 'mlap@inf.ed.ac.uk'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=j67B9Q4AAAAJ&hl=en
+    link: https://scholar.google.co.uk/citations?user=_kJ78PcAAAAJ&hl=en
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/cyyam/?originalSubdomain=uk
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -43,3 +46,6 @@ highlight_name: true
 user_groups:
   - Researchers
 ---
+<p style="text-align:justify">
+Chew-Yean Yam loves innovating with enterprises across various industries, harnessing the power of AI to address critical business challenges. This often leads to a transformation in business models and an overall improvement in quality of life. She takes delight in discovering and nurturing novel applications of AI technology, which in turn, lead to the development of new features and solutions. Chew-Yean contributes to society by offering practical assistance to those aspiring to pursue AI careers through her local tech communities, and she also contributes code to open-source repositories.
+</p>
