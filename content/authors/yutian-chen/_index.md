@@ -51,5 +51,8 @@ user_groups:
   - Researchers
 ---
 <p style="text-align:justify">
-Dr Yutian Chen is a staff research scientist at DeepMind. He obtained his PhD in machine learning at the University of California, Irvine, and later worked at the University of Cambridge as a research associate (Postdoc) before joining DeepMind. Yutian took part in the AlphaGo and AlphaGo Zero project, developed Game Go AI programs that defeated the world champions. The AlphaGo project was ranked in the top 10 discoveries of the decade 2010s by the New Scientist magazine. Yutian has conducted research in multiple machine learning areas including Bayesian methods, offline reinforcement learning, generative models and meta-learning with applications in gaming AI, computer vision and text-to-speech. Yutian also serves as reviewers and area chairs for multiple academic conferences and journals.
+Dr Yutian Chen is a staff research scientist at DeepMind. He obtained his PhD in machine learning at the University of California, Irvine, and later worked at the University of Cambridge as a research associate (Postdoc) before joining DeepMind. 
+</p>
+<p style="text-align:justify">
+Yutian took part in the AlphaGo and AlphaGo Zero project, developed Game Go AI programs that defeated the world champions. The AlphaGo project was ranked in the top 10 discoveries of the decade 2010s by the New Scientist magazine. Yutian has conducted research in multiple machine learning areas including Bayesian methods, offline reinforcement learning, generative models and meta-learning with applications in gaming AI, computer vision and text-to-speech. Yutian also serves as reviewers and area chairs for multiple academic conferences and journals.
 </p>
