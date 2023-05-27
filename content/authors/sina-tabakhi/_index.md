@@ -49,5 +49,5 @@ user_groups:
 <p style="text-align:justify">
 Sina is a PhD student in the Department of Computer Science at the <a href="https://www.sheffield.ac.uk/" target="_blank">University of Sheffield<a>, working in the <a href="https://www.sheffield.ac.uk/dcs/research/groups/machine-learning" target="_blank">Machine Learning Research Group<a>. He is also an organizer of the Alan Turing Institute’s interest group on <a href="https://www.turing.ac.uk/research/interest-groups/meta-learning-multimodal-data" target="_blank">Meta-learning for multimodal data<a>. Sina is a contributor to the development of <a href="https://shef-ai.github.io/" target="_blank">Sheffield Data Science and AI Network<a> with the support of the Turing Network Development Award.
 
-His research aims to leverage deep learning techniques, particularly graph neural networks, to integrate multimodal health data that help design an accurate life-threatening disease diagnostic system. Moreover, he explores methods to reduce the dimensionality of large-scale data through feature selection.
+His research aims to leverage deep learning techniques, particularly graph neural networks, to integrate multimodal health data that help design an accurate life-threatening disease diagnostic system. Moreover, he is developing methods to reduce the dimensionality of large-scale data through feature selection.
 </p>
