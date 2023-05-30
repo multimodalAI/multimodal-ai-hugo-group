@@ -27,15 +27,18 @@ bio:
 # - Feature Selection for Big Data
 # - Multi-omics Data Integration
 social:
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=G6JSFp8AAAAJ&hl=en
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/sina-tabakhi/?originalSubdomain=uk
   - icon: globe
     icon_pack: fas
     link: https://sinatabakhi.github.io
+  - icon: linkedin
+    icon_pack: fab
+    link: https://uk.linkedin.com/in/sina-tabakhi
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/SinaTabakhi
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=G6JSFp8AAAAJ&hl=en
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -44,5 +47,7 @@ user_groups:
 ---
 
 <p style="text-align:justify">
-Sina joined us in November 2021. Before joining our team, he had worked in the industry as a software engineer for five years. Sina has also developed a feature selection tool, <a href="https://unifeat.github.io/">Universal Feature Selection Tool (UniFeat)</a>, from his Master's work. He has started conducting research on multi-omics data integration by feature selection to obtain a deep understanding of molecular mechanisms. See <a href="https://sinatabakhi.github.io/">his homepage</a> for more information.
+Sina is a PhD student in the Department of Computer Science at the <a href="https://www.sheffield.ac.uk/" target="_blank">University of Sheffield<a>, working in the <a href="https://www.sheffield.ac.uk/dcs/research/groups/machine-learning" target="_blank">Machine Learning Research Group<a>. He is also an organizer of the Alan Turing Institute’s interest group on <a href="https://www.turing.ac.uk/research/interest-groups/meta-learning-multimodal-data" target="_blank">Meta-learning for multimodal data<a>. Sina is a contributor to the development of <a href="https://shef-ai.github.io/" target="_blank">Sheffield Data Science and AI Network<a> with the support of the Turing Network Development Award.
+
+His research aims to leverage deep learning techniques, particularly graph neural networks, to integrate multimodal health data that help design an accurate life-threatening disease diagnostic system. Moreover, he is developing methods to reduce the dimensionality of large-scale data through feature selection.
 </p>
