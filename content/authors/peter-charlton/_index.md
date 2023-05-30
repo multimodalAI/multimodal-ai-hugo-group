@@ -13,7 +13,7 @@ weight: 30
 
 # Organizations/Affiliations
 organizations:
-  - name: The University of Edinburgh
+  - name:
     url: '' 
 
 

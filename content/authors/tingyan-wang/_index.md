@@ -9,7 +9,7 @@ superuser: false
 role: Postdoctoral Scientist, University of Oxford
 
 # Order that this section appears on the page.
-weight: 20
+weight: 30
 
 # Organizations/Affiliations
 organizations:
