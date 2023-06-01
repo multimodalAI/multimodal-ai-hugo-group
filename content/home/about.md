@@ -15,7 +15,7 @@ design:
   css_style:
   css_class:
 ---
-<p style="text-align: justify;"><strong>*We also have funds to reimburse travel costs, registration fees and other costs, for those who need support to attend. Further details in our <a href="https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/faculty-of-engineering/first-workshop-on-multimodal-ai">registration form</a>.*</strong>
+<p style="text-align: justify;"><strong>*We have funds to reimburse travel costs, registration fees and other costs, for those who need support to attend. Further details in our <a href="https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/faculty-of-engineering/first-workshop-on-multimodal-ai">registration form</a>.*</strong>
 </p>
 <p style="text-align: justify;">
 Multimodal AI combines multiple types of data (image, text, audio, etc) via machine learning models and algorithms to achieve better performance. Multimodal AI is key for AI research and applications including healthcare, net zero, finance, robotics, and manufacturing. Multimodal AI in these areas is challenging due to the inherent complexity of data integration and the limited availability of labelled data. Unimodal AI for a single type of data input is maturing at an accelerating pace, thus creating vast opportunities for tackling multimodal AI challenges.
