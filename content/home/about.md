@@ -15,7 +15,7 @@ design:
   css_style:
   css_class:
 ---
-<p style="text-align: justify;"><strong>*We have funds to cover travel costs, registration fees and other costs, for those who need support to attend.*</strong>
+<p style="text-align: justify;"><strong>*We also have funds to reimburse travel costs, registration fees and other costs, for those who need support to attend. Further details in our <a href="https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/faculty-of-engineering/first-workshop-on-multimodal-ai">registration form</a>.*</strong>
 </p>
 <p style="text-align: justify;">
 Multimodal AI combines multiple types of data (image, text, audio, etc) via machine learning models and algorithms to achieve better performance. Multimodal AI is key for AI research and applications including healthcare, net zero, finance, robotics, and manufacturing. Multimodal AI in these areas is challenging due to the inherent complexity of data integration and the limited availability of labelled data. Unimodal AI for a single type of data input is maturing at an accelerating pace, thus creating vast opportunities for tackling multimodal AI challenges.
@@ -32,9 +32,11 @@ We offer participants opportunities to give 3-min pitches and present posters, w
 Should you require assistance with accessibility for this event or if you have any other special requirements please let us know via the <a href="https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/faculty-of-engineering/first-workshop-on-multimodal-ai">registration form</a> and/or <a href="#contact">contact us</a> if you would like to discuss your needs with the organising team. We will do our best to fulfil your requirements to allow you to fully participate in this event. 
 </p>
 
-<p style="text-align: justify;">
-We also have funds to reimburse travel costs, registration fees, and other costs for those who need support to attend. Please provide details in our <a href="https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/faculty-of-engineering/first-workshop-on-multimodal-ai">registration form</a>.
-</p>
+[//]: # (<p style="text-align: justify;">)
+
+[//]: # (We also have funds to reimburse travel costs, registration fees, and other costs for those who need support to attend. Please provide details in our <a href="https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/faculty-of-engineering/first-workshop-on-multimodal-ai">registration form</a>.)
+
+[//]: # (</p>)
 
 <p style="text-align: justify;">
 Join this interdisciplinary event to create a diverse community that shapes and builds the future of multimodal AI research and developments.
