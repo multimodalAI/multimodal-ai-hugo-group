@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Tentative Programme
+title: Tentative Programme (In Person Only)
 subtitle: Tuesday, 27th June 2023
 
 content:
