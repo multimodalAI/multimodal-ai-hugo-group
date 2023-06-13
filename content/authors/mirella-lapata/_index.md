@@ -6,7 +6,7 @@ title: Mirella Lapata
 superuser: false
 
 # Order that this section appears on the page.
-weight: 10
+weight: 20
 
 # Role/position
 role: Professor of Natural Language Processing, University of Edinburgh \& UKRI Turing AI World-Leading Researcher Fellow

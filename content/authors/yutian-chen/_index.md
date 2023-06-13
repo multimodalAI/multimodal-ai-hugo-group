@@ -6,10 +6,10 @@ title: Yutian Chen
 superuser: false
 
 # Order that this section appears on the page.
-weight: 20
+weight: 10
 
 # Role/position
-role: Staff Research Scientist
+role: Staff Research Scientist, Google DeepMind, AlphaGo Developer
 
 # Organizations/Affiliations
 organizations:
