@@ -46,4 +46,6 @@ highlight_name: true
 user_groups:
   - Principal Investigators
 ---
+<p style="text-align:justify">
 Dr. Tingyan Wang commenced his postdoctoral research with the Barnes group in October 2018, following the completion of his Ph.D. degree at Tsinghua University. Throughout his Ph.D., she focused on incorporating temporal data into predictive models for multi-disease risks and disease progression. His work primarily concentrated on the analysis of electronic health records and the development of risk predictive models. To achieve this, she utilized a blend of statistical, machine learning, and deep learning techniques.
+</p>
