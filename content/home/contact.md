@@ -28,10 +28,6 @@ content:
   #directions:
   #appointment_url: 'https://calendly.com'
   contact_links:
-    - icon: pen
-      icon_pack: fas
-      name: Register
-      link: 'https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/faculty-of-engineering/first-workshop-on-multimodal-ai'
     - icon: envelope
       icon_pack: fas
       name: Email the organisers
