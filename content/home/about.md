@@ -18,6 +18,9 @@ design:
 <p style="text-align: justify;"><strong>[Financial Support Available]: We have funds to reimburse travel costs, registration fees and other costs, for those who need support to attend.</strong>
 </p>
 <p style="text-align: justify;">
+<strong>Registrations are now closed. For more information, please <a href="#contact">contact</a> the organizers.</strong>
+</p>
+<p style="text-align: justify;">
 Multimodal AI combines multiple types of data (image, text, audio, etc) via machine learning models and algorithms to achieve better performance. Multimodal AI is key for AI research and applications including healthcare, net zero, finance, robotics, and manufacturing. Multimodal AI in these areas is challenging due to the inherent complexity of data integration and the limited availability of labelled data. Unimodal AI for a single type of data input is maturing at an accelerating pace, thus creating vast opportunities for tackling multimodal AI challenges.
 </p>
 <p style="text-align: justify;">
