@@ -29,7 +29,7 @@ We offer participants opportunities to give 3-min pitches and present posters, w
 </p>
 
 <p style="text-align: justify;">
-Should you require assistance with accessibility for this event or if you have any other special requirements please let us know via the registration form and/or <a href="#contact">contact us</a> if you would like to discuss your needs with the organising team. We will do our best to fulfil your requirements to allow you to fully participate in this event. 
+Should you require assistance with accessibility for this event, or if you have any other special requirements, or if you would like to discuss your needs with the organizing team, please <a href="#contact">contact us</a>. We will do our best to fulfill your requirements to allow you to fully participate in this event.
 </p>
 
 [//]: # (<p style="text-align: justify;">)
