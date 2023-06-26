@@ -16,7 +16,7 @@ content:
   # Contact (edit or remove options as required)
   email: 
   address:
-    street: The Edge, The Endcliffe Village, 34 Endcliffe Cres
+    street: The Edge, The Endcliffe Village, 34 Endcliffe Cres 
     city: Sheffield
     region:
     postcode: 'S10 3ED'
@@ -32,11 +32,16 @@ content:
       icon_pack: fas
       name: Email the organisers
       link: 'mailto:multimodal-ai-enquiry-group@shef.ac.uk'
-
   # Automatically link email and phone or display as text?
   autolink:
 
 design:
   columns: '1'
+
 ---
+<img src="/media/the_edge_1.jpg" style="width: 620px; height: auto; display: inline-block;">
+<img src="/media/the_edge_2.webp" style="width: 620px; height: auto; display: inline-block;">
+<center>
+    <img src="/media/the_edge_3.jpg" style="width: 700px; height: auto;">
+</center>
 
