@@ -79,7 +79,8 @@ design:
 | Lucia Cipolina-Kun <td style="word-wrap: break-word; max-width:300px; text-align: justify; padding-left: 1.3em; text-indent: -1.3em;"> &nbsp;&nbsp;&nbsp;&nbsp;Diffusion Models for the Restoration of Cultural Heritage</td>|
 | Bohua Peng | &nbsp;&nbsp;&nbsp;&nbsp;Recent Findings of Foundational Models on Multimodal NLU       | 
 | Thao Do | &nbsp;&nbsp;&nbsp;&nbsp;Social Media Mining and Machine Learning for Understanding Illegal Wildlife Trade in Vietnam| 
-| Sam Barnett| &nbsp;&nbsp;&nbsp;&nbsp;Machine Learning in the Multimodal Program        | 
+| Sam Barnett| &nbsp;&nbsp;&nbsp;&nbsp;The Genomics England Multimodal Research Environment for Medical Research        | 
+| Luigi A. Moretti| &nbsp;&nbsp;&nbsp;&nbsp;Optimising Treatment Pathways for Anxiety Disorders by Integrating Data from Diverse Sources and with Limited Labels in Affective Computing        | 
 | Mohammod Suvon| &nbsp;&nbsp;&nbsp;&nbsp;The Multimodal Lens: Understanding of Radiologists Visual Search Behavior Patterns        | 
 | Ning Ma | &nbsp;&nbsp;&nbsp;&nbsp;Obstructive Sleep Apnoea Screening with Breathing Sounds and Respiratory Effort: A Multimodal Deep Learning Approach| 
 | Felix Krones | &nbsp;&nbsp;&nbsp;&nbsp;Multimodal Data vs Digital Biomarkers in Cardiomegaly       | 
@@ -103,6 +104,7 @@ design:
 | Jiachen Luo | &nbsp;&nbsp;&nbsp;&nbsp;Cross-Modal Fusion Techniques for Emotion Recognition from Text and Speech |
 | Jingkun Chen | &nbsp;&nbsp;&nbsp;&nbsp;Semi-Supervised Unpaired Medical Image Segmentation Through Task-Affinity Consistency |
 | Lucia Cipolina-Kun | &nbsp;&nbsp;&nbsp;&nbsp;Diffusion Models for the Restoration of Cultural Heritage |
+| Luigi A. Moretti| &nbsp;&nbsp;&nbsp;&nbsp;Optimising Treatment Pathways for Anxiety Disorders by Integrating Data from Diverse Sources and with Limited Labels in Affective Computing        | 
 | Nitisha Jain | &nbsp;&nbsp;&nbsp;&nbsp;Semantic Interpretations of Multimodal Embeddings towards Explainable AI |
 | Prasun Tripathi | &nbsp;&nbsp;&nbsp;&nbsp;Tensor-based Multimodal Learning for Prediction of Pulmonary Arterial Wedge Pressure from Cardiac MRI |
 | Raja Omman Zafar | &nbsp;&nbsp;&nbsp;&nbsp;Digital Twin for Homecare |
