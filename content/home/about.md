@@ -15,7 +15,7 @@ design:
   css_style:
   css_class:
 ---
-<b> Join the Multimodal AI Community mailing list by [subscribing to our Google Group](https://groups.google.com/u/1/a/sheffield.ac.uk/g/multimodal-ai-community-group).</b>
+<b> Join the Multimodal AI Community mailing list by [subscribing to our Google Group](https://groups.google.com/a/sheffield.ac.uk/g/multimodal-ai-community-group).</b>
 
 <p style="text-align: justify;">
 Multimodal AI combines multiple types of data (image, text, audio, etc) via machine learning models and algorithms to achieve better performance. Multimodal AI is key for AI research and applications including healthcare, net zero, finance, robotics, and manufacturing. Multimodal AI in these areas is challenging due to the inherent complexity of data integration and the limited availability of labelled data. Unimodal AI for a single type of data input is maturing at an accelerating pace, thus creating vast opportunities for tackling multimodal AI challenges.
