@@ -16,7 +16,7 @@ design:
   css_class:
 ---
 <p style="color: purple; text-align: center; margin-bottom: 0px; font-weight: bold;">MultimodalAI'23 Photos Now Available! Click the photo to view and download!</p>
-<a href="https://drive.google.com/drive/folders/1ix9FGeld15jNNn8L_EBQSS1wBbt8lZC6?usp=drive_link">
+<a href="https://drive.google.com/drive/folders/1Mm3spa4EVAKJCJnoJpizEaP7MiP71o4Q?usp=sharing">
     <img src="media/group_photo.JPG" alt="Group Photo" style="display: block; margin-left: auto; margin-right: auto; width: 60%; margin-bottom: 15px;">
 </a>
 
