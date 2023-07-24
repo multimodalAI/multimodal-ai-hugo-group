@@ -25,4 +25,7 @@ main:
   - name: Contact Us
     url: '#contact'
     weight: 90
+  - name: Blog
+    url: 'https://medium.com/@haipinglu/imagine-multimodal-ai-7eb4ef47f2ab'
+    weight: 100
 
