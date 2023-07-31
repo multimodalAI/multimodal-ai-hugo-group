@@ -15,12 +15,6 @@ design:
   css_style:
   css_class:
 ---
-<p style="color: purple; text-align: center; margin-bottom: 0px; font-weight: bold;">MultimodalAI'23 Photos Now Available! Click the photo to view and download!</p>
-<a href="https://drive.google.com/drive/folders/1Mm3spa4EVAKJCJnoJpizEaP7MiP71o4Q?usp=sharing">
-    <img src="media/group_photo.JPG" alt="Group Photo" style="display: block; margin-left: auto; margin-right: auto; width: 60%; margin-bottom: 15px;">
-</a>
-
-<b> Join the Multimodal AI Community mailing list by [subscribing to our Google Group](https://groups.google.com/a/sheffield.ac.uk/g/multimodal-ai-community-group).</b>
 <p style="text-align: justify;">
 Multimodal AI combines multiple types of data (image, text, audio, etc) via machine learning models and algorithms to achieve better performance. Multimodal AI is key for AI research and applications including healthcare, net zero, finance, robotics, and manufacturing. Multimodal AI in these areas is challenging due to the inherent complexity of data integration and the limited availability of labelled data. Unimodal AI for a single type of data input is maturing at an accelerating pace, thus creating vast opportunities for tackling multimodal AI challenges.
 </p>

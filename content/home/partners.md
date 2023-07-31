@@ -3,7 +3,7 @@ title: Sponsors and Partners
 subtitle: 
 widget: blank
 headless: true
-weight: 60
+weight: 70
 design:
   columns: '1'
 ---

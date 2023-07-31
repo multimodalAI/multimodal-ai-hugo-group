@@ -7,7 +7,7 @@ widget: people
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 40
 
 title: Final Programme (In Person Only)
 subtitle: Tuesday, 27th June 2023
