@@ -26,9 +26,10 @@ main:
     url: '#direction'
     weight: 40
 
-  - name: About
-    url: '#about'
-    weight: 50
+  #- name: About
+    #url: '#about'
+    #weight: 50
+
   - name: "Past Events"
     url: '#'
     weight: 60
