@@ -15,7 +15,7 @@ design:
 
 content:
   slides:
-    - title: First Workshop on Multimodal AI
+    - title: The First Multimodal AI Research Sprint
       align: center
       background:
         position: right
@@ -23,22 +23,12 @@ content:
         brightness: 0.6
         media: slide.jpg
       content: >
-        <font size="" style="color: white !important;"> <i>With unimodal AI maturing, what new doors will multimodal AI open for us? </i></font> <br> <font size="3" style="color: white !important;">In Person on 27th June 2023, Sheffield S10 3ED</font>
+        <font size="" style="color: white !important;"> <i>With unimodal AI maturing, what new doors will multimodal AI open for us? </i></font> <br> <font size="3" style="color: white !important;">In Person on 22nd November 2023, The Alan Turing Institute, London</font>
         <div style="text-align: center;">
-          <a href="https://twitter.com/MultimodalAI_UK" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fab fa-twitter"></i> Follow Us</a> <a href="/media/MultimodalAI23_Programme.pdf" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;" download> <i class="fas fa-book"></i> Programme</a> <a href="https://medium.com/@haipinglu/imagine-multimodal-ai-7eb4ef47f2ab" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fas fa-pencil-alt"></i> Blog</a>
+          <a href="https://twitter.com/MultimodalAI_UK" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fab fa-twitter"></i> Follow Us</a>
         </div>
-    - title:
-      content:
-      align: left
-      background:
-        position: center
-        brightness: 1
-        media: slider2.svg
-    - title: Opportunities
-      content: Pitches and posters, four prizes - £150 each, and travel cost support
-      align: center
-      background:
-        position: center
-        brightness: 0.7
-        media: slider3.png
+
+#<a href="https://medium.com/@haipinglu/imagine-multimodal-ai-7eb4ef47f2ab" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fas fa-pencil-alt"></i> Blog</a>
+
+#<a href="/media/MultimodalAI23_Programme.pdf" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;" download> <i class="fas fa-book"></i> Programme</a> 
 ---

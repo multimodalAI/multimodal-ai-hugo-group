@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Shuo Zhou
+title: Xianyuan Liu
 
 # Username (this should match the folder name)
 authors:
-- shuo-zhou
+- xianyuan-liu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Order that this section appears on the page.
-weight: 20
+weight: 30
 
 # Role/position
-role: Deputy Head of AI Research Engineering, and Academic Fellow in Machine Learning
+role: Assistant Head of AI Research Engineering, and Senior AI Research Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -24,7 +24,8 @@ organizations:
 bio: 
 
 interests:
-- Machine Learning for Healthcare
+- Video Domain Adaptation
+- Machine Learning
 - AI Engineering
 
 # Social/Academic Networking
@@ -36,9 +37,8 @@ interests:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Team
-- Principal Investigators
 ---
 
-Shuo is an Academic Fellow in Machine Learning at the Machine Learning Research Group, Department of Computer Science, and Deputy Head of AI Research Engineering at the Centre for Machine Intelligence, University of Sheffield. 
+Xianyuan is an Assistant Head of AI Research Engineering at the Centre for Machine Intelligence and Senior AI Research Engineer at the University of Sheffield. 
 
-He received his Ph.D. degree in Computer Science and his Master's degree in Advanced Computer Science from the University of Sheffield, in 2022 and 2017, respectively. See his [homepage](https://shuo-zhou.github.io/) for more information.
+He received his Ph.D. degree in Signal and Information Processing from the University of Chinese Academy of Sciences, China, in 2023. Prior to that, he received his Bachelor’s degree in Measuring Control Technology and Instruments from Southeast University, China, in 2016. See his [homepage](https://xianyuanliu.github.io/) and [LinkedIn](https://www.linkedin.com/in/xianyuanliu/) for more information.

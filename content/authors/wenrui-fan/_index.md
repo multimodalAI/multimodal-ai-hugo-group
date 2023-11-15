@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Mohammod Suvon
+title: Wenrui Fan
 
 # Username (this should match the folder name)
 authors:
-- mohammod-suvon
+- wenrui-fan
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,9 +21,11 @@ organizations:
 bio: 
 
 interests:
-- Multimodal Learning
+- Multi-modality
 - Meta-Learning
-- Natural Language Processing
+- Self-supervised Learning
+- Causality
+- Computer Vision
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -34,8 +36,8 @@ interests:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Team
-- Visitors
 ---
-Mohammod Suvon is an AI Research Engineer (AIRE) at the University of Sheffield, under the lead of [Prof. Haiping Lu](https://haipinglu.github.io). 
 
-He received his Master's degree in Computer Science with Speech and Language Processing from the University of Sheffield in 2022. Prior to that, he received Bachelor’s degree in Computer Science and Engineering from North South University, Bangladesh, in 2020. See his [LinkedIn](https://www.linkedin.com/in/md-naimul/) for more information.
+Wenrui Fan is an AI Research Engineer (AIRE) at the University of Sheffield, under the lead of [Prof. Haiping Lu](https://haipinglu.github.io). 
+
+He received his Master's degree in Robotics from the University of Sheffield in 2022. Prior to that, he received Bachelor’s degree in Flight Vehicle Design from Beijing Institute of Technology, China, in 2021. See his [homepage](https://wenruifan.github.io/) and [LinkedIn](https://www.linkedin.com/in/wenrui-fan-a7b68b290/) for more information. 

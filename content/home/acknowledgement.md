@@ -5,7 +5,7 @@
 widget: blank
 headless: true # This file represents a page section.
 
-weight: 10 # Order that this section will appear.
+weight: 50 # Order that this section will appear.
 title:
 hero_media: 
 design:
@@ -15,5 +15,6 @@ design:
   css_style:
   css_class:
 ---
-<center><h1>Who We Are</h1></center>
+<center><h1>Acknowledgement</h1></center>
 
+This event is brought to you by the Turing Interest Group on Meta-Learning for Multimodal Data (welcome to sign up) and the Multimodal AI Community (welcome to subscribe to our Google Group) supported by the Centre for Machine Intelligence at the University of Sheffield.

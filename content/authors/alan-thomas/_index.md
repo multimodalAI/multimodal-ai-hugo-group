@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Mohammod Suvon
+title: Alan Thomas
 
 # Username (this should match the folder name)
 authors:
-- mohammod-suvon
+- alan-thomas
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,8 +21,8 @@ organizations:
 bio: 
 
 interests:
-- Multimodal Learning
-- Meta-Learning
+- Generative AI
+- Foundation models 
 - Natural Language Processing
 
 # Social/Academic Networking
@@ -34,8 +34,7 @@ interests:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Team
-- Visitors
 ---
-Mohammod Suvon is an AI Research Engineer (AIRE) at the University of Sheffield, under the lead of [Prof. Haiping Lu](https://haipinglu.github.io). 
+Alan is an AI Research Engineer (AIRE) at the University of Sheffield, under the lead of [Prof. Haiping Lu](https://haipinglu.github.io).
 
-He received his Master's degree in Computer Science with Speech and Language Processing from the University of Sheffield in 2022. Prior to that, he received Bachelor’s degree in Computer Science and Engineering from North South University, Bangladesh, in 2020. See his [LinkedIn](https://www.linkedin.com/in/md-naimul/) for more information.
+He received his Master's degree in Computer Science from the University of Manchester. His research focuses on the application of generative AI and foundation models across textual, visual, audio and spatial data types.

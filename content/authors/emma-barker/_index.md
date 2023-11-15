@@ -39,4 +39,5 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Principal Investigators
+  - Team
 ---

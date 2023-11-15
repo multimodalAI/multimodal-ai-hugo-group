@@ -13,79 +13,33 @@ superuser: true
 weight: 10
 
 # Role/position
-role: Professor of Machine Learning, and Head of AI Research Engineering, University of Sheffield & Turing Academic Lead, Alan Turing Institute
+role: Head of AI Research Engineering, Professor of Machine Learning, and Turing Academic Lead
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url:
+- name: The University of Sheffield
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
-
-# education:
-#   courses:
-#   - course: PhD in Artificial Intelligence
-#     institution: Stanford University
-#     year: 2012
-#   - course: MEng in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2009
-#   - course: BSc in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2008
+  
+interests:
+- Translational AI Technologies
+- Multimodal Learning
+- Healthcare Applications
+- Multidimensional Data Analysis
+- Bioinformatics
+- Medical Imaging
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:h.lu@sheffield.ac.uk
-- icon: linkedin
-  icon_pack: fab
-  link: https://uk.linkedin.com/in/haiping-lu-4821206
-- icon: github
-  icon_pack: fab
-  link: https://github.com/haipinglu
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=CArrsDMAAAAJ
-- icon: youtube
-  icon_pack: fab
-  link: https://www.youtube.com/c/haipinglu//videos  
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/haipinglu
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+- Team
+- Principal Investigators
 ---
 
-<p style="text-align:justify">
-Dr. Haiping Lu is a Professor of Machine Learning, and serves as the Head of AI Research Engineering, and AI Strategy Lead in the Department of Computer Science at the University of Sheffield. He extends his influence as the Turing Academic Lead and <a href="https://www.sheffield.ac.uk/insigneo">Insigneo</a> Research Director for Healthcare Data / AI, highlighting his expertise in the cross-section of AI and healthcare.
-</p>
+Haiping is the Head of AI Research Engineering, a Professor of Machine Learning and AI Strategy Lead at the Department of Computer Science, the Turing Academic Lead, and Insigneo Research Director for Healthcare Data / AI, at the University of Sheffield. He is also the Machine Learning Theme Lead for Sheffield in the N8 Centre of Excellence in Computationally Intensive Research and the lead organiser of the Alan Turing Institute’s interest group on Meta-learning for multimodal data. 
 
-<p style="text-align:justify">
-In addition to his commitments at the University of Sheffield, Haiping is the Machine Learning Theme Lead at the <a href="https://n8cir.org.uk/">N8 Centre of Excellence in Computationally Intensive Research</a>, asserting Sheffield's prominence in the domain of machine learning. He is also the lead organiser of the <a href="https://www.turing.ac.uk/">Alan Turing Institute’s</a> interest group on Meta-learning for multimodal data, encouraging wide-ranging participation and collaboration.
-</p>
-
-<p style="text-align:justify">
-Further showcasing his dedication to responsible AI education, Haiping leads the development of a course titled <a href="https://pykale.github.io/transparentML/">An Introduction to Transparent Machine Learning</a>. This course is a vital part of the Alan Turing Institute’s online learning suite focused on responsible AI.
-</p>
+He received his Ph.D. degree in Electrical and Computer Engineering from the University of Toronto, Canada, in 2008. Prior to that, he received his Bachlor's and Master's degrees in Electrical and Electronics Engineering from Nanyang Technological University, Singapore, in 2001 and 2004, respectively. See his [homepage](https://haipinglu.github.io/) for more information.

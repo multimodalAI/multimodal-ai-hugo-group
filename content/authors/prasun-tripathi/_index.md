@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Shuo Zhou
+title: Prasun Tripathi
 
 # Username (this should match the folder name)
 authors:
-- shuo-zhou
+- prasun-tripathi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Order that this section appears on the page.
-weight: 20
+weight: 40
 
 # Role/position
-role: Deputy Head of AI Research Engineering, and Academic Fellow in Machine Learning
+role: Senior AI Research Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -24,8 +24,9 @@ organizations:
 bio: 
 
 interests:
-- Machine Learning for Healthcare
-- AI Engineering
+- Medical Image Analysis
+- Machine Learning
+- Computer Vision
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -36,9 +37,8 @@ interests:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Team
-- Principal Investigators
 ---
 
-Shuo is an Academic Fellow in Machine Learning at the Machine Learning Research Group, Department of Computer Science, and Deputy Head of AI Research Engineering at the Centre for Machine Intelligence, University of Sheffield. 
+Prasun will commence his role as a Senior AI Research Engineer in October 2023. Prior to this, he served as a Postdoctoral Research Associate at the University of Sheffield, from July 2022 to September 2023, under the lead of [Prof. Haiping Lu](https://haipinglu.github.io). He worked on a Wellcome Trust project for the diagnosis, prognosis, and treatment assessment of cardiovascular diseases from cardiac MRI. 
 
-He received his Ph.D. degree in Computer Science and his Master's degree in Advanced Computer Science from the University of Sheffield, in 2022 and 2017, respectively. See his [homepage](https://shuo-zhou.github.io/) for more information.
+He received his Ph.D. degree in Computer Science from Indian Institute of Technology, Dhanbad, in 2022. See his [LinkedIn](https://www.linkedin.com/in/prasun-tripathi-a20a932a/) for more information.

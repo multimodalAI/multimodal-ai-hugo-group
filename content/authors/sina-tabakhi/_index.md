@@ -44,6 +44,7 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Principal Investigators
+- Team
 ---
 
 <p style="text-align:justify">
