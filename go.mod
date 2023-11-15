@@ -1,6 +1,6 @@
 module github.com/wowchemy/starter-hugo-research-group
 
-go 1.21.4
+go 1.23
 
 require (
 	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify v1.0.0 // indirect
