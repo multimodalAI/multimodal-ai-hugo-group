@@ -10,9 +10,9 @@ main:
   - name: Programme
     url: '#programme'
     weight: 30
-  - name: MultimodalAI'23
-    url: mlai
-    weight: 110
+  #- name: MultimodalAI'23
+    #url: mlai
+    #weight: 110
   #- name: Registration
     #url: 'https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/faculty-of-engineering/first-workshop-on-multimodal-ai'
     #weight: 80
@@ -22,4 +22,11 @@ main:
   - name: Blog
     url: 'https://medium.com/@haipinglu/imagine-multimodal-ai-7eb4ef47f2ab'
     weight: 100
+  - name: "Past Events"
+    url: '#'
+    weight: 100
+  - name: "MultimodalAI'23"
+    parent: "Past Events"  # Parent name must match exactly
+    url: mlai
+    weight: 1
 
