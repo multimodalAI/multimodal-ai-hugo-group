@@ -23,7 +23,7 @@ main:
     weight: 30
 
   - name: Direction
-    url: '#contact'
+    url: '#direction'
     weight: 40
 
   - name: About
