@@ -5,7 +5,7 @@
 widget: blank
 headless: true # This file represents a page section.
 
-weight: 50 # Order that this section will appear.
+weight: 60 # Order that this section will appear.
 title:
 hero_media: 
 design:

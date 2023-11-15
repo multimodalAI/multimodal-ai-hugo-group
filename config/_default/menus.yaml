@@ -4,27 +4,35 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: About
-    url: '#about'
+  - name: Current Event
+    url: '#'
     weight: 10
+
   - name: Programme
     url: '#programme'
-    weight: 30
+    weight: 20
   #- name: MultimodalAI'23
     #url: mlai
     #weight: 110
   #- name: Registration
     #url: 'https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/faculty-of-engineering/first-workshop-on-multimodal-ai'
     #weight: 80
+
   - name: Contact Us
     url: '#contact'
-    weight: 90
-  - name: Blog
-    url: 'https://medium.com/@haipinglu/imagine-multimodal-ai-7eb4ef47f2ab'
-    weight: 100
+    weight: 30
+
+  - name: Direction
+    url: '#contact'
+    weight: 40
+
+  - name: About
+    url: '#about'
+    weight: 50
   - name: "Past Events"
     url: '#'
-    weight: 100
+    weight: 60
+
   - name: "MultimodalAI'23"
     parent: "Past Events"  # Parent name must match exactly
     url: mlai
