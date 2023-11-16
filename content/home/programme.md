@@ -45,33 +45,32 @@ design:
 
 <p style="font-size: 24px; font-weight: bold;">Pitches</p>
 
-| Name           | &nbsp;&nbsp;&nbsp;&nbsp;Title                                                                                                                                                             |
-|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Peter Charlton | &nbsp;&nbsp;&nbsp;&nbsp;Using multimodal AI to diagnose atrial fibrillation from smart wearables|
-| Nitisha Jain   | &nbsp;&nbsp;&nbsp;&nbsp;Semantic Interpretations of Multimodal Embeddings towards Explainable AI|
-| Cyndie	Demeocq       | &nbsp;&nbsp;&nbsp;&nbsp;Data annotation and curation for multimodal methods in online crime detection systems                                                                                | 
-| Ruizhe	Li        | &nbsp;&nbsp;&nbsp;&nbsp;Sound Decisions: Fusing Acoustic Data into LLMs for Noise-Robust Speech Recognition                                                                          | 
-| Chris	Tomlinson  | &nbsp;&nbsp;&nbsp;&nbsp;graphICM: graph and semantic representation learning for critical illness aetiology                                                                                                            | 
-| Lucas	Farndale   | &nbsp;&nbsp;&nbsp;&nbsp;Super Vision Without Supervision: Self-Supervised Multimodal Privileged Information Integration for Enhanced Biomedical Imaging                                                                                                    | 
-| Salah (Sam)	Hammouche  | &nbsp;&nbsp;&nbsp;&nbsp;Beyond Compliance in AI Evaluation & Federated Learning                                                                                                   | 
-| Pin	Ni  | &nbsp;&nbsp;&nbsp;&nbsp;Financial multi-modal fusion and learning                                                                                                  | 
-| Lucia	Cipolina-Kun  | &nbsp;&nbsp;&nbsp;&nbsp;Diffusion models for the restoration of cultural heritage                                                                                          | 
-| Greg	Slabaugh  | &nbsp;&nbsp;&nbsp;&nbsp;Multimodal AI for Multi'omics Data Integration in Healthcare                                                                                          | 
-| Thijs	van der Plas | &nbsp;&nbsp;&nbsp;&nbsp;Biodiversity monitoring                                                                                          | 
-| Arunav	Das  | &nbsp;&nbsp;&nbsp;&nbsp;Multimodal Knowledge Graph based Question Answering system                                                                                           | 
-| Emmanouil	Benetos  | &nbsp;&nbsp;&nbsp;&nbsp;Audio-language representation learning                                                                                         | 
-| Avish	Vijayaraghavan  | &nbsp;&nbsp;&nbsp;&nbsp;Interpretable Multi-Modal Learning for Clinical Multi-Omics                                                                                          | 
-| Owen	Rackham  | &nbsp;&nbsp;&nbsp;&nbsp;Multimodal data in cell and molecular medicine                                                                                          | 
-| Roger	Moore  | &nbsp;&nbsp;&nbsp;&nbsp;Vocal interactivity in a multimodal context: pragmatic, synchronic and energetic constraints                                                                                          | 
-| Luigi	Moretti  | &nbsp;&nbsp;&nbsp;&nbsp;Can MultimodalAI be effectively implemented to help treat Anxiety Disorders?                                                                                          | 
-| Jinge	Wu  | &nbsp;&nbsp;&nbsp;&nbsp;Facilitating factual checking on radiology reports using multimodal benchmark datasets                                                                                          | 
-| Marta	Varela  | &nbsp;&nbsp;&nbsp;&nbsp;Physics-Informed Neural Networks                                                                                          | 
-| Oya	Celiktutan  | &nbsp;&nbsp;&nbsp;&nbsp;Multimodal Behavioural AI for Human-Robot Interaction                                                                                          | 
-| Yuhan	Wang  | &nbsp;&nbsp;&nbsp;&nbsp;Explainable Alzheimer Disease Early Detection Framework Based on Multi-Modal Clinical Data                                                                                          | 
-| Valentin	Danchev | &nbsp;&nbsp;&nbsp;&nbsp;Data Governance and Responsible Sharing of Multimodal Data for AI Research                                                                                          | 
-| Alejandro	Coca-Castro  | &nbsp;&nbsp;&nbsp;&nbsp;Environmental Data Modalities: Challenges and Opportunities                                                                                          | 
-| Chen	Chen  | &nbsp;&nbsp;&nbsp;&nbsp;Towards Responsible AI in Healthcare: Enhancing Generalizability, Robustness, Explainability, and Fairness with Multi-modality Data                                                                                      | 
-| Mohammod	Suvon  | &nbsp;&nbsp;&nbsp;&nbsp;Multimodal Cardiothoracic Disease Prediction                                                                                          | 
-
+| Name               | &nbsp;&nbsp;&nbsp;&nbsp;Title                                                                                   |
+|--------------------|-----------------------------------------------------------------------------------------|
+| Peter Charlton    | &nbsp;&nbsp;&nbsp;&nbsp;Using multimodal AI to diagnose atrial fibrillation from smart wearables                |
+| Yuhan Wang        | &nbsp;&nbsp;&nbsp;&nbsp;Explainable Alzheimer Disease Early Detection Framework Based on Multi-Modal Clinical Data |
+| Mohammod Suvon    | &nbsp;&nbsp;&nbsp;&nbsp;Multimodal Cardiothoracic Disease Prediction                                             |
+| Chris Tomlinson   | &nbsp;&nbsp;&nbsp;&nbsp;graphICM: graph and semantic representation learning for critical illness aetiology     |
+| Avish Vijayaraghavan | &nbsp;&nbsp;&nbsp;&nbsp;Interpretable Multi-Modal Learning for Clinical Multi-Omics                             |
+| Luigi Moretti     | &nbsp;&nbsp;&nbsp;&nbsp;Can MultimodalAI be effectively implemented to help treat Anxiety Disorders?            |
+| Lucas Farndale    | &nbsp;&nbsp;&nbsp;&nbsp;Super Vision Without Supervision: Self-Supervised Multimodal Privileged Information Integration for Enhanced Biomedical Imaging |
+| Jinge Wu          | &nbsp;&nbsp;&nbsp;&nbsp;Facilitating factual checking on radiology reports using multimodal benchmark datasets  |
+| Greg Slabaugh     | &nbsp;&nbsp;&nbsp;&nbsp;Multimodal AI for Multi'omics Data Integration in Healthcare                            |
+| Chen Chen         | &nbsp;&nbsp;&nbsp;&nbsp;Towards Responsible AI in Healthcare: Enhancing Generalizability, Robustness, Explainability, and Fairness with Multi-modality Data |
+| Owen Rackham      | &nbsp;&nbsp;&nbsp;&nbsp;Multimodal data in cell and molecular medicine                                          |
+| Marta Varela      | &nbsp;&nbsp;&nbsp;&nbsp;Physics-Informed Neural Networks                                                        |
+| Oya Celiktutan    | &nbsp;&nbsp;&nbsp;&nbsp;Multimodal Behavioural AI for Human-Robot Interaction                                   |
+| Nitisha Jain      | &nbsp;&nbsp;&nbsp;&nbsp;Semantic Interpretations of Multimodal Embeddings towards Explainable AI                |
+| Roger Moore       | &nbsp;&nbsp;&nbsp;&nbsp;Vocal interactivity in a multimodal context: pragmatic, synchronic and energetic constraints |
+| Ruizhe Li         | &nbsp;&nbsp;&nbsp;&nbsp;Hearing Lips in Noise: Fusing Acoustic and Visual Data for Noise-Robust Speech Recognition |
+| Emmanouil Benetos | &nbsp;&nbsp;&nbsp;&nbsp;Audio-language representation learning                                                   |
+| Cyndie Demeocq    | &nbsp;&nbsp;&nbsp;&nbsp;Data annotation and curation for multimodal methods in online crime detection systems   |
+| Valentin Danchev  | &nbsp;&nbsp;&nbsp;&nbsp;Data Governance and Responsible Sharing of Multimodal Data for AI Research              |
+| Salah (Sam) Hammouche | &nbsp;&nbsp;&nbsp;&nbsp;Beyond Compliance in AI Evaluation & Federated Learning                                 |
+| Lucia Cipolina-Kun | &nbsp;&nbsp;&nbsp;&nbsp;Diffusion models for the restoration of cultural heritage                               |
+| Pin Ni            | &nbsp;&nbsp;&nbsp;&nbsp;Financial multi-modal fusion and learning                                               |
+| Arunav Das        | &nbsp;&nbsp;&nbsp;&nbsp;Multimodal Knowledge Graph based Question Answering system                              |
+| Thijs van der Plas | &nbsp;&nbsp;&nbsp;&nbsp;Biodiversity monitoring                                                                 |
+| Alejandro Coca-Castro | &nbsp;&nbsp;&nbsp;&nbsp;Environmental Data Modalities: Challenges and Opportunities                             |
 
 </center>
