@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Tentative Programme (In Person Only)
+title: Final Programme (In Person Only)
 subtitle: Wednesday, 22nd November 2023
 
 content:
@@ -29,15 +29,27 @@ design:
 ---
 <center>
 
-| Time          | &nbsp;&nbsp;&nbsp;&nbsp;Event                                 |
-|---------------|---------------------------------------------------------------|
-| 10:00 - 10:15 | &nbsp;&nbsp;&nbsp;&nbsp;Welcome and Introduction - Haiping Lu & Xianyuan Liu             |
-| 10:15 - 11:30 | &nbsp;&nbsp;&nbsp;&nbsp;Pitch Session                         |
-| 11:45 - 12:15 | &nbsp;&nbsp;&nbsp;&nbsp;Breakout Session 1                           |
-| 12:15 - 12:45 | &nbsp;&nbsp;&nbsp;&nbsp;Breakout reflection and consolidation                  |
-| 12:45 - 13:30 | &nbsp;&nbsp;&nbsp;&nbsp;Lunch (provided) |
-| 13:30 - 15:30 | &nbsp;&nbsp;&nbsp;&nbsp;Breakout session 2                      |
-| 15:30 - 16:00 | &nbsp;&nbsp;&nbsp;&nbsp;Consolidation and Next Steps          |
+| Time          | &nbsp;&nbsp;&nbsp;&nbsp;Event                                | &nbsp;&nbsp;&nbsp;&nbsp;Location |     
+|---------------|--------------------------------------------------------------|----------------------------------|
+| 10:00 - 10:15 | &nbsp;&nbsp;&nbsp;&nbsp;Welcome and Introduction - Haiping Lu & Xianyuan Liu            | &nbsp;&nbsp;&nbsp;&nbsp;Enigma    |
+| 10:15 - 11:30 | &nbsp;&nbsp;&nbsp;&nbsp;Pitch Session                        | &nbsp;&nbsp;&nbsp;&nbsp;Enigma   |
+| 11:45 - 12:15 | &nbsp;&nbsp;&nbsp;&nbsp;Breakout Session 1                          |   |
+||&nbsp;&nbsp;&nbsp;&nbsp;Healthcare and medicine|&nbsp;&nbsp;&nbsp;&nbsp;Enigma|
+||&nbsp;&nbsp;&nbsp;&nbsp;Engineering|&nbsp;&nbsp;&nbsp;&nbsp;Margaret Hamilton (12)|
+||&nbsp;&nbsp;&nbsp;&nbsp;Social science and humanities|&nbsp;&nbsp;&nbsp;&nbsp;David Blackwell (8)|
+||&nbsp;&nbsp;&nbsp;&nbsp;Science|&nbsp;&nbsp;&nbsp;&nbsp;Jack Good (8)|
+||&nbsp;&nbsp;&nbsp;&nbsp;Finance and economics|&nbsp;&nbsp;&nbsp;&nbsp;Mae Jemison (7)|
+||&nbsp;&nbsp;&nbsp;&nbsp;Environment and sustainability|&nbsp;&nbsp;&nbsp;&nbsp;Cipher (7)|
+| 12:15 - 12:45 | &nbsp;&nbsp;&nbsp;&nbsp;Breakout reflection and consolidation                 | &nbsp;&nbsp;&nbsp;&nbsp;Enigma    |
+| 12:45 - 13:30 | &nbsp;&nbsp;&nbsp;&nbsp;Lunch (provided) | &nbsp;&nbsp;&nbsp;&nbsp;Enigma    |
+| 13:30 - 15:30 | &nbsp;&nbsp;&nbsp;&nbsp;Breakout session 2                     |    |
+||&nbsp;&nbsp;&nbsp;&nbsp;Healthcare and medicine|&nbsp;&nbsp;&nbsp;&nbsp;Enigma|
+||&nbsp;&nbsp;&nbsp;&nbsp;Engineering|&nbsp;&nbsp;&nbsp;&nbsp;Margaret Hamilton (12)|
+||&nbsp;&nbsp;&nbsp;&nbsp;Social science and humanities|&nbsp;&nbsp;&nbsp;&nbsp;David Blackwell (8)|
+||&nbsp;&nbsp;&nbsp;&nbsp;Science|&nbsp;&nbsp;&nbsp;&nbsp;Jack Good (8)|
+||&nbsp;&nbsp;&nbsp;&nbsp;Finance and economics|&nbsp;&nbsp;&nbsp;&nbsp;Enigma|
+||&nbsp;&nbsp;&nbsp;&nbsp;Environment and sustainability|&nbsp;&nbsp;&nbsp;&nbsp;Enigma|
+| 15:30 - 16:00 | &nbsp;&nbsp;&nbsp;&nbsp;Consolidation and Next Steps         | &nbsp;&nbsp;&nbsp;&nbsp;Enigma    |
 </center>
 
 <center>
@@ -56,16 +68,13 @@ design:
 | Jinge Wu          | &nbsp;&nbsp;&nbsp;&nbsp;Facilitating factual checking on radiology reports using multimodal benchmark datasets  |
 | Greg Slabaugh     | &nbsp;&nbsp;&nbsp;&nbsp;Multimodal AI for Multi'omics Data Integration in Healthcare                            |
 | Chen Chen         | &nbsp;&nbsp;&nbsp;&nbsp;Towards Responsible AI in Healthcare: Enhancing Generalizability, Robustness, Explainability, and Fairness with Multi-modality Data |
-| Owen Rackham      | &nbsp;&nbsp;&nbsp;&nbsp;Multimodal data in cell and molecular medicine                                          |
 | Marta Varela      | &nbsp;&nbsp;&nbsp;&nbsp;Physics-Informed Neural Networks                                                        |
 | Oya Celiktutan    | &nbsp;&nbsp;&nbsp;&nbsp;Multimodal Behavioural AI for Human-Robot Interaction                                   |
 | Nitisha Jain      | &nbsp;&nbsp;&nbsp;&nbsp;Semantic Interpretations of Multimodal Embeddings towards Explainable AI                |
 | Roger Moore       | &nbsp;&nbsp;&nbsp;&nbsp;Vocal interactivity in a multimodal context: pragmatic, synchronic and energetic constraints |
 | Ruizhe Li         | &nbsp;&nbsp;&nbsp;&nbsp;Hearing Lips in Noise: Fusing Acoustic and Visual Data for Noise-Robust Speech Recognition |
-| Emmanouil Benetos | &nbsp;&nbsp;&nbsp;&nbsp;Audio-language representation learning                                                   |
 | Cyndie Demeocq    | &nbsp;&nbsp;&nbsp;&nbsp;Data annotation and curation for multimodal methods in online crime detection systems   |
 | Valentin Danchev  | &nbsp;&nbsp;&nbsp;&nbsp;Data Governance and Responsible Sharing of Multimodal Data for AI Research              |
-| Salah (Sam) Hammouche | &nbsp;&nbsp;&nbsp;&nbsp;Beyond Compliance in AI Evaluation & Federated Learning                                 |
 | Lucia Cipolina-Kun | &nbsp;&nbsp;&nbsp;&nbsp;Diffusion models for the restoration of cultural heritage                               |
 | Pin Ni            | &nbsp;&nbsp;&nbsp;&nbsp;Financial multi-modal fusion and learning                                               |
 | Arunav Das        | &nbsp;&nbsp;&nbsp;&nbsp;Multimodal Knowledge Graph based Question Answering system                              |
