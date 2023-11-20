@@ -31,13 +31,12 @@ design:
 
 | Time          | &nbsp;&nbsp;&nbsp;&nbsp;Event                                 |
 |---------------|---------------------------------------------------------------|
-| 10:00 - 10:15 | &nbsp;&nbsp;&nbsp;&nbsp;Welcome and Introduction              |
-| 10:15 - 11:00 | &nbsp;&nbsp;&nbsp;&nbsp;Pitch Session                         |
-| 11:00 - 11:15 | &nbsp;&nbsp;&nbsp;&nbsp;Coffee Break                          |
-| 11:15 - 12:00 | &nbsp;&nbsp;&nbsp;&nbsp;Breakout Session 1                    |
-| 12:00 - 12:30 | &nbsp;&nbsp;&nbsp;&nbsp;Breakout Reflection and Consolidation |
-| 12:30 - 13:30 | &nbsp;&nbsp;&nbsp;&nbsp;Lunch (provided)                      |
-| 13:30 - 15:30 | &nbsp;&nbsp;&nbsp;&nbsp;Breakout Session 2                    |
+| 10:00 - 10:15 | &nbsp;&nbsp;&nbsp;&nbsp;Welcome and Introduction - Haiping Lu & Xianyuan Liu             |
+| 10:15 - 11:30 | &nbsp;&nbsp;&nbsp;&nbsp;Pitch Session                         |
+| 11:45 - 12:15 | &nbsp;&nbsp;&nbsp;&nbsp;Breakout Session 1                           |
+| 12:15 - 12:45 | &nbsp;&nbsp;&nbsp;&nbsp;Breakout reflection and consolidation                  |
+| 12:45 - 13:30 | &nbsp;&nbsp;&nbsp;&nbsp;Lunch (provided) |
+| 13:30 - 15:30 | &nbsp;&nbsp;&nbsp;&nbsp;Breakout session 2                      |
 | 15:30 - 16:00 | &nbsp;&nbsp;&nbsp;&nbsp;Consolidation and Next Steps          |
 </center>
 
