@@ -23,7 +23,7 @@ content:
         brightness: 0.6
         media: slide.jpg
       content: >
-        <font size="" style="color: white !important;"> <i>With unimodal AI maturing, what new doors will multimodal AI open for us? </i></font> <br> <font size="3" style="color: white !important;">In Person on 22nd November 2023, The Alan Turing Institute, London</font>
+        <font size="" style="color: white !important;"> <i>Exploring Multimodal AI: Data and Problem-Solving beyond Vision and Language </i></font> <br> <font size="3" style="color: white !important;">In Person on 22nd November 2023, The Alan Turing Institute, London</font>
         <div style="text-align: center;">
           <a href="https://twitter.com/MultimodalAI_UK" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fab fa-twitter"></i> Follow Us</a>
         </div>
