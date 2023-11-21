@@ -29,28 +29,28 @@ design:
 ---
 <center>
 
-| Time          | &nbsp;&nbsp;&nbsp;&nbsp;Event                                | &nbsp;&nbsp;&nbsp;&nbsp;Location |     
-|---------------|--------------------------------------------------------------|----------------------------------|
-| 10:00 - 10:15 | &nbsp;&nbsp;&nbsp;&nbsp;Welcome and Introduction - Haiping Lu & Xianyuan Liu            | &nbsp;&nbsp;&nbsp;&nbsp;Enigma    |
-| 10:15 - 11:30 | &nbsp;&nbsp;&nbsp;&nbsp;Pitch Session                        | &nbsp;&nbsp;&nbsp;&nbsp;Enigma   |
-| 11:30 - 11:45 | &nbsp;&nbsp;&nbsp;&nbsp;Coffee break                        | &nbsp;&nbsp;&nbsp;&nbsp;Enigma   |
-| 11:45 - 12:15 | &nbsp;&nbsp;&nbsp;&nbsp;Breakout Session 1                          |   |
-|               |&nbsp;&nbsp;&nbsp;&nbsp;Healthcare and medicine|&nbsp;&nbsp;&nbsp;&nbsp;Enigma|
-|               |&nbsp;&nbsp;&nbsp;&nbsp;Engineering|&nbsp;&nbsp;&nbsp;&nbsp;Margaret Hamilton (12)|
-|               |&nbsp;&nbsp;&nbsp;&nbsp;Social science and humanities|&nbsp;&nbsp;&nbsp;&nbsp;David Blackwell (8)|
-|               |&nbsp;&nbsp;&nbsp;&nbsp;Science|&nbsp;&nbsp;&nbsp;&nbsp;Jack Good (8)|
-|               |&nbsp;&nbsp;&nbsp;&nbsp;Finance and economics|&nbsp;&nbsp;&nbsp;&nbsp;Mae Jemison (7)|
-|               |&nbsp;&nbsp;&nbsp;&nbsp;Environment and sustainability|&nbsp;&nbsp;&nbsp;&nbsp;Cipher (7)|
-| 12:15 - 12:45 | &nbsp;&nbsp;&nbsp;&nbsp;Breakout reflection and consolidation                 | &nbsp;&nbsp;&nbsp;&nbsp;Enigma    |
-| 12:45 - 13:30 | &nbsp;&nbsp;&nbsp;&nbsp;Lunch (provided) | &nbsp;&nbsp;&nbsp;&nbsp;Enigma    |
-| 13:30 - 15:30 | &nbsp;&nbsp;&nbsp;&nbsp;Breakout session 2                     |    |
-|               |&nbsp;&nbsp;&nbsp;&nbsp;Healthcare and medicine|&nbsp;&nbsp;&nbsp;&nbsp;Enigma|
-|               |&nbsp;&nbsp;&nbsp;&nbsp;Engineering|&nbsp;&nbsp;&nbsp;&nbsp;Margaret Hamilton (12)|
-|               |&nbsp;&nbsp;&nbsp;&nbsp;Social science and humanities|&nbsp;&nbsp;&nbsp;&nbsp;David Blackwell (8)|
-|               |&nbsp;&nbsp;&nbsp;&nbsp;Science|&nbsp;&nbsp;&nbsp;&nbsp;Jack Good (8)|
-|               |&nbsp;&nbsp;&nbsp;&nbsp;Finance and economics|&nbsp;&nbsp;&nbsp;&nbsp;Enigma|
-|               |&nbsp;&nbsp;&nbsp;&nbsp;Environment and sustainability|&nbsp;&nbsp;&nbsp;&nbsp;Enigma|
-| 15:30 - 16:00 | &nbsp;&nbsp;&nbsp;&nbsp;Consolidation and Next Steps         | &nbsp;&nbsp;&nbsp;&nbsp;Enigma    |
+| Time          | &nbsp;&nbsp;&nbsp;&nbsp;Event                                | &nbsp;&nbsp;&nbsp;&nbsp;Location               |     
+|---------------|--------------------------------------------------------------|------------------------------------------------|
+| 10:00 - 10:15 | &nbsp;&nbsp;&nbsp;&nbsp;Welcome and Introduction - Haiping Lu & Xianyuan Liu            | &nbsp;&nbsp;&nbsp;&nbsp;Enigma                 |
+| 10:15 - 11:30 | &nbsp;&nbsp;&nbsp;&nbsp;Pitch Session                        | &nbsp;&nbsp;&nbsp;&nbsp;Enigma (45)            |
+| 11:30 - 11:45 | &nbsp;&nbsp;&nbsp;&nbsp;Coffee break                        | &nbsp;&nbsp;&nbsp;&nbsp;Enigma (45)                 |
+| 11:45 - 12:15 | &nbsp;&nbsp;&nbsp;&nbsp;Breakout Session 1                          |                                                |
+|               |&nbsp;&nbsp;&nbsp;&nbsp;Healthcare and medicine| &nbsp;&nbsp;&nbsp;&nbsp;Enigma (45)                 |
+|               |&nbsp;&nbsp;&nbsp;&nbsp;Engineering| &nbsp;&nbsp;&nbsp;&nbsp;David Blackwell (8)  |
+|               |&nbsp;&nbsp;&nbsp;&nbsp;Social science and humanities| &nbsp;&nbsp;&nbsp;&nbsp;Mae Jemison (7)    |
+|               |&nbsp;&nbsp;&nbsp;&nbsp;Science| &nbsp;&nbsp;&nbsp;&nbsp;Jack Good (8)          |
+|               |&nbsp;&nbsp;&nbsp;&nbsp;Finance and economics| &nbsp;&nbsp;&nbsp;&nbsp;Cipher (7)        |
+|               |&nbsp;&nbsp;&nbsp;&nbsp;Environment and sustainability| &nbsp;&nbsp;&nbsp;&nbsp;Florence Nightingale (6)             |
+| 12:15 - 12:45 | &nbsp;&nbsp;&nbsp;&nbsp;Breakout reflection and consolidation                 | &nbsp;&nbsp;&nbsp;&nbsp;Enigma (45)                 |
+| 12:45 - 13:30 | &nbsp;&nbsp;&nbsp;&nbsp;Lunch (provided) | &nbsp;&nbsp;&nbsp;&nbsp;Enigma (45)                 |
+| 13:30 - 15:30 | &nbsp;&nbsp;&nbsp;&nbsp;Breakout session 2                     |                                                |
+|               |&nbsp;&nbsp;&nbsp;&nbsp;Healthcare and medicine| &nbsp;&nbsp;&nbsp;&nbsp;Enigma (45)                 |
+|               |&nbsp;&nbsp;&nbsp;&nbsp;Engineering| &nbsp;&nbsp;&nbsp;&nbsp;David Blackwell (8) |
+|               |&nbsp;&nbsp;&nbsp;&nbsp;Social science and humanities| &nbsp;&nbsp;&nbsp;&nbsp;Margaret Hamilton (12)    |
+|               |&nbsp;&nbsp;&nbsp;&nbsp;Science| &nbsp;&nbsp;&nbsp;&nbsp;Jack Good (8)          |
+|               |&nbsp;&nbsp;&nbsp;&nbsp;Finance and economics| &nbsp;&nbsp;&nbsp;&nbsp;Enigma (45)                 |
+|               |&nbsp;&nbsp;&nbsp;&nbsp;Environment and sustainability| &nbsp;&nbsp;&nbsp;&nbsp;Enigma (45)                 |
+| 15:30 - 16:00 | &nbsp;&nbsp;&nbsp;&nbsp;Consolidation and Next Steps         | &nbsp;&nbsp;&nbsp;&nbsp;Enigma (45)                 |
 </center>
 
 <center>
