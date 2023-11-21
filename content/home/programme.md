@@ -31,7 +31,7 @@ design:
 
 | Time          | &nbsp;&nbsp;&nbsp;&nbsp;Event                                | &nbsp;&nbsp;&nbsp;&nbsp;Location               |     
 |---------------|--------------------------------------------------------------|------------------------------------------------|
-| 10:00 - 10:15 | &nbsp;&nbsp;&nbsp;&nbsp;Welcome and Introduction - Haiping Lu & Xianyuan Liu            | &nbsp;&nbsp;&nbsp;&nbsp;Enigma                 |
+| 10:00 - 10:15 | &nbsp;&nbsp;&nbsp;&nbsp;Welcome and Introduction - Haiping Lu & Xianyuan Liu            | &nbsp;&nbsp;&nbsp;&nbsp;Enigma (45)                 |
 | 10:15 - 11:30 | &nbsp;&nbsp;&nbsp;&nbsp;Pitch Session                        | &nbsp;&nbsp;&nbsp;&nbsp;Enigma (45)            |
 | 11:30 - 11:45 | &nbsp;&nbsp;&nbsp;&nbsp;Coffee break                        | &nbsp;&nbsp;&nbsp;&nbsp;Enigma (45)                 |
 | 11:45 - 12:15 | &nbsp;&nbsp;&nbsp;&nbsp;Breakout Session 1                          |                                                |
