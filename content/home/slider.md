@@ -15,7 +15,7 @@ design:
 
 content:
   slides:
-    - title: Current Opportunities
+    - title: Current Openings
       align: center
       background:
         position: right
@@ -24,7 +24,7 @@ content:
         media: slide.jpg
       content: >
         <div style="text-align: center;">
-          <a href=opportunity class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fas fa-star"></i> Opportunities</a> <br>
+          <a href=opportunity class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fas fa-star"></i> PhD / Job Openings</a> <br>
         </div>
 
     - title: Second Workshop on Multimodal AI

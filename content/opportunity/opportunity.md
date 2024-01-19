@@ -1,5 +1,5 @@
 ---
-title: Latest Opportunities
+title: Latest Openings
 subtitle:
 widget: blank
 headless: true
@@ -8,5 +8,5 @@ design:
   columns: '1'
 ---
 
-- [**PHD Opportunity:** Developing Foundation Models for Multimodal Neuroimaging Data](https://www.findaphd.com/phds/project/developing-foundation-models-for-multimodal-neuroimaging-data/?p168127)
+- [**PhD Openings:** Developing Foundation Models for Multimodal Neuroimaging Data](https://www.findaphd.com/phds/project/developing-foundation-models-for-multimodal-neuroimaging-data/?p168127)
 
