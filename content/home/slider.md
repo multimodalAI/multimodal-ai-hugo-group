@@ -36,7 +36,7 @@ content:
         brightness: 0.6
         media: slide.jpg
       content: >
-        <font size="3" style="color: white !important;">25th June 2024, The University of Sheffield, Sheffield</font>
+        <font size="3" style="color: white !important;">25th June 2024, Sheffield, UK</font>
         <div style="text-align: center;">
           <a href="https://twitter.com/MultimodalAI_UK" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fab fa-twitter"></i> Follow Us</a>
         </div>

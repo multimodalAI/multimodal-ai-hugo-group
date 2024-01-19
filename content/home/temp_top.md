@@ -15,6 +15,6 @@ design:
   css_style:
   css_class:
 ---
-**Upcoming Event:** Second Workshop on Multimodal AI
+**Upcoming Event(s)** 
 
-**Date:** 25th June 2024
+- The Second Workshop on Multimodal AI，25th June 2024，Sheffield, UK.
