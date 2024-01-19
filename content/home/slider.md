@@ -15,7 +15,7 @@ design:
 
 content:
   slides:
-    - title: The First Multimodal AI Research Sprint
+    - title: Second Workshop on Multimodal AI
       align: center
       background:
         position: right
@@ -23,8 +23,9 @@ content:
         brightness: 0.6
         media: slide.jpg
       content: >
-        <font size="" style="color: white !important;"> <i>Exploring Multimodal AI: Data and Problem-Solving beyond Vision and Language </i></font> <br> <font size="3" style="color: white !important;">In Person on 22nd November 2023, The Alan Turing Institute, London</font>
+        <font size="3" style="color: white !important;">25th June 2024, The University of Sheffield, Sheffield</font>
         <div style="text-align: center;">
+          <a href="https://www.findaphd.com/phds/project/developing-foundation-models-for-multimodal-neuroimaging-data/?p168127" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fas fa-star"></i> PhD Opportunity</a> <br>
           <a href="https://twitter.com/MultimodalAI_UK" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fab fa-twitter"></i> Follow Us</a>
         </div>
 
