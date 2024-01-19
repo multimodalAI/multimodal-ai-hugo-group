@@ -40,6 +40,6 @@ main:
     weight: 1
 
   - name: "Openings"
-    url: opportunity
+    url: opening
     weight: 70
 
