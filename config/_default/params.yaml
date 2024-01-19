@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Multimodal AI Workshop.'
+    notice: '© {year} Multimodal AI Community UK.'
     license:
       enable: false
       allow_derivatives: false

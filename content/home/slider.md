@@ -15,6 +15,18 @@ design:
 
 content:
   slides:
+    - title: Current Opportunities
+      align: center
+      background:
+        position: right
+        color: '#666'
+        brightness: 0.6
+        media: slide.jpg
+      content: >
+        <div style="text-align: center;">
+          <a href=opportunity class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fas fa-star"></i> Opportunities</a> <br>
+        </div>
+
     - title: Second Workshop on Multimodal AI
       align: center
       background:
@@ -25,7 +37,6 @@ content:
       content: >
         <font size="3" style="color: white !important;">25th June 2024, The University of Sheffield, Sheffield</font>
         <div style="text-align: center;">
-          <a href="https://www.findaphd.com/phds/project/developing-foundation-models-for-multimodal-neuroimaging-data/?p168127" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fas fa-star"></i> PhD Opportunity</a> <br>
           <a href="https://twitter.com/MultimodalAI_UK" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fab fa-twitter"></i> Follow Us</a>
         </div>
 

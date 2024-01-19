@@ -39,12 +39,7 @@ main:
     url: multimodalai23
     weight: 1
 
-  - name: "Current Opportunities"
-    url: '#'
+  - name: "Opportunities"
+    url: opportunity
     weight: 70
-
-  - name: "PhD Opportunity"
-    parent: "Current Opportunities"  # Parent name must match exactly
-    url: 'https://www.findaphd.com/phds/project/developing-foundation-models-for-multimodal-neuroimaging-data/?p168127'
-    weight: 1
 
