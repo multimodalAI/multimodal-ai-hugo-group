@@ -5,7 +5,7 @@
 
 main:
   - name: Latest Event
-    url: '#'
+    url: '#about'
     weight: 10
 
   - name: Programme
