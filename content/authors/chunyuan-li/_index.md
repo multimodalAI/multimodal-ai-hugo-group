@@ -9,7 +9,7 @@ superuser: false
 weight: 10
 
 # Role/position
-role: Key Contributor to LLaVA<br>Former Principal Researcher<br> Microsoft Research, Redmond
+role: Key Contributor to LLaVA,<br>Former Principal Researcher - Microsoft Research, Redmond
 
 # Organizations/Affiliations
 organizations:

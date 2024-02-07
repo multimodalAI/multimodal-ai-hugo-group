@@ -18,7 +18,7 @@ design:
 
 This online forum will feature:
 
-- A keynote presentation "**[LLaVA: A Vision-Language Approach to Computer Vision in the Wild](https://llava-vl.github.io/)**" by Chunyuan Li, Key Contributor to LLaVA, Former Principal Researcher at Microsoft Research, Redmond
+- A keynote presentation "**[LLaVA: A Vision-Language Approach to Computer Vision in the Wild](https://llava-vl.github.io/)**" by Chunyuan Li, Key Contributor to [LLaVA](https://llava.hliu.cc/), Former Principal Researcher at Microsoft Research, Redmond
 - An introduction to the six areas in our Multimodal AI perspective paper
 - Pitches from the community
 - Open discussions and conclusions
