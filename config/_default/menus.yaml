@@ -5,7 +5,7 @@
 
 main:
   - name: Latest Event
-    url: multimodalaisprint23
+    url: '#about'
     weight: 10
 
   #- name: Programme
@@ -26,9 +26,9 @@ main:
     #url: '#direction'
     #weight: 40
 
-  #- name: About
-    #url: '#about'
-    #weight: 50
+  - name: About
+    url: '#about'
+    weight: 50
 
   - name: "Past Events"
     url: '#'

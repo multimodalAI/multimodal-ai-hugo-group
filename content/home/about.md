@@ -1,0 +1,20 @@
+---
+# A Demo section created with the Blank widget.
+# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
+# Add more sections by duplicating this file and customizing to your requirements.
+widget: blank
+headless: true # This file represents a page section.
+
+weight: 10 # Order that this section will appear.
+title: 
+hero_media: 
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
+  # Add custom styles
+  css_style:
+  css_class:
+---
+Welcome to "**The First Multimodal AI Community Forum**". This focused, **online-only** AI UK Fringe event is scheduled from **13:00 to 17:00 (GMT) on Monday, 25th March 2024**. The deadline for [registration](https://docs.google.com/forms/d/e/1FAIpQLSd1nknP8OirbYGXloUw-911l4XMzHTvT0CagugQvItpAMgVfQ/viewform) is **Thursday, 14th March 2024, 23:59 (GMT)**.
+
+Multimodal AI, which integrates various data modalities such as text, image, sound, and others, is swiftly revolutionising our interaction with technology and data. In our recent Turing Interest Group event (22nd Nov), "The First Multimodal AI Research Sprint", we explored the diverse research states and methodologies in Multimodal AI across six areas and initiated the writing of a perspective paper on multimodal AI. Based on such past activities, this online forum aims to further bring together community members, from researchers to practitioners, to share their latest interdisciplinary perspectives and pioneering work in Multimodal AI. Our goal is to facilitate the exchange of fresh insights and foster connections and research progress within the Multimodal AI community.

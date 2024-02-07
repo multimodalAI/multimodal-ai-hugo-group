@@ -6,7 +6,7 @@ widget: blank
 headless: true # This file represents a page section.
 
 weight: 10 # Order that this section will appear.
-title: The First Multimodal AI Research Sprint
+title: First Multimodal AI Research Sprint
 hero_media: 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
