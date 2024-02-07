@@ -5,12 +5,12 @@
 
 main:
   - name: Latest Event
-    url: '#about'
+    url: multimodalaisprint23
     weight: 10
 
-  - name: Programme
-    url: '#programme'
-    weight: 20
+  #- name: Programme
+    #url: '#programme'
+    #weight: 20
   #- name: MultimodalAI'23
     #url: multimodalai23
     #weight: 110
@@ -18,13 +18,13 @@ main:
     #url: 'https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/faculty-of-engineering/first-workshop-on-multimodal-ai'
     #weight: 80
 
-  - name: Contact Us
-    url: '#contact'
-    weight: 30
+  #- name: Contact Us
+    #url: '#contact'
+    #weight: 30
 
-  - name: Direction
-    url: '#direction'
-    weight: 40
+  #- name: Direction
+    #url: '#direction'
+    #weight: 40
 
   #- name: About
     #url: '#about'
@@ -34,10 +34,15 @@ main:
     url: '#'
     weight: 60
 
+  - name: "MultimodalAISprint'23"
+    parent: "Past Events"  # Parent name must match exactly
+    url: multimodalaisprint23
+    weight: 1
+
   - name: "MultimodalAI'23"
     parent: "Past Events"  # Parent name must match exactly
     url: multimodalai23
-    weight: 1
+    weight: 2
 
   - name: "Openings"
     url: opening
