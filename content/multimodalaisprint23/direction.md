@@ -16,19 +16,19 @@ design:
   columns: '1'
 
 ---
-<b>By rail</b>
+**By rail**
 
 The Institute is located adjacent to St Pancras International Rail Station and within five minute walk of Kings Cross Rail Station and 10 minute walk of Euston Rail Station.
 
-<b>By underground</b>
+**By underground**
 
 The nearest underground station is Kings Cross St Pancras Station (five minute walk), which is on the Circle, Hammersmith & City, Metropolitan, Northern (Bank branch), Piccadilly and Victoria underground lines.
 
-<b>By bus</b>
+**By bus**
 
 There are many nearby services, including 10, 30, 59, 63, 73, and 91.
 
-<b>Finding the Turing from within the British Library</b>
+**Finding the Turing from within the British Library**
 
 Enter the British Library via the main entrance on Euston Road.
 

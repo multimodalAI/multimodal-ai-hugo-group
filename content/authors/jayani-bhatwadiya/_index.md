@@ -38,14 +38,9 @@ social:
 user_groups:
 - Visitors
 ---
-<p style="text-align:justify">
 Jayani is working on analyzing the Human stroke data at Dept. of Population Health in the University of Oxford. She has done her projects in Machine Learning, Deep Learning, and Natural Language Processing. She possesses exceptional research and analytical skills which she developed during her graduation. As part of her Master's Thesis, Jayani explored Reinforcement Learning and its algorithms to teach an agent how to walk on terrain.
-</p>
 
-<p style="text-align:justify">
 Additionally, she has extensive industry experience. She had been worked with product based as well as service-based companies. She knows every aspect of the Software Development Life Cycle with experience in Agile Delivery and continuous deployment into organizations.
-</p>
 
-<p style="text-align:justify">
 Jayani holds a MS in Data Science from the University of Essex, United Kingdom, and has also done Integrated Masters in Computer Science and Information Technology from Hemchandracharya North Gujarat University, India.
-</p>
+

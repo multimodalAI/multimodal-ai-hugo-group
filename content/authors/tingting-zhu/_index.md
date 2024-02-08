@@ -49,11 +49,8 @@ highlight_name: true
 user_groups:
   - Principal Investigators
 ---
-<p style="text-align:justify">
-Professor Tingting Zhu graduated with the DPhil degree in information and biomedical engineering at Oxford University in 2016. This followed her MSc in Biomedical Engineering at University College London and BEng (Hons) in Electrical Engineering from the University of Malta. 
-</p>
+Professor Tingting Zhu graduated with the DPhil degree in information and biomedical engineering at Oxford University in 2016. This followed her MSc in Biomedical Engineering at University College London and BEng (Hons) in Electrical Engineering from the University of Malta.
 
-<p style="text-align:justify">
 After DPhil, Tingting was awarded a Stipendiary Junior Research Fellowship at St. Hilda's College, Oxford. In 2018, Tingting was appointed as the first Associate Member of Faculty at the Department of Engineering Science; in 2019, following the award of her Royal Academy of Engineering Research Fellowship, she was appointed to full Member of Faculty at the Department of Engineering Science. Tingting is a Non-Tutorial Fellow at Kellogg College and a Stipendiary College Lecturer at Mansfield College.
-</p>
+
 

@@ -50,6 +50,5 @@ user_groups:
   - Principal Investigators
   - Team
 ---
-<p style="text-align:justify">
 Dr. Zhixiang Chen is a Lecturer in Machine Learning at the Department of Computer Science of the University of Sheffield. Before joining the University of Sheffield, he held postdoctoral positions at Imperial College London, UK and Tsinghua University, China. He received a PhD degree from Tsinghua University, China and a B.Eng. degree from Xi'an Jiaotong University, China.
-</p>
+
