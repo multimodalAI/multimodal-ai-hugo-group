@@ -53,8 +53,4 @@ content:
         <div style="text-align: center;">
           <a href="https://twitter.com/MultimodalAI_UK" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fab fa-twitter"></i> Follow Us</a>
         </div>
-
-#<a href="https://medium.com/@haipinglu/imagine-multimodal-ai-7eb4ef47f2ab" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fas fa-pencil-alt"></i> Blog</a>
-
-#<a href="/media/MultimodalAI23_Programme.pdf" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;" download> <i class="fas fa-book"></i> Programme</a> 
 ---

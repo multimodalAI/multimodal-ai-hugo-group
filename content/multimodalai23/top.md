@@ -16,7 +16,7 @@ design:
   css_class:
 ---
 
-- [Imagine Multimodal](https://medium.com/@haipinglu/imagine-multimodal-ai-7eb4ef47f2ab) AI (Insights from the First Workshop on Multimodal AI)
+- [Imagine Multimodal AI](https://medium.com/@haipinglu/imagine-multimodal-ai-7eb4ef47f2ab) (Insights from the First Workshop on Multimodal AI)
 - [MultimodalAI'23 Photos](https://drive.google.com/drive/u/1/folders/1Mm3spa4EVAKJCJnoJpizEaP7MiP71o4Q)
 - [MultimodalAI'23 Keynote Speakers YouTube Videos](https://www.youtube.com/@ShefCMI/playlists)
 - [MultimodalAI'23 pitches slides and posters](https://drive.google.com/drive/u/1/folders/1lKE-QLKiSYqIft8GixFe-vITzjIYYn4p)
