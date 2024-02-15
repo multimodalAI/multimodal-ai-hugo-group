@@ -9,7 +9,7 @@ superuser: false
 weight: 10
 
 # Role/position
-role: Key Contributor to LLaVA,<br>Former Principal Researcher - Microsoft Research, Redmond
+role: Research Lead at ByteDance/TikTok, (Co-)Lead Developer of LLaVA, Former Principal Researcher at Microsoft Research, Redmond
 
 # Organizations/Affiliations
 organizations:
