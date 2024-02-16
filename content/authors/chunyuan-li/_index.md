@@ -50,6 +50,7 @@ email: ''
 user_groups:
   - aiukfringe
 ---
-Dr. Chunyuan Li is a research lead at ByteDance/TikTok, a former principal researcher at Microsoft Research, Redmond, and a key contributor to [LLaVA](https://llava-vl.github.io/). His recent research has focused on large-scale pre-training in computer vision and natural language processing. He obtained his PhD in machine learning from Duke University, where he was advised by Prof. Lawrence Carin. His PhD research explored probabilistic deep learning. Dr. Li has served as an Area Chair for NeurIPS, ICML, ICLR, EMNLP, and AAAI, and as a Guest Editor of the International Journal of Computer Vision (IJCV) on "the promises and dangers of large vision models". 
+Chunyuan Li is currently a Research Lead at ByteDance/TikTok, based in the Seattle area, working on multimodal foundation model research. From 2018 to 2023, He worked as a Principal Researcher in the Deep Learning Team at Microsoft Research, Redmond. Before that, Chunyuan obtained his PhD at Duke University, working on probabilistic deep learning. He also spent time with Uber AI, Adobe Research, NIST and INRIA. At MSR, Chunyuan was mainly working on large-scale pre-training in computer vision (CV) and vision-language multimodality (MM), with a focus on building transferable vision models that can effortlessly generalize to a wide range of downstream CV & MM tasks. Chunyuan’s research has been frequently published in top venue conferences, including dozens of oral / spotlight presentations in NeurIPS, ICLR, ICML, CVPR and ACL, as well as receiving the Best Paper Finalist Award in CVPR 2022. He has served as an Area Chair for NeurIPS, ICML, EMNLP & AAAI, and a Guest Editor of IJCV. 
 
+More info: https://chunyuan.li/.
 
