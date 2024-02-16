@@ -8,9 +8,13 @@ main:
     url: '#about'
     weight: 10
 
-  #- name: Programme
-    #url: '#programme'
-    #weight: 20
+  - name: Keynote Speaker
+    url: '#speaker'
+    weight: 20
+
+  - name: Programme
+    url: '#programme'
+    weight: 30
   #- name: MultimodalAI'23
     #url: multimodalai23
     #weight: 110
@@ -25,10 +29,6 @@ main:
   #- name: Direction
     #url: '#direction'
     #weight: 40
-
-  - name: About
-    url: '#about'
-    weight: 50
 
   - name: "Past Events"
     url: '#'
