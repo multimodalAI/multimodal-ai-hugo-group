@@ -23,7 +23,7 @@ content:
         brightness: 0.6
         media: slide.jpg
       content: >
-        <font size="3" style="color: white !important;">Monday, 25th March 2024, Online</font>        
+        <font size="3" style="color: white !important;">An online AI UK Fringe event - Monday 25th March 2024</font>        
         <div style="text-align: center;">
           <a href="https://docs.google.com/forms/d/e/1FAIpQLSd1nknP8OirbYGXloUw-911l4XMzHTvT0CagugQvItpAMgVfQ/viewform" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fas fa-user"></i> Register by 14th March</a> <br>
         </div>    
