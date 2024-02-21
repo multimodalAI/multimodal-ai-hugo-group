@@ -19,7 +19,7 @@ removePathAccents: true
 ## MODULES
 ############################
 params:
-  hugoVersion: "0.95.0"
+  hugoVersion: "0.97.3"
 
 module:
   imports:
