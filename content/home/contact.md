@@ -18,8 +18,8 @@ content:
   contact_links:
     - icon: envelope
       icon_pack: fas
-      name: multimodal-ai-enquiry-group@shef.ac.uk
-      link: 'mailto:multimodal-ai-enquiry-group@shef.ac.uk'
+      name: multimodal-ai-event-organisers-group@sheffield.ac.uk
+      link: 'mailto:multimodal-ai-event-organisers-group@sheffield.ac.uk'
   # Automatically link email and phone or display as text?
   autolink:
 
