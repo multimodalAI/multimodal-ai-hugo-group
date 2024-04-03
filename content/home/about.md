@@ -25,6 +25,6 @@ The video recording of the Keynote Presentation by Chunyuan Li is given below.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6F4fra-QBpk?si=QAhzPnhvdKKT6Qnf&amp;start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-The video recording of the Open Discussion of the **First Multimodal AI Community Forum** is given below.
+The video recording of the Open Discussion session of the **First Multimodal AI Community Forum** is given below.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vf6CxlJSuVk?si=-CeaLFU7BDpBt-gt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
