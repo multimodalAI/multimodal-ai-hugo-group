@@ -37,9 +37,9 @@ main:
     url: '#'
     weight: 60
 
-  - name: "MultimodalAICommunityForum'24"
+  - name: "MultimodalAIForum'24"
     parent: "Past Events"  # Parent name must match exactly
-    url: multimodalai_community_forum24
+    url: multimodalai_forum24
     weight: 1
 
   - name: "MultimodalAISprint'23"
