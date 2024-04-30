@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: AI Research Engineer
+role: AI Research Engineer, University of Sheffield
 
 # Organizations/Affiliations
 organizations:
@@ -35,6 +35,7 @@ interests:
 user_groups:
 - Team
 - Visitors
+- Tech
 ---
 Mohammod Suvon is an AI Research Engineer (AIRE) at the University of Sheffield, under the lead of [Prof. Haiping Lu](https://haipinglu.github.io). 
 

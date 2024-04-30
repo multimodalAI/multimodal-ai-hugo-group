@@ -1,15 +1,15 @@
 ---
 # Display name
-title: Tingting Zhu
+title: Chen Chen
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Associate Professor in AI for Digital Health, University of Oxford
+role: Lecturer in Computer Vision, University of Sheffield
 
 # Order that this section appears on the page.
-weight: 20
+weight: 45
 
 # Organizations/Affiliations
 organizations:
@@ -28,13 +28,13 @@ social:
 #    link: 'mlap@inf.ed.ac.uk'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=fjGMIl0AAAAJ&hl=en
+    link: https://scholar.google.co.uk/citations?user=gPuRZmgAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/tingting-zhu-b895355b/?originalSubdomain=uk
+    link: https://www.linkedin.com/in/chen-cherise/?originalSubdomain=uk
   - icon: globe
     icon_pack: fas
-    link: https://eng.ox.ac.uk/people/tingting-zhu/
+    link: https://sites.google.com/view/morningchen-site/home;
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -47,11 +47,6 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
   - MultimodalAI24 Organizer
 ---
-Professor Tingting Zhu graduated with the DPhil degree in information and biomedical engineering at Oxford University in 2016. This followed her MSc in Biomedical Engineering at University College London and BEng (Hons) in Electrical Engineering from the University of Malta.
-
-After DPhil, Tingting was awarded a Stipendiary Junior Research Fellowship at St. Hilda's College, Oxford. In 2018, Tingting was appointed as the first Associate Member of Faculty at the Department of Engineering Science; in 2019, following the award of her Royal Academy of Engineering Research Fellowship, she was appointed to full Member of Faculty at the Department of Engineering Science. Tingting is a Non-Tutorial Fellow at Kellogg College and a Stipendiary College Lecturer at Mansfield College.
-
-
+Dr Chen (Cherise) Chen obtained her MSc and Ph.D. degree in Advanced Computing from Imperial College London, in 2016 and 2022, respectively. From 2022, she worked as a research associate at Imperial College London. During the time at Imperial, she worked closely with Prof. Daniel Rueckert and Dr. Wenjia Bai, on numerous projects with cardiac imaging. She was also a research scientist at HeartFlow. After that, she joined Oxford BioMedIA group, University of Oxford in 2023, working closely with Prof. Vicente Grau. She has engaged in a variety of projects that apply artificial intelligence to cardiac, brain, and prostate imaging.

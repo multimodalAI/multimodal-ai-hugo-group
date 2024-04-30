@@ -7,25 +7,18 @@ widget: people
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 60
 
-title: Keynote Speaker
+title: Technical Support
 
 content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-#    - aiukfringe
-#    - Principal Investigators
-#    - Researchers
-#    - Grad Students
-#    - Administration
-#    - Visitors
-#   - Alumni
-     - multimodalai24
+    - Tech
+
 design:
   show_interests: false
-  show_organizations: false
   show_role: true
   show_social: false
 ---

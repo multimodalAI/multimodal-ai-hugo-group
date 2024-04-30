@@ -29,20 +29,28 @@ main:
   #- name: Direction
     #url: '#direction'
     #weight: 40
+  - name: Sponsorship
+    url: call_for_sponsorship
+    weight: 40
 
   - name: "Past Events"
     url: '#'
     weight: 60
 
+  - name: "MultimodalAICommunityForum'24"
+    parent: "Past Events"  # Parent name must match exactly
+    url: multimodalai_community_forum24
+    weight: 1
+
   - name: "MultimodalAISprint'23"
     parent: "Past Events"  # Parent name must match exactly
     url: multimodalaisprint23
-    weight: 1
+    weight: 2
 
   - name: "MultimodalAI'23"
     parent: "Past Events"  # Parent name must match exactly
     url: multimodalai23
-    weight: 2
+    weight: 3
 
   - name: "Openings"
     url: opening

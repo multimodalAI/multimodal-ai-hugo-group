@@ -48,6 +48,7 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Principal Investigators
+  - MultimodalAI24 Organizer
 ---
 
 David A. Clifton is Professor of Clinical Machine Learning in the Department of Engineering Science of the University of Oxford, and OCC Fellow in AI & Machine Learning at Reuben College, Oxford.  He is a Research Fellow of the Royal Academy of Engineering, Visiting Chair in AI for Healthcare at the University of Manchester, and a Fellow of Fudan University, China.

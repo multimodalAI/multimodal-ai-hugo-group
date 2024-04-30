@@ -38,6 +38,7 @@ interests:
 user_groups:
 - Team
 - Principal Investigators
+- MultimodalAI24 Organizer
 ---
 
 Haiping is the Head of AI Research Engineering, a Professor of Machine Learning and AI Strategy Lead at the Department of Computer Science, the Turing Academic Lead, and Insigneo Research Director for Healthcare Data / AI, at the University of Sheffield. He is also the Machine Learning Theme Lead for Sheffield in the N8 Centre of Excellence in Computationally Intensive Research and the lead organiser of the Alan Turing Institute’s interest group on Meta-learning for multimodal data. 

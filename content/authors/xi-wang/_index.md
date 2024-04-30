@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Emma Barker
+title: Xi Wang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Fellow at University of Sheffield & Centre Manager of Centre for Machine Intelligence 
+role: Lecturer in Natural Language Processing, Department of Computer Science, The University of Sheffield
 
 # Order that this section appears on the page.
 weight: 60
@@ -38,7 +38,5 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
-  - Team
   - MultimodalAI24 Organizer
 ---

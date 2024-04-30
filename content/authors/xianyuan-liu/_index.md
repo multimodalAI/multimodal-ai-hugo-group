@@ -37,6 +37,7 @@ interests:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Team
+- MultimodalAI24 Organizer
 ---
 
 Xianyuan is an Assistant Head of AI Research Engineering at the Centre for Machine Intelligence and Senior AI Research Engineer at the University of Sheffield. 

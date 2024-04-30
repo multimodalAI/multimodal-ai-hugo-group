@@ -48,6 +48,7 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Principal Investigators
+  - MultimodalAI24 Organizer
 ---
 Peter Charlton is a British Heart Foundation Research Fellow in the Department of Public Health and Primary Care, at the University of Cambridge. He develops biomedical signal processing techniques to analyse data from digital wearable devices for clinical decision making.
 
