@@ -6,11 +6,11 @@
 main:
   - name: Latest Event
     url: '#about'
-    weight: 10
+    weight: 20
 
   - name: Keynote Speaker
     url: '#speaker'
-    weight: 20
+    weight: 10
 
   - name: Programme
     url: '#programme'

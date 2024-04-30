@@ -7,7 +7,7 @@ weight: 50
 design:
   columns: '1'
 ---
-On behalf of the Organising Committee for the [Second Workshop on Multimodal AI (MultimodalAI'24)](https://multimodalai.github.io/), scheduled for June 25, 2024, at The Edge, University of Sheffield, UK, we are reaching out to invite you to become a sponsor.
+On behalf of the Organising Committee for the [Second Workshop on Multimodal AI (MultimodalAI'24)](https://multimodalai.github.io/), scheduled for 25th June, 2024, at The Edge, University of Sheffield, UK, we are reaching out to invite you to become a sponsor.
 
 Multimodal AI, at the forefront of technological advancement, seamlessly integrates various data modalities such as text, image, and sound, revolutionising our interaction with technology and data. MultimodalAI'24 serves as a nexus for researchers and practitioners from AI, data science, and diverse scientific and application domains to convene, discuss challenges, share insights, foster collaborations, and shape the future of multimodal AI.
 
@@ -43,18 +43,6 @@ We are also happy to explore alternative opportunities to best suit your needs a
 We are confident that your partnership with MultimodalAI'24 will not only enhance your brand visibility but also contribute to the advancement of multimodal AI research and development.
 
 For further details and to confirm your sponsorship, please contact us directly at multimodal-ai-enquiry-group@shef.ac.uk.
-
-Thank you for considering our invitation. We look forward to the possibility of collaborating with you and welcoming you as a valued sponsor of MultimodalAI'24.
-
-
-
-Warm regards,
-
-MultimodalAI'24 Organising Committee <br>
-Centre for Machine Intelligence, University of Sheffield, UK<br>
-Interest Group on Meta-learning for Multimodal Data, Alan Turing Institute, UK
-
-
 
 
 

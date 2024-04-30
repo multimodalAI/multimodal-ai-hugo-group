@@ -27,4 +27,4 @@ Should you require assistance with accessibility for this event, or if you have 
 Join this interdisciplinary event to create a diverse community that shapes and builds the future of multimodal AI research and developments.
 
 
-**Welcome to share the workshop flyer in [PDF](media/flyer.pdf) and [PNG](media/flyer.png) with your network.**
+**Welcome to share the workshop flyer in [PDF](media/flyer.pdf) with your network.**

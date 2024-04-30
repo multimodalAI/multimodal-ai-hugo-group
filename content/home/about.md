@@ -5,7 +5,7 @@
 widget: blank
 headless: true # This file represents a page section.
 
-weight: 10 # Order that this section will appear.
+weight: 20 # Order that this section will appear.
 title: 
 hero_media: 
 design:
@@ -21,6 +21,8 @@ Multimodal AI, which integrates various data modalities such as text, image, sou
 
 This workshop features four keynote speakers from academia and industry: Maria Liakata (Professor of NLP, Queen Mary University of London, Turing AI Fellow), Tian Xie (Principal Research Manager, Microsoft Research AI4Science), Nataliya Tkachenko (Generative AI Ethics & Assurance Lead, Lloyds Banking Group), and Adam Steventon (Director of Data Platforms, Our Future Health). We offer participants opportunities to present 5-minute talks and posters, with four prizes (£150 each) in total for the best talks and posters.   We also have funds to support travel costs.
 
-Join this interdisciplinary event to grow our diverse community that shapes and builds the future of multimodal AI research and developments.
+[Register](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/second-workshop-on-multimodal-ai-2024) by 10th June 2024 to join this interdisciplinary event to grow our diverse community that shapes and builds the future of multimodal AI research and development.
 
 We offer a reduced delegate rate for students (the team will contact you following registration to confirm student status).
+
+**Welcome to share the workshop flyer in [PDF](media/MultimodalAI2024.pdf) and [PNG](media/MultimodalAI2024.png) with your network.**
