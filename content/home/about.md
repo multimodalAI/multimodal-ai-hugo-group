@@ -26,3 +26,5 @@ This workshop features four keynote speakers from academia and industry: Maria L
 We offer a reduced delegate rate for students (the team will contact you following registration to confirm student status).
 
 **Welcome to share the workshop flyer in [PDF](../media/MultimodalAI2024.pdf) and [PNG](../media/MultimodalAI2024.png) with your network.**
+
+[Subscribe](https://groups.google.com/a/sheffield.ac.uk/g/multimodal-ai-community-group?pli=1) to our Multimodal AI Community Google Group to stay connected and informed.
