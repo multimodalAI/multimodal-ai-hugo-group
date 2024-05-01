@@ -6,14 +6,14 @@ title: Emma Barker
 superuser: false
 
 # Role/position
-role: Research Fellow at University of Sheffield & Centre Manager of Centre for Machine Intelligence 
+role: Centre Manager of Centre for Machine Intelligence 
 
 # Order that this section appears on the page.
 weight: 60
 
 # Organizations/Affiliations
 organizations:
-  - name: 
+  - name: The University of Sheffield
     url: '' 
 
 

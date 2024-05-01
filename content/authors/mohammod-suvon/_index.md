@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: AI Research Engineer, University of Sheffield
+role: AI Research Engineer
 
 # Organizations/Affiliations
 organizations:

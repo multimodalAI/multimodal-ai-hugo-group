@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Tentative Pre-workshop Programme
+title: Tentative Pre-workshop Events
 subtitle: 24th June 2024
 
 content:
@@ -32,7 +32,7 @@ design:
 
 | Time          | &nbsp;&nbsp;&nbsp;&nbsp;Event                |
 |---------------|----------------------------------------------|
-| 14:00 - 17:00 | &nbsp;&nbsp;&nbsp;&nbsp;Pre-workshop events  |
+| 14:00 - 17:00 | &nbsp;&nbsp;&nbsp;&nbsp;Domain-specific meetings  |
 | 17:00 - 19:00 | &nbsp;&nbsp;&nbsp;&nbsp;Networking reception |
 
 </center>

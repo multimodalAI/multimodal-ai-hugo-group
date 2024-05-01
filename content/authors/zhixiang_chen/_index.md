@@ -6,14 +6,14 @@ title: Zhixiang Chen
 superuser: false
 
 # Role/position
-role: Lecturer in Machine Learning, Department of Computer Science, The University of Sheffield
+role: Lecturer in Machine Learning, Department of Computer Science
 
 # Order that this section appears on the page.
 weight: 50
 
 # Organizations/Affiliations
 organizations:
-  - name: 
+  - name: The University of Sheffield
     url: '' 
 
 

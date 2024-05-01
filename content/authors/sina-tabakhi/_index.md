@@ -10,14 +10,14 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student, Department of Computer Science, University of Sheffield 
+role: PhD Student, Department of Computer Science
 
 # Order that this section appears on the page.
 weight: 70
 
 # Organizations/Affiliations
 organizations:
-- name: University of Sheffield
+- name: The University of Sheffield
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

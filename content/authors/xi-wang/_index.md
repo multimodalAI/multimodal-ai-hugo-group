@@ -6,14 +6,14 @@ title: Xi Wang
 superuser: false
 
 # Role/position
-role: Lecturer in Natural Language Processing, Department of Computer Science, The University of Sheffield
+role: Lecturer in Natural Language Processing, Department of Computer Science
 
 # Order that this section appears on the page.
 weight: 60
 
 # Organizations/Affiliations
 organizations:
-  - name: 
+  - name: The University of Sheffield
     url: '' 
 
 

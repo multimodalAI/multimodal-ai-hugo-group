@@ -6,14 +6,14 @@ title: Chen Chen
 superuser: false
 
 # Role/position
-role: Lecturer in Computer Vision, University of Sheffield
+role: Lecturer in Computer Vision, Department of Computer Science
 
 # Order that this section appears on the page.
 weight: 45
 
 # Organizations/Affiliations
 organizations:
-  - name:
+  - name: The University of Sheffield
     url: '' 
 
 

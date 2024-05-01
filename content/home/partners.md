@@ -7,7 +7,7 @@ weight: 70
 design:
   columns: '1'
 ---
-This workshop is organised by University of Sheffield under the Turing Network Funding from the Alan Turing Institute, with support from University of Sheffield’s [Centre for Machine Intelligence](https://www.sheffield.ac.uk/machine-intelligence) and Alan Turing Institute’s Interest Group on [Meta-learning for Multimodal Data](https://www.turing.ac.uk/research/interest-groups/meta-learning-multimodal-data) (welcome to [sign-up and join](https://forms.office.com/Pages/ResponsePage.aspx?id=p_SVQ1XklU-Knx-672OE-fR6PcyyBV1JuragBENwKPJUOFhHNkY5WU1RVlczMjNWUVdYTDFDME1VNSQlQCN0PWcu)).
+This workshop is brought to you by the Turing Interest Group on Meta-Learning for Multimodal Data (welcome to [sign up](https://forms.office.com/Pages/ResponsePage.aspx?id=p_SVQ1XklU-Knx-672OE-fR6PcyyBV1JuragBENwKPJUOFhHNkY5WU1RVlczMjNWUVdYTDFDME1VNSQlQCN0PWcu)) and the Multimodal AI Community (welcome to subscribe to our [Google Group](https://groups.google.com/a/sheffield.ac.uk/g/multimodal-ai-community-group?pli=1)) supported by the [Centre for Machine Intelligence](https://www.sheffield.ac.uk/machine-intelligence) at the University of Sheffield.
 
 <div style="text-align: center;">
   <img src="/media/cmi_logo.png" alt="CMI Logo" style="width: 420px; height: auto; display: inline-block; margin-right: 20px;">
