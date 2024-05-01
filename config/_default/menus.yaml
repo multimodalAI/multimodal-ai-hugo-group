@@ -13,7 +13,7 @@ main:
     weight: 10
 
   - name: Programme
-    url: '#programme'
+    url: '#pre-programme'
     weight: 30
   #- name: MultimodalAI'23
     #url: multimodalai23
