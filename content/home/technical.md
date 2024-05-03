@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Technical Support
+title: Administrative and Technical Support
 
 content:
   # Choose which groups/teams of users to display.
