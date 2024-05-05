@@ -41,7 +41,7 @@ content:
         </div>
 
 
-    - title: The First Multimodal AI Community Forum
+    - title: First Multimodal AI Community Forum
       align: center
       background:
         position: right
