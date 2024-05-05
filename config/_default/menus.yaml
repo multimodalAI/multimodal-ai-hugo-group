@@ -52,7 +52,7 @@ main:
     url: multimodalai23
     weight: 3
 
-  - name: "Openings"
-    url: opening
-    weight: 70
+ # - name: "Openings"
+    #url: opening
+    #weight: 70
 

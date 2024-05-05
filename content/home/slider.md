@@ -49,7 +49,7 @@ content:
         brightness: 0.6
         media: slide.jpg
       content: >
-        <font size="3" style="color: white !important;">25th March 2024</font>
+       
         <div style="text-align: center;">
           <a href="https://multimodalai.github.io/multimodalai-forum24/" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;">
             <i class="fas fa-history"></i> Review Event
@@ -64,7 +64,7 @@ content:
         brightness: 0.6
         media: slide.jpg
       content: >
-        <font size="3" style="color: white !important;">22nd November 2023</font>
+       
         <div style="text-align: center;">
           <a href="https://multimodalai.github.io/multimodalai-sprint23/" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;">
             <i class="fas fa-history"></i> Review Event
@@ -79,7 +79,7 @@ content:
         brightness: 0.6
         media: slide.jpg
       content: >
-        <font size="3" style="color: white !important;">27th June 2023</font>
+       
         <div style="text-align: center;">
           <a href="https://multimodalai.github.io/multimodalai23/" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;">
             <i class="fas fa-history"></i> Review Event
