@@ -17,4 +17,4 @@ This workshop is brought to you by the Turing Interest Group on Meta-Learning fo
 **Disclaimer:** This event is supported by The Alan Turing Institute. The Turing is not involved in the agenda or content planning.
 
 
-**We are currently inviting sponsorships for the Second Workshop on Multimodal AI. For more details on how to support us, please visit our [call for sponsorship](https://multimodalai.github.io/call_for_sponsorship/) page.**
+**We are currently inviting sponsorships for this workshop. For more details on how to support us, please visit our [call for sponsorship](https://multimodalai.github.io/call_for_sponsorship/) page.**
