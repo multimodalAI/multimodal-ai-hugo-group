@@ -15,7 +15,7 @@ This year's workshop boasts an exceptional lineup of keynote speakers, including
 
 MultimodalAI'24 offers a variety of sponsorship opportunities suitable for organizations of all sizes. As a sponsor, you will contribute to the success of the workshop and gain visibility among top industry leaders, international researchers, and PhD students. We are pleased to offer three tiers of sponsorship: Gold, Silver, and Bronze. Each tier is thoughtfully designed with distinct advantages, allowing you to showcase your commitment and maximize visibility among attendees.
 
-**Gold Sponsorship (£2000):**
+**Gold Sponsorship (£1000):**
 - **Logo** displayed on the event **website** with a link to your company
 - **Logo** on the event programme **(printed and online)**
 - **Prime logo placement** on event slides during intermissions with the sponsor’s logo(s) displayed 
@@ -25,7 +25,7 @@ MultimodalAI'24 offers a variety of sponsorship opportunities suitable for organ
 - Company name and logo displayed at **lunch and tea/coffee break** as ‘lunch supported by [company name]’ and ‘tea/coffee supported by [company name]’ 
 - **Free registration** for up to 8 representatives from your organisation
 
-**Silver Sponsorship (£1000):**
+**Silver Sponsorship (£500):**
 - **Logo** displayed on the event **website** with a link to your company
 - **Logo** on the event programme **(printed and online)**
 - **Prime logo placement** on event slides during intermissions with the sponsor’s logo(s) displayed 
@@ -33,7 +33,7 @@ MultimodalAI'24 offers a variety of sponsorship opportunities suitable for organ
 - Company name and logo displayed at the **pre-workshop reception** as ‘reception supported by [company name]’ 
 - **Free registration** for up to 4 representatives from your organisation
 
-**Bronze Sponsorship (£500):**
+**Bronze Sponsorship (£300):**
 - **Logo** displayed on the event **website** with a link to your company
 - **Logo** on the event programme **(printed and online)**
 - **Free registration** for up to 2 representatives from your organisation
