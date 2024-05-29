@@ -47,4 +47,4 @@ email: ''
 user_groups:
   - multimodalai24
 ---
-Maria is a Professor in Natural Language Processing (NLP) at Queen Mary, University of London, and holds an EPSRC/UKRI Turing AI Fellowship for creating time-sensitive sensors from language and user-generated content. At the Alan Turing Institute, she co-leads the NLP and data science for mental health interest groups and supervises PhD students. Maria's projects include language sensing for dementia monitoring, opinion summarisation from social media, and an AI framework for pandemics. She has a DPhil from the University of Oxford and her research spans knowledge discovery from corpora and automated scientific experimentation. She has received awards like the IBM Faculty Award and contributed to the EU Project PHEME, which studied social media rumours.
+To be added.
