@@ -44,4 +44,4 @@ email:
 user_groups:
   - multimodalai24
 ---
-To be added.
+Adam Steventon is the Director of Data Platforms at Our Future Health, with over 15 years of experience in transforming healthcare through data. He holds a PhD in health services research from the London School of Hygiene and Tropical Medicine and is a Harkness Fellow in Health Care Policy and Practice. At Our Future Health, Adam is part of the team that's enrolling 5 million people in the UK's largest health cohort programme for early disease detection and prevention. He oversees business intelligence, data engineering, and data operations, collaborating with government, academia, and industry to maximise data impact. His vision is to empower researchers, clinicians, and patients to use data to advance health understanding and treatment.
