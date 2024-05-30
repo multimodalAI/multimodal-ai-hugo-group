@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student, Department of Computer Science
+role: PhD Student, School of Computer Science
 
 # Order that this section appears on the page.
 weight: 70
@@ -47,7 +47,7 @@ user_groups:
 - Team
 - MultimodalAI24 Organizer
 ---
-Sina is a PhD student in the Department of Computer Science at the [University of Sheffield](https://www.sheffield.ac.uk/), working in the [Machine Learning Research Group](https://www.sheffield.ac.uk/dcs/research/groups/machine-learning). He is also an organizer of the Alan Turing Institute’s interest group on [Meta-learning for multimodal data](https://www.turing.ac.uk/research/interest-groups/meta-learning-multimodal-data). Sina is a contributor to the development of [Sheffield Data Science and AI Network](https://shef-ai.github.io/) with the support of the Turing Network Development Award.
+Sina is a PhD student in the School of Computer Science at the [University of Sheffield](https://www.sheffield.ac.uk/), working in the [Machine Learning Research Group](https://www.sheffield.ac.uk/dcs/research/groups/machine-learning). He is also an organizer of the Alan Turing Institute’s interest group on [Meta-learning for multimodal data](https://www.turing.ac.uk/research/interest-groups/meta-learning-multimodal-data). Sina is a contributor to the development of [Sheffield Data Science and AI Network](https://shef-ai.github.io/) with the support of the Turing Network Development Award.
 
 His research aims to leverage deep learning techniques, particularly graph neural networks, to integrate multimodal health data that help design an accurate life-threatening disease diagnostic system. Moreover, he is developing methods to reduce the dimensionality of large-scale data through feature selection.
 

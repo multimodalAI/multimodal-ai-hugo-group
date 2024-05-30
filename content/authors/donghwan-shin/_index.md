@@ -1,15 +1,15 @@
 ---
 # Display name
-title: Zhixiang Chen
+title: Donghwan Shin
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Lecturer in Machine Learning, School of Computer Science
+role: Lecturer in Testing, School of Computer Science
 
 # Order that this section appears on the page.
-weight: 50
+weight: 30
 
 # Organizations/Affiliations
 organizations:
@@ -28,13 +28,10 @@ social:
 #    link: 'mlap@inf.ed.ac.uk'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=QsiSJkgAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=6uSW0MQAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/zhixiang-chen-b7207753/?originalSubdomain=cn
-  - icon: globe
-    icon_pack: fas
-    link: https://zchen06.github.io/
+    link: https://www.linkedin.com/in/donghwan-shin-a14aa3134/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -47,9 +44,6 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
-  - Team
   - MultimodalAI24 Organizer
 ---
-Dr. Zhixiang Chen is a Lecturer in Machine Learning at the School of Computer Science of the University of Sheffield. Before joining the University of Sheffield, he held postdoctoral positions at Imperial College London, UK and Tsinghua University, China. He received a PhD degree from Tsinghua University, China and a B.Eng. degree from Xi'an Jiaotong University, China.
-
+Dr Donghwan Shin is a Lecturer in Software Testing at the Department of Computer Science, University of Sheffield since 2022. He did his BS (2006-2010), MS (2010-2012), and PhD (2012-2018) at KAIST, South Korea. This is followed by four years as a research associate (2018-2020) and research scientist (2020-2022) at SnT, University of Luxembourg.

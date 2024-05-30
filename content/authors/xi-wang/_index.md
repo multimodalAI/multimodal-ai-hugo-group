@@ -6,7 +6,7 @@ title: Xi Wang
 superuser: false
 
 # Role/position
-role: Lecturer in Natural Language Processing, Department of Computer Science
+role: Lecturer in Natural Language Processing, School of Computer Science
 
 # Order that this section appears on the page.
 weight: 60

@@ -41,6 +41,6 @@ user_groups:
 - MultimodalAI24 Organizer
 ---
 
-Haiping is the Head of AI Research Engineering, a Professor of Machine Learning and AI Strategy Lead at the Department of Computer Science, the Turing Academic Lead, and Insigneo Research Director for Healthcare Data / AI, at the University of Sheffield. He is also the Machine Learning Theme Lead for Sheffield in the N8 Centre of Excellence in Computationally Intensive Research and the lead organiser of the Alan Turing Institute’s interest group on Meta-learning for multimodal data. 
+Haiping is the Head of AI Research Engineering, a Professor of Machine Learning and AI Strategy Lead at the School of Computer Science, the Turing Academic Lead, and Insigneo Research Director for Healthcare Data / AI, at the University of Sheffield. He is also the Machine Learning Theme Lead for Sheffield in the N8 Centre of Excellence in Computationally Intensive Research and the lead organiser of the Alan Turing Institute’s interest group on Meta-learning for multimodal data. 
 
 He received his Ph.D. degree in Electrical and Computer Engineering from the University of Toronto, Canada, in 2008. Prior to that, he received his Bachlor's and Master's degrees in Electrical and Electronics Engineering from Nanyang Technological University, Singapore, in 2001 and 2004, respectively. See his [homepage](https://haipinglu.github.io/) for more information.

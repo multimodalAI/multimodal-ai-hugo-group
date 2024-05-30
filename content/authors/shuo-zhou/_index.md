@@ -40,6 +40,6 @@ user_groups:
 - MultimodalAI24 Organizer
 ---
 
-Shuo is an Academic Fellow in Machine Learning at the Machine Learning Research Group, Department of Computer Science, and Deputy Head of AI Research Engineering at the Centre for Machine Intelligence, University of Sheffield. 
+Shuo is an Academic Fellow in Machine Learning at the Machine Learning Research Group, School of Computer Science, and Deputy Head of AI Research Engineering at the Centre for Machine Intelligence, University of Sheffield. 
 
 He received his Ph.D. degree in Computer Science and his Master's degree in Advanced Computer Science from the University of Sheffield, in 2022 and 2017, respectively. See his [homepage](https://shuo-zhou.github.io/) for more information.

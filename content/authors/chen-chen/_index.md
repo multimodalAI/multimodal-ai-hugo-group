@@ -6,7 +6,7 @@ title: Chen Chen
 superuser: false
 
 # Role/position
-role: Lecturer in Computer Vision, Department of Computer Science
+role: Lecturer in Computer Vision, School of Computer Science
 
 # Order that this section appears on the page.
 weight: 45
