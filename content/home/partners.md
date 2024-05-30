@@ -17,4 +17,6 @@ This workshop is brought to you by the Turing Interest Group on Meta-Learning fo
 **Disclaimer:** This event is supported by The Alan Turing Institute. The Turing is not involved in the agenda or content planning.
 
 
+This workshop is **sponsored by** [Henry Royce Institute](https://www.royce.ac.uk/).
+
 **We are currently inviting sponsorships for this workshop. For more details on how to support us, please visit our [call for sponsorship](https://multimodalai.github.io/call_for_sponsorship/) page.**
