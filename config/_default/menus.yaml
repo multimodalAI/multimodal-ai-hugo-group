@@ -22,9 +22,6 @@ main:
     #url: 'https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/faculty-of-engineering/first-workshop-on-multimodal-ai'
     #weight: 80
 
-  #- name: Contact Us
-    #url: '#contact'
-    #weight: 30
 
   #- name: Direction
     #url: '#direction'
@@ -32,6 +29,10 @@ main:
   - name: Sponsorship
     url: call_for_sponsorship
     weight: 40
+
+  - name: Contact Us
+    url: '#contact'
+    weight: 50
 
   - name: "Past Events"
     url: '#'
