@@ -52,3 +52,22 @@ design:
 
 </center>
 
+
+
+
+<div style="text-align: left;">
+
+The programme currently features a range of talks/posters on topics including the following:
+
+- Multimodal Multi-Task Asset Pricing with Numeral Learning
+- Process-aware Human Activity Recognition
+- It's Never Too Late: Fusing Acoustic Information into Large Language Models for Automatic Speech Recognition
+- Large Language Models are Efficient Learners of Noise-Robust Speech Recognition
+- Geo-Located Multimodal Data for Maritime Downstream Tasks
+- Integrating Affective Computing and Smart Sensing into Treatment Pathways for Anxiety Disorders
+- Multimodal AI for Enhanced Information Extraction from Complex HPC Documentation
+- Understanding Determinants of Health: Leveraging Routinely Collected Data
+- How Would AI Work with Us in Healthcare
+- Learning Generalisable Representations for Embodied Tasks with Multimodal Feedback
+
+</div>
