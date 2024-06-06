@@ -40,3 +40,4 @@ highlight_name: true
 user_groups:
   - MultimodalAI24 Organizer
 ---
+Dr Xi Wang is a Lecturer of Natural Language Processing at the University of Sheffield. Previously, he obtained his PhD from the University of Glasgow, supervised by Prof. Iadh Ounis and Prof. Craig Macdonald and focused on the research topic of developing review text-based recommender systems. After that, he joined the web intelligence group of University College London (UCL) as a postdoctoral researcher, supervised by Prof. Emine Yilmaz and worked on knowledge-augmented task-oriented dialogue systems. His current research interests are conversational AI, personalisation, and retrieval augmented generation, fairness, as well as relevant topics in the domain of natural language processing (NLP).
