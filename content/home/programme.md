@@ -71,5 +71,6 @@ The programme currently features a range of talks/posters on topics including th
 - Understanding Determinants of Health: Leveraging Routinely Collected Data
 - How Would AI Work with Us in Healthcare
 - Learning Generalisable Representations for Embodied Tasks with Multimodal Feedback
+- Multimodal Learning for Meme Virality Prediction
 
 </div>
