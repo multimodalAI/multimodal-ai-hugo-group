@@ -25,11 +25,6 @@ content:
       content: >
         <font size="3" style="color: white !important;">25th June 2024, Sheffield, UK</font>
         <div style="text-align: center;">
-          <a href="https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/second-workshop-on-multimodal-ai-2024" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;">
-            <i class="fas fa-edit"></i> Register by 10th June 2024
-          </a>
-        </div>
-        <div style="text-align: center;">
           <a href="call_for_sponsorship" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;">
             <i class="fas fa-handshake"></i> Call for Sponsorship
           </a>
