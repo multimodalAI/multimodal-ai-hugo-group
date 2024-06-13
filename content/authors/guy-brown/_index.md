@@ -9,7 +9,7 @@ superuser: false
 weight: 4
 
 # Role/position
-role: Deputy Head of Centre for Machine Intelligence, Professor of Computer Science
+role: Deputy Director of Centre for Machine Intelligence, Professor of Computer Science
 
 # Organizations/Affiliations
 organizations:
@@ -44,4 +44,4 @@ email:
 user_groups:
   #- multimodalai24
 ---
-Professor Guy Brown is with the Department of Computer Science, University of Sheffield. His research focuses on machine hearing; building AI systems that have the same ability as human listeners to understand sound. A particular focus of his current work is on acoustic screening tools for sleep and respiratory disorders. From 2015 to 2023 he was Head of the Department of Computer Science. He is currently Deputy Head of the University’s new Centre for Machine Intelligence.
+Professor Guy Brown is with the Department of Computer Science, University of Sheffield. His research focuses on machine hearing; building AI systems that have the same ability as human listeners to understand sound. A particular focus of his current work is on acoustic screening tools for sleep and respiratory disorders. From 2015 to 2023 he was Head of the Department of Computer Science. He is currently Deputy Director of the University’s new [Centre for Machine Intelligence](https://www.sheffield.ac.uk/machine-intelligence).
