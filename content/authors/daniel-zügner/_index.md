@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tian Xie
+title: Daniel Zügner
 
 # Is this the primary user of the site?
 superuser: false
@@ -9,7 +9,7 @@ superuser: false
 weight: 1
 
 # Role/position
-role: Principal Research Manager, Microsoft Research AI4Science
+role: Senior Researcher, Microsoft Research AI4Science
 
 # Organizations/Affiliations
 organizations:
@@ -28,13 +28,10 @@ social:
 #    link: 'mailto:test@example.org'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=xFbOAf8AAAAJ
+    link: https://scholar.google.de/citations?user=zLYI3MwAAAAJ&hl=de
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/txie-93/
-  - icon: globe
-    icon_pack: fas
-    link: http://txie.me/
+    link: https://www.linkedin.com/in/danielzuegner/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -50,7 +47,7 @@ email: ''
 user_groups:
   - multimodalai24
 ---
-Tian Xie is a principal research manager and project lead at Microsoft Research AI4Science. He leads a team of researchers, engineers, and program manager to develop the next generation machine learning models for materials discovery. His research interest includes generative models, graph representation learning, active learning with a specific focus on materials. Before joining Microsoft, he was a postdoc in the Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT from 2020 to 2022, co-advised by Tommi Jaakkola and Regina Barzilay. He got his PhD in Materials Science and Engineering at MIT in 2020, advised by Jeffrey C. Grossman. His experience also includes research internships at DeepMind and Google X.
+Daniel Zügner is a Senior Researcher at Microsoft Research AI for Science. He is part of a team of researchers and engineers to develop the next generation machine learning models for materials discovery. His research interest includes generative models and graph neural networks. Before joining Microsoft, he obtained his PhD from the Technical University of Munich in 2022, advised by Stephan Günnemann. His experience also includes research internships at Amazon AWS and Spotify.
 
 **MultimodalAI'24 Keynote Title:** MatterGen: a generative model for inorganic materials design
 
