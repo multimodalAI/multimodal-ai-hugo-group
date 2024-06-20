@@ -49,7 +49,7 @@ user_groups:
 ---
 Tian Xie is a principal research manager and project lead at Microsoft Research AI4Science. He leads a team of researchers, engineers, and program manager to develop the next generation machine learning models for materials discovery. His research interest includes generative models, graph representation learning, active learning with a specific focus on materials. Before joining Microsoft, he was a postdoc in the Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT from 2020 to 2022, co-advised by Tommi Jaakkola and Regina Barzilay. He got his PhD in Materials Science and Engineering at MIT in 2020, advised by Jeffrey C. Grossman. His experience also includes research internships at DeepMind and Google X.
 
-**Due to unforeseen circumstances, Tian Xie will not be presenting as a keynote speaker at the Second Workshop on Multimodal AI. Instead, {{< mention "daniel-zügner" >}} from his team will be stepping in as the keynote speaker.**
+**Due to unforeseen circumstances, Tian Xie will not be presenting as a keynote speaker at the Second Workshop on Multimodal AI. Instead, {{< mention "daniel-zugner" >}} from his team will be stepping in as the keynote speaker.**
 
 **MultimodalAI'24 Keynote Title:** MatterGen: a generative model for inorganic materials design
 
