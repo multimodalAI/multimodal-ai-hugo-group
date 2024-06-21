@@ -7,9 +7,9 @@ widget: people
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 39
 
-title: Tentative Pre-workshop Events
+title: Pre-workshop Events
 subtitle: 24th June 2024
 
 content:
