@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Tentative Programme (In Person Only)
+title: Final Programme (In Person Only)
 subtitle: 25th June 2024
 
 content:
