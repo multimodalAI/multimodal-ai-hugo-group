@@ -18,4 +18,4 @@ design:
 </div>
 
 
-**We are currently inviting sponsorships for this workshop. For more details on how to support us, please visit our [call for sponsorship](https://multimodalai.github.io/call_for_sponsorship/) page.**
+<!--**We are currently inviting sponsorships for this workshop. For more details on how to support us, please visit our [call for sponsorship](https://multimodalai.github.io/call_for_sponsorship/) page.**-->

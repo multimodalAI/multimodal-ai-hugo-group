@@ -21,8 +21,8 @@ Multimodal AI, which integrates various data modalities such as text, image, sou
 
 This workshop features four keynote speakers from academia and industry: [Maria Liakata](https://www.linkedin.com/in/maria-liakata-273b9677/?originalSubdomain=uk) (Professor of NLP, Queen Mary University of London, Turing AI Fellow), [Daniel Zügner](https://www.linkedin.com/in/danielzuegner/) (Senior Researcher, Microsoft Research AI4Science), [Nataliya Tkachenko](https://www.linkedin.com/in/nataliya-tkachenko-phd-b5ab8324/?originalSubdomain=uk) (Generative AI Ethics & Assurance Lead, Lloyds Banking Group), and [Adam Steventon](https://www.linkedin.com/in/adam-steventon-864a2066/) (Director of Data Platforms, Our Future Health). We offer participants opportunities to present 5-minute talks and posters, with four prizes (£150 each) in total for the best talks and posters. We also have funds to support travel costs.
 
-[Register](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/second-workshop-on-multimodal-ai-2024) by 10th June 2024 to join this interdisciplinary event to grow our diverse community that shapes and builds the future of multimodal AI research and development. To become a sponsor of this workshop event, [click here](https://multimodalai.github.io/call_for_sponsorship/).
+<!--[Register](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/second-workshop-on-multimodal-ai-2024) by 10th June 2024 to join this interdisciplinary event to grow our diverse community that shapes and builds the future of multimodal AI research and development. To become a sponsor of this workshop event, [click here](https://multimodalai.github.io/call_for_sponsorship/).-->
 
-We offer a reduced delegate rate for students (the team will contact you following registration to confirm student status).
+<!--We offer a reduced delegate rate for students (the team will contact you following registration to confirm student status).-->
 
 **Welcome to share the workshop flyer in [PDF](../media/MultimodalAI2024.pdf) and [PNG](../media/MultimodalAI2024.png) with your network.**
