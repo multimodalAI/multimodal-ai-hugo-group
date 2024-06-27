@@ -27,7 +27,7 @@ main:
     #url: '#direction'
     #weight: 40
   #- name: Sponsorship
-    #url: call_for_sponsorship
+    #url: call-for-sponsorship
     #weight: 40
 
   - name: Contact Us
