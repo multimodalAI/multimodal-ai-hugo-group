@@ -106,7 +106,7 @@ design:
 | Lucas Farndale    | &nbsp;&nbsp;&nbsp;&nbsp;Super Vision without Supervision: Self-Supervised Learning from Multimodal Data for Enhanced Biomedical Imaging |
 | Yan Ge            | &nbsp;&nbsp;&nbsp;&nbsp;Multimodal Multi-Task Asset Pricing with Numeral Learning                                                       |
 | Ruizhe Li         | &nbsp;&nbsp;&nbsp;&nbsp;Large Language Models are Efficient Learners of Noise-robust Speech Recognition                                 |
-| Xianyuan Liu      | &nbsp;&nbsp;&nbsp;&nbsp;Exploring Multimodal AI beyond Vision and Language                                                              |
+| Xianyuan Liu      | &nbsp;&nbsp;&nbsp;&nbsp;[Exploring Multimodal AI beyond Vision and Language](../media/Poster_Exploring_Multimodal_AI_beyond_Vision_and_Language.pdf)                                                          |
 | Sabrina McCallum  | &nbsp;&nbsp;&nbsp;&nbsp;Learning Generalisable Representations for Embodied Tasks with Multimodal Feedback                              |
 | Luigi Moretti     | &nbsp;&nbsp;&nbsp;&nbsp;Integrating Affective Computing and Smart Sensing into Treatment Pathways for Anxiety Disorders                 |
 | Madhuranand Pahar | &nbsp;&nbsp;&nbsp;&nbsp;CognoSpeak: An Automatic, Remote Assessment of Early Cognitive Decline in Real-world Conversational Speech      |
