@@ -58,7 +58,7 @@ design:
 
 <center>
 
-<p style="font-size: 24px; font-weight: bold;">Pitches</p>
+<p style="font-size: 24px; border: none;font-weight: bold;">Pitches</p>
 
 | Name               | &nbsp;&nbsp;&nbsp;&nbsp;Title                                                                                   |
 |--------------------|-----------------------------------------------------------------------------------------|
