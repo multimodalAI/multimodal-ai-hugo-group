@@ -85,11 +85,11 @@ design:
 | Valentin Danchev      | &nbsp;&nbsp;&nbsp;  Data Governance, Ethics, and Safety of Multimodal vs Unimodal AI Models: A Review of Evidence and Challenges                                                                         |
 | Salah (Sam) Hammouche | &nbsp;&nbsp;&nbsp;&nbsp;Beyond Regulatory Compliance: The RCR College Report                                                      |
 | Nee Ling Wong         | &nbsp;&nbsp;&nbsp;&nbsp;How Would AI Work with Us in Healthcare                                                      | 
-| Jiayan Zhang          | &nbsp;&nbsp;&nbsp;&nbsp;Interdisciplinary Multimodal AI Research                                                        | 
+| JZ                    | &nbsp;&nbsp;&nbsp;&nbsp;Interdisciplinary Multimodal AI Research                                                        | 
 | Martin Callaghan      | &nbsp;&nbsp;&nbsp;&nbsp;Multimodal AI for Enhanced Information Extraction from Complex HPC Documentation                | 
 | Madhurananda Pahar    | &nbsp;&nbsp;&nbsp;&nbsp;CognoSpeak: An Automatic, Remote Assessment of Early Cognitive Decline in Real-world Conversational Speech                                                                        | 
 | Hubin Zhao            | &nbsp;&nbsp;&nbsp;&nbsp;Wearable Intelligent Multimodal Neuroimaging for Health | 
-| Peter Charlton             | &nbsp;&nbsp;&nbsp;&nbsp;Understanding Determinants of Health: Leveraging Routinely Collected Data    | 
+| Peter Charlton        | &nbsp;&nbsp;&nbsp;&nbsp;Understanding Determinants of Health: Leveraging Routinely Collected Data    | 
 
 </center>
 
