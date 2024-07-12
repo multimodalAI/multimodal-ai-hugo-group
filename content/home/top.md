@@ -16,10 +16,12 @@ design:
   css_class:
 ---
 
-<p style="color: purple; text-align: center; margin-bottom: 0px; font-weight: bold;">Congratulations to all the winners for Best Talk, Poster, Student Talk, and Student Poster awards!</p>
+<p style=" text-align: center; margin-bottom: 0px; font-weight: bold; max-width: 900px; margin: 0 auto;">
+Congratulations to all the winners! Lucas Farndale for Best Talk, Ruizhe Li for Best Poster, Nee Ling Wong for Best Student Talk, and Luigi Moretti for Best Student Poster.
+</p>
 <img src="../media/MMAI24_prize_winner.jpg" alt="Prize Winner" style="display: block; margin-left: auto; margin-right: auto; width: 40%; margin-bottom: 15px;">
         
 
-<p style="color: purple; text-align: center; margin-bottom: 0px; font-weight: bold;">MultimodalAI'24</p>
+<p style=" text-align: center; margin-bottom: 0px; font-weight: bold;">MultimodalAI'24</p>
 <img src="../media/group_photo_MMAI_24.jpg" alt="Group Photo" style="display: block; margin-left: auto; margin-right: auto; width: 80%; margin-bottom: 15px;">
 
