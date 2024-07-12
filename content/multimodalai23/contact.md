@@ -39,6 +39,8 @@ design:
   columns: '1'
 
 ---
+
+
 <img src="/media/the_edge_1.jpg" style="width: 620px; height: auto; display: inline-block;">
 <img src="/media/the_edge_2.webp" style="width: 620px; height: auto; display: inline-block;">
 <center>

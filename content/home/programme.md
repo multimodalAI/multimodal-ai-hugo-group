@@ -27,7 +27,8 @@ design:
   show_role: true
   show_social: true
 ---
-
+<details>
+<summary style="font-size: 24px; border: none;">Show</summary>
 <center>
 
 | Time                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | &nbsp;&nbsp;&nbsp;&nbsp;Event                                                                                                              |
@@ -59,7 +60,7 @@ design:
 
 <center>
 
-<p style="font-size: 24px; font-weight: bold;">Morning Talk Session (10:40 - 11:20)</p>
+<p style="font-size: 24px; border: none;font-weight: bold;">Morning Talk Session (10:40 - 11:20)</p>
 
 | Name                                                                                                                                                                                                 | &nbsp;&nbsp;&nbsp;&nbsp;Title                                                                                                          |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
@@ -77,7 +78,7 @@ design:
 
 <center>
 
-<p style="font-size: 24px; font-weight: bold;">Afternoon Talk Session (14:40 - 15:20)</p>
+<p style="font-size: 24px; border: none;font-weight: bold;">Afternoon Talk Session (14:40 - 15:20)</p>
 
 | Name                  | &nbsp;&nbsp;&nbsp;&nbsp;Title                                                                                                           |
 |-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
@@ -96,7 +97,7 @@ design:
 
 <center>
 
-<p style="font-size: 24px; font-weight: bold;">Posters</p>
+<p style="font-size: 24px; border: none;font-weight: bold;">Posters</p>
 
 | Name              | &nbsp;&nbsp;&nbsp;&nbsp;Title                                                                                                           |
 |-------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
@@ -115,3 +116,4 @@ design:
 | Jiawei Zheng  | &nbsp;&nbsp;&nbsp;&nbsp;Process-aware Human Activity Recognition                                                                        |
 
 </center>
+</details>

@@ -28,6 +28,10 @@ design:
   show_social: true
 ---
 
+
+<details>
+<summary style="font-size: 24px; border: none;">Show</summary>
+
 <center>
 
 | Time                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | &nbsp;&nbsp;&nbsp;&nbsp;Event                                                                                                                                                                                                                                                                                            |
@@ -116,3 +120,6 @@ design:
 | Yu Hon On                                                                                                                                                                                                                                                                                                                                                                                                    | &nbsp;&nbsp;&nbsp;&nbsp;Automatic Aortic Valve Disease Detection from MRI with Spatio-Temporal Attention Maps                                                                                                |
 
 </center>
+
+
+</details>

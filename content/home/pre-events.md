@@ -27,7 +27,8 @@ design:
   show_role: true
   show_social: true
 ---
-
+<details>
+<summary style="font-size: 24px; border: none;">Show</summary>
 <center>
 
 | Time          | &nbsp;&nbsp;&nbsp;&nbsp;Event                |
@@ -36,4 +37,4 @@ design:
 | 17:00 - 19:00 | &nbsp;&nbsp;&nbsp;&nbsp;Networking reception |
 
 </center>
-
+</details>
