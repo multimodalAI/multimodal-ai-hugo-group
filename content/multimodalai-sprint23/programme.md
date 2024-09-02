@@ -28,8 +28,6 @@ design:
   show_social: true
 ---
 
-<details>
-<summary style="font-size: 24px; border: none;">Show</summary>
 <center>
 
 | Time          | &nbsp;&nbsp;&nbsp;&nbsp;Activity                                | &nbsp;&nbsp;&nbsp;&nbsp;Room               |     
@@ -86,4 +84,3 @@ design:
 | Alejandro Coca-Castro | &nbsp;&nbsp;&nbsp;&nbsp;Environmental Data Modalities: Challenges and Opportunities                             |
 
 </center>
-</details>

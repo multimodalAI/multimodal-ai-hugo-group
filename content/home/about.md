@@ -15,11 +15,14 @@ design:
   css_style:
   css_class:
 ---
-<details>
-<summary style="font-size: 24px; border: none;">About</summary>
+
 <p style="border: none; margin-left: 0;">
 You are warmly invited to join the Second Workshop on Multimodal AI (MultimodalAI'24), on 25th June 2024 at the Edge, University of Sheffield, UK. This workshop will be an in-person-only event. Pre-workshop activities, including a networking reception, will be organised on 24th June at Regent Court and The Diamond, University of Sheffield.
 </p>
+
+<details>
+<summary style="font-size: 24px; border: none;">Click to show more details</summary>
+
 <p style="border: none; margin-left: 0;">
 Multimodal AI, which integrates various data modalities such as text, image, sound, and others, is swiftly revolutionising our interaction with technology and data. MultimodalAI’24 brings together researchers and practitioners from AI, data science, and various scientific and application domains to discuss problems and challenges, share experiences and solutions, explore collaborations and future directions, and build networks and a vibrant community on multimodal AI.
 </p>

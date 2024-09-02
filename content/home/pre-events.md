@@ -28,7 +28,7 @@ design:
   show_social: true
 ---
 <details>
-<summary style="font-size: 24px; border: none;">Show</summary>
+<summary style="font-size: 24px; border: none;">Click to show</summary>
 <center>
 
 | Time          | &nbsp;&nbsp;&nbsp;&nbsp;Event                |

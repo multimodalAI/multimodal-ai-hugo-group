@@ -41,9 +41,14 @@ design:
 ---
 
 
+
+
+<details>
+<summary style="font-size: 24px; border: none;">Click to show more details</summary>
 <img src="/media/the_edge_1.jpg" style="width: 620px; height: auto; display: inline-block;">
 <img src="/media/the_edge_2.webp" style="width: 620px; height: auto; display: inline-block;">
 <center>
     <img src="/media/the_edge_3.jpg" style="width: 700px; height: auto;">
 </center>
 
+</details>

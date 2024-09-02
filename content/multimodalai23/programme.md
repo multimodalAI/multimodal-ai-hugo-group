@@ -29,9 +29,6 @@ design:
 ---
 
 
-<details>
-<summary style="font-size: 24px; border: none;">Show</summary>
-
 <center>
 
 | Time                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | &nbsp;&nbsp;&nbsp;&nbsp;Event                                                                                                                                                                                                                                                                                            |
@@ -121,5 +118,3 @@ design:
 
 </center>
 
-
-</details>

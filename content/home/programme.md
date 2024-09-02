@@ -27,8 +27,7 @@ design:
   show_role: true
   show_social: true
 ---
-<details>
-<summary style="font-size: 24px; border: none;">Show</summary>
+
 <center>
 
 | Time                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | &nbsp;&nbsp;&nbsp;&nbsp;Event                                                                                                              |
@@ -116,4 +115,4 @@ design:
 | Jiawei Zheng  | &nbsp;&nbsp;&nbsp;&nbsp;Process-aware Human Activity Recognition                                                                        |
 
 </center>
-</details>
+
