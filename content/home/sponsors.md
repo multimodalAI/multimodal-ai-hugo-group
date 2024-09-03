@@ -9,8 +9,6 @@ design:
 ---
 
 
-<details>
-<summary>Click to show</summary>
 <div style="text-align: center;">
   <a href="https://www.royce.ac.uk/" target="_blank">
     <img src="/media/henry_royce_institute_logo.png" alt="CMI Logo" style="width: 420px; height: auto; display: inline-block; margin-right: 20px;">
@@ -19,7 +17,6 @@ design:
   <img src="/media/tls_logo.png" alt="TLS Logo" style="width: 420px; height: auto; display: inline-block; margin-right: 20px;">
   </a>
 </div>
-</details>
 
 
 
