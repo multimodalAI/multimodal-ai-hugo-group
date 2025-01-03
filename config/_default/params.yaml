@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Multimodal AI Community UK.'
+    notice: '© {year} UK Open Multimodal AI Network (UKOMAIN).'
     license:
       enable: false
       allow_derivatives: false
