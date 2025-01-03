@@ -16,6 +16,8 @@ design:
   css_class:
 ---
 
+Note (03 Jan 2025): Updates of this website to the UK Open Multimodal AI Network (UKOMAIN) are in progress.
+
 <p style=" text-align: center; margin-bottom: 0px; font-weight: bold; max-width: 900px; margin: 0 auto;">
 Congratulations to all the winners! Lucas Farndale for Best Talk, Ruizhe Li for Best Poster, Nee Ling Wong for Best Student Talk, and Luigi Moretti for Best Student Poster.
 </p>
