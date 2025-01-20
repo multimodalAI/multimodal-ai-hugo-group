@@ -6,7 +6,7 @@ widget: blank
 headless: true # This file represents a page section.
 
 weight: 10 # Order that this section will appear.
-title:
+title: Third Workshop on Multimodal AI
 hero_media: 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -15,5 +15,3 @@ design:
   css_style:
   css_class:
 ---
-
-Note (03 Jan 2025): Updates of this website to the UK Open Multimodal AI Network (UKOMAIN) are in progress. asd ada dadada da
