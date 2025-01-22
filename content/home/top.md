@@ -16,4 +16,45 @@ design:
   css_class:
 ---
 
-Note (03 Jan 2025): Updates of this website to the UK Open Multimodal AI Network (UKOMAIN) are in progress. asd ada dadada da
+# Welcome to the UK Open Multimodal AI Network (UKOMAIN)
+
+## About Us
+The **UK Open Multimodal AI Network (UKOMAIN)** is a national initiative funded by the **Engineering and Physical Sciences Research Council (EPSRC)** with a total grant of **£1.8 million**. Our mission is to advance **multimodal artificial intelligence (AI)** by integrating diverse data types—such as text, images, and sound—to tackle scientific and engineering challenges and create a sustainable future.
+
+From **health and wellbeing** to **transportation systems**, **materials discovery**, and **space exploration**, UKOMAIN connects researchers, industry leaders, and policymakers to foster collaboration, innovation, and real-world impact.
+
+---
+
+## Key Activities
+Our network supports a wide range of activities to promote interdisciplinary collaboration and open research, including:
+- **Funding**: Supporting small-scale, high-impact feasibility studies through competitive funding calls.
+- **Knowledge Exchange**: Hosting workshops, hackathons, and training sessions to empower early career researchers and promote skill development.
+- **Community Building**: Establishing a vibrant ecosystem with stakeholders from academia, industry, and policy sectors.
+- **Open Research**: Sharing data, software, and models under open science principles to maximise accessibility and impact.
+- **Industry and Policy Engagement**: Collaborating with industry and policymakers to ensure our research aligns with real-world needs and informs policy development.
+
+---
+
+## Stay Connected
+Join our growing community and stay updated on the latest developments, opportunities, and events in multimodal AI!
+
+- **Follow us on LinkedIn**: [UK Open Multimodal AI Network](https://www.linkedin.com/company/ukomain)  
+- **Follow us on Twitter/X**: [@MultimodalAI_UK](https://twitter.com/MultimodalAI_UK)  
+
+---
+
+## Contact Us
+We’d love to hear from you! For any enquiries or collaboration opportunities, please contact us at:  
+**`ukomain.contact [at] gmail [dot] com`**
+
+---
+
+## Get Involved
+Explore how you can be part of UKOMAIN:
+- **Collaborate** with leading researchers, industry partners, and policymakers.  
+- **Attend** our workshops, seminars, and training sessions.  
+- **Access** cutting-edge open research resources, including data, software, and tools.  
+- **Apply** for funding opportunities to support impactful research projects.
+
+Let’s shape the future of multimodal AI together!
+
