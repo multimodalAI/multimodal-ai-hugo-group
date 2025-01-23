@@ -23,7 +23,7 @@ content:
         brightness: 0.6
         media: slide.jpg
       content: >
-        <font size="3" style="color: white !important;">London, UK</font>
+        <font size="3" style="color: white !important;">London, UK, Sep 2025 (TBC)</font>
 
         <div style="text-align: center;">
           <a href="https://twitter.com/MultimodalAI_UK" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fab fa-twitter"></i> Follow Us</a>
