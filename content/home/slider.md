@@ -26,7 +26,7 @@ content:
         <font size="3" style="color: white !important;">London, UK, Sep 2025 (TBC)</font>
 
         <div style="text-align: center;">
-          <a href="https://twitter.com/MultimodalAI_UK" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fab fa-twitter"></i> Follow Us</a>
+          <a href="https://www.linkedin.com/company/ukomain" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fab fa-linkedin"></i> Follow Us</a>
         </div>
         
     - title: Second Workshop on Multimodal AI
@@ -41,7 +41,9 @@ content:
 
 
         <div style="text-align: center;">
-          <a href="https://twitter.com/MultimodalAI_UK" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fab fa-twitter"></i> Follow Us</a>
+          <a href="https://multimodalai.github.io/multimodalai24/" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;">
+            <i class="fas fa-history"></i> Review Event
+          </a>
         </div>
 
 
