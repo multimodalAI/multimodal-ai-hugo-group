@@ -61,9 +61,12 @@ design:
   </a>
 </div>
 
+The **MMAI 2025 Workshop** brings together leading researchers, industry experts, and policymakers to explore the latest advancements in **Multimodal AI** and its transformative potential across diverse sectors. As AI evolves beyond single-modality approaches, integrating text, image, speech, and sensor data is essential for achieving more robust, fair, and practical AI-driven solutions.
+
+Building on the success of previous workshops, this event will focus on **deployment-centric, user-focused, and cross-domain collaborations**, aiming to address real-world challenges in **healthcare, transportation, responsible engineering, sustainability, and more**.
 
 
 
-This page is currently under construction. Please check back soon for updates.
+
 
 
