@@ -55,13 +55,26 @@ design:
 </style>
 
 <div class="sticky-buttons">
-  <a href="#partners" style="text-decoration: none;">
+  <a href="#about" style="text-decoration: none;">
     <button>About</button>
   </a>
-  <a href="#about" style="text-decoration: none;">
+  <a href="#speaker" style="text-decoration: none;">
     <button>Keynote Speakers</button>
   </a>
+  <a href="#organiser" style="text-decoration: none;">
+    <button>Organisers</button>
+  </a>
+  <a href="#partners" style="text-decoration: none;">
+    <button>Partners</button>
+  </a>
+  <a href="#sponsors" style="text-decoration: none;">
+    <button>Sponsors</button>
+  </a>
+  <a href="#contact" style="text-decoration: none;">
+    <button>Contact Us</button>
+  </a>
 </div>
+
 
 
 

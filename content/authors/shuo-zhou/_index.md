@@ -38,6 +38,7 @@ user_groups:
 - Team
 - Principal Investigators
 - MultimodalAI24 Organizer
+- MultimodalAI25 Organizer
 ---
 
 Shuo is an Academic Fellow in Machine Learning at the Machine Learning Research Group, School of Computer Science, and Deputy Head of AI Research Engineering at the Centre for Machine Intelligence, University of Sheffield. 

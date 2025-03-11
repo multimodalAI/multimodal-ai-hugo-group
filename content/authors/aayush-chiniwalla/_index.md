@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Xianyuan Liu
+title: Aayush Chiniwalla 
 
 # Username (this should match the folder name)
 authors:
-- xianyuan-liu
+- aayush-chiniwalla
 
 # Is this the primary user of the site?
 superuser: false
@@ -13,7 +13,7 @@ superuser: false
 weight: 30
 
 # Role/position
-role: Assistant Head of AI Research Engineering, and Senior AI Research Engineer
+role: Network Coordinator of UKMAIN
 
 # Organizations/Affiliations
 organizations:
@@ -24,9 +24,7 @@ organizations:
 bio: 
 
 interests:
-- Video Domain Adaptation
-- Machine Learning
-- AI Engineering
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -36,11 +34,5 @@ interests:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Team
-- MultimodalAI24 Organizer
 - MultimodalAI25 Organizer
 ---
-
-Xianyuan is an Assistant Head of AI Research Engineering at the Centre for Machine Intelligence and Senior AI Research Engineer at the University of Sheffield. 
-
-He received his Ph.D. degree in Signal and Information Processing from the University of Chinese Academy of Sciences, China, in 2023. Prior to that, he received his Bachelor’s degree in Measuring Control Technology and Instruments from Southeast University, China, in 2016. See his [homepage](https://xianyuanliu.github.io/) and [LinkedIn](https://www.linkedin.com/in/xianyuanliu/) for more information.
