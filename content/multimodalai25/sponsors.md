@@ -1,5 +1,5 @@
 ---
-title: Our key sponsors
+title: Our Key Sponsors
 subtitle: 
 widget: blank
 headless: true

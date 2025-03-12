@@ -13,7 +13,7 @@ superuser: false
 weight: 30
 
 # Role/position
-role: Network Coordinator of UKMAIN
+role: Network Coordinator of the UK Open Multimodal AI Network
 
 # Organizations/Affiliations
 organizations:
