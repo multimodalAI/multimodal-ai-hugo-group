@@ -1,12 +1,16 @@
 ---
 title: Call for Sponsorship
-subtitle: 30 April, 2024
+subtitle: #30 April, 2024
 widget: blank
 headless: true
 weight: 50
 design:
   columns: '1'
 ---
+This page is currently under construction. Please check back soon for updates.
+
+
+<!-- 
 On behalf of the Organising Committee for the [Second Workshop on Multimodal AI (MultimodalAI'24)](https://multimodalai.github.io/), we invite you to participate in the workshop as a financial sponsor.
 
 Multimodal AI, at the forefront of technological advancement, seamlessly integrates various data modalities such as text, image, and sound, revolutionising our interaction with technology and data. MultimodalAI'24 serves as a nexus for researchers and practitioners from AI, data science, and diverse scientific and application domains to convene, discuss challenges, share insights, foster collaborations, and shape the future of multimodal AI.
@@ -43,7 +47,7 @@ We are also happy to explore alternative opportunities to best suit your needs a
 We are confident that your partnership with MultimodalAI'24 will not only enhance your brand visibility but also contribute to the advancement of multimodal AI research and development.
 
 For further details and to confirm your sponsorship, please contact us directly at multimodal-ai-enquiry-group@shef.ac.uk.
-
+-->
 
 
 

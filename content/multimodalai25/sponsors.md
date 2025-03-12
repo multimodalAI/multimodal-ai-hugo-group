@@ -46,11 +46,16 @@ design:
     <button>Partners</button>
   </a>
   <a href="#sponsors" style="text-decoration: none;">
-    <button>Sponsors</button>
+    <button>Key Sponsors</button>
   </a>
   <a href="#contact" style="text-decoration: none;">
     <button>Contact Us</button>
   </a>
+
+  <a href="/call-for-sponsorship/" style="text-decoration: none;">
+    <button>Call for Sponsorship</button>
+  </a>
+
 </div>
 
 

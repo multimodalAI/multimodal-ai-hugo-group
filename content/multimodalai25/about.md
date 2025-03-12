@@ -54,11 +54,16 @@ design:
     <button>Partners</button>
   </a>
   <a href="#sponsors" style="text-decoration: none;">
-    <button>Sponsors</button>
+    <button>Key Sponsors</button>
   </a>
   <a href="#contact" style="text-decoration: none;">
     <button>Contact Us</button>
   </a>
+
+  <a href="/call-for-sponsorship/" style="text-decoration: none;">
+    <button>Call for Sponsorship</button>
+  </a>
+
 </div>
 
 The **MMAI 2025 Workshop** brings together leading researchers, industry experts, and policymakers to explore the latest advancements in **Multimodal AI** and its transformative potential across diverse sectors. As AI evolves beyond single-modality approaches, integrating text, image, speech, and sensor data is essential for achieving more robust, fair, and practical AI-driven solutions.
