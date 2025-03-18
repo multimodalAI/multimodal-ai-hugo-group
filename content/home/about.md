@@ -43,12 +43,6 @@ Join our growing community and stay updated on the latest developments, opportun
 
 ---
 
-## Contact Us
-We’d love to hear from you! For any enquiries or collaboration opportunities, please contact us at:  
-**`ukomain.contact [at] gmail [dot] com`**
-
----
-
 ## Get Involved
 Explore how you can be part of UKOMAIN:
 - **Collaborate** with leading researchers, industry partners, and policymakers.  

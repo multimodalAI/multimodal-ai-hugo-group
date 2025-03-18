@@ -6,10 +6,10 @@ title: Peter Charlton
 superuser: false
 
 # Role/position
-role: British Heart Foundation Research Fellow, University of Cambridge
+role: Executive Board Member of the UK Open Multimodal AI Network & British Heart Foundation Research Fellow, University of Cambridge
 
 # Order that this section appears on the page.
-weight: 30
+weight: 13
 
 # Organizations/Affiliations
 organizations:
@@ -49,8 +49,10 @@ highlight_name: true
 user_groups:
   - Principal Investigators
   - MultimodalAI24 Organizer
+  - UKOMAIN Team
+  - MultimodalAI25 Organizer
 ---
-Peter Charlton is a British Heart Foundation Research Fellow in the Department of Public Health and Primary Care, at the University of Cambridge. He develops biomedical signal processing techniques to analyse data from digital wearable devices for clinical decision making.
+Peter Charlton is a Executive Board Member of the UK Open Multimodal AI Network and British Heart Foundation Research Fellow in the Department of Public Health and Primary Care, at the University of Cambridge. He develops biomedical signal processing techniques to analyse data from digital wearable devices for clinical decision making.
 
 Peter gained the degree of M.Eng. in Engineering Science in 2010 from the University of Oxford with first class honours. From 2010 to 2020, Peter conducted his research at King’s College London, developing techniques to use wearables to monitor cardiovascular and respiratory health. His Ph.D. focused on using signal processing and machine learning techniques to identify acute deteriorations in hospital patients. Peter is currently developing techniques to use clinical and consumer devices in screening for atrial fibrillation. He is leading a clinical study to assess the acceptability and performance of wearables in older adults.
 

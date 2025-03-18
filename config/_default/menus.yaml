@@ -6,30 +6,19 @@
 main:
   #- name: Latest Event
     #url: 'multimodalai24'
-   # weight: 20
+   # weight: 10
 
+  - name: "About Us"
+    url: '#about'
+    weight: 20
 
-  #- name: Keynote Speaker
-   # url: '#speaker'
-    #weight: 10
+  - name: "Team"
+    url: '#team'
+    weight: 30
 
-  #- name: Programme
-    #url: '#programme'
-   # weight: 30
-  #- name: MultimodalAI'23
-    #url: multimodalai23
-    #weight: 110
-  #- name: Registration
-    #url: 'https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/faculty-of-engineering/first-workshop-on-multimodal-ai'
-    #weight: 80
-
-
-  #- name: Direction
-    #url: '#direction'
-    #weight: 40
-  #- name: Sponsorship
-    #url: call-for-sponsorship
-    #weight: 40
+  - name: "Contact Us"
+    url: '#contact'
+    weight: 30
 
   #- name: Contact Us
     #url: '#contact'

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Order that this section appears on the page.
-weight: 30
+weight: 17
 
 # Role/position
 role: Network Coordinator of the UK Open Multimodal AI Network
@@ -24,7 +24,7 @@ organizations:
 bio: 
 
 interests:
-
+  - 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -35,4 +35,5 @@ interests:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - MultimodalAI25 Organizer
+- UKOMAIN Team
 ---

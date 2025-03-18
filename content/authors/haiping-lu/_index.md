@@ -13,7 +13,7 @@ superuser: true
 weight: 10
 
 # Role/position
-role: Director of the UK Open Multimodal AI Network, Professor of Machine Learning, and Head of AI Research Engineering
+role: Director of the UK Open Multimodal AI Network, Professor of Machine Learning & Head of AI Research Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -40,6 +40,7 @@ user_groups:
 - Principal Investigators
 - MultimodalAI24 Organizer
 - MultimodalAI25 Organizer
+- UKOMAIN Team
 ---
 
 Haiping is the Director of the UK Open Multimodal AI Network (UKOMAIN), Head of the AI Research Engineering, a Professor of Machine Learning and AI Strategy Lead at the School of Computer Science, the Turing Academic Lead, and Insigneo Research Director for Healthcare Data / AI, at the University of Sheffield. He is also the Machine Learning Theme Lead for Sheffield in the N8 Centre of Excellence in Computationally Intensive Research and the lead organiser of the Alan Turing Institute’s interest group on Meta-learning for multimodal data. 

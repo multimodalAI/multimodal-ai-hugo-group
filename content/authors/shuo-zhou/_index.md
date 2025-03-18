@@ -13,7 +13,7 @@ superuser: false
 weight: 20
 
 # Role/position
-role: Deputy Head of AI Research Engineering, and Academic Fellow in Machine Learning
+role: Deputy Head of AI Research Engineering & Lecturer in Machine Learning
 
 # Organizations/Affiliations
 organizations:
