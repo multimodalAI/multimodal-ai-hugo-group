@@ -49,4 +49,4 @@ user_groups:
   - UKOMAIN Team
   - MultimodalAI25 Organizer
 ---
-To be updated.
+ Dezong Zhao is a Executive Board Member of the UK Open Multimodal AI Network. He is a Reader (Associate Professor) in Autonomous Systems at James Watt School of Engineering, University of Glasgow. I am also a Turing Fellow since 2024, a Royal Society-Newton Advanced Fellow since 2020, and an EPSRC Innovation Fellow since 2018. I am interested in exploring the frontiers in control engineering, embodied AI, causal learning, autonomous vehicles, robotics and digital twins.

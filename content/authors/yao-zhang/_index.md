@@ -49,4 +49,8 @@ user_groups:
   - UKOMAIN Team
   - MultimodalAI25 Organizer
 ---
-To be updated.
+Dr. Yao Zhang had her PhD from the Harbin Institute of Technology in 2018. She subsequently worked as a postdoctoral researcher at Queen Mary University of London from 2017 to 2020. She then joined Northumbria University as a Senior Lecturer before taking up a Lectureship at the University of Southampton in 2022. In December 2024, Dr. Zhang joined UCL as a Lecturer in Marine/Maritime Digitalization and Automation.
+
+She serves as a Deputy Editor in Ocean Engineering (Q1), an Associate Editor in IEEE Transactions on Industrial Informatics (Q1), IET Generation, Transmission, and Distribution (Q2). She serves as the Secretary of the IEEE UK&Ireland Women In Engineering (WIE) Affinity Group, an IEEE UK&Ireland WIE Ambassador, and the local event coordinator for the IEEE UK&Ireland Control System Chapter. 
+
+
