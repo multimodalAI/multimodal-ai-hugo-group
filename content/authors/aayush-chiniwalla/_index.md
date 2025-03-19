@@ -18,14 +18,15 @@ role: Network Coordinator of the UK Open Multimodal AI Network
 # Organizations/Affiliations
 organizations:
 - name: The University of Sheffield
-  url: ""
+  url: "" 
 
-# Short bio (displayed in user profile at end of posts)
-bio: 
-
-interests:
-  - 
-
+social:
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'mlap@inf.ed.ac.uk'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/aayush-chiniwalla-586741120/
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -36,4 +37,7 @@ interests:
 user_groups:
 - MultimodalAI25 Organizer
 - UKOMAIN Team
+- 
+
 ---
+Aayush is a successful marketing specialist with knowledge of digital media, social media strategy, and content production. My areas of expertise are social media channel management, compelling campaign development, and producing powerful marketing collateral. I approach marketing creatively and analytically, having a Master's in Digital Media Management and a solid foundation in business administration and content creation. I have worked in a variety of industries, including project management, operations, video production, and social media marketing. I have a strong interest in creative marketing techniques that increase brand awareness, stimulate customer interaction, and support company expansion.

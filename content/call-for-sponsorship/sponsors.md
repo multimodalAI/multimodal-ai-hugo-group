@@ -10,6 +10,10 @@ design:
 This page is currently under construction. Please check back soon for updates.
 
 
+
+
+
+
 <!-- 
 On behalf of the Organising Committee for the [Second Workshop on Multimodal AI (MultimodalAI'24)](https://multimodalai.github.io/), we invite you to participate in the workshop as a financial sponsor.
 
