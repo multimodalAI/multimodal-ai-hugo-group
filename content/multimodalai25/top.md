@@ -43,20 +43,22 @@ design:
     }
   }
 
-  /* Individual buttons styling */
   .sticky-buttons button {
     font-family: 'Open Sans', Arial, sans-serif;
     font-size: 14px;
+    font-weight: bold; /* This makes the text bold */
     padding: 6px 12px;
     border: none;
     border-radius: 4px;
-    background-color: #007BFF;
-    color: #fff;
+    background-color: #154c79;
+    color: #abdbe3;
     cursor: pointer;
     margin-right: 8px;
-    flex: 0 0 auto;   /* Prevent shrinking */
-    min-width: 120px; /* Ensure buttons are wide enough to fit more text */
+    flex: 0 0 auto;
+    min-width: 120px;
   }
+
+
 
   /* Show the scrollbar (custom styling for WebKit browsers) */
   .sticky-buttons::-webkit-scrollbar {
@@ -84,21 +86,20 @@ design:
 
 
 <div class="sticky-buttons">
-  <a href="#about" style="text-decoration: none;">
-    <button>About</button>
-  </a>
   <a href="#speaker" style="text-decoration: none;">
-    <button>Keynote Speakers</button>
+    <button>Speakers</button>
+  </a>
+  <a href="/call-for-sponsorship/" style="text-decoration: none;">
+    <button>Sponsor Us</button>
   </a>
   <a href="#organiser" style="text-decoration: none;">
     <button>Organisers</button>
   </a>
+  <a href="#about" style="text-decoration: none;">
+    <button>About</button>
+  </a>
   <a href="#contact" style="text-decoration: none;">
     <button>Contact Us</button>
-  </a>
-
-  <a href="/call-for-sponsorship/" style="text-decoration: none;">
-    <button>Call for Sponsorship</button>
   </a>
 
 </div>
