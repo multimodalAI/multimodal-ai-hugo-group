@@ -71,6 +71,7 @@ Multimodal AI integrates diverse types of data, such as text, images, and sound,
 
 Hosted by the UK Open Multimodal AI Network (UKOMAIN)—a £1.8 million EPSRC Network Plus project—the event features keynote presentations from leading experts, community pitches, talks and posters, engaging panel discussions, a photo competition, and valuable funding and policy briefings. Prizes will recognise outstanding pitches, talks, posters, and photos. Additionally, we offer travel bursaries and volunteering opportunities to support participants.
 
+Join this interdisciplinary gathering to connect, collaborate, and drive forward multimodal AI research and development.  For further details,follow us at https://www.linkedin.com/company/ukomain.
 
 
 
