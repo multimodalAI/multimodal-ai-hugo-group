@@ -15,6 +15,21 @@ design:
 
 content:
   slides:
+    
+    - title: Third Workshop on Multimodal AI
+      align: center
+      background:
+        position: right
+        color: '#666'
+        brightness: 0.6
+        media: slide.jpg
+      content: >
+        <font size="3" style="color: white !important;">16th-17th September 2025, Barbican Centre, London, UK</font>
+
+        <div style="text-align: center;">
+          <https://multimodalai.github.io/multimodalai25/" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fas fa-globe"></i> View more</a>
+        </div>
+        
     - title: 
       align: center
       background:
@@ -26,19 +41,7 @@ content:
           <iframe style="width: 100%; height: 100%;" src="https://www.youtube.com/embed/DgTIX-0RS6I?si=m-Ctj4RmNeTtNS0l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
 
-    - title: Third Workshop on Multimodal AI
-      align: center
-      background:
-        position: right
-        color: '#666'
-        brightness: 0.6
-        media: slide.jpg
-      content: >
-        <font size="3" style="color: white !important;">London, UK, Sep 2025 (TBC)</font>
-
-        <div style="text-align: center;">
-          <a href="https://www.linkedin.com/company/ukomain" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fab fa-linkedin"></i> Follow Us</a>
-        </div>
+    
         
     - title: Second Workshop on Multimodal AI
       align: center
