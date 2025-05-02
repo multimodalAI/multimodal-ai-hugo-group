@@ -27,7 +27,7 @@ content:
         <font size="3" style="color: white !important;">16th-17th September 2025, Barbican Centre, London, UK</font>
 
         <div style="text-align: center;">
-          <https://multimodalai.github.io/multimodalai25/" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fas fa-globe"></i> View more</a>
+          <a href="https://multimodalai.github.io/multimodalai25/" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fas fa-globe"></i> View more</a>
         </div>
         
     - title: 
