@@ -63,8 +63,6 @@ design:
 
 </div>
 
-The **MMAI 2025 Workshop** brings together leading researchers, industry experts, and policymakers to explore the latest advancements in **Multimodal AI** and its transformative potential across diverse sectors. As AI evolves beyond single-modality approaches, integrating text, image, speech, and sensor data is essential for achieving more robust, fair, and practical AI-driven solutions.
-
 You are warmly invited to join the Third Workshop on Multimodal AI (MultimodalAI'25), taking place on **16th and 17th September 2025** at the **Barbican Centre**, **London**, **EC2Y 8DS**. This workshop will be an in-person-only event, preceded by a **mini-hackathon** on **15th September (location to be announced)**.
 
 Multimodal AI integrates diverse types of data, such as text, images, and sound, swiftly revolutionising how we interact with technology and information. Following two successful workshops, MultimodalAI’25 will gather researchers and practitioners from AI, data science, and various scientific and applied domains. The workshop aims to discuss challenges, share innovative solutions, explore future collaborations, and further build our vibrant multimodal AI community.
