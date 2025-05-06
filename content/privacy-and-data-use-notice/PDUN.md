@@ -1,9 +1,9 @@
 ---
-title: Call for Sponsorship
+title: Privacy and Data Use Notice
 subtitle: #30 April, 2024
 widget: blank
 headless: true
-weight: 50
+weight: 10
 design:
   columns: '1'
 ---
