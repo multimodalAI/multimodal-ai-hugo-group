@@ -28,6 +28,10 @@ main:
     url: '#'
     weight: 60
 
+  - name: "Code of Conduct"
+    url: code-of-conduct
+    weight: 70
+
   - name: "MultimodalAI'24"
     parent: "Past Events"  # Parent name must match exactly
     url: multimodalai24
