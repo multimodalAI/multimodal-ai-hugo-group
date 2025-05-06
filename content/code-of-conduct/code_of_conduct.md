@@ -1,5 +1,5 @@
 ---
-title: Code of Conduct
+title: UKOMAIN Code of Conduct for Events and Community Participation
 subtitle: #30 April, 2024
 widget: blank
 headless: true
@@ -7,7 +7,7 @@ weight: 50
 design:
   columns: '1'
 ---
-# UKOMAIN Code of Conduct for Events and Community Participation
+
 
 The UK Open Multimodal AI Network (UKOMAIN) is committed to providing a respectful, inclusive, and safe environment for all participants in our events, including workshops, seminars, hackathons, meetings, and online activities (e.g. Microsoft Teams). 
 
