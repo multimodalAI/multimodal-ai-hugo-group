@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} UK Open Multimodal AI Network (UKOMAIN).<br> <a href="/privacy-and-data-use-notice/">Privacy and Data Use Notice</a>'
+    notice: '© {year} UK Open Multimodal AI Network (UKOMAIN).<br> <a href="/privacy-and-data-use/">Privacy and Data Use Notice</a>'
     license:
       enable: false
       allow_derivatives: false
