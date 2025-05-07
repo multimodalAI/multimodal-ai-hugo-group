@@ -104,4 +104,7 @@ design:
 
 </div>
 
-This page is currently under construction. Please check back soon for updates.
+Latest news
+  - Call for Abstracts - [Submit now](https://forms.gle/82gbPCu5tBkCm8i29)
+  - Sponsorships now available - [View more](https://call-for-sponsorship)
+
