@@ -5,7 +5,7 @@
 
 main:
   - name: MultimodalAI'25
-    url: 'multimodalai25'
+    url: multimodalai25
     weight: 10
 
   - name: "About Us"
