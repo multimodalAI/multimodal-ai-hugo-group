@@ -106,5 +106,4 @@ design:
 
 Latest news
   - Call for Abstracts - [Submit now](https://forms.gle/82gbPCu5tBkCm8i29)
-  - Sponsorships now available - [View more](multimodalai.github.io/call-for-sponsorship)
-
+  - Sponsorships now available - [View more](https://multimodalai.github.io/multimodalai25/)
