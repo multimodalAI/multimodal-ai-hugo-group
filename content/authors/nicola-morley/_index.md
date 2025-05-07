@@ -47,4 +47,4 @@ user_groups:
   - UKOMAIN Team
   - MultimodalAI25 Organizer
 ---
-To be updated.
+Prof Nicola Morley, is a professor of Materials Physics at the University of Sheffield, UK. Her research focuses on the design, fabrication and characterisation of functional magnetic materials for applications, including magnetostrictive materials for structural health monitoring of aircraft and magnetocaloric materials for refrigeration. More recently she has combined natural language processing and machine learning with high-throughput combinatorial experiments to explore the vast compositional phase space of high entropy alloys looking for the next new magnetic material. Her research interests lie within functional magnetic material discovery for applications. She is currently deputy head of he School of Chemical, Materials and Biological Engineering, and the school Director of One University.
