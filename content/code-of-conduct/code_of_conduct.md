@@ -96,7 +96,7 @@ UKOMAIN reserves the right to take appropriate action in response to any behavio
 
 ## Acknowledgement
 
-This Code of Conduct is adapted with appreciation from the Codes of Conduct of the Alan Turing Institute, NeurIPS, and ICML.
+This Code of Conduct is adapted with appreciation from the Codes of Conduct of the [Alan Turing Institute](https://www.turing.ac.uk/events/policies-and-guidelines), [NeurIPS](https://www.turing.ac.uk/events/policies-and-guidelines), and [ICML](https://icml.cc/public/CodeOfConduct).
 
 **Version:** 06 May 2025
 
