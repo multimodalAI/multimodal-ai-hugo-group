@@ -106,4 +106,4 @@ design:
 
 **Latest news**
   - Call for Abstracts - Application deadline - 15 July 2025 - [Submit now](https://forms.gle/82gbPCu5tBkCm8i29)
-  - Sponsorships Opportunities - [View more](/call-for-sponsorship/)
+  - Sponsorship Opportunities - [View more](/call-for-sponsorship/)
