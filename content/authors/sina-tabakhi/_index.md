@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student, School of Computer Science
+role: PhD Candidate, School of Computer Science, University of Sheffield
 
 # Order that this section appears on the page.
 weight: 70

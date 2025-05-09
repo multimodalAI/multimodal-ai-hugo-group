@@ -13,7 +13,7 @@ superuser: true
 weight: 10
 
 # Role/position
-role: Director of the UK Open Multimodal AI Network, Professor of Machine Learning & Head of AI Research Engineering
+role: Director of the UK Open Multimodal AI Network, Professor of Machine Learning & Head of AI Research Engineering, University of Sheffield
 
 # Organizations/Affiliations
 organizations:
