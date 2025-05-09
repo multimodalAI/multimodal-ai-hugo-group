@@ -4,9 +4,9 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  #- name: Latest Event
-    #url: 'multimodalai24'
-   # weight: 10
+  - name: MultimodalAI'25
+    url: multimodalai25
+    weight: 10
 
   - name: "About Us"
     url: '#about'

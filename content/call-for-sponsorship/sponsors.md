@@ -32,7 +32,7 @@ We offer three sponsorship tiers — Gold (£3,500), Silver (£2,000), and Bronz
 - Acknowledgement during opening and closing remarks
 - Prize recognition and more
 
-Please see the sponsorship flyer for full details.
+Please see the sponsorship flyer below for full details.
 
 We are also happy to explore custom packages tailored to your needs, such as sponsor-branded materials or giveaways.
 

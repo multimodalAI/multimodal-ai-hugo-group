@@ -49,6 +49,7 @@ highlight_name: true
 user_groups:
   - Principal Investigators
   - MultimodalAI24 Organizer
+  - embc25workshop-organiser
 ---
 Professor Tingting Zhu graduated with the DPhil degree in information and biomedical engineering at Oxford University in 2016. This followed her MSc in Biomedical Engineering at University College London and BEng (Hons) in Electrical Engineering from the University of Malta.
 
