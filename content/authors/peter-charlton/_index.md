@@ -51,6 +51,7 @@ user_groups:
   - MultimodalAI24 Organizer
   - UKOMAIN Team
   - MultimodalAI25 Organizer
+  - embc25workshop-organiser
 ---
 Peter Charlton is a Executive Board Member of the UK Open Multimodal AI Network and British Heart Foundation Research Fellow in the Department of Public Health and Primary Care, at the University of Cambridge. He develops biomedical signal processing techniques to analyse data from digital wearable devices for clinical decision making.
 

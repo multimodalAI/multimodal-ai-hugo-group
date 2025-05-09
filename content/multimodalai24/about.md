@@ -21,7 +21,6 @@ design:
 
 Multimodal AI, which integrates various data modalities such as text, image, sound, and others, is swiftly revolutionising our interaction with technology and data. MultimodalAI’24 brings together researchers and practitioners from AI, data science, and various scientific and application domains to discuss problems and challenges, share experiences and solutions, explore collaborations and future directions, and build networks and a vibrant community on multimodal AI.
 
-
 This workshop features four keynote speakers from academia and industry: <a href="https://www.linkedin.com/in/maria-liakata-273b9677/?originalSubdomain=uk">Maria Liakata</a> (Professor of NLP, Queen Mary University of London, Turing AI Fellow), <a href="https://www.linkedin.com/in/danielzuegner/">Daniel Zügner</a> (Senior Researcher, Microsoft Research AI4Science), <a href="https://www.linkedin.com/in/nataliya-tkachenko-phd-b5ab8324/?originalSubdomain=uk">Nataliya Tkachenko</a> (Generative AI Ethics & Assurance Lead, Lloyds Banking Group), and <a href="https://www.linkedin.com/in/adam-steventon-864a2066/">Adam Steventon</a> (Director of Data Platforms, Our Future Health). We offer participants opportunities to present 5-minute talks and posters, with four prizes (£150 each) in total for the best talks and posters. We also have funds to support travel costs.
 
 
