@@ -105,5 +105,5 @@ design:
 </div>
 
 **Latest news**
-  - Call for Abstracts - Application deadline - 15 July 2025 - [Submit now](https://forms.gle/82gbPCu5tBkCm8i29)
+  - Call for Abstracts - Deadline: 15 July 2025 - [Submit now](https://forms.gle/82gbPCu5tBkCm8i29)
   - Sponsorship Opportunities - [View more](/call-for-sponsorship/)
