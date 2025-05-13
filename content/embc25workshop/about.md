@@ -1,5 +1,5 @@
 ---
-title: 
+title: Summary
 subtitle: #30 April, 2024
 widget: blank
 headless: true
