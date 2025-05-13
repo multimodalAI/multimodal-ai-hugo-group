@@ -82,7 +82,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.6
-        media: slide.jpg
+        media: sliderv2.jpg
       content: >
        <font size="3" style="color: white !important;">22nd November 2023, London, UK</font>
         <div style="text-align: center;">
