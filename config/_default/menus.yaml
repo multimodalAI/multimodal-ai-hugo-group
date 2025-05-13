@@ -8,24 +8,28 @@ main:
     url: multimodalai25
     weight: 10
 
+  - name: EMBC25
+    url: embc25workshop
+    weight: 15
+
   - name: "About Us"
-    url: '#about'
+    url: "#about"
     weight: 20
 
   - name: "Team"
-    url: '#team'
+    url: "#team"
     weight: 30
 
   - name: "Contact Us"
-    url: '#contact'
+    url: "#contact"
     weight: 30
 
   #- name: Contact Us
-    #url: '#contact'
-    #weight: 50
+  #url: '#contact'
+  #weight: 50
 
   - name: "Past Events"
-    url: '#'
+    url: "#"
     weight: 60
 
   - name: "Code of Conduct"
@@ -33,26 +37,25 @@ main:
     weight: 70
 
   - name: "MultimodalAI'24"
-    parent: "Past Events"  # Parent name must match exactly
+    parent: "Past Events" # Parent name must match exactly
     url: multimodalai24
     weight: 1
 
   - name: "MultimodalAIForum'24"
-    parent: "Past Events"  # Parent name must match exactly
+    parent: "Past Events" # Parent name must match exactly
     url: multimodalai-forum24
     weight: 2
 
   - name: "MultimodalAISprint'23"
-    parent: "Past Events"  # Parent name must match exactly
+    parent: "Past Events" # Parent name must match exactly
     url: multimodalai-sprint23
     weight: 3
 
   - name: "MultimodalAI'23"
-    parent: "Past Events"  # Parent name must match exactly
+    parent: "Past Events" # Parent name must match exactly
     url: multimodalai23
     weight: 4
 
- # - name: "Openings"
-    #url: opening
-    #weight: 70
-
+  # - name: "Openings"
+  #url: opening
+  #weight: 70

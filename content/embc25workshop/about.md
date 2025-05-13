@@ -1,16 +1,12 @@
 ---
-title: "Open Biomedical Multimodal AI Research: From Pixels to Molecules - EMBC2025 Workshop"
+title: Summary
 subtitle: #30 April, 2024
 widget: blank
 headless: true
-weight: 10
+weight: 30
 design:
   columns: '1'
 ---
-
-This workshop will be held in person as part of the [2025 IEEE EMBC Conference](https://embc.embs.org/2025/), 14th -17th July 2025 at Bella Center in Copenhagen, Denmark.
-
-To register for the workshop, please visit the [EMBC 2025 website](https://embc.embs.org/2025/registration/).
 
 This workshop welcomes researchers and practitioners with basic Python programming experience. Familiarity with Google Colaboratory is recommended. Please bring a laptop to participate fully.
 

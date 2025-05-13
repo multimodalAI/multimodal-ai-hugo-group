@@ -6,7 +6,7 @@ title: Peter Charlton
 superuser: false
 
 # Role/position
-role: Executive Board Member of the UK Open Multimodal AI Network & British Heart Foundation Research Fellow, University of Cambridge
+role: Executive Board Member of the UK Open Multimodal AI Network & Senior Research Scientist, Nokia Bell Labs
 
 # Order that this section appears on the page.
 weight: 13

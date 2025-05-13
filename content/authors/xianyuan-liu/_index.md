@@ -13,7 +13,7 @@ superuser: false
 weight: 30
 
 # Role/position
-role: Assistant Head of AI Research Engineering, and Senior AI Research Engineer
+role: Senior AI Research Engineer & Assistant Head of AI Research Engineering, University of Sheffield
 
 # Organizations/Affiliations
 organizations:

@@ -13,7 +13,7 @@ superuser: false
 weight: 20
 
 # Role/position
-role: Deputy Head of AI Research Engineering & Lecturer in Machine Learning
+role: Lecturer in Machine Learning & Deputy Head of AI Research Engineering, University of Sheffield
 
 # Organizations/Affiliations
 organizations:
