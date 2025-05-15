@@ -8,6 +8,9 @@ design:
   columns: '1'
 ---
 
+Are you interested in multimodal AI for healthcare and medicine, and planning to attend EMBC 2025 (14–17 July) in Copenhagen, Denmark?
+If so, we invite you to join our workshop, *Open Biomedical Multimodal AI Research: From Pixels to Molecules*. Simply select this workshop when [registering](https://embc.embs.org/2025/registration/) for the conference.
+
 This workshop welcomes researchers and practitioners with basic Python programming experience. Familiarity with Google Colaboratory is recommended. Please bring a laptop to participate fully.
 
 The rapid expansion of biomedical data from diverse sources presents opportunities to advance healthcare and precision medicine through multimodal AI, which integrates information from multiple data modalities to improve predictive performance and understanding. Open, accessible, and reproducible tools enable the EMBS and wider community to build on state-of-the-art developments efficiently and accelerate innovation.
