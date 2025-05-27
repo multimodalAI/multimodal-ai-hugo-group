@@ -27,8 +27,19 @@ content:
         <div style="text-align: center;">
           <a href="https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/third-workshop-on-multimodal-ai" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fas fa-globe"></i> Register Now</a>
         </div>
-        
-        
+
+    - title: 
+      align: center
+      background:
+        position: right
+        color: '#666'
+        brightness: 0.6
+      content: >
+        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; justify-content: center; align-items: center;">
+          <iframe style="width: 100%; height: 100%;" src="https://www.youtube.com/embed/DgTIX-0RS6I?si=m-Ctj4RmNeTtNS0l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+
+    
     - title: Second Workshop on Multimodal AI
       align: center
       background:
