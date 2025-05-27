@@ -15,7 +15,6 @@ design:
 
 content:
   slides:
-    
     - title: Third Workshop on Multimodal AI
       align: center
       background:
@@ -25,9 +24,8 @@ content:
         media: sliderv2.jpg
       content: >
         <font size="3" style="color: white !important;">16th-17th September 2025, Barbican Centre, London, UK</font>
-
         <div style="text-align: center;">
-          <a href="https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/third-workshop-on-multimodal-ai" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fas fa-globe"></i> Register Now
+          <a href="https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/third-workshop-on-multimodal-ai" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fas fa-globe"></i> Register Now</a>
         </div>
         
         
@@ -92,19 +90,4 @@ content:
           </a>
         </div>
 
-
-
-
-   # - title: Current Openings
-    #  align: center
-     # background:
-      #  position: right
-       # color: '#666'
-       # brightness: 0.6
-        #media: slide.jpg
-      #content: >
-       # <font size="3" style="color: white !important;">Find or post PhD / job openings in multimodal AI</font>        
-        #<div style="text-align: center;">
-         # <a href=opening class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fas fa-star"></i> PhD / Job Openings</a> <br>
-        #</div>
 ---
