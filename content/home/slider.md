@@ -27,7 +27,7 @@ content:
         <font size="3" style="color: white !important;">16th-17th September 2025, Barbican Centre, London, UK</font>
 
         <div style="text-align: center;">
-          <a href="https://https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/third-workshop-on-multimodal-ai/" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fas fa-globe"></i> Register Now
+          <a href="https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/third-workshop-on-multimodal-ai" class="btn" style="margin: 5px; background-color: white !important; color: purple !important;"><i class="fas fa-globe"></i> Register Now
         </div>
         
     - title: 
