@@ -14,14 +14,14 @@ subtitle:
 
 content:
   # Contact (edit or remove options as required)
-  # contact_links:
-  #   - icon: envelope
-  #     icon_pack: fas
-  #     name: Email the main organiser
-  #     link: 'mailto:shuo.zhou@sheffield.ac.uk'
+  contact_links:
+    - icon: envelope
+      icon_pack: fas
+      name: Email the organisers
+      link: 'mailto:mmai-embc25-group@sheffield.ac.uk'
   # Automatically link email and phone or display as text?
-  autolink: "shuo.zhou@sheffield.ac.uk"
-  email: shuo.zhou@sheffield.ac.uk
+  # autolink: "shuo.zhou@sheffield.ac.uk"
+  # email: shuo.zhou@sheffield.ac.uk
   # address:
   #   street: Bella Center, Center Boulevard 9, Entrance 7, 2300 Copenhagen S
   #   city: Copenhagen
