@@ -105,7 +105,7 @@ design:
 </div>
 
 **Latest news**
-  - Registrations [Now Open](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/third-workshop-on-multimodal-ai)
+  - Registrations - [Now Open](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/third-workshop-on-multimodal-ai)
   - Sponsorship Opportunities - [View more](/call-for-sponsorship/)
   - Call for Abstracts - Deadline: 15 July 2025 - [Submit now](https://forms.gle/82gbPCu5tBkCm8i29)
 
