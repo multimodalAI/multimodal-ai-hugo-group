@@ -21,7 +21,7 @@ content:
     - icon: envelope
       icon_pack: fas
       name: Email the organisers
-      link: 'mailto:ukomain.contact@gmail.com'
+      link: 'mailto:ukomain-mmai25@googlegroups.com'
   # Automatically link email and phone or display as text?
   autolink:
 
