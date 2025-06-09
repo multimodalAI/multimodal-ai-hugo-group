@@ -18,10 +18,6 @@ content:
   #directions:
   #appointment_url: 'https://calendly.com'
   contact_links:
-    - icon: envelope
-      icon_pack: fas
-      name: Email the organisers
-      link: 'mailto:ukomain-mmai25@googlegroups.com'
   # Automatically link email and phone or display as text?
   autolink:
 
@@ -77,4 +73,5 @@ design:
 
 </div>
 
+<i class="fas fa-envelope"></i> Email the organisers: <a href="mailto:ukomain-mmai25@googlegroups.com">ukomain-mmai25@googlegroups.com</a>
 
