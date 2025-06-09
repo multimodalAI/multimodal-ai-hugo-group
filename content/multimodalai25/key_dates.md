@@ -82,11 +82,10 @@ design:
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>         |
 | Final Abstract Submission     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              |   –                                                      | Fri, 22nd August                                     |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>         |
-| Registration Open &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                          | Tue, 27th May &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      | Sun, 31st August                                     |
+| Registration Open &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                          | Tue, 27th May &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      | Closes when full or Sun, 31st August                 |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>         |
 | Cancellation Deadline (with refund)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       |   –                                                      | Mon, 18th August                                     |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>         |
-| Late Signups (from waitlist) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               | Mon, 1st September &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Fri, 12th September                                  |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>         |
 | Call for Volunteers   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                      | Tue, 27th May &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      | Mon, 4th August                                      |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>         |
