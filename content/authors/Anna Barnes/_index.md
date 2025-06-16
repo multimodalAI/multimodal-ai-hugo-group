@@ -9,7 +9,7 @@ superuser: false
 weight: 4
 
 # Role/position
-role: Director of the King's Technology Evaluation Centre, Kings College London
+role: President of Institute of Physics and Engineering in Medicine, Director of the King's Technology Evaluation Centre, Kings College London
 
 # Organizations/Affiliations
 organizations:
