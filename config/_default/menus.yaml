@@ -4,6 +4,10 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
+  - name: OMAIB
+    url: omaib
+    weight: 5
+
   - name: MultimodalAI'25
     url: multimodalai25
     weight: 10
@@ -12,16 +16,12 @@ main:
     url: embc25workshop
     weight: 15
 
-  - name: "About Us"
+  - name: "About"
     url: "#about"
     weight: 20
 
   - name: "Team"
     url: "#team"
-    weight: 30
-
-  - name: "Contact Us"
-    url: "#contact"
     weight: 30
 
   #- name: Contact Us
@@ -30,11 +30,15 @@ main:
 
   - name: "Past Events"
     url: "#"
-    weight: 60
+    weight: 40
 
   - name: "Code of Conduct"
     url: code-of-conduct
-    weight: 70
+    weight: 50
+
+  - name: "Contact"
+    url: "#contact"
+    weight: 60
 
   - name: "MultimodalAI'24"
     parent: "Past Events" # Parent name must match exactly
