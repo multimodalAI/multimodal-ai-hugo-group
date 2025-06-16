@@ -17,16 +17,8 @@ main:
     weight: 15
 
   - name: "About"
-    url: "#about"
+    url: "#"
     weight: 20
-
-  - name: "Team"
-    url: "#team"
-    weight: 30
-
-  #- name: Contact Us
-  #url: '#contact'
-  #weight: 50
 
   - name: "Past Events"
     url: "#"
@@ -36,9 +28,6 @@ main:
     url: code-of-conduct
     weight: 50
 
-  - name: "Contact"
-    url: "#contact"
-    weight: 60
 
   - name: "MultimodalAI'24"
     parent: "Past Events" # Parent name must match exactly
@@ -60,6 +49,17 @@ main:
     url: multimodalai23
     weight: 4
 
-  # - name: "Openings"
-  #url: opening
-  #weight: 70
+  - name: "UKOMAIN"
+    parent: "About" # Parent name must match exactly
+    url: "#ukomain"
+    weight: 1
+
+  - name: "Team"
+    parent: "About" # Parent name must match exactly
+    url: "#team"
+    weight: 2
+
+  - name: "Contact"
+    parent: "About" # Parent name must match exactly
+    url: "#contact"
+    weight: 3
