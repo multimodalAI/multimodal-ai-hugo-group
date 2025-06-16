@@ -1,19 +1,33 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-widget: blank
-headless: true # This file represents a page section.
+# An instance of the People widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: people
 
-weight: 31 # Order that this section will appear.
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 31
+
 title: Welcome Address
-hero_media: 
+
+content:
+  # Choose which groups/teams of users to display.
+  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+  user_groups:
+    - mmai_25_welcome_address
+#    - Principal Investigators
+#    - Researchers
+#    - Grad Students
+#    - Administration
+#    - Visitors
+#   - Alumni
+     #- multimodalai24
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-  # Add custom styles
-  css_style:
-  css_class:
+  show_interests: false
+  show_organizations: false
+  show_role: true
+  show_social: false
 ---
 <style>
   .sticky-buttons {
