@@ -9,7 +9,7 @@ superuser: false
 weight: 4
 
 # Role/position
-role: Principal R&D Engineer in Wind Turbine Architecture
+role: Principal R&D Engineer in Wind Turbine Architecture, Offshore Renewable Energy Catapult
 
 # Organizations/Affiliations
 organizations:
