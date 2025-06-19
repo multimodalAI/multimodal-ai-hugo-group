@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Anna Barnes
+title: Anna Barnes
 
 # Is this the primary user of the site?
 superuser: false
