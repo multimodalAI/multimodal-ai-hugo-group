@@ -50,7 +50,7 @@ UK-based academic researchers eligible for EPSRC funding may apply. Fixed-term r
 
 ## 📎 Call Document and Application Info
 
-- 📄 [Call for Proposals (Full Document)](https://docs.google.com/document/d/1T_ZJT6QrcKrfEPgerwI9ZokVyo2xwnuaOEJFmmzoG88/edit?usp=sharing) *(Regularly updated until official launch)*
+- 📄 [Call for Proposals (Full Document)](https://docs.google.com/document/d/1T_ZJT6QrcKrfEPgerwI9ZokVyo2xwnuaOEJFmmzoG88/edit?usp=sharing) *(Subject to minor updates before the official launch)*
 - 📑 Expression of Interest form available: **11 July 2025**
 - 📬 Contact: [ukomain.contact@gmail.com](mailto:ukomain.contact@gmail.com)
 
