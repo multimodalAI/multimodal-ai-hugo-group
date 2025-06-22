@@ -1,6 +1,6 @@
 ---
-title: 'Open Multimodal AI Benchmark (OMAIB)'
-subtitle: 'UKOMAIN Call for Proposals Round 1'
+title: Open Multimodal AI Benchmark (OMAIB)
+subtitle: UKOMAIN Call for Proposals Round 1
 widget: blank
 headless: true
 weight: 10

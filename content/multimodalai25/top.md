@@ -7,6 +7,7 @@ headless: true # This file represents a page section.
 
 weight: 10 # Order that this section will appear.
 title: Third Workshop on Multimodal AI
+subtitle: 16–17 September 2025, London, UK
 hero_media: 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
