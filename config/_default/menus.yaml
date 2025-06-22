@@ -12,7 +12,7 @@ main:
     url: multimodalai25
     weight: 10
 
-  - name: EMBC25
+  - name: EMBC'25
     url: embc25workshop
     weight: 15
 
