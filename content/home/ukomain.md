@@ -18,9 +18,9 @@ design:
 
 # Welcome to the UK Open Multimodal AI Network
 
-The **UK Open Multimodal AI Network (UKOMAIN)** is a national initiative funded by the **Engineering and Physical Sciences Research Council (EPSRC)** with a total grant of **£1.8 million**. Our mission is to advance **multimodal artificial intelligence (AI)** by integrating diverse data types—such as text, images, and sound—to tackle scientific and engineering challenges and create a sustainable future.
+The UK Open Multimodal AI Network (UKOMAIN) is a national initiative funded by the [Engineering and Physical Sciences Research Council (EPSRC)](https://www.ukri.org/councils/epsrc/) with a total grant of £1.8 million. Our mission is to advance multimodal artificial intelligence (AI) by integrating diverse data types—such as text, images, and sound—to tackle scientific and engineering challenges and create a sustainable future.
 
-From **health and wellbeing** to **transportation systems**, **materials discovery**, and **space exploration**, UKOMAIN connects researchers, industry leaders, and policymakers to foster collaboration, innovation, and real-world impact. Follow our [UKOMAIN LinkedIn page](https://www.linkedin.com/company/ukomain) for the latest updates and opportunities or subscribe to our [Multimodal AI Community mailing list](https://groups.google.com/a/sheffield.ac.uk/g/multimodal-ai-community-group).
+From health and wellbeing to transportation systems, materials discovery, and space exploration, UKOMAIN connects researchers, industry leaders, and policymakers to foster collaboration, innovation, and real-world impact. Follow our [UKOMAIN LinkedIn page](https://www.linkedin.com/company/ukomain) for the latest updates and opportunities or subscribe to our [Multimodal AI Community mailing list](https://groups.google.com/a/sheffield.ac.uk/g/multimodal-ai-community-group).
 
 ---
 
