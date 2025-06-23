@@ -16,16 +16,15 @@ design:
   css_class:
 ---
 
-# Welcome to the UK Open Multimodal AI Network (UKOMAIN)
+### Welcome to the UK Open Multimodal AI Network
 
-## About Us
-The **UK Open Multimodal AI Network (UKOMAIN)** is a national initiative funded by the **Engineering and Physical Sciences Research Council (EPSRC)** with a total grant of **£1.8 million**. Our mission is to advance **multimodal artificial intelligence (AI)** by integrating diverse data types—such as text, images, and sound—to tackle scientific and engineering challenges and create a sustainable future.
+The UK Open Multimodal AI Network (UKOMAIN) is a national initiative funded by the [Engineering and Physical Sciences Research Council (EPSRC)](https://www.ukri.org/councils/epsrc/) with a total grant of £1.8 million. Our mission is to advance multimodal artificial intelligence (AI) by integrating diverse data types—such as text, images, and sound—to tackle scientific and engineering challenges and create a sustainable future.
 
-From **health and wellbeing** to **transportation systems**, **materials discovery**, and **space exploration**, UKOMAIN connects researchers, industry leaders, and policymakers to foster collaboration, innovation, and real-world impact.
+From health and wellbeing to transportation systems, materials discovery, and space exploration, UKOMAIN connects researchers, industry leaders, and policymakers to foster collaboration, innovation, and real-world impact. Follow our [UKOMAIN LinkedIn page](https://www.linkedin.com/company/ukomain) for the latest updates and opportunities or subscribe to our [Multimodal AI Community mailing list](https://groups.google.com/a/sheffield.ac.uk/g/multimodal-ai-community-group).
 
 ---
 
-## Key Activities
+### Key Activities
 Our network supports a wide range of activities to promote interdisciplinary collaboration and open research, including:
 - **Funding**: Supporting small-scale, high-impact feasibility studies through competitive funding calls.
 - **Knowledge Exchange**: Hosting workshops, hackathons, and training sessions to empower early career researchers and promote skill development.
@@ -35,15 +34,16 @@ Our network supports a wide range of activities to promote interdisciplinary col
 
 ---
 
-## Stay Connected
+### Stay Connected
 Join our growing community and stay updated on the latest developments, opportunities, and events in multimodal AI!
 
-- **Follow us on LinkedIn**: [UK Open Multimodal AI Network](https://www.linkedin.com/company/ukomain)  
+- **Follow us on LinkedIn**: [UK Open Multimodal AI Network](https://www.linkedin.com/company/ukomain)
+- **Subscribe to our mailing list**: [Multimodal AI Community](https://groups.google.com/a/sheffield.ac.uk/g/multimodal-ai-community-group)
 - **Follow us on Twitter/X**: [@MultimodalAI_UK](https://twitter.com/MultimodalAI_UK)  
 
 ---
 
-## Get Involved
+### Get Involved
 Explore how you can be part of UKOMAIN:
 - **Collaborate** with leading researchers, industry partners, and policymakers.  
 - **Attend** our workshops, seminars, and training sessions.  

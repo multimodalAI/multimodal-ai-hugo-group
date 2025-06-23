@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: OMAIB
+  - name: "Funding Call"
     url: omaib
     weight: 5
 
@@ -12,7 +12,7 @@ main:
     url: multimodalai25
     weight: 10
 
-  - name: EMBC25
+  - name: EMBC'25
     url: embc25workshop
     weight: 15
 
