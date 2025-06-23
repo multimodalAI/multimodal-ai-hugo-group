@@ -52,6 +52,11 @@ email:
 user_groups:
   - mmai_25_keynote
 ---
-To be updated.
+Biography: Tian is a principal research manager and project lead at Microsoft Research AI for Science. He lead a highly interdisciplinary team of researchers, engineers, and program managers to develop foundational AI capabilities to accelerate the design of novel materials, aiming to impact broad areas including energy storage, carbon capture, and catalysis. He also lead the development of MatterGen, an AI generator that discovers novel materials. His team also develops MatterSim, an AI emulator that accelerates the simulation of material properties.
+
+Before Microsoft, Tian was a postdoc in the Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT from 2020 to 2022, co-advised by Tommi Jaakkola and Regina Barzilay. He got his PhD in Materials Science and Engineering at MIT in 2020, advised by Jeffrey C. Grossman. Tian also did research internships at DeepMind and Google X.
+
+Tian’s most noticeable work before Microsoft includes the development of CDVAE in 2021, a generative model for materials that significantly surpassing other models at the time, as well as CGCNN in 2018, the first graph neural network specifically designed for materials.
+
 
 
