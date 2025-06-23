@@ -49,8 +49,29 @@ email:
 user_groups:
   - mmai_25_keynote
 ---
-Biography: Maria is an Intellectual Forum Senior Research Associate.
+Biography: Maria  is a globally recognised expert in responsible AI, known for bridging the worlds of
+business, ethics, and policy to help organisations adopt AI wisely and well.
 
-She is a globally recognised, award winning AI ethics expert and public policy contributor.
+Over the past 2 decades she has launched and grown ventures in Eastern Europe and the
+UK, led AI projects at PwC UK, and guided corporate boards, startups, and governments
+through complex decisions at the intersection of technology and trust.
 
-She is a member of various Advisory Boards - UK All-Party Parliamentary Group on AI  (APPG AI) ,ORBIT & SKEMA AI Institute, Vice Chair of techUK Data and AI leadership committee and member of BSI/ISO & IEEE AI standard groups. She is a passionate advocate for children rights in the age of AI, serving as member of the Advisory Board for UNICEF #AI4Children and World Economic Forum Generation AI programmes. Maria is PwC Responsible AI lead, managing the company's efforts in deploying responsible AI and data across the UK business, its operations and clients.
+
+Maria serves as an advisor to NATO, UNICEF, the UK Parliament, OECD.AI, and several
+global standards bodies including IEEE and ISO. She is also a Senior Research Associate
+at the University of Cambridge (Jesus College), where she explores the societal
+implications of AI and its governance. She is a passionate public speaker and advocate
+for AI for Children.
+
+
+Her insights have been featured by the BBC, Forbes, The Guardian, Business Insider, and
+the World Economic Forum, where she has authored widely cited frameworks on ethical
+AI. She is the co-editor of Human-Centered AIA Multidisciplinary Perspective for Policy-
+Makers, Auditors, and Users book and the architect behind PwC’s award-winning
+Responsible AI Toolkit — used across industries to operationalise AI governance at scale.
+
+
+Maria has been honoured as a LinkedIn Top Voice in AI, a CogX Award Winner for
+Outstanding Achievement in Ethical AI, Computer Weekly Most Influential Women in UK
+one of the 100 Brilliant Women in AI Ethics. She founded Responsible Intelligence to
+bring this expertise directly to the leaders shaping tomorrow’s AI systems.

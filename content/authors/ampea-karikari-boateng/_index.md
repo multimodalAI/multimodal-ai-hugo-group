@@ -49,4 +49,4 @@ email:
 user_groups:
   - mmai_25_keynote
 ---
-To be updated.
+Ampea Karikari-Boateng currently leads the offshore digitisation team at ORE Catapult. Ampea’s role encompasses developing inhouse digital tools, services and supporting SMEs in the development and implementation of digital tools on digital twin platforms. In his previous role of mechanical research engineer, Ampea focused on bearing analysis, data and signal processing, computational modelling, and condition monitoring of wind turbine mechanical components. He also focused on applying A.I. techniques to develop intelligent condition monitoring of wind turbine system. Ampea has over 10 years’ experience in the offshore renewable energy sector. Ampea has a MEng in mechanical engineering and an EngD in offshore renewable energy.
