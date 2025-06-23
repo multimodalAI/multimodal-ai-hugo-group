@@ -28,6 +28,19 @@ content:
           <a href="https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/third-workshop-on-multimodal-ai" class="btn" style="margin: 5px; background-color: white !important; color: sky !important;"><i class="fas fa-globe"></i> Register Now</a>
         </div>
 
+    - title: UKOMAIN Funding Call 2025
+      align: center
+      background:
+        position: right
+        color: '#666'
+        brightness: 0.6
+        media: sliderv2.png
+      content: >
+
+        <div style="text-align: center;">
+          <a href="https://multimodalai.github.io/omaib/" class="btn" style="margin: 5px; background-color: white !important; color: sky !important;"><i class="fas fa-arrow-right"></i></i></i> View more</a>
+        </div>
+        
     - title: 
       align: center
       background:
