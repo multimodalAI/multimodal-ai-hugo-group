@@ -11,9 +11,9 @@ design:
 
 ### UKOMAIN Funding Call 2025: Open Multimodal AI Benchmark (OMAIB-R1)
 
-**Version:** OMAIB-R1-v0.0  
-**Last updated:** 23 June 2025  
-**Funding available:** £160,000 total; up to £40,000 per project  
+Version: OMAIB-R1-v0.0  
+Last updated: 23 June 2025  
+Funding available: £160,000 total; up to £40,000 per project  
 **Launch webinar:** 11 July 2025, 14:00–15:00 BST ([Register here](https://forms.gle/Aih9sceoD1ZsvzGDA))
 
 ---
