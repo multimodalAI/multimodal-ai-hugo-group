@@ -26,12 +26,12 @@ OMAIB (pronounced *“Oh-Maybe”*) aims to support the development of multimoda
 
 ### 📅 Key Dates
 
-- **Preliminary announcement:** 23 June 2025  
-- **Launch webinar:** 14:00–15:00, 11 July 2025 ([Register here](https://forms.gle/Aih9sceoD1ZsvzGDA))  
+- Preliminary announcement: 23 June 2025  
+- Launch webinar: 14:00–15:00, 11 July 2025 ([Register here](https://forms.gle/Aih9sceoD1ZsvzGDA))  
 - **Expression of Interest deadline:** 16:00, 24 September 2025  
 - **Full proposal deadline:** 16:00, 17 November 2025  
-- **Funding decisions announced:** 19 December 2025  
-- **Project start window:** By 1 April 2026
+- Funding decisions announced: 19 December 2025  
+- Project start window: By 1 April 2026
 
 Additional discussion and matchmaking opportunities will be offered during the [Third Workshop on Multimodal AI](https://multimodalai.github.io/multimodalai25/) in London on 16–17 September 2025.
 
