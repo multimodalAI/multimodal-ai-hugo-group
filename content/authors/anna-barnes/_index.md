@@ -52,4 +52,8 @@ email:
 user_groups:
   - mmai_25_keynote
 ---
-To be updated.
+Biography: Dr Anna Barnes is Director of the King's Technology Evaluation Centre, HCPC registered Clinical Scientist (Medical Physics) and President of the Inst of Physics and Engineering in Medicine. KiTEC is a team of health technology assessors, medical statisticians and health economists in receipt of contracts from NICE medical technology assessment committee since 2014 and has undertaken more than 20 Evaluation Projects in the last 5 years.
+
+In 2020, KiTEC was selected to become an Evaluation Partner for the AI in Health and Care Awards, a large scale, multi-million NHS funded programme that aims at accelerating the testing and evaluation of the most promising AI technologies for national roll out.
+
+Under this award, KiTEC is currently the Technology Specific Evaluation Team (TSET) facilitating AI evaluations trials nationally. In order to evaluate the “real-world” fit and the added value of the proposed AI technology KiTEC follow the “Engineering for Better Healthcare” systems approach (iitoolkit.com) pioneered by Prof John Clarkson, Cambridge University. 

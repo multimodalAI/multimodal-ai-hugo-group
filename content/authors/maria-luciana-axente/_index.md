@@ -49,4 +49,8 @@ email:
 user_groups:
   - mmai_25_keynote
 ---
-To be updated.
+Biography: Maria is an Intellectual Forum Senior Research Associate.
+
+She is a globally recognised, award winning AI ethics expert and public policy contributor.
+
+She is a member of various Advisory Boards - UK All-Party Parliamentary Group on AI  (APPG AI) ,ORBIT & SKEMA AI Institute, Vice Chair of techUK Data and AI leadership committee and member of BSI/ISO & IEEE AI standard groups. She is a passionate advocate for children rights in the age of AI, serving as member of the Advisory Board for UNICEF #AI4Children and World Economic Forum Generation AI programmes. Maria is PwC Responsible AI lead, managing the company's efforts in deploying responsible AI and data across the UK business, its operations and clients.
