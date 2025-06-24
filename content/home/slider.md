@@ -38,7 +38,7 @@ content:
       content: >
         <font size="3" style="color: white !important;">Open Multimodal AI Benchmark (pronounced “Oh-Maybe”). Launch Webinar - 11 July 2025 </font>
         <div style="text-align: center;">
-          <a href="https://multimodalai.github.io/omaib/" class="btn" style="margin: 5px; background-color: white !important; color: sky !important;"><i class="fas fa-arrow-right"></i></i></i> View more</a>
+          <a href="https://multimodalai.github.io/omaib/" class="btn" style="margin: 5px; background-color: white !important; color: sky !important;"><i class="fas fa-arrow-right"></i></i></i> Register now</a>
         </div>
         
     - title: 
