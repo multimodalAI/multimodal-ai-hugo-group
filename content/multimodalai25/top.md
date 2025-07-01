@@ -110,4 +110,5 @@ design:
     - Additional details about **travel bursaries** and **volunteering opportunities** will be sent in a follow-up confirmation email after you have completed the registration form. Please ensure you check your spam or junk folder in case the email is filtered.
   - Sponsorship opportunities - [View more](/call-for-sponsorship/)
   - Call for abstracts  - [Submit now](https://forms.gle/82gbPCu5tBkCm8i29) (Deadline: 15 July 2025)
+  - Keynote Speakers confirmed - [View more](#speaker)
 
