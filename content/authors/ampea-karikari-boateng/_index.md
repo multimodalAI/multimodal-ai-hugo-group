@@ -9,7 +9,7 @@ superuser: false
 weight: 4
 
 # Role/position
-role: Principal R&D Engineer in Wind Turbine Architecture, Offshore Renewable Energy Catapult
+role: Principal R&D Engineer in Wind Turbine Architecture at Offshore Renewable Energy Catapult
 
 # Organizations/Affiliations
 organizations:
@@ -32,7 +32,7 @@ social:
     
   - icon: globe
     icon_pack: fas
-    link: https://www.idcore.eng.ed.ac.uk/our-people/dr-ampea-karikari-boateng
+    link: https://ore.catapult.org.uk/
  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

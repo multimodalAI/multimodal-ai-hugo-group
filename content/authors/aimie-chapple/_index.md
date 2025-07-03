@@ -13,7 +13,7 @@ superuser: false
 weight: 17
 
 # Role/position
-role: Vice President Operations-COO, University College London
+role: Vice President Operations at University College London
 
 # Organizations/Affiliations
 organizations:

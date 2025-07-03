@@ -9,7 +9,7 @@ superuser: false
 weight: 4
 
 # Role/position
-role: Professor of Networks and Transport Operations, University of Leeds
+role: Professor of Networks and Transport Operations at University of Leeds
 
 # Organizations/Affiliations
 organizations:

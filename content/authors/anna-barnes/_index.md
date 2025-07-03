@@ -9,7 +9,7 @@ superuser: false
 weight: 4
 
 # Role/position
-role: Advisory Board Member of the UK Open Multimodal AI Network, President of Institute of Physics and Engineering in Medicine, Director of the King's Technology Evaluation Centre, King's College London
+role: Advisory Board Member of the UK Open Multimodal AI Network, Director of the King's Technology Evaluation Centre at King's College London, and President of Institute of Physics and Engineering in Medicine
 
 # Organizations/Affiliations
 organizations:

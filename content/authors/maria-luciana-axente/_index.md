@@ -9,7 +9,7 @@ superuser: false
 weight: 4
 
 # Role/position
-role: Advisory Board Member of the UK Open Multimodal AI Network,Founder and CEO of Responsible Intelligence and former Head of AI Public Policy and Ethics at PwC UK
+role: Advisory Board Member of the UK Open Multimodal AI Network, Founder and CEO of Responsible Intelligence, and former Head of AI Public Policy and Ethics at PwC UK
 
 # Organizations/Affiliations
 organizations:
@@ -32,7 +32,7 @@ social:
     
   - icon: globe
     icon_pack: fas
-    link: https://www.jesus.cam.ac.uk/maria-luciana-axente
+    link: https://responsibleintelligence.co.uk/
  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

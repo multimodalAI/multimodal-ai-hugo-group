@@ -9,7 +9,7 @@ superuser: false
 weight: 4
 
 # Role/position
-role: Senior Director Biologics Engineering,Oncology at AstraZeneca, Director Augmented Biologics Discovery & Design
+role: Senior Director of Augmented Biologics Design and Global MLAB Lead at AstraZeneca
 
 # Organizations/Affiliations
 organizations:
