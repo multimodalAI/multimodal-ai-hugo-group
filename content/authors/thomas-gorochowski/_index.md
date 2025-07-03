@@ -9,7 +9,7 @@ superuser: false
 weight: 4
 
 # Role/position
-role: Professor of Biological Engineering, University of Bristol
+role: Professor of Biological Engineering at University of Bristol
 
 # Organizations/Affiliations
 organizations:
