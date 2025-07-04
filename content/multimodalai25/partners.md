@@ -56,7 +56,8 @@ design:
 </div>
 
 <div style="text-align: center;">
-  <img src="/media/uos_logo.png" alt="CMI Logo" style="width: 400px; height: auto; display: inline-block; margin-right: 20px;">
-  <img src="/media/UCL_logo.jpg" alt="ATI Logo" style="width: 350px; height: auto; display: inline-block; margin-right: 20px;">
-  <img src="/media/UoG_logo.jpg" alt="ATI Logo" style="width: 250px; height: auto; display: inline-block; margin-right: 20px;">
+  <img src="/media/uos_logo.png" alt="CMI Logo" style="width: 350px; height: auto; display: inline-block; margin-right: 20px;">
+  <img src="/media/UCL_logo.jpg" alt="ATI Logo" style="width: 300px; height: auto; display: inline-block; margin-right: 20px;">
+  <img src="/media/UoG_logo.jpg" alt="ATI Logo" style="width: 215px; height: auto; display: inline-block; margin-right: 20px;">
+  <img src="/media/ati_logo.jpg" alt="ATI Logo" style="width: 270px; height: auto; display: inline-block; margin-right: 20px;">
 </div>
