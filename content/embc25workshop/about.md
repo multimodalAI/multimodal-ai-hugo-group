@@ -1,6 +1,6 @@
 ---
 title: "Open Biomedical Multimodal AI Research: From Pixels to Molecules"
-subtitle: "EMBC Workshop, **B3 M7-8**, 16 July 2025, Copenhagen, Denmark"
+subtitle: "EMBC 2025 Workshop · Room B3 M7-8 · 2:30–6:30 PM · 16 July 2025 · Copenhagen, Denmark"
 widget: blank
 headless: true
 weight: 10
