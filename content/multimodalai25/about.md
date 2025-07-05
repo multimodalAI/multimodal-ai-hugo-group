@@ -6,7 +6,8 @@ widget: blank
 headless: true # This file represents a page section.
 
 weight: 20 # Order that this section will appear.
-title: 
+title: Third Workshop on Multimodal AI
+subtitle: 16–17 September 2025, London, UK
 hero_media: 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
