@@ -16,11 +16,29 @@ design:
   css_class:
 ---
 
+> 🔔 **Upcoming UKOMAIN Events**  
+> 📅 **[Funding launch webinar](https://multimodalai.github.io/omaib/)**: Register by 4pm, **10 July 2025** → [Register now](https://forms.gle/Aih9sceoD1ZsvzGDA)  
+> 📝 **[Workshop abstracts due](https://multimodalai.github.io/multimodalai25/)**: **15 July 2025** → [Submit abstract](https://forms.gle/82gbPCu5tBkCm8i29)
+
+---
+
 ### Welcome to the UK Open Multimodal AI Network
 
 The UK Open Multimodal AI Network (UKOMAIN) is a national initiative funded by the [Engineering and Physical Sciences Research Council (EPSRC)](https://www.ukri.org/councils/epsrc/) with a total grant of £1.8 million. Our mission is to advance multimodal artificial intelligence (AI) by integrating diverse data types—such as text, images, and sound—to tackle scientific and engineering challenges and create a sustainable future.
 
 From health and wellbeing to transportation systems, materials discovery, and space exploration, UKOMAIN connects researchers, industry leaders, and policymakers to foster collaboration, innovation, and real-world impact. Follow our [UKOMAIN LinkedIn page](https://www.linkedin.com/company/ukomain) for the latest updates and opportunities or subscribe to our [Multimodal AI Community mailing list](https://groups.google.com/a/sheffield.ac.uk/g/multimodal-ai-community-group).
+
+---
+---
+
+### 🔔 Key Events & Opportunities
+
+| Date          | Event / Activity                             | Action Link                        |
+|---------------|----------------------------------------------|------------------------------------|
+| 11 July 2025  | Funding Launch Webinar                       | [Register](https://forms.gle/Aih9sceoD1ZsvzGDA)                    |
+| 15 July 2025  | Abstract submission for MultimodalAI’25      | [Submit](https://forms.gle/82gbPCu5tBkCm8i29)                      |
+| 31 Aug 2025   | Registration deadline for MultimodalAI’25    | [Register](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/third-workshop-on-multimodal-ai)                    |
+| 16–17 Sept    | MultimodalAI’25 Workshop                     | [Details](https://multimodalai.github.io/multimodalai25/)                     |
 
 ---
 

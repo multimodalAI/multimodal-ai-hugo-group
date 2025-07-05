@@ -13,7 +13,7 @@ design:
 
 - [Call document](https://docs.google.com/document/d/1T_ZJT6QrcKrfEPgerwI9ZokVyo2xwnuaOEJFmmzoG88/edit?usp=sharing): Last updated on 29 June 2025  
 - Funding available: £160,000 total; up to £40,000 per project  
-- **Launch webinar:** 11 July 2025, 14:00–15:00 BST ([Register here](https://forms.gle/Aih9sceoD1ZsvzGDA))
+- **Launch webinar:** 11 July 2025, 14:00–15:00 BST ([Register by 16:00, 10 July 2025](https://forms.gle/Aih9sceoD1ZsvzGDA))
 - **Talk/pitch opportunity:** Submit an abstract for [MultimodalAI’25](https://multimodalai.github.io/multimodalai25/) (16–17 Sept) by **15 July 2025** – [Submit here](https://forms.gle/82gbPCu5tBkCm8i29)
 
 
