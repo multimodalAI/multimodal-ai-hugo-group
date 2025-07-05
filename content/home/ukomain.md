@@ -28,7 +28,10 @@ The UK Open Multimodal AI Network (UKOMAIN) is a national initiative funded by t
 
 From health and wellbeing to transportation systems, materials discovery, and space exploration, UKOMAIN connects researchers, industry leaders, and policymakers to foster collaboration, innovation, and real-world impact. Follow our [UKOMAIN LinkedIn page](https://www.linkedin.com/company/ukomain) for the latest updates and opportunities or subscribe to our [Multimodal AI Community mailing list](https://groups.google.com/a/sheffield.ac.uk/g/multimodal-ai-community-group).
 
----
+🔗 **Further reading**:  
+- [UKRI official announcement](https://www.ukri.org/news/tackling-tomorrows-engineering-research-challenges/)  
+- [UKOMAIN Network Summary (PDF)](https://multimodalai.github.io/files/UKOMAIN-Network-Summary.pdf)
+
 ---
 
 ### 🔔 Key Events & Opportunities
