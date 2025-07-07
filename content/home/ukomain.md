@@ -48,6 +48,8 @@ From health and wellbeing to transportation systems, materials discovery, and sp
 - **16–17 September 2025** — MultimodalAI’25 Workshop  
   → [Details](https://multimodalai.github.io/multimodalai25/)
 
+- **16 August 2025** — Sponsorship opportunities for MultimodalAI’25   
+  → [Details](https://multimodalai.github.io/call-for-sponsorship/)
 ---
 
 ### Key Activities
