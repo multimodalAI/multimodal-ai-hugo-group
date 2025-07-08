@@ -42,14 +42,15 @@ From health and wellbeing to transportation systems, materials discovery, and sp
 - **15 July 2025** — Abstract submission for MultimodalAI’25  
   → [Submit](https://forms.gle/82gbPCu5tBkCm8i29)
 
+- **16 August 2025** — Sponsorship opportunities for MultimodalAI’25   
+  → [Details](https://multimodalai.github.io/call-for-sponsorship/)
+
 - **31 August 2025** — Registration deadline for MultimodalAI’25  
   → [Register](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/third-workshop-on-multimodal-ai)
 
 - **16–17 September 2025** — MultimodalAI’25 Workshop  
   → [Details](https://multimodalai.github.io/multimodalai25/)
 
-- **16 August 2025** — Sponsorship opportunities for MultimodalAI’25   
-  → [Details](https://multimodalai.github.io/call-for-sponsorship/)
 ---
 
 ### Key Activities
