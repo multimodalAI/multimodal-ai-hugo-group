@@ -63,8 +63,8 @@ design:
   <a href="/call-for-sponsorship/" style="text-decoration: none;">
     <button>Sponsor Us</button>
   </a>
-  <a href="#key_dates" style="text-decoration: none;">
-    <button>Key Dates</button>
+  <a href="#programme" style="text-decoration: none;">
+    <button>Programme</button>
   </a>
   <a href="#about" style="text-decoration: none;">
     <button>About</button>
