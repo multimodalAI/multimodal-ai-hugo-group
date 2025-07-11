@@ -32,29 +32,36 @@ design:
 <style>
   .sticky-buttons {
     position: fixed;
-    top: 1px !important; /* Reduce distance from the top */
+    top: 6px !important;
     left: 50%;
     transform: translateX(-50%);
     background: rgba(255, 255, 255, 0.9);
-    padding: 5px 8px; /* Reduce padding to make it more compact */
+    padding: 5px 8px;
     border-radius: 8px;
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
     z-index: 9999;
+
+    display: flex;            /* Enable flex layout */
+    flex-direction: row;      /* Keep items in a row */
+    flex-wrap: nowrap;        /* Prevent wrapping */
+    overflow-x: auto;         /* Allow scrolling on very small screens */
+    max-width: 100vw;         /* Avoid overflowing viewport width */
   }
 
   .sticky-buttons button {
     font-family: 'Open Sans', Arial, sans-serif;
     font-size: 14px;
-    font-weight: bold; /* This makes the text bold */
-    padding: 6px 12px;
+    font-weight: bold;
+    padding: 4px 12px;
     border: none;
     border-radius: 4px;
     background-color: #154c79;
     color: #abdbe3;
     cursor: pointer;
     margin-right: 8px;
-    flex: 0 0 auto;
+    flex: 0 0 auto;           /* Prevent flex shrink/grow */
     min-width: 120px;
+    white-space: nowrap;     /* Prevent button text from wrapping */
   }
 </style>
 

@@ -7,7 +7,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 40
 
 title: Registration
 subtitle:
@@ -40,6 +40,6 @@ design:
 
 ---
 
-This workshop will be held in person as part of the [2025 IEEE EMBC Conference](https://embc.embs.org/2025/), 14th -17th July 2025 at Bella Center in Copenhagen, Denmark.
+This workshop will be held in person as part of the [2025 IEEE EMBC Conference](https://embc.embs.org/2025/), at 2:30 PM on 16th July 2025 in Room B3 M7-8 Bella Center in Copenhagen, Denmark.
 
 To register for the workshop, please visit the [EMBC 2025 website](https://embc.embs.org/2025/registration/).
