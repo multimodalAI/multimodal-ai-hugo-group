@@ -43,8 +43,8 @@ design:
   <a href="/call-for-sponsorship/" style="text-decoration: none;">
     <button>Sponsor Us</button>
   </a>
-  <a href="#key_dates" style="text-decoration: none;">
-    <button>Key Dates</button>
+  <a href="#programme" style="text-decoration: none;">
+    <button>Programme</button>
   </a>
   <a href="#about" style="text-decoration: none;">
     <button>About</button>
@@ -56,8 +56,8 @@ design:
 </div>
 
 <div style="text-align: center;">
-  <img src="/media/uos_logo.png" alt="CMI Logo" style="width: 350px; height: auto; display: inline-block; margin-right: 20px;">
-  <img src="/media/UCL_logo.jpg" alt="ATI Logo" style="width: 300px; height: auto; display: inline-block; margin-right: 20px;">
-  <img src="/media/UoG_logo.jpg" alt="ATI Logo" style="width: 215px; height: auto; display: inline-block; margin-right: 20px;">
-  <img src="/media/ati_logo.jpg" alt="ATI Logo" style="width: 270px; height: auto; display: inline-block; margin-right: 20px;">
+  <img src="/media/uos_logo.png" alt="CMI Logo" style="width: 270px; height: auto; display: inline-block; margin-right: 20px;">
+  <img src="/media/UCL_logo.jpg" alt="ATI Logo" style="width: 230px; height: auto; display: inline-block; margin-right: 20px;">
+  <img src="/media/UoG_logo.jpg" alt="ATI Logo" style="width: 250px; height: 85px; display: inline-block; margin-right: 20px;">
+  <img src="/media/ati_logo.jpg" alt="ATI Logo" style="width: 205px; height: auto; display: inline-block; margin-right: 20px;">
 </div>
