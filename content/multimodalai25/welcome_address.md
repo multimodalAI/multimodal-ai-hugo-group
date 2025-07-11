@@ -32,7 +32,7 @@ design:
 <style>
   .sticky-buttons {
     position: fixed;
-    top: 1px !important;
+    top: 6px !important;
     left: 50%;
     transform: translateX(-50%);
     background: rgba(255, 255, 255, 0.9);
@@ -52,7 +52,7 @@ design:
     font-family: 'Open Sans', Arial, sans-serif;
     font-size: 14px;
     font-weight: bold;
-    padding: 6px 12px;
+    padding: 4px 12px;
     border: none;
     border-radius: 4px;
     background-color: #154c79;
