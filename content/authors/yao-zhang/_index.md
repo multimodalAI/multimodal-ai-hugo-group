@@ -6,7 +6,7 @@ title: Yao Zhang
 superuser: false
 
 # Role/position
-role: Executive Board Member of the UK Open Multimodal AI Network & Lecturer in Marine/Maritime Digitalisation and Automation, UCL
+role: Lead for Equality, Diversity, and Inclusion at the UK Open Multimodal AI Network & Lecturer in Marine/Maritime Digitalisation and Automation, UCL
 
 # Order that this section appears on the page.
 weight: 15

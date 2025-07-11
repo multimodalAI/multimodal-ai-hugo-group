@@ -6,7 +6,7 @@ title: Dezong Zhao
 superuser: false
 
 # Role/position
-role: Executive Board Member of the UK Open Multimodal AI Network & Reader in Autonomous Systems, The University of Glasgow
+role: Lead for UKRI and Government at the UK Open Multimodal AI Network & Reader in Autonomous Systems, The University of Glasgow
 
 # Order that this section appears on the page.
 weight: 16

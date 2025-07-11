@@ -9,7 +9,7 @@ superuser: false
 weight: 14
 
 # Role/position
-role:  Executive Board Member of the UK Open Multimodal AI Network & Generative AI Ethics & Assurance Lead, Lloyds Banking Group
+role:  Lead for Industry & Public Engagement the UK Open Multimodal AI Network & Generative AI Ethics & Assurance Lead, Lloyds Banking Group
 
 # Organizations/Affiliations
 organizations:
