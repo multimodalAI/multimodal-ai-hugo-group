@@ -11,7 +11,7 @@ design:
 
 ### UKOMAIN Funding Call 2025: Open Multimodal AI Benchmark (OMAIB-R1)
 
-- [Call document](https://docs.google.com/document/d/1T_ZJT6QrcKrfEPgerwI9ZokVyo2xwnuaOEJFmmzoG88/edit?usp=sharing): Last updated on 6 July 2025  
+- [Call document](https://docs.google.com/document/d/1T_ZJT6QrcKrfEPgerwI9ZokVyo2xwnuaOEJFmmzoG88/edit?usp=sharing): Last updated on 11 July 2025  
 - Funding available: £160,000 total; up to £40,000 per project  
 - **Launch webinar:** 11 July 2025, 14:00–15:00 BST ([Register by 16:00, 10 July 2025](https://forms.gle/Aih9sceoD1ZsvzGDA))
 - **Talk/pitch opportunity:** Submit an abstract for [MultimodalAI’25](https://multimodalai.github.io/multimodalai25/) (16–17 Sept) by **15 July 2025** – [Submit here](https://forms.gle/82gbPCu5tBkCm8i29)
@@ -51,7 +51,7 @@ UK-based academic researchers eligible for EPSRC funding may apply. Fixed-term r
 
 ## 📎 Call Document and Application Info
 
-- 📄 [Call for Proposals (Full Document)](https://docs.google.com/document/d/1T_ZJT6QrcKrfEPgerwI9ZokVyo2xwnuaOEJFmmzoG88/edit?usp=sharing) *(Last updated: 6 July 2025)*
+- 📄 [Call for Proposals (Full Document)](https://docs.google.com/document/d/1T_ZJT6QrcKrfEPgerwI9ZokVyo2xwnuaOEJFmmzoG88/edit?usp=sharing) *(Last updated: 11 July 2025)*
 - 📑 Expression of Interest form available: **11 July 2025**
 - 📬 Contact: [ukomain.contact@gmail.com](mailto:ukomain.contact@gmail.com)
 
