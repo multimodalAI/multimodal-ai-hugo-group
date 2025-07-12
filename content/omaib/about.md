@@ -17,7 +17,6 @@ design:
 - Funding available: £160,000 total; up to £40,000 per project
 - **Talk/pitch opportunity:** Submit an abstract for [MultimodalAI’25](https://multimodalai.github.io/multimodalai25/) (16–17 Sept) by **15 July 2025** – [Submit here](https://forms.gle/82gbPCu5tBkCm8i29)
 
-
 ---
 
 The UK Open Multimodal AI Network (UKOMAIN) is pleased to announce the **first funding call** under the [Open Multimodal AI Benchmark (OMAIB)](https://multimodalai.github.io/omaib/), a key mechanism for delivering UKOMAIN’s mission through open, interdisciplinary, and community-driven benchmarking to address [Tomorrow’s Engineering Research Challenges (TERCs)](https://www.ukri.org/publications/tomorrows-engineering-research-challenges/). We define Multimodal AI broadly as the integration of any two or more types of data, not limited to texts and images.
@@ -39,7 +38,7 @@ Additional discussion and matchmaking opportunities will be offered during the [
 
 ---
 
-## 📌 Who Can Apply
+### 📌 Who Can Apply
 
 UK-based academic researchers eligible for EPSRC funding may apply. Fixed-term researchers (e.g. PDRAs) are also eligible under certain conditions. We strongly encourage applications from:
 
@@ -50,7 +49,7 @@ UK-based academic researchers eligible for EPSRC funding may apply. Fixed-term r
 
 ---
 
-## 📎 Call Document and Application Info
+### 📎 Call Document and Application Info
 
 - 📄 [Call for Proposals (Full Document)](https://docs.google.com/document/d/1T_ZJT6QrcKrfEPgerwI9ZokVyo2xwnuaOEJFmmzoG88/edit?usp=sharing) *(Last updated: 11 July 2025)*
 - 📑 Expression of Interest form available: [Sumbit here](https://forms.gle/FC6WdzP3JTdCN6fSA)
@@ -58,7 +57,7 @@ UK-based academic researchers eligible for EPSRC funding may apply. Fixed-term r
 
 ---
 
-## ✅ Learn More
+### ✅ Learn More
 
 - [About UKOMAIN](https://multimodalai.github.io/)  
 - [LinkedIn](https://www.linkedin.com/company/ukomain)  
