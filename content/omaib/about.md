@@ -57,6 +57,85 @@ UK-based academic researchers eligible for EPSRC funding may apply. Fixed-term r
 
 ---
 
+### 💬 Questions and Answers from the Launch Webinar (11 July 2025)
+
+_These questions were raised during the OMAIB Round 1 launch webinar on 11 July 2025. They cover common queries about the funding scope, eligibility, proposal process, and more. Click on a question below to view the answer._
+
+#### 📌 Application & Eligibility
+
+<details>
+<summary>Can the same Principal Investigator (PI) submit more than one proposal?</summary>
+<p>Yes. There is no restriction on the number of proposals a PI may submit.</p>
+</details>
+
+<details>
+<summary>Can non-UK researchers or partners be involved?</summary>
+<p>Yes. International collaborators, including researchers and industry partners, are welcome to participate. However, only UK-based applicants (PIs and Co-Is) and institutions are eligible to receive funding under this call.</p>
+</details>
+
+<details>
+<summary>Are visiting researchers eligible to apply or be part of the team?</summary>
+<p>PI or Co-I roles must meet EPSRC eligibility rules (see the call document). Visiting researchers who want to be a PI or Co-I must seek clarification and support from their line manager and institution (typically research office or equivalent).</p>
+</details>
+
+<details>
+<summary>Can a PhD student be a PI?</summary>
+<p>PIs must meet EPSRC eligibility. Full-time PhD students cannot be PIs. Please refer to the EPSRC eligibility guidance in the call document for further details. For part-time PhD students, it depends on their employment status and institutional policies. However, they are welcome to contribute to the project as team members, either in partially funded (part-time) or unfunded roles.</p>
+</details>
+
+<details>
+<summary>Do industry partners or end users need to deliver something in the project?</summary>
+<p>They do not necessarily need to deliver something directly, but should be actively engaged and contribute meaningfully to the project. This could include providing data, resources, expertise, feedback, validation, or other technical input. Their involvement should enhance the project’s relevance and impact.</p>
+</details>
+
+<details>
+<summary>Can a stakeholder and an industry partner be the same?</summary>
+<p>Industry partners are one type of stakeholder. Stakeholders can include any other relevant parties, such as policy makers, NGOs, or community groups. </p>
+</details>
+
+#### 💰 Funding & Evaluation
+
+<details>
+<summary>Are indirect costs eligible?</summary>
+<p>Yes, indirect costs are eligible. Please refer to the call document for details on eligible costs.</p>
+</details>
+
+<details>
+<summary>How many funding rounds will there be?</summary>
+<p>Three rounds are planned during 2025–2027. This first round (OMAIB-R1) is the only one currently open for proposals. We plan to announce the second round (OMAIB-R2) in early 2026.</p>
+</details>
+
+<details>
+<summary>When will decisions be announced?</summary>
+<p>Final decisions for Round 1 will be made by 19 December 2025.</p>
+</details>
+
+<details>
+<summary>Are all evaluation criteria weighted equally?</summary>
+<p>No. The essential requirements outlined for EOI screening must be satisfied. Full proposals will then be assessed against a broader set of qualitative criteria listed in the call document. These are not numerically weighted but considered holistically in shortlisting and final decisions.</p>
+</details>
+
+<details>
+<summary>What are the TERC areas?</summary>
+<p>The eight TERC challenge domains are: Space, Transportation Systems, Materials, Health and Wellbeing, Robotics and AI, Responsible Engineering, Nature-based Engineering, and Global Engineering Solutions. Please refer to the <a href="https://www.ukri.org/publications/tomorrows-engineering-research-challenges/">Tomorrow’s Engineering Research Challenges</a> document for more details.</p>
+</details>
+
+#### 🌐 Engagement & Scope
+
+<details>
+<summary>What does end-user or community engagement mean in this context?</summary>
+<p>It means engaging with the wider multimodal AI community, including researchers, practitioners, end users, and other stakeholders to shape your project and its outputs for maximum impact. This can involve sharing your work openly (e.g. on GitHub), engaging with the community through open discussions, and ensuring your project addresses real-world needs and challenges that are relevant and meaningful to them.</p>
+</details>
+
+<details>
+<summary>Can long-term research be proposed (e.g. biologically inspired methods)?</summary>
+<p>Yes, as long as it aligns with the call’s goals and demonstrates clear relevance to real-world applications. All proposals will be assessed based on the criteria outlined in the call document, including their potential impact and feasibility within the funding period.</p>
+</details>
+
+For further details, please refer to the full call document provided above.
+
+---
+
 ### ✅ Learn More
 
 - [About UKOMAIN](https://multimodalai.github.io/)  
