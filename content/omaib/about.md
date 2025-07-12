@@ -13,7 +13,7 @@ design:
 
 - **Expression of Interest** - [Sumbit here](https://forms.gle/FC6WdzP3JTdCN6fSA)
 - OMAIB GitHub Discussion Board - [View now](https://github.com/multimodalAI/omaib/discussions)
-- [Call document](https://docs.google.com/document/d/1T_ZJT6QrcKrfEPgerwI9ZokVyo2xwnuaOEJFmmzoG88/edit?usp=sharing): Last updated on 11 July 2025  
+- [Call document](https://docs.google.com/document/d/1T_ZJT6QrcKrfEPgerwI9ZokVyo2xwnuaOEJFmmzoG88/edit?usp=sharing): Last updated on 12 July 2025  
 - Funding available: £160,000 total; up to £40,000 per project
 - **Talk/pitch opportunity:** Submit an abstract for [MultimodalAI’25](https://multimodalai.github.io/multimodalai25/) (16–17 Sept) by **15 July 2025** – [Submit here](https://forms.gle/82gbPCu5tBkCm8i29)
 
@@ -51,7 +51,8 @@ UK-based academic researchers eligible for EPSRC funding may apply. Fixed-term r
 
 ### 📎 Call Document and Application Info
 
-- 📄 [Call for Proposals (Full Document)](https://docs.google.com/document/d/1T_ZJT6QrcKrfEPgerwI9ZokVyo2xwnuaOEJFmmzoG88/edit?usp=sharing) *(Last updated: 11 July 2025)*
+- 📄 [Call for Proposals (Full Document)](https://docs.google.com/document/d/1T_ZJT6QrcKrfEPgerwI9ZokVyo2xwnuaOEJFmmzoG88/edit?usp=sharing) *(Last updated: 12 July 2025)*
+- 🗓️ Webinar (11 July 2025): [Q&A](https://docs.google.com/document/d/1dpI5OrDR7pVRq1F7LKekHdX9Qk6kNGH5/edit?usp=sharing&ouid=101520875600728785368&rtpof=true&sd=true), [Slides](https://multimodalai.github.io/files/OMAIB-LaunchWebinar-11July2025-Slides.pdf), Recording coming soon
 - 📑 Expression of Interest form available: [Sumbit here](https://forms.gle/FC6WdzP3JTdCN6fSA)
 - 📬 Contact: [ukomain.contact@gmail.com](mailto:ukomain.contact@gmail.com)
 
