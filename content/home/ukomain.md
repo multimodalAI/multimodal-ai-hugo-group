@@ -18,7 +18,7 @@ design:
 
 > 🔔 **Upcoming UKOMAIN Events**  
 > 📅 **[Funding launch webinar](https://multimodalai.github.io/omaib/)**: Register by 4pm, **10 July 2025** → [Register now](https://forms.gle/Aih9sceoD1ZsvzGDA)  
-> 📝 **[Workshop abstracts due](https://multimodalai.github.io/multimodalai25/)**: **15 July 2025** → [Submit abstract](https://forms.gle/82gbPCu5tBkCm8i29)
+> 📝 **[Workshop abstracts due](https://multimodalai.github.io/multimodalai25/)**: **5 August 2025** → [Submit abstract](https://forms.gle/82gbPCu5tBkCm8i29)
 
 ---
 
@@ -39,7 +39,7 @@ From health and wellbeing to transportation systems, materials discovery, and sp
 - **11 July 2025** — Funding Launch Webinar  
   → [Register](https://forms.gle/Aih9sceoD1ZsvzGDA)
 
-- **15 July 2025** — Abstract submission for MultimodalAI’25  
+- **5 August 2025** — Abstract submission for MultimodalAI’25  
   → [Submit](https://forms.gle/82gbPCu5tBkCm8i29)
 
 - **16 August 2025** — Sponsorship opportunities for MultimodalAI’25   
