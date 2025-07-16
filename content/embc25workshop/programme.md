@@ -36,15 +36,14 @@ design:
 |-------------|-------------------------------|
 | 14:30 - 14:35   | &nbsp;&nbsp;&nbsp;&nbsp;**Welcome**   |
 | 14:35 - 14:55   | &nbsp;&nbsp;&nbsp;&nbsp;**Opening talk**: _Towards Deployment-Centric Multimodal AI_ -- [Prof. Haiping Lu](https://haipinglu.github.io/), The University of Sheffield  |
-| 14:55 - 15:15   | &nbsp;&nbsp;&nbsp;&nbsp;**Introduction to the Tutorials**.    |
+| 14:55 - 15:15   | &nbsp;&nbsp;&nbsp;&nbsp;**Introduction to the Tutorials**|
 | <td style="word-wrap: break-word; max-width:300px; text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;Speakers:<ul><li>[Jiayang Zhang](https://linkedin.com/in/jiayang-zhang)</li><li>[Zixuan (Kelly) Ding](https://www.linkedin.com/in/kellydingzx)</li><li>[Xianyuan Liu](https://github.com/xianyuanliu)</li><li>[Sina Tabakhi](https://sinatabakhi.github.io/)</li></td> |
-| 15:15 - 15:25   | &nbsp;&nbsp;&nbsp;&nbsp;**Interactive tutorial to the prerequisites** (Colab, Environment Setup, and Configuration)|
-| 15:25 - 16:25   | &nbsp;&nbsp;&nbsp;&nbsp;**Hands-On Sessions** (Round 1)  |
-| 16:25 - 16:35   | &nbsp;&nbsp;&nbsp;&nbsp;**Open Sharing and Discussion** |
-| 16:35 - 17:35   | &nbsp;&nbsp;&nbsp;&nbsp;**Hands-On Sessions** (Round 2)  |
-| 17:35 - 17:50   | &nbsp;&nbsp;&nbsp;&nbsp;**Post-tutorial Discussion**             |
-| 17:50 - 18:00   | &nbsp;&nbsp;&nbsp;&nbsp;**Closing Remarks** |
-|                 | &nbsp;&nbsp;&nbsp;&nbsp;**Networking** |
+| 15:15 - 15:25   | &nbsp;&nbsp;&nbsp;&nbsp;**Interactive Tutorial** |
+| 15:25 - 16:25   | &nbsp;&nbsp;&nbsp;&nbsp;**Hands-on Session** (Round 1)   |
+| 16:25 - 16:35   | &nbsp;&nbsp;&nbsp;&nbsp;**Open Sharing and Discussion**  |
+| 16:35 - 17:35   | &nbsp;&nbsp;&nbsp;&nbsp;**Hands-on Session** (Round 2)   |
+| 17:35 - 17:50   | &nbsp;&nbsp;&nbsp;&nbsp;**Post-tutorial Discussion**     |
+| 17:50 - 18:00   | &nbsp;&nbsp;&nbsp;&nbsp;**Closing Remarks**              |
 
 </center>
 
