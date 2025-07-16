@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Programme
+title: Schedule
 subtitle: 
 
 content:
@@ -36,14 +36,15 @@ design:
 |-------------|-------------------------------|
 | 14:30 - 14:35   | &nbsp;&nbsp;&nbsp;&nbsp;**Welcome**   |
 | 14:35 - 14:55   | &nbsp;&nbsp;&nbsp;&nbsp;**Opening talk**: _Towards Deployment-Centric Multimodal AI_ -- [Prof. Haiping Lu](https://haipinglu.github.io/), The University of Sheffield  |
-| 14:55 - 15:20   | &nbsp;&nbsp;&nbsp;&nbsp;**Introduction to the Tutorials**.    |
-| <td style="word-wrap: break-word; max-width:300px; text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;Speakers:<ul><li>[Xianyuan Liu](https://github.com/xianyuanliu)</li><li>[Zixuan (Kelly) Ding](https://www.linkedin.com/in/kellydingzx)</li><li>[Sina Tabakhi](https://sinatabakhi.github.io/)</li><li>[Jiayang Zhang](https://linkedin.com/in/jiayang-zhang)</li></td> |
-| 15:20 - 15:30   | &nbsp;&nbsp;&nbsp;&nbsp;**Interactive tutorial to the prerequisites** (Colab, Environment Setup, and Configuration)|
-| 15:30 - 16:30   | &nbsp;&nbsp;&nbsp;&nbsp;**Hands-On Sessions** (Run 1)  |
-| 16:30 - 16:45   | &nbsp;&nbsp;&nbsp;&nbsp;**Open Sharing and Discussion** |
-| 16:45 - 17:45   | &nbsp;&nbsp;&nbsp;&nbsp;**Hands-On Sessions** (Run 2)  |
-| 17:45 - 18:10   | &nbsp;&nbsp;&nbsp;&nbsp;**Post-tutorial Discussion, Feedback and Q&A**             |
-| 18:10 - 18:30   | &nbsp;&nbsp;&nbsp;&nbsp;**Closing and Networking** |
+| 14:55 - 15:15   | &nbsp;&nbsp;&nbsp;&nbsp;**Introduction to the Tutorials**.    |
+| <td style="word-wrap: break-word; max-width:300px; text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;Speakers:<ul><li>[Jiayang Zhang](https://linkedin.com/in/jiayang-zhang)</li><li>[Zixuan (Kelly) Ding](https://www.linkedin.com/in/kellydingzx)</li><li>[Xianyuan Liu](https://github.com/xianyuanliu)</li><li>[Sina Tabakhi](https://sinatabakhi.github.io/)</li></td> |
+| 15:15 - 15:25   | &nbsp;&nbsp;&nbsp;&nbsp;**Interactive tutorial to the prerequisites** (Colab, Environment Setup, and Configuration)|
+| 15:25 - 16:25   | &nbsp;&nbsp;&nbsp;&nbsp;**Hands-On Sessions** (Round 1)  |
+| 16:25 - 16:35   | &nbsp;&nbsp;&nbsp;&nbsp;**Open Sharing and Discussion** |
+| 16:35 - 17:35   | &nbsp;&nbsp;&nbsp;&nbsp;**Hands-On Sessions** (Round 2)  |
+| 17:35 - 17:50   | &nbsp;&nbsp;&nbsp;&nbsp;**Post-tutorial Discussion**             |
+| 17:50 - 18:00   | &nbsp;&nbsp;&nbsp;&nbsp;**Closing Remarks** |
+|                 | &nbsp;&nbsp;&nbsp;&nbsp;**Networking** |
 
 </center>
 
