@@ -1,7 +1,7 @@
 ---
 # An instance of the People widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
+widget: people
 
 # This file represents a page section.
 headless: true
@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Programme
+title: Schedule
 subtitle: 
 
 content:
@@ -28,16 +28,25 @@ design:
   show_social: true
 ---
 
+#### Chair: [Peter Charlton](https://peterhcharlton.github.io/), Co-Chair: [Xianyuan Liu](https://xianyuanliu.github.io/)
+
 <center>
 
-|  |
-|:----------------|
-| **Welcome and Opening**: _Towards Deployment-Centric Multimodal AI_ - Prof. Haiping Lu |
-| **Introduction to the Tutorials** |
-| **Hands-On Sessions** (run in parallel across four application areas):<br>• Brain Disorder Diagnosis (Imaging + Phenotypic Features)<br>• Cardiothoracic Abnormality Assessment (X-ray + ECG)<br>• Cancer Classification (Multi-omics)<br>• Drug–Target Interaction Prediction (Protein + Molecular) |
-| **Open Sharing and Discussion** |
-| **Closing** |
+|Time         | &nbsp;&nbsp;&nbsp;&nbsp;Event |
+|-------------|-------------------------------|
+| 14:30 - 14:35   | &nbsp;&nbsp;&nbsp;&nbsp;**Welcome**   |
+| 14:35 - 14:55   | &nbsp;&nbsp;&nbsp;&nbsp;**Opening talk**: _Towards Deployment-Centric Multimodal AI_ -- [Prof. Haiping Lu](https://haipinglu.github.io/), The University of Sheffield  |
+| 14:55 - 15:15   | &nbsp;&nbsp;&nbsp;&nbsp;**Introduction to the Tutorials**|
+| <td style="word-wrap: break-word; max-width:300px; text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;Speakers:<ul><li>[Jiayang Zhang](https://linkedin.com/in/jiayang-zhang)</li><li>[Zixuan (Kelly) Ding](https://www.linkedin.com/in/kellydingzx)</li><li>[Xianyuan Liu](https://github.com/xianyuanliu)</li><li>[Sina Tabakhi](https://sinatabakhi.github.io/)</li></td> |
+| 15:15 - 15:25   | &nbsp;&nbsp;&nbsp;&nbsp;**Interactive Tutorial** |
+| 15:25 - 16:25   | &nbsp;&nbsp;&nbsp;&nbsp;**Hands-on Session** (Round 1)   |
+| 16:25 - 16:35   | &nbsp;&nbsp;&nbsp;&nbsp;**Open Sharing and Discussion**  |
+| 16:35 - 17:35   | &nbsp;&nbsp;&nbsp;&nbsp;**Hands-on Session** (Round 2)   |
+| 17:35 - 17:50   | &nbsp;&nbsp;&nbsp;&nbsp;**Post-tutorial Discussion**     |
+| 17:50 - 18:00   | &nbsp;&nbsp;&nbsp;&nbsp;**Closing Remarks**              |
 
 </center>
 
-These hands-on tutorials will use public imaging, omics, and molecular datasets, including MIMIC ([Chest X-ray](https://physionet.org/content/mimic-cxr/2.1.0/) and [ECG](https://physionet.org/content/mimic-iv-ecg/1.0/)), [ABIDE](https://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html), [TCGA](https://www.cancer.gov/ccg/research/genome-sequencing/tcga), [BindingDB](https://www.bindingdb.org/rwd/bind/index.jsp), and [BioSNAP](https://snap.stanford.edu/biodata/), and follow a standardised machine learning pipeline: data loading, preprocessing, embedding, prediction, evaluation, and interpretation, using the open-source multimodal AI library [PyKale](https://github.com/pykale/pykale).
+<!-- | <td style="word-wrap: break-word; max-width:300px; text-align: justify;"><ul><li>Brain Disorder Diagnosis (Imaging + Phenotypic Features)</li><li> Cardiothoracic Abnormality Assessment (X-ray + ECG)</li><li>Cancer Classification (Multi-omics)</li><li>Drug–Target Interaction Prediction (Protein + Molecular)</li></td>| -->
+
+<!-- These hands-on tutorials will use public imaging, omics, and molecular datasets, including MIMIC ([Chest X-ray](https://physionet.org/content/mimic-cxr/2.1.0/) and [ECG](https://physionet.org/content/mimic-iv-ecg/1.0/)), [ABIDE](https://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html), [TCGA](https://www.cancer.gov/ccg/research/genome-sequencing/tcga), [BindingDB](https://www.bindingdb.org/rwd/bind/index.jsp), and [BioSNAP](https://snap.stanford.edu/biodata/), and follow a standardised machine learning pipeline: data loading, preprocessing, embedding, prediction, evaluation, and interpretation, using the open-source multimodal AI library [PyKale](https://github.com/pykale/pykale). -->

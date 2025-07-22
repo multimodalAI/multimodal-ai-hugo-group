@@ -14,7 +14,7 @@ main:
 
   - name: EMBC'25
     url: embc25workshop
-    weight: 15
+    weight: 1
 
   - name: "About"
     url: "#"
