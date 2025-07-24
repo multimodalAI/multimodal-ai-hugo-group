@@ -6,6 +6,9 @@ headless: true
 weight: 70
 design:
   columns: '1'
+  spacing:
+    # [top, right, bottom, left]
+    padding: ['10px', '0', '30px', '0']
 ---
 <style>
   .sticky-buttons {

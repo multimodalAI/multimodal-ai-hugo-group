@@ -23,6 +23,9 @@ content:
 
 design:
   columns: '1'
+  spacing:
+    # [top, right, bottom, left]
+    padding: ['10px', '0', '20px', '0']
 
 ---
 <style>
