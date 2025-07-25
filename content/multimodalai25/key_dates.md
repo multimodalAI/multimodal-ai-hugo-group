@@ -87,35 +87,35 @@ design:
 |                                                                                 | Open Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     | Close Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |---------------------------------------------------------------------------------|---------------------------------------------------------|----------------------------------------|
 | Call for Abstracts   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                       | Wed, 30th April &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    | Tue, 5th August                        |
-| <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> |
-| Abstract Acceptance Notification   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         |           –                                              | Tue, 12th August                       |
-| <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> |
-| Final Abstract Submission     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              |   –                                                      | Fri, 22nd August                       |
-| <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> |
+| <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div> |
+| Abstract Acceptance Notification   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         | –                                                       | Tue, 12th August                       |
+| <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div> |
+| Final Abstract Submission     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              | –                                                       | Fri, 22nd August                       |
+| <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div> |
 | Registration Open &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                          | Tue, 27th May &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      | Closes when full or Sun, 31st August   |
-| <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> |
-| Cancellation Deadline (with refund)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       |   –                                                      | Mon, 18th August                       |
-| <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> |
-| <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> |
+| <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div> |
+| Cancellation Deadline (with refund)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       | –                                                       | Mon, 18th August                       |
+| <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div> |
+| <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div> |
 | Call for Volunteers   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                      | Tue, 27th May &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      | Mon, 4th August                        |
-| <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> |
-| Volunteer Acceptance Notification &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          |   –                                                      | Wed, 13th August                       |
-| <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> |
+| <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div> |
+| Volunteer Acceptance Notification &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          | –                                                       | Wed, 13th August                       |
+| <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div> |
 | Travel Bursary for Inclusive Participation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Tue, 27th May &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      | Mon, 4th August                        |
-| <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> |
-| Travel Bursary Decision Notification &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       |   –                                                      | Tue, 13th August                       |
-| <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> |
+| <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div> |
+| Travel Bursary Decision Notification &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       | –                                                       | Tue, 13th August                       |
+| <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div> |
 | Call for Sponsors &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                          | Wed, 7th May &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       | Sat, 16th August                       |
-| <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> |
-| Photo Challenge Submission Open &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            | Mon, 8th July &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      | Mon, 25th August                       |
-| <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> |
+| <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div> |
+| Photo Challenge Submission Open &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            | TBC &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                  | Mon, 25th August                       |
+| <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div> |
 | Photo Challenge Public Voting &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              | Mon, 1st September &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Mon, 8th September                     |
-| <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> |
-| Photo Challenge Panel Decision &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              |  –                                                       | Mon, 15th September                    |
-| <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> |
-| Draft Programme Finalised  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 |  –                                                       | Tue, 26th August                       |
-| <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div> |
-| Final Programme Released (PDF) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                 |  –                                                       | Tue, 2nd September                     |
+| <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div> |
+| Photo Challenge Panel Decision &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              | –                                                       | Mon, 15th September                    |
+| <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div> |
+| Draft Programme Finalised  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 | –                                                       | Tue, 26th August                       |
+| <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div> |
+| Final Programme Released (PDF) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                 | –                                                       | Tue, 2nd September                     |
 
 
 </center>
