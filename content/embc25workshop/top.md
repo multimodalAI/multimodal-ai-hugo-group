@@ -40,6 +40,6 @@ design:
 
 ---
 
-This workshop will be held in person as part of the [2025 IEEE EMBC Conference](https://embc.embs.org/2025/), at 2:30 PM on 16th July 2025 in Room B3 M7-8 Bella Center in Copenhagen, Denmark.
+This workshop was held in person as part of the [2025 IEEE EMBC Conference](https://embc.embs.org/2025/program/workshops/), at 2:30 PM on 16th July 2025 in Room B3 M7-8 Bella Center in Copenhagen, Denmark.
 
-To register for the workshop, please visit the [EMBC 2025 website](https://embc.embs.org/2025/registration/).
+Registration has closed, as the workshop is now over. However, you can still access the materials and resources from the workshop online.
