@@ -15,9 +15,6 @@ design:
   # Add custom styles
   css_style:
   css_class:
-  spacing:
-    # [top, right, bottom, left]
-    padding: ['5px', '0', '10px', '0']
 ---
 <style>
   .sticky-buttons {
