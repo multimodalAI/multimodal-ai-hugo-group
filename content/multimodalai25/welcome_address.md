@@ -28,9 +28,6 @@ design:
   show_organizations: false
   show_role: true
   show_social: false
-  spacing:
-    # [top, right, bottom, left]
-    padding: ['2px', '0', '2px', '0']
 ---
 <style>
   .sticky-buttons {
