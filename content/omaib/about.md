@@ -28,7 +28,7 @@ OMAIB (pronounced *“Oh-Maybe”*) aims to support the development of multimoda
 ### 📅 Key Dates
 
 - Preliminary announcement: 23 June 2025  
-- Launch webinar: 14:00–15:00, 11 July 2025 ([Register here](https://forms.gle/Aih9sceoD1ZsvzGDA))  
+- Launch webinar: 14:00–15:00, 11 July 2025 
 - **Expression of Interest deadline:** 16:00, 24 September 2025  
 - **Full proposal deadline:** 16:00, 17 November 2025  
 - Funding decisions announced: 19 December 2025  
