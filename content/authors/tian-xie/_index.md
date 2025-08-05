@@ -58,5 +58,7 @@ Before Microsoft, Tian was a postdoc in the Computer Science and Artificial Inte
 
 Tian’s most noticeable work before Microsoft includes the development of CDVAE in 2021, a generative model for materials that significantly surpassing other models at the time, as well as CGCNN in 2018, the first graph neural network specifically designed for materials.
 
+**MultimodalAI'25 Keynote Title:** Accelerating materials design with AI emulators and generators
 
+**MultimodalAI'25 Keynote Abstract:** The design of novel materials has been a cornerstone of technological progress, driving transformative innovations such as the adoption of electric vehicles, the development of highly efficient solar cells, and the widespread use of superconductors in magnetic resonance imaging (MRI) systems. At Microsoft Research, we develop two foundational artificial intelligence (AI) models to accelerate the materials discovery process. The first model, MatterGen, is an AI generator that proposes novel materials candidates given prompts of required properties. The second model, MatterSim, is an AI emulator that then simulates the properties of the generated candidates for the target application. The two models work together as a flywheel to drive the discovery of novel materials for broad applications. This presentation will provide a comprehensive overview of the architecture MatterSim and MatterGen, as well as how they can be used to deliver real-world impact in materials design. 
 

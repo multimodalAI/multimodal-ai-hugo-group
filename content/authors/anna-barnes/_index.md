@@ -52,8 +52,12 @@ email:
 user_groups:
   - mmai_25_keynote
 ---
-Biography: Dr Anna Barnes is Director of the King's Technology Evaluation Centre, HCPC registered Clinical Scientist (Medical Physics) and President of the Inst of Physics and Engineering in Medicine. KiTEC is a team of health technology assessors, medical statisticians and health economists in receipt of contracts from NICE medical technology assessment committee since 2014 and has undertaken more than 20 Evaluation Projects in the last 5 years.
+Biography: Dr Anna Barnes is an HCPC-registered Clinical Scientist in the School of Biomedical Engineering and Imaging Sciences at King’s College London, Director of the King's Technology Evaluation Centre, joint head of Medical Physics and Clinical Engineering at Guy’s and St Thomas’ Hospital, London and the President of IPEM.
 
-In 2020, KiTEC was selected to become an Evaluation Partner for the AI in Health and Care Awards, a large scale, multi-million NHS funded programme that aims at accelerating the testing and evaluation of the most promising AI technologies for national roll out.
+She has been involved with IPEM throughout her career. Dr Barnes was one of the first two IPEM trainees in Scotland in 1993, specialising in biomedical engineering and equipment management. She went on to have a career in medical imaging, graduating with a PhD in 1999 from the University of Glasgow followed by two Fellowships at New York University and Columbia University, focusing on neuroimaging and statistical analysis.
 
-Under this award, KiTEC is currently the Technology Specific Evaluation Team (TSET) facilitating AI evaluations trials nationally. In order to evaluate the “real-world” fit and the added value of the proposed AI technology KiTEC follow the “Engineering for Better Healthcare” systems approach (iitoolkit.com) pioneered by Prof John Clarkson, Cambridge University. 
+Dr Barnes then pursued a research fellowship at the University of Cambridge Brain Mapping Unit before joining University College London Hospital nuclear medicine department as the Lead Clinical Scientist for the newly installed Siemens mMR Biograph PET MRI scanner. During this time, she was awarded two NIHR research fellowships to validate, evaluate and deploy imaging biomarkers in oncology and was appointed Chief Healthcare Scientist for the South-East for NHS England. Her volunteer roles at IPEM have included Vice President External, Vice President Academic and President Elect, before becoming President.
+
+**MultimodalAI'25 Keynote Title:**  AI in Health and Care — helping developers to think more critically about deployment, integration, and evidence generation.
+
+**MultimodalAI'25 Keynote Abstract:**  King’s College Technology Evaluation Centre (KiTEC) was commissioned by NHS England in 2020 to support the evaluation of AI tools for healthcare service provision.  This talk provides an overview of the methodology, a description of the evaluation criteria in terms of clinical and economic effectiveness and the lessons learned during the evaluation process.

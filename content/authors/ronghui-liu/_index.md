@@ -53,3 +53,21 @@ user_groups:
   - mmai_25_keynote
 ---
 Biography: Professor Ronghui Liu, Professor of Networks and Transport Operations, at the Institute for Transport Studies (ITS), University of Leeds, UK.  She received her BSc from Peking University and PhD from Cambridge University.  Before joining ITS Leeds, she was a Research Fellow at University College London, and while at ITS, she was seconded to head the Transport Modelling Division at TRL, UK in 2005.  She served as an Associate Editor for journal IEEE Transaction on Intelligent Transportation Systems, and Member of Editorial Board of IET Journal of Intelligent Transport. Her research areas span a number of themes in the field of transport studies: in vehicle dynamics and traffic microsimulaton model developments; in traffic control theory and algorithms; in travel behaviour and Intelligent mobility; in stochastic models and reliability analysis; in public transport operations and controls; in timetabling and schedule coordination; and in train control and railway traffic management systems.  She is particularly interested in the interrelationships between these themes, and methodologies for estimation, design and evaluation of their network-wide effects.
+
+**MultimodalAI'25 Keynote Title:** Smart Mobility: AI and Data Science Powering the Future of Multimodal
+Transport. 
+
+**MultimodalAI'25 Keynote Abstract:** This presentation explores how artificial intelligence and data science are reshaping
+multimodal transport systems - including public transport, ridesharing, cycling, and
+walking – into more intelligent, efficient, and equitable forms of mobility.
+By leveraging diverse data sources—such as GPS trajectories, sensors, video and
+mobile applications—AI enables the analysis and inference of travel patterns and
+user needs across socio-economic groups, while also supporting real-time decision-
+making, route optimisation, and predictive maintenance of transport infrastructure.
+Cloud-computing provides the architecture for scalable solutions, including digital
+twins for infrastructure monitoring and reinforcement learning for dynamic
+scheduling. Case studies are presented to illustrate how these technologies can
+address challenges like congestion, system upkeep, and last-mile connectivity.
+The talk concludes with a call for cross-sector collaboration among academia,
+industry, and public agencies, to advance inclusive and sustainable mobility through
+continued innovation in AI and data science.
