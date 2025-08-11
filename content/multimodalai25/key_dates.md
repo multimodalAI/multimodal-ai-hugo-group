@@ -94,17 +94,17 @@ design:
 | Cancellation Deadline (with refund)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       | –                                                       | Mon, 18th August                       |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div> |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div> |
-| Call for Volunteers   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                      | Tue, 27th May &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      | Mon, 4th August                        |
+| Call for Volunteers   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                      | Tue, 27th May &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      | TBC                        |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div> |
-| Volunteer Acceptance Notification &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          | –                                                       | Wed, 13th August                       |
+| Volunteer Acceptance Notification &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          | –                                                       | Rolling after Wed, 13th August                       |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div> |
-| Travel Bursary for Inclusive Participation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Tue, 27th May &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      | Mon, 4th August                        |
+| Travel Bursary for Inclusive Participation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Tue, 27th May &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      | TBC                        |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div> |
-| Travel Bursary Decision Notification &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       | –                                                       | Tue, 13th August                       |
+| Travel Bursary Decision Notification &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       | –                                                       | Rolling after Wed, 13th August                       |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div> |
 | Call for Sponsors &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                          | Wed, 7th May &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       | Sat, 16th August                       |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div> |
-| Photo Challenge Submission Open &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            | TBC &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                  | Mon, 25th August                       |
+| Photo Challenge Submission Open &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            | TBC &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                  | TBC                       |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div> |
 | Photo Challenge Public Voting &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              | Mon, 1st September &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Mon, 8th September                     |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div> |
