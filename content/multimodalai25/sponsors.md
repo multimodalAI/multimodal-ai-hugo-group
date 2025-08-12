@@ -63,6 +63,8 @@ design:
 </div>
 
 <div style="text-align: center;">
-  <img src="/media/ukri_epsr_council_logo.jpg" alt="CMI Logo" style="width: 420px; height: auto; display: inline-block; margin-right: 20px;">
+  <img src="/media/ukri_epsr_council_logo.jpg"  style="width: 420px; height: auto; display: inline-block; margin-right: 20px;">
+  <img src="/media/henry_royce_institute_logo.png" style="width: 420px; height: auto; display: inline-block; margin-right: 20px;">
+
 </div>
 
