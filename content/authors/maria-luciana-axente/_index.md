@@ -75,3 +75,7 @@ Maria has been honoured as a LinkedIn Top Voice in AI, a CogX Award Winner for
 Outstanding Achievement in Ethical AI, Computer Weekly Most Influential Women in UK
 one of the 100 Brilliant Women in AI Ethics. She founded Responsible Intelligence to
 bring this expertise directly to the leaders shaping tomorrow’s AI systems.
+
+**MultimodalAI'25 Keynote Title:** Beyond single-track thinking: Governing the Ethical Complexity of Multimodal AI
+
+**MultimodalAI'25 Keynote Abstract:** Given the emergence of these unique AI systems, our current governance frameworks must evolve, addressing the urgent ethical dilemmas they raise and enabling a robust, proportionate risk management approach tailored to their complexity and requirements.

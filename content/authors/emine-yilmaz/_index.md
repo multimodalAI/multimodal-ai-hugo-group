@@ -57,6 +57,6 @@ Emine’s research interests lie in the fields of information retrieval and natu
 
 Emine has served in various senior roles, including co-editor-in-chief for the Information Retrieval Journal, a member of the editorial board for the AI Journal, an elected member of the executive committee for ACM SIGIR, and PC Chair for various conferences. She currently serves as an Associate Editor for ACM Transactions on Information Systems and is a member of the Steering Committee for ACM SIGIR Asia-Pacific.
 
-**MultimodalAI'25 Keynote Title:**   Using Large Language Models for Evaluation: Opportunities and Limitations.
+**MultimodalAI'25 Keynote Title:** Using Large Language Models for Evaluation: Opportunities and Limitations.
 
 **MultimodalAI'25 Keynote Abstract:** Large Language Models (LLMs) have shown significant promise as tools for automated evaluation across diverse domains. While using LLMs for evaluation come with significant advantages potentially alleviating the reliance on costly and subjective human assessments, the adoption of LLM-based evaluation is not without challenges. In this talk we discuss about the transformative potential and the inherent constraints of using LLMs for evaluation tasks. In particular, we describe some of the challenges that come with LLM-based evaluation, such as biases and variability in judgment. We further discuss how LLMs can augment traditional evaluation practices while acknowledging the need for cautious and informed integration.
