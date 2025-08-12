@@ -10,7 +10,7 @@ headless: true
 weight: 60
 
 title: Accepted Abstracts
-subtitle: 
+subtitle: Third Workshop on Multimodal AI · 16–17 September 2025 · London, UK
 
 content:
   # Choose which groups/teams of users to display.
