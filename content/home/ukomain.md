@@ -17,7 +17,8 @@ design:
 ---
 
 > 🔔 **Upcoming UKOMAIN Events**   
-> 📝 **[Workshop abstracts due](https://multimodalai.github.io/multimodalai25/)**: **5 August 2025** → [Submit abstract](https://forms.gle/82gbPCu5tBkCm8i29)
+> 
+Deadline 31 August 2025 - Third Workshop on Multimodal AI  ([Register now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/third-workshop-on-multimodal-ai)) 
 
 ---
 
@@ -35,8 +36,6 @@ From health and wellbeing to transportation systems, materials discovery, and sp
 
 ### 🔔 Key Events & Opportunities
 
-- **5 August 2025** — Abstract submission for MultimodalAI’25  
-  → [Submit](https://forms.gle/82gbPCu5tBkCm8i29)
 
 - **16 August 2025** — Sponsorship opportunities for MultimodalAI’25   
   → [Details](https://multimodalai.github.io/call-for-sponsorship/)
