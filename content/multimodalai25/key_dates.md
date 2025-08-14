@@ -102,7 +102,7 @@ design:
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div>                                            |
 | Travel Bursary Decision Notification &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       | –                                                       | Fri, 29th August (Final notification date)                                              |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div>                                            |
-| Call for Sponsors &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                          | Tue, 2nd September &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Sat, 16th August                                                                        |
+| Call for Sponsors &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                          | Wed, 7th May &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       | Tue, 2nd September                                                                      |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div>                                            |
 | Photo Challenge Submission Open &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            | Mon, 18th August &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   | Mon, 8th September                                                                      |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div>                                            |
@@ -111,7 +111,7 @@ design:
 | Photo Challenge Panel Decision &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              | –                                                       | Wed, 17th September                                                                     |
 |                                                                                 |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div>                                            |
-| Draft Programme Finalised  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 | –                                                       | Tue, 26th August                                                                        |
+| Draft Programme Finalised  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 | –                                                       | Tue, 27th August                                                                        |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div>                                            |
 | Final Programme Released (PDF) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                 | –                                                       | Tue, 2nd September                                                                      |
 
