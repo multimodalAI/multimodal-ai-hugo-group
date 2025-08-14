@@ -36,7 +36,6 @@ From health and wellbeing to transportation systems, materials discovery, and sp
 
 ### 🔔 Key Events & Opportunities
 
-
 - **16 August 2025** — Sponsorship opportunities for MultimodalAI’25   
   → [Details](https://multimodalai.github.io/call-for-sponsorship/)
 
