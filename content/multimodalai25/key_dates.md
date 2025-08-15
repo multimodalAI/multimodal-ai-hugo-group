@@ -111,7 +111,7 @@ design:
 | Photo Challenge Panel Decision &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              | –                                                       | Wed, 17th September |
 |                                                                                 |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div> |
-| Draft Programme Finalised  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 | –                                                       | Tue, 27th August  |
+| Draft Programme Finalised  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 | –                                                       | Wed, 27th August  |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div> |
 | Final Programme Released (PDF) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                 | –                                                       | Tue, 2nd September |
 
