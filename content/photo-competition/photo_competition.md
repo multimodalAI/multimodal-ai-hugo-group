@@ -45,7 +45,7 @@ Submit a photo you’ve taken that captures a real-world moment reflecting the c
 
 ### 📥 How to Enter
 
-- Submit your image (file size not more than 10mb) via [submission form](https://forms.gle/c5ggm9w8w4dMevj16)
+- Submit your image (_file size not more than 10 MB_) via [submission form](https://forms.gle/c5ggm9w8w4dMevj16)
 
 - Include:
   - Title and brief description (max 50 words)
