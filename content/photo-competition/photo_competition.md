@@ -58,23 +58,6 @@ This competition celebrates creativity and multimodal perspectives — with AI o
 
 ### 📄 Copyright and Permission Statement
 
-By submitting an entry to the UKOMAIN Multimodal AI Photo Competition, you confirm the following:
-
-- You are the original creator and rightful copyright holder of the submitted work, or have used AI tools in a way that grants you rights to distribute the generated content (for AI track entries).
-
-- You retain full copyright ownership of your submitted image.
-
-
-However, you **grant UKOMAIN** a **non-exclusive**, **royalty-free**, **worldwide license** to:
-
-- Use, reproduce, display, and distribute your submitted image for non-commercial purposes, including but not limited to:
-
-  - Showcasing entries on UKOMAIN’s website, social media, and printed/digital materials.
-  - Promoting UKOMAIN events, research, and educational outreach activities.
-  - Archiving the image as part of the network's documentation or public-facing outputs.
-
-You also agree that your name (or pseudonym, if preferred) may be publicly associated with your image, unless you opt for anonymity during submission.
-
 By submitting your image(s), you confirm that:
 
 - You own the copyright or have the right to submit them. For AI-generated images, you used tools in a way that gives you the right to submit and share the content.
