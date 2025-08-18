@@ -1,64 +1,86 @@
 ---
-# An instance of the People widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: people
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 60
-
 title: Photo Competition
 subtitle: Third Workshop on Multimodal AI · 16–17 September 2025 · London, UK
-
-content:
-  # Choose which groups/teams of users to display.
-  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-#  user_groups:
-#    - Principal Investigators
-#    - Researchers
-#    - Grad Students
-#    - Administration
-#    - Visitors
-#   - Alumni
+widget: blank
+headless: true
+weight: 10
 design:
-  show_interests: false
-  show_role: true
-  show_social: true
+  columns: '1'
 ---
-<style>
-  .sticky-buttons {
-    position: fixed;
-    top: 6px !important;
-    left: 50%;
-    transform: translateX(-50%);
-    background: rgba(255, 255, 255, 0.9);
-    padding: 5px 8px;
-    border-radius: 8px;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-    z-index: 9999;
 
-    display: flex;            /* Enable flex layout */
-    flex-direction: row;      /* Keep items in a row */
-    flex-wrap: nowrap;        /* Prevent wrapping */
-    overflow-x: auto;         /* Allow scrolling on very small screens */
-    max-width: 100vw;         /* Avoid overflowing viewport width */
-  }
+### 📸 Call for Entries: UKOMAIN Multimodal AI Photo Competition 2025
 
-  .sticky-buttons button {
-    font-family: 'Open Sans', Arial, sans-serif;
-    font-size: 14px;
-    font-weight: bold;
-    padding: 4px 12px;
-    border: none;
-    border-radius: 4px;
-    background-color: #154c79;
-    color: #abdbe3;
-    cursor: pointer;
-    margin-right: 8px;
-    flex: 0 0 auto;           /* Prevent flex shrink/grow */
-    min-width: 120px;
-    white-space: nowrap;     /* Prevent button text from wrapping */
-  }
-</style>
+Are you ready to show the world what Multimodal AI “sees” — or what you see through your own lens?
+
+As part of UKOMAIN’s mission to foster creative, inclusive, and community-driven engagement, we’re excited to launch the first UKOMAIN Multimodal AI Photo Competition — featuring two exciting tracks:
+
+- #### AI Track – "Through the Eyes of the Machine"
+Submit an AI-generated image that creatively explores themes of multimodal AI — such as engineering, sustainability, wellbeing, or other areas where diverse data and intelligent systems shape our world.
+
+- #### Human Track – "The Human Lens"
+Submit a photo you’ve taken that captures a real-world moment reflecting the challenges or promises of multimodal AI in our lives, communities, or environment.
+
+**Eligibility**: If you are selected as a winner, you will need to provide a UK postal address for prize delivery and a UK contact number in case of delivery issues. Prizes will be delivered via Royal Mail registered postal service. We only request postal and contact details **after selection** and will use them solely for prize delivery. All personal data will be deleted after delivery is complete. 
+
+**Note**: We define Multimodal AI broadly as the integration of any two or more types of data, not limited to texts and images. An individual may submit one image per track (maximum two images in total).
+
+---
+
+### 🏆 Prizes
+
+- **Two winners** (one from each track)
+  -  **£100 Amazon voucher**
+
+---
+
+### 📅 Key Dates
+
+- **Submission Opens**: 18 August 2025
+- **Submission Deadline**: 8 September 2025
+- **Voting Opens**: 9 September 2025
+- **Voting Closes**: 16 September 2025 (5 PM)
+- **Winners Announced**: 17 September 2025
+
+---
+
+### 📥 How to Enter
+
+- Submit your image (file size not more than 10mb) via [submission form](https://forms.gle/c5ggm9w8w4dMevj16)
+
+- Include:
+  - Title and brief description (max 50 words)
+  - Indicate whether it's AI-generated or human-taken
+  - Your name and affiliation (optional for public posting)
+
+---
+
+This competition celebrates creativity and multimodal perspectives — with AI or without. It’s about showcasing how technology and humanity can view and shape our world together.
+
+### 📄 Copyright and Permission Statement
+
+By submitting an entry to the UKOMAIN Multimodal AI Photo Competition, you confirm the following:
+
+- You are the original creator and rightful copyright holder of the submitted work, or have used AI tools in a way that grants you rights to distribute the generated content (for AI track entries).
+
+- You retain full copyright ownership of your submitted image.
+
+
+However, you **grant UKOMAIN** a **non-exclusive**, **royalty-free**, **worldwide license** to:
+
+- Use, reproduce, display, and distribute your submitted image for non-commercial purposes, including but not limited to:
+
+  - Showcasing entries on UKOMAIN’s website, social media, and printed/digital materials.
+  - Promoting UKOMAIN events, research, and educational outreach activities.
+  - Archiving the image as part of the network's documentation or public-facing outputs.
+
+You also agree that your name (or pseudonym, if preferred) may be publicly associated with your image, unless you opt for anonymity during submission.
+
+By submitting your image(s), you confirm that:
+
+- You own the copyright or have the right to submit them. For AI-generated images, you used tools in a way that gives you the right to submit and share the content.
+- You grant UKOMAIN a **non-exclusive**, **royalty-free**, **worldwide licence** for **non-commercial use** (including showcasing, promoting, and archiving) for an unlimited period. Copyright remains with you.
+- They are legal, respectful, and comply with copyright, privacy, and consent laws. You accept **full responsibility** for the content and legality of your submission(s).
+
+**[Submit now](https://forms.gle/c5ggm9w8w4dMevj16) and be part of the UKOMAIN visual story.**
+
+![Photo Competition Flyer](../photo-competition/photo_competition_flyer.png)
