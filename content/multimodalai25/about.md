@@ -74,7 +74,7 @@ design:
 
 **Latest news**
   - Photo competition - [Call for entries](/multimodalai25/photo-competition/)
-  - Deadline Extended! 
+  - Deadline extended! 
      - [Travel bursary applications](https://forms.gle/dxrnqpvTx8UuHmiV8) – apply by 26 August 2025
      - [Volunteering opportunities](https://forms.gle/LY32xD4RvVzGvhai9) – apply by 26 August 2025
 
