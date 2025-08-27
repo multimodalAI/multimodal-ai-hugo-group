@@ -73,8 +73,8 @@ design:
 
 
 **Latest news**
-
-  - Deadline Extended! 
+  - Photo competition - [Call for entries](/multimodalai25/photo-competition/)
+  - Deadline extended! 
      - [Travel bursary applications](https://forms.gle/dxrnqpvTx8UuHmiV8) – apply by 26 August 2025
      - [Volunteering opportunities](https://forms.gle/LY32xD4RvVzGvhai9) – apply by 26 August 2025
 
@@ -82,7 +82,7 @@ design:
   - Registration - [Now open](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/third-workshop-on-multimodal-ai) (closes when full or by 31 August 2025)
     - Additional details about **travel bursaries** and **volunteering opportunities** will be sent in a follow-up confirmation email after you have completed the registration form. Please ensure you check your spam or junk folder in case the email is filtered.
   - Sponsorship opportunities - [View more](/call-for-sponsorship/)
-  - Keynote Speakers confirmed - [View more](#speaker)
+  - Keynote speakers confirmed - [View more](#speaker)
 
 ---
 

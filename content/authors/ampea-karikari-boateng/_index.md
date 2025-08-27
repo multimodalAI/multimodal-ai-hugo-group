@@ -49,4 +49,17 @@ email:
 user_groups:
   - mmai_25_keynote
 ---
-Biography: Ampea Karikari-Boateng currently leads the offshore digitisation team at ORE Catapult. Ampea’s role encompasses developing inhouse digital tools, services and supporting SMEs in the development and implementation of digital tools on digital twin platforms. In his previous role of mechanical research engineer, Ampea focused on bearing analysis, data and signal processing, computational modelling, and condition monitoring of wind turbine mechanical components. He also focused on applying A.I. techniques to develop intelligent condition monitoring of wind turbine system. Ampea has over 10 years’ experience in the offshore renewable energy sector. Ampea has a MEng in mechanical engineering and an EngD in offshore renewable energy.
+Biography: Dr. Ampea Karikari-Boateng is a Principal R&D Engineer specializing in the integration of digital innovations into offshore renewable energy systems. With over a decade of experience in advanced engineering design and digital technologies, Ampea leads pioneering efforts to develop and apply cutting-edge digital tools that accelerate the global transition to clean and renewable energy.
+
+As a thought leader in the digitalisation of offshore renewables, Ampea has led national and international collaborations, published in leading journals, and engaged with global audiences through workshops, conferences, and outreach. His current work explores the convergence of traditional engineering expertise with emerging digital technologies to create robust, tailored solutions for asset management and lifecycle optimisation.
+
+Ampea is passionate about bridging the gap between cutting-edge research and real-world application, driving digital transformation as we move toward a smarter, cleaner energy future.
+
+
+**MultimodalAI'25 Keynote Title:** AI-Renewed: Transforming offshore renewables with multimodal intelligence 
+
+**MultimodalAI'25 Keynote Abstract:** The offshore renewable energy industry is entering a new era where artificial intelligence (AI) is not just a tool, but a transformative force across the entire lifecycle of renewable energy assets. From enhancing device design, accelerating consenting of new developments, to streamlining operations and maintenance, AI is reshaping how we plan, operate, and advance offshore infrastructure.
+
+Here, we explore how AI has impacted wind energy by tracking its evolution from unimodal machine learning models, used in condition monitoring and document intelligence, to the emerging frontier of multimodal AI. These next-generation systems aim to extract deeper insights by combining diverse data sources such as sensor streams, geospatial imagery, and operational documentation.
+
+Through real-world examples and visionary use cases, we’ll uncover how multimodal AI is helping accelerate environmental monitoring to achieve faster regulatory approvals, enhance predictive maintenance and autonomous inspection, and enable holistic lifecycle planning and circularity in offshore assets.
