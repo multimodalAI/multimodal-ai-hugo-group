@@ -9,7 +9,7 @@ superuser: false
 weight: 4
 
 # Role/position
-role:  Advisory Board Member of the UK Open Multimodal AI Network, Professor and EPSRC Fellow at University College London, and Amazon Scholar
+role:  Advisory Board Member of the UK Open Multimodal AI Network, Professor and ELLIS Fellow at University College London, and Amazon Scholar
 
 # Organizations/Affiliations
 organizations:
