@@ -85,9 +85,9 @@ design:
 |---------------------------------------------------------------------------------|---------------------------------------------------------|------------------------------------------------------|
 | Call for Abstracts   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                       | Wed, 30th April &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    | Tue, 5th August                                      |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div>         |
-| Abstract Acceptance Notification   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         | –                                                       | Mon, 8th September (5 PM)                            |
+| Abstract Acceptance Notification   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         | –                                                       | Tue, 12th August                                     |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div>         |
-| Final Abstract Submission     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              | –                                                       | Tue, 26th August                                     |
+| Final Abstract Submission     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              | –                                                       | Mon, 8th September (5 PM)                            |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div>         |
 | Registration Open &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                          | Tue, 27th May &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      | Closes when full or Sun, 07 September (11 PM)        |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div>         |
