@@ -26,7 +26,7 @@ Deadline 31 August 2025 - Third Workshop on Multimodal AI  ([Register now](https
 
 The UK Open Multimodal AI Network (UKOMAIN) is a national initiative funded by the [Engineering and Physical Sciences Research Council (EPSRC)](https://www.ukri.org/councils/epsrc/) with a total grant of £1.8 million. Our mission is to advance multimodal artificial intelligence (AI) by integrating diverse data types—such as text, images, and sound—to tackle scientific and engineering challenges and create a sustainable future.
 
-From health and wellbeing to transportation systems, materials discovery, and space exploration, UKOMAIN connects researchers, industry leaders, and policymakers to foster collaboration, innovation, and real-world impact. Follow our [UKOMAIN LinkedIn page](https://www.linkedin.com/company/ukomain) for the latest updates and opportunities or subscribe to our [Multimodal AI Community mailing list](https://groups.google.com/a/sheffield.ac.uk/g/multimodal-ai-community-group).
+UKOMAIN connects researchers, industry partners, and policymakers across eight [Tomorrow’s Engineering Research Challenges (TERCs)](https://www.ukri.org/publications/tomorrows-engineering-research-challenges/)—ranging from health and wellbeing, transportation systems, and robotics to materials discovery, space research, nature-based engineering, global engineering solutions, and responsible engineering—to foster collaboration, innovation, and real-world impact. Follow our [UKOMAIN LinkedIn page](https://www.linkedin.com/company/ukomain) for the latest updates and opportunities or subscribe to our [Multimodal AI Community mailing list](https://groups.google.com/a/sheffield.ac.uk/g/multimodal-ai-community-group).
 
 🔗 **Further reading**:  
 - [UKRI official announcement](https://www.ukri.org/news/tackling-tomorrows-engineering-research-challenges/)  
@@ -35,9 +35,6 @@ From health and wellbeing to transportation systems, materials discovery, and sp
 ---
 
 ### 🔔 Key Events & Opportunities
-
-- **16 August 2025** — Sponsorship Opportunities for MultimodalAI’25   
-  → [Details](/call-for-sponsorship/)
 
 - **31 August 2025** — Registration Deadline for MultimodalAI’25  
   → [Register](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/third-workshop-on-multimodal-ai)
