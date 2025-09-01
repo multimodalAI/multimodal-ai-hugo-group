@@ -85,13 +85,13 @@ design:
 |---------------------------------------------------------------------------------|---------------------------------------------------------|------------------------------------------------------|
 | Call for Abstracts   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                       | Wed, 30th April &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    | Tue, 5th August                                      |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div>         |
-| Abstract Acceptance Notification   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         | –                                                       | Tue, 12th August                                     |
+| Abstract Acceptance Notification   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         | –                                                       | Mon, 8th September (5 PM)                            |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div>         |
 | Final Abstract Submission     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              | –                                                       | Tue, 26th August                                     |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div>         |
 | Registration Open &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                          | Tue, 27th May &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      | Closes when full or Sun, 07 September (11 PM)        |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div>         |
-| Cancellation Deadline (with refund)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       | –                                                       | Mon, 18th August                                     |
+| Cancellation Deadline (with refund)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       | –                                                       | TBC                                                  |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div>         |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div>         |
 | Call for Volunteers   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                      | Tue, 27th May &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      | Tue, 26th August                                     |
@@ -111,9 +111,9 @@ design:
 | Photo Challenge Panel Decision &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              | –                                                       | Wed, 17th September                                  |
 |                                                                                 |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div>         |
-| Draft Programme Finalised  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 | –                                                       | Wed, 27th August                                     |
+| Draft Programme Finalised  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 | –                                                       | TBC                                                  |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div>         |
-| Final Programme Released (PDF) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                 | –                                                       | Tue, 2nd September                                   |
+| Final Programme Released (PDF) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                 | –                                                       | TBC                                                  |
 
 
 </center>
