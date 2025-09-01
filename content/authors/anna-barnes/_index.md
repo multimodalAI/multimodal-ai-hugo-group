@@ -58,6 +58,6 @@ She has been involved with IPEM throughout her career. Dr Barnes was one of the 
 
 Dr Barnes then pursued a research fellowship at the University of Cambridge Brain Mapping Unit before joining University College London Hospital nuclear medicine department as the Lead Clinical Scientist for the newly installed Siemens mMR Biograph PET MRI scanner. During this time, she was awarded two NIHR research fellowships to validate, evaluate and deploy imaging biomarkers in oncology and was appointed Chief Healthcare Scientist for the South-East for NHS England. Her volunteer roles at IPEM have included Vice President External, Vice President Academic and President Elect, before becoming President.
 
-**MultimodalAI'25 Keynote Title:**  AI in Health and Care — helping developers to think more critically about deployment, integration, and evidence generation.
+**MultimodalAI'25 Keynote Title:**  AI in health and care — helping developers to think more critically about deployment, integration, and evidence generation
 
 **MultimodalAI'25 Keynote Abstract:**  King’s College Technology Evaluation Centre (KiTEC) was commissioned by NHS England in 2020 to support the evaluation of AI tools for healthcare service provision.  This talk provides an overview of the methodology, a description of the evaluation criteria in terms of clinical and economic effectiveness and the lessons learned during the evaluation process.
