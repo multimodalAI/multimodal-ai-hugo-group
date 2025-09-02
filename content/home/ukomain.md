@@ -36,14 +36,11 @@ UKOMAIN connects researchers, industry partners, and policymakers across eight [
 
 ### 🔔 Key Events & Opportunities
 
-- **07 September 2025 (11 PM)** — Registration Deadline for MultimodalAI’25  
-  → [Register](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/third-workshop-on-multimodal-ai)
+- **07 September 2025 (11 PM)** — Registration Deadline for MultimodalAI’25 → [Register](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/third-workshop-on-multimodal-ai)
 
-- **8 September 2025** — Photo Competition for MultimodalAI'25  
-  → [Details](/multimodalai25/photo-competition/)
+- **8 September 2025** —  Submission deadline for Photo Competition for MultimodalAI'25 → [Details](/multimodalai25/photo-competition/)
 
-- **16–17 September 2025** — MultimodalAI’25 Workshop  
-  → [Details](/multimodalai25/)
+- **16–17 September 2025** — MultimodalAI’25 Workshop → [Details](/multimodalai25/)
 
 ---
 
