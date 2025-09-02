@@ -51,6 +51,6 @@ user_groups:
 ---
  Biography: Rebecca is an innovative leader responsible for the implementation of novel and disruptive in silico technologies to increase the speed of discovery and quality of biologics therapeutics. She is an experienced antibody engineer with structural biology expertise and was co-inventor of the CrossMab technology that is now leading the way in approvals for multispecific antibody therapeutics. She has authored 17+ patents in the field of antibody engineering.
 
-**MultimodalAI'25 Keynote Title:** Integrating AI into Biologics Discovery workflows
+**MultimodalAI'25 Keynote Title:** Integrating AI into biologics discovery workflows
 
 **MultimodalAI'25 Keynote Abstract:** To be Updated

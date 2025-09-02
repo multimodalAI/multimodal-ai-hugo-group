@@ -56,7 +56,7 @@ As a thought leader in the digitalisation of offshore renewables, Ampea has led 
 Ampea is passionate about bridging the gap between cutting-edge research and real-world application, driving digital transformation as we move toward a smarter, cleaner energy future.
 
 
-**MultimodalAI'25 Keynote Title:** AI-Renewed: Transforming offshore renewables with multimodal intelligence 
+**MultimodalAI'25 Keynote Title:** AI-renewed: transforming offshore renewables with multimodal intelligence 
 
 **MultimodalAI'25 Keynote Abstract:** The offshore renewable energy industry is entering a new era where artificial intelligence (AI) is not just a tool, but a transformative force across the entire lifecycle of renewable energy assets. From enhancing device design, accelerating consenting of new developments, to streamlining operations and maintenance, AI is reshaping how we plan, operate, and advance offshore infrastructure.
 
