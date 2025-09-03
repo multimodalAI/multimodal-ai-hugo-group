@@ -23,7 +23,7 @@ This mini-hackathon welcomes researchers and practitioners with basic Python pro
 - Have a Google account (https://accounts.google.com/signin) to access and run the tutorials using Google Colab
 - Have a GitHub account  (https://github.com/signup) to make contributions and use GitHub Discussions.
 
-We will conduct this mini-hackathon via a Jupyter Book at [https://pykale.github.io/mmai-tutorials/](https://pykale.github.io/mmai-tutorials/), with four interactive tutorials.
+<!-- We will conduct this mini-hackathon via a Jupyter Book at [https://pykale.github.io/mmai-tutorials/](https://pykale.github.io/mmai-tutorials/), with four interactive tutorials. -->
 
 <!-- The first part of the workshop will introduce open research practices in biomedical multimodal AI. It will begin with an overview of open research in this field, followed by hands-on tutorials covering four practical examples:
 
