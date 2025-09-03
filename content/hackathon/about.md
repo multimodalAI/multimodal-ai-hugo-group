@@ -29,20 +29,6 @@ To participate, please first [register for the main workshop](https://onlineshop
 
 ---
 
-## Tentative Schedule
-
-| Time   | Activity                             |
-|--------|--------------------------------------|
-| 10 min | Introduction                         |
-| 20 min | Team formation & idea initialization |
-| 60 min | Hack Session 1                       |
-| 20 min | Feedback and Break                   |
-| 60 min | Hack Session 2                       |
-| 20 min | Demo preparation                     |
-| 40 min | Presentations & awards               |
-
----
-
 ## Contact US
 
 Email the organisers: ukomain-mmai25@googlegroups.com
