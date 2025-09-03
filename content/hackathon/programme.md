@@ -28,12 +28,16 @@ design:
   show_social: true
 ---
 
-| Time   | Activity                             |
-|--------|--------------------------------------|
-| 10 min | Introduction                         |
-| 20 min | Team formation & idea initialization |
-| 60 min | Hack Session 1                       |
-| 20 min | Feedback and Break                   |
-| 60 min | Hack Session 2                       |
-| 20 min | Demo preparation                     |
-| 40 min | Presentations & awards               |
+<center>
+
+| Time   | &nbsp;&nbsp;&nbsp;&nbsp;Activity                             |
+|--------|--------------------------------------------------------------|
+| 10 min | &nbsp;&nbsp;&nbsp;&nbsp;Introduction                         |
+| 20 min | &nbsp;&nbsp;&nbsp;&nbsp;Team formation & idea initialization |
+| 60 min | &nbsp;&nbsp;&nbsp;&nbsp;Hack session 1                       |
+| 20 min | &nbsp;&nbsp;&nbsp;&nbsp;Feedback and break                   |
+| 60 min | &nbsp;&nbsp;&nbsp;&nbsp;Hack session 2                       |
+| 20 min | &nbsp;&nbsp;&nbsp;&nbsp;Demo preparation                     |
+| 40 min | &nbsp;&nbsp;&nbsp;&nbsp;Presentations & awards               |
+
+</center>
