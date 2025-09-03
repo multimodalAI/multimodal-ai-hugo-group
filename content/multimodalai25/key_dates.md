@@ -109,9 +109,6 @@ design:
 | Photo Challenge Public Voting &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              | Tue, 9th September &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Tue, 16th September                                  |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div>         |
 | Photo Challenge Panel Decision &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              | –                                                       | Wed, 17th September                                  |
-|                                                                                 |
-| <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div>         |
-| Draft Programme Finalised  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 | –                                                       | TBC                                                  |
 | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>            | <div style="line-height: 0.4;">&#8203;</div>         |
 | Final Programme Released (PDF) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                 | –                                                       | TBC                                                  |
 
