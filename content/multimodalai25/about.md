@@ -73,15 +73,16 @@ design:
 
 
 **Latest news**
+  - Mini-Hackathon announced - [View more](/multimodalai25/hackathon/) (open to all workshop attendees)
   - Registration deadline extended - [Register now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/third-workshop-on-multimodal-ai) (closes when full or by **7 September 2025 at 11:00 PM**)
-  - Photo competition - [Call for entries](/multimodalai25/photo-competition/) (Submission deadline is **8 September 2025**)
+  - Photo competition - [Call for entries](/multimodalai25/photo-competition/) (submission deadline is **8 September 2025**)
   - Accepted abstracts  - [View all abstracts](/multimodalai25/accepted-abstracts/)
   - Sponsorship opportunities - [View more](/call-for-sponsorship/)
   - Keynote speakers confirmed - [View more](#speaker)
 
 ---
 
-You are warmly invited to join the Third Workshop on Multimodal AI (MultimodalAI'25), taking place on **16th and 17th September 2025** at the **Barbican Centre**, **London**, **EC2Y 8DS**. This workshop will be an in-person-only event, preceded by a **mini-hackathon** on **15th September (location to be announced)**.
+You are warmly invited to join the Third Workshop on Multimodal AI (MultimodalAI'25), taking place on **16th and 17th September 2025** at the **Barbican Centre**, **London**, **EC2Y 8DS**. This workshop will be an in-person-only event, preceded by a **mini-hackathon** on **15th September** at the **Torrington Place (1-19)**, **London**, **WC1E 7HB**.
 
 Multimodal AI integrates diverse types of data, such as text, images, and sound, swiftly revolutionising how we interact with technology and information. Following two successful workshops, MultimodalAI’25 will gather researchers and practitioners from AI, data science, and various scientific and applied domains. The workshop aims to discuss challenges, share innovative solutions, explore future collaborations, and further build our vibrant multimodal AI community.
 
