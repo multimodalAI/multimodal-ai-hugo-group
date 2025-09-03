@@ -1,6 +1,6 @@
 ---
 title: "Mini-Hackathon on Multimodal AI"
-subtitle: "15 September 2025 · UCL, London, UK </br> Part of the Third Workshop on Multimodal AI"
+subtitle: "15 September 2025 · Torrington Place (1-19), London, UK </br> Part of the Third Workshop on Multimodal AI"
 widget: blank
 headless: true
 weight: 10
