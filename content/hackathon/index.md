@@ -6,5 +6,6 @@ site_name: "Third Workshop on Multimodal AI"
 seo:
   title: "Mini-Hackathon | MultimodalAI'25"
   description: "Mini-Hackathon | MultimodalAI’25 Workshop"
+  site_name: "TThird Workshop on Multimodal AI"
 url: /multimodalai25/hackathon/
 ---
