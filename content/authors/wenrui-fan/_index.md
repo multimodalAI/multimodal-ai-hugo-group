@@ -36,6 +36,7 @@ interests:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Team
+- MultimodalAI25 Tech
 ---
 
 Wenrui Fan is an AI Research Engineer (AIRE) at the University of Sheffield, under the lead of [Prof. Haiping Lu](https://haipinglu.github.io). 

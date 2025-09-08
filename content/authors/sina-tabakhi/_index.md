@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate, School of Computer Science, University of Sheffield
+role: PhD Candidate in Machine Learning, School of Computer Science, University of Sheffield
 
 # Order that this section appears on the page.
 weight: 70
@@ -46,6 +46,7 @@ user_groups:
 - Principal Investigators
 - Team
 - MultimodalAI24 Organizer
+- MultimodalAI25 Organizer
 - embc25workshop-organiser
 ---
 Sina is a PhD student in the School of Computer Science at the [University of Sheffield](https://www.sheffield.ac.uk/), working in the [Machine Learning Research Group](https://www.sheffield.ac.uk/dcs/research/groups/machine-learning). He is also an organizer of the Alan Turing Institute’s interest group on [Meta-learning for multimodal data](https://www.turing.ac.uk/research/interest-groups/meta-learning-multimodal-data). Sina is a contributor to the development of [Sheffield Data Science and AI Network](https://shef-ai.github.io/) with the support of the Turing Network Development Award.
