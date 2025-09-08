@@ -76,6 +76,7 @@ design:
   - Mini-Hackathon announced - [View more](/multimodalai25/hackathon/) (open to all workshop attendees)
   - Photo competition - [Call for entries](/multimodalai25/photo-competition/) (submission deadline is **8 September 2025**)
   - Accepted abstracts  - [View all abstracts](/multimodalai25/accepted-abstracts/)
+  - Registration closed on 7 September 2025 at 11:00 PM
   - Sponsorship opportunities - [View more](/call-for-sponsorship/)
   - Keynote speakers confirmed - [View more](#speaker)
 
