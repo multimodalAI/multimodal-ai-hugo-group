@@ -74,7 +74,6 @@ design:
 
 **Latest news**
   - Mini-Hackathon announced - [View more](/multimodalai25/hackathon/) (open to all workshop attendees)
-  - Registration deadline extended - [Register now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/third-workshop-on-multimodal-ai) (closes when full or by **7 September 2025 at 11:00 PM**)
   - Photo competition - [Call for entries](/multimodalai25/photo-competition/) (submission deadline is **8 September 2025**)
   - Accepted abstracts  - [View all abstracts](/multimodalai25/accepted-abstracts/)
   - Sponsorship opportunities - [View more](/call-for-sponsorship/)
