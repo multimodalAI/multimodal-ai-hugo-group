@@ -25,10 +25,10 @@ This mini-hackathon welcomes researchers and practitioners with basic Python pro
 
 **This mini-hackathon is open to all attendees of the [Third Workshop on Multimodal AI](https://multimodalai.github.io/multimodalai25/).**  
 
-To participate, please first [register for the main workshop](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/third-workshop-on-multimodal-ai) by **7 September 2025, 11:00 PM**. After registering, you will receive an invitation email with a form to sign up for the hackathon.  
+The registration for the workshop has been closed. If you have registered for the workshop, you should have received an email with a form to register for the mini-hackathon. 
 
 ---
 
-## Contact US
+## Contact Us
 
 Email the organisers: ukomain-mmai25@googlegroups.com
