@@ -32,12 +32,11 @@ design:
 
 | Time   | &nbsp;&nbsp;&nbsp;&nbsp;Activity                               |
 |--------|----------------------------------------------------------------|
-| 10 min | &nbsp;&nbsp;&nbsp;&nbsp;Introduction                           |
-| 20 min | &nbsp;&nbsp;&nbsp;&nbsp;Team formation & idea initialization |
-| 60 min | &nbsp;&nbsp;&nbsp;&nbsp;Hack session 1                         |
-| 20 min | &nbsp;&nbsp;&nbsp;&nbsp;Feedback and break                     |
-| 60 min | &nbsp;&nbsp;&nbsp;&nbsp;Hack session 2                         |
-| 20 min | &nbsp;&nbsp;&nbsp;&nbsp;Demo preparation                       |
-| 40 min | &nbsp;&nbsp;&nbsp;&nbsp;Presentations & awards                 |
+| 15 min | &nbsp;&nbsp;&nbsp;&nbsp;Introduction and team formation        |
+| 15 min | &nbsp;&nbsp;&nbsp;&nbsp;Idea initialization                    |
+| 45 min | &nbsp;&nbsp;&nbsp;&nbsp;Design, implementation, and first pull request|
+| 120 min| &nbsp;&nbsp;&nbsp;&nbsp;Main development and final pull request|
+| 15 min | &nbsp;&nbsp;&nbsp;&nbsp;Demo preparation                       |
+| 30 min | &nbsp;&nbsp;&nbsp;&nbsp;Pitch & awards                 |
 
 </center>
