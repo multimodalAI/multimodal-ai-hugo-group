@@ -36,7 +36,7 @@ Submit a photo you’ve taken that captures a real-world moment reflecting the c
 ### 📅 Key Dates
 
 - **Submission Opens**: 18 August 2025
-- **Submission Deadline**: 8 September 2025
+- **Submission Deadline**: 16 September 2025
 - **Winners Announced**: 17 September 2025
 
 ---
