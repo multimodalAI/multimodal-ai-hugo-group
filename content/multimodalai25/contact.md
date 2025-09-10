@@ -23,8 +23,8 @@ content:
     country: United Kingdom
     country_code: UK
   coordinates:
-    latitude: '51.520222'
-    longitude: '-0.093789'
+    latitude: '51.5202077'
+    longitude: '-0.0937864'
   #directions:
   #appointment_url: 'https://calendly.com'
   # Automatically link email and phone or display as text?
