@@ -61,7 +61,7 @@ Join our growing community and stay updated on the latest developments, opportun
 
 - **Follow us on LinkedIn**: [UK Open Multimodal AI Network](https://www.linkedin.com/company/ukomain)
 - **Subscribe to our mailing list**: [Multimodal AI Community](https://groups.google.com/a/sheffield.ac.uk/g/multimodal-ai-community-group)
-- **Follow us on Twitter/X**: [@MultimodalAI_UK](https://twitter.com/MultimodalAI_UK)  
+- **Subscribe to our YouTube channel**: [UKOMAIN YouTube](https://www.youtube.com/@UKMultimodalAI)
 
 ---
 
