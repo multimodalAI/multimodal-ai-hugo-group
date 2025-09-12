@@ -15,9 +15,18 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
   email: 
+  address:
+    street: Frobisher Auditorium 1, Level 4, Barbican Centre, Silk Street, Barbican 
+    city: London
+    region:
+    postcode: 'EC2Y 8DS'
+    country: United Kingdom
+    country_code: UK
+  coordinates:
+    latitude: '51.5202077'
+    longitude: '-0.0937864'
   #directions:
   #appointment_url: 'https://calendly.com'
-  contact_links:
   # Automatically link email and phone or display as text?
   autolink:
 
@@ -80,5 +89,4 @@ design:
 
 </div>
 
-<i class="fas fa-envelope"></i> Email the organisers: <a href="mailto:ukomain-mmai25@googlegroups.com">ukomain-mmai25@googlegroups.com</a>
-
+<i class="fas fa-envelope fa-2x" style="margin-right:20px;"></i> Email the organisers: <a href="mailto:ukomain-mmai25@googlegroups.com">ukomain-mmai25@googlegroups.com</a>

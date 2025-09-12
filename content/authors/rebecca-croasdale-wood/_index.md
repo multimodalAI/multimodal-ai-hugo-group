@@ -53,4 +53,8 @@ user_groups:
 
 **MultimodalAI'25 Keynote Title:** Integrating AI into biologics discovery workflows
 
-**MultimodalAI'25 Keynote Abstract:** To be Updated
+**MultimodalAI'25 Keynote Abstract:** The biologics landscape is rapidly changing with the number of AI-enabled biologics in pre-clinical and clinical stages increasing, this change is driven by the increase in enterprise software solutions to capture and store data, augmented discovery workflows, improvements in machine learning technology and advances in computing power. 
+
+Augmented biologics discovery has the potential to revolutionize biologics discovery we will present current in silico biologics design and optimisation technologies, with a focus on our internal efforts to benchmark the impact of combining novel in silico technologies with our existing biologics discovery platforms. 
+
+

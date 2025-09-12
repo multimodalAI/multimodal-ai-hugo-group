@@ -38,7 +38,7 @@ UKOMAIN connects researchers, industry partners, and policymakers across eight [
 
 - **7 September 2025 (11 PM)** — Registration Deadline for MultimodalAI’25 (Registration closed) 
 
-- **8 September 2025** —  Submission Deadline for the MultimodalAI’25 Photo Competition → [Details](/multimodalai25/photo-competition/)
+- **16 September 2025** —  Submission Deadline for the MultimodalAI’25 Photo Competition → [Details](/multimodalai25/photo-competition/)
 
 - **15 September 2025** — Mini-Hackathon Preceding the MultimodalAI’25 Workshop → [Details](/multimodalai25/hackathon/)
 
