@@ -73,7 +73,7 @@ design:
 
 
 **Latest news**
-  - Preliminary programme released - [View more](/multimodalai25/#programme)
+  - Final programme released - [View more](https://docs.google.com/document/d/1PmxLPdMoYrGdz_l5nuLA9wp3utZMXlqv6QUtqL0ggnY/edit?usp=sharing)
   - Mini-Hackathon announced - [View more](/multimodalai25/hackathon/) (open to all workshop attendees)
   - Photo competition - [Call for entries](/multimodalai25/photo-competition/) (submission deadline is **16 September 2025**)
   <!-- - Accepted abstracts  - [View all abstracts](/multimodalai25/accepted-abstracts/) -->
