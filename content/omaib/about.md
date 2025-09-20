@@ -11,11 +11,11 @@ design:
 
 ### UKOMAIN Funding Call 2025: Open Multimodal AI Benchmark (OMAIB-R1)
 
-- **Expression of Interest** - [Submit here](https://forms.gle/FC6WdzP3JTdCN6fSA)
+- **Expression of Interest** - [Submit here by **16:00, 24 September 2025**](https://forms.gle/FC6WdzP3JTdCN6fSA)
 - OMAIB GitHub Discussion Board - [View now](https://github.com/multimodalAI/omaib/discussions)
 - [Call document](https://docs.google.com/document/d/1T_ZJT6QrcKrfEPgerwI9ZokVyo2xwnuaOEJFmmzoG88/edit?usp=sharing): Last updated on 12 July 2025  
 - Funding available: £160,000 total; up to £40,000 per project
-- **Talk/pitch opportunity:** Submit an abstract for [MultimodalAI’25](https://multimodalai.github.io/multimodalai25/) (16–17 Sept) by **15 July 2025** – [Submit here](https://forms.gle/82gbPCu5tBkCm8i29)
+<!-- - **Talk/pitch opportunity:** Submit an abstract for [MultimodalAI’25](https://multimodalai.github.io/multimodalai25/) (16–17 Sept) by **15 July 2025** – [Submit here](https://forms.gle/82gbPCu5tBkCm8i29) -->
 
 ---
 
