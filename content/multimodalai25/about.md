@@ -73,12 +73,37 @@ design:
 
 
 **Latest news**
-  - Registration deadline extended - [Now open](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/third-workshop-on-multimodal-ai) (closes when full or by **07 September 2025 at 11:00 PM**)
+  - [Workshop Photos](https://drive.google.com/drive/folders/1c59tzuhV90QFEucdTNqIxiQSMPjPPqiI?usp=sharing)
+
+<p style="text-align: center; margin-bottom: 0px; font-weight: bold;">Group Photo</p>
+
+<img src="media/group_photo.JPG" alt="Group Photo" style="display: block; margin-left: auto; margin-right: auto; width: 70%; margin-bottom: 15px;">
+
+<p style="text-align: center; margin-bottom: 0px; font-weight: bold;">Pre-Workshop Hackathon</p>
+
+
+<img src="media/hackathon.jpg" alt="hackathon" style="display: block; margin-left: auto; margin-right: auto; width: 70%; margin-bottom: 15px;">
+
+
+<p style="text-align: center; margin-bottom: 0px; font-weight: bold;"> Congratulations to all our prize winners! 🎉🏆👏🎊 .</p>
+
+
+<div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
+  <img src="media/prize distribution.JPG" alt="prize distribution" style="width: 45%; border-radius: 8px;">
+  <img src="media/prize_distribution_2.JPG" alt="prize distribution" style="width: 45%; border-radius: 8px;">
+</div>
+
+
+
+
+
+<!--
+- Registration deadline extended - [Now open](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/third-workshop-on-multimodal-ai) (closes when full or by **07 September 2025 at 11:00 PM**)
   - Photo competition - [Call for entries](/multimodalai25/photo-competition/) (Submission deadline **08 September 2025**)
   - Accepted abstracts  - [View all abstracts](/multimodalai25/accepted-abstracts/)
   - Sponsorship opportunities - [View more](/call-for-sponsorship/)
   - Keynote speakers confirmed - [View more](#speaker)
-
+-->
 ---
 
 You are warmly invited to join the Third Workshop on Multimodal AI (MultimodalAI'25), taking place on **16th and 17th September 2025** at the **Barbican Centre**, **London**, **EC2Y 8DS**. This workshop will be an in-person-only event, preceded by a **mini-hackathon** on **15th September (location to be announced)**.
