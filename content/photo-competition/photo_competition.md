@@ -14,10 +14,10 @@ Are you ready to show the world what Multimodal AI “sees” — or what you se
 
 As part of UKOMAIN’s mission to foster creative, inclusive, and community-driven engagement, we’re excited to launch the first UKOMAIN Multimodal AI Photo Competition — featuring two exciting tracks:
 
-- #### AI Track – "Through the Eyes of the Machine"
+- #### AI Track – "Machine’s View"
 Submit an AI-generated image that creatively explores themes of multimodal AI — such as engineering, sustainability, wellbeing, or other areas where diverse data and intelligent systems shape our world.
 
-- #### Human Track – "The Human Lens"
+- #### Human Track – "Human Lens"
 Submit a photo you’ve taken that captures a real-world moment reflecting the challenges or promises of multimodal AI in our lives, communities, or environment.
 
 **Eligibility**: If you are selected as a winner, you will need to provide a UK postal address for prize delivery and a UK contact number in case of delivery issues. Prizes will be delivered via Royal Mail registered postal service. We only request postal and contact details **after selection** and will use them solely for prize delivery. All personal data will be deleted after delivery is complete. 
@@ -36,9 +36,7 @@ Submit a photo you’ve taken that captures a real-world moment reflecting the c
 ### 📅 Key Dates
 
 - **Submission Opens**: 18 August 2025
-- **Submission Deadline**: 8 September 2025
-- **Voting Opens**: 9 September 2025
-- **Voting Closes**: 16 September 2025 (5 PM)
+- **Submission Deadline**: 16 September 2025
 - **Winners Announced**: 17 September 2025
 
 ---

@@ -49,4 +49,4 @@ As the VP Operations at UCL (University College London) these experiences come t
 
 “Our distinctive approach to research, education and innovation will further inspire our community of staff, students and partners to transform how the world is understood, how knowledge is created and shared and the way that global problems are solved.”
 
-Aimie also serves as a Non-Executive Director for LTG and as an occasional start-up coach, focused on leadership, digital, innovation, leadership, sustainability, wellness and business improvement. 
+Aimie also served as a Non-Executive Director for LTG, which has recently returned to private equity,  and as an occasional start-up coach, focused on leadership, digital, innovation, leadership, sustainability, wellness and business improvement.

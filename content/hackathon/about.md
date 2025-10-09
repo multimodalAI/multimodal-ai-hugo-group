@@ -1,0 +1,34 @@
+---
+title: "Mini-Hackathon on Multimodal AI"
+subtitle: "13:00 - 17:00, 15 September 2025 · Torrington Place (1-19), London, UK </br> Part of the Third Workshop on Multimodal AI"
+widget: blank
+headless: true
+weight: 10
+design:
+  columns: '1'
+---
+
+## Building Modular Python Components for Multimodal Data Infrastructure 
+
+The rapid growth of multimodal AI has created an urgent need for flexible, efficient, and scalable data infrastructure. Handling diverse modalities, from images and text to signals, tabular data, and structural information, requires modular tools that can support seamless loading, preprocessing, and integration. Yet, building such infrastructure remains a challenge, especially when dealing with missing or heterogeneous data.
+
+This mini-hackathon focuses on designing and prototyping modular Python components for multimodal data infrastructure. In just 4 hours, teams will explore solutions that are scalable, extensible, and generalisable, helping to power the next generation of multimodal learning.
+
+This mini-hackathon welcomes researchers and practitioners with basic Python programming experience. To participate fully, please ensure the following:
+
+- Bring a laptop with Wi-Fi capability
+- Have a GitHub account  (https://github.com/signup) to make contributions and use GitHub Discussions.
+
+---
+
+## How to Join
+
+**This mini-hackathon is open to all attendees of the [Third Workshop on Multimodal AI](https://multimodalai.github.io/multimodalai25/).**  
+
+The registration for the workshop has been closed. If you have registered for the workshop, you should have received an email with a form to register for the mini-hackathon. 
+
+---
+
+## Contact Us
+
+Email the organisers: ukomain-mmai25@googlegroups.com

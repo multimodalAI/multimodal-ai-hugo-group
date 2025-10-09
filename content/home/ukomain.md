@@ -18,7 +18,7 @@ design:
 
 > 🔔 **Upcoming UKOMAIN Events**   
 > 
-Deadline **07 September 2025 (11 PM)** - Third Workshop on Multimodal AI  ([Register now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/third-workshop-on-multimodal-ai)) 
+Third Workshop on Multimodal AI — 16–17 September 2025, London, UK  ([Details](/multimodalai25/)) 
 
 ---
 
@@ -36,9 +36,11 @@ UKOMAIN connects researchers, industry partners, and policymakers across eight [
 
 ### 🔔 Key Events & Opportunities
 
-- **07 September 2025 (11 PM)** — Registration Deadline for MultimodalAI’25 → [Register](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/third-workshop-on-multimodal-ai) 
+- **7 September 2025 (11 PM)** — Registration Deadline for MultimodalAI’25 (Registration closed) 
 
-- **8 September 2025** —  Submission deadline for Photo Competition for MultimodalAI'25 → [Details](/multimodalai25/photo-competition/)
+- **16 September 2025** —  Submission Deadline for the MultimodalAI’25 Photo Competition → [Details](/multimodalai25/photo-competition/)
+
+- **15 September 2025** — Mini-Hackathon Preceding the MultimodalAI’25 Workshop → [Details](/multimodalai25/hackathon/)
 
 - **16–17 September 2025** — MultimodalAI’25 Workshop → [Details](/multimodalai25/)
 
@@ -59,7 +61,7 @@ Join our growing community and stay updated on the latest developments, opportun
 
 - **Follow us on LinkedIn**: [UK Open Multimodal AI Network](https://www.linkedin.com/company/ukomain)
 - **Subscribe to our mailing list**: [Multimodal AI Community](https://groups.google.com/a/sheffield.ac.uk/g/multimodal-ai-community-group)
-- **Follow us on Twitter/X**: [@MultimodalAI_UK](https://twitter.com/MultimodalAI_UK)  
+- **Subscribe to our YouTube channel**: [UKOMAIN YouTube](https://www.youtube.com/@UKMultimodalAI)
 
 ---
 
