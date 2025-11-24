@@ -73,6 +73,7 @@ design:
 
 
 **Latest news**
+  - [Full programme now available](media/MultimodalAI'25%20Programme.pdf)
   - [Workshop Photos](https://drive.google.com/drive/folders/1c59tzuhV90QFEucdTNqIxiQSMPjPPqiI?usp=sharing)
   - [MultimodalAI'25 Keynotes Speakers YouTube Videos](https://www.youtube.com/@UKMultimodalAI/playlists)
   - [MultimodalAI'25 Invited talks Videos](https://www.youtube.com/@UKMultimodalAI/playlists)
