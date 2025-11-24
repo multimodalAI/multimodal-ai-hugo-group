@@ -21,11 +21,8 @@ This mini-hackathon welcomes researchers and practitioners with basic Python pro
 
 ---
 
-## How to Join
+## [Hackathon Resources & Highlights](https://github.com/pykale/mmai-hackathon/wiki)
 
-**This mini-hackathon is open to all attendees of the [Third Workshop on Multimodal AI](https://multimodalai.github.io/multimodalai25/).**  
-
-The registration for the workshop has been closed. If you have registered for the workshop, you should have received an email with a form to register for the mini-hackathon. 
 
 ---
 

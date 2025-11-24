@@ -24,31 +24,35 @@ main:
     url: code-of-conduct
     weight: 50
 
+  - name: "MultimodalAI'25 Hackathon"
+    parent: "Past Events" # Parent name must match exactly
+    url: multimodalai25/hackathon/
+    weight: 1
 
   - name: "EMBC'25Workshop"
     parent: "Past Events" # Parent name must match exactly
     url: embc25workshop
-    weight: 1
+    weight: 2
 
   - name: "MultimodalAI'24"
     parent: "Past Events" # Parent name must match exactly
     url: multimodalai24
-    weight: 2
+    weight: 3
 
   - name: "MultimodalAIForum'24"
     parent: "Past Events" # Parent name must match exactly
     url: multimodalai-forum24
-    weight: 3
+    weight: 4
 
   - name: "MultimodalAISprint'23"
     parent: "Past Events" # Parent name must match exactly
     url: multimodalai-sprint23
-    weight: 4
+    weight: 5
 
   - name: "MultimodalAI'23"
     parent: "Past Events" # Parent name must match exactly
     url: multimodalai23
-    weight: 5
+    weight: 6
 
   - name: "UKOMAIN"
     parent: "About" # Parent name must match exactly

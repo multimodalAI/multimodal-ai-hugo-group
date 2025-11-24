@@ -77,20 +77,23 @@ design:
   - [MultimodalAI'25 Keynotes Speakers YouTube Videos](https://www.youtube.com/@UKMultimodalAI/playlists)
   - [MultimodalAI'25 Invited talks Videos](https://www.youtube.com/@UKMultimodalAI/playlists)
 
+<div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
 
-<p style="text-align: center; margin-bottom: 0px; font-weight: bold;">Group Photo</p>
+  <div style="width: 49%; text-align: center;">
+    <p style="font-weight: bold; margin-bottom: 8px;">Group Photo</p>
+    <img src="media/group_photo.JPG" alt="Group Photo" style="width: 100%; border-radius: 8px;">
+  </div>
 
-<img src="media/group_photo.JPG" alt="Group Photo" style="display: block; margin-left: auto; margin-right: auto; width: 70%; margin-bottom: 15px;">
+  <div style="width: 49%; text-align: center;">
+    <p style="font-weight: bold; margin-bottom: 8px;">Pre-Workshop Hackathon</p>
+    <img src="media/hackathon.jpg" alt="Pre-Workshop Hackathon" style="width: 100%; border-radius: 8px;">
+  </div>
 
-<p style="text-align: center; margin-bottom: 0px; font-weight: bold;">Pre-Workshop Hackathon</p>
+</div>
 
-
-<img src="media/hackathon.jpg" alt="hackathon" style="display: block; margin-left: auto; margin-right: auto; width: 70%; margin-bottom: 15px;">
 
 
 <p style="text-align: center; margin-bottom: 0px; font-weight: bold;"> Congratulations to all our prize winners! 🎉🏆👏🎊 .</p>
-
-
 <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
   <img src="media/prize distribution.JPG" alt="prize distribution" style="width: 45%; border-radius: 8px;">
   <img src="media/prize_distribution_2.JPG" alt="prize distribution" style="width: 45%; border-radius: 8px;">

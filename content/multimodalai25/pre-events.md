@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 39
 
-title: Pre-workshop
+title: Pre-workshop Hackathon
 subtitle: 15 Sep 2025 <br/> Torrington Place (1-19), London, WC1E 7HB
 
 content:
@@ -35,3 +35,5 @@ design:
 | 13:00 – 17:00 | &nbsp;&nbsp;&nbsp;&nbsp;Early registration (access required) |
 
 </center>
+
+[Know more about the hackathon](/multimodalai25/hackathon/)
