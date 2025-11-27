@@ -19,7 +19,7 @@ design:
 > 🔔 **Upcoming UKOMAIN Events**   
 
 - Fourth Workshop on Multimodal AI — TBC
-- MultimodalAI forum 2026 — TBC
+- MultimodalAIForum'26 — TBC
 
 ---
 
@@ -37,7 +37,7 @@ UKOMAIN connects researchers, industry partners, and policymakers across eight [
 
 ### 🔔 Key Events & Opportunities
 - Fourth Workshop on Multimodal AI — TBC
-- MultimodalAI Forum 2026 — TBC
+- MultimodalAIForum'26 — TBC
 
 
 
