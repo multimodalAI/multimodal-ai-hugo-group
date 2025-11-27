@@ -17,8 +17,9 @@ design:
 ---
 
 > 🔔 **Upcoming UKOMAIN Events**   
-> 
-Third Workshop on Multimodal AI — 16–17 September 2025, London, UK  ([Details](/multimodalai25/)) 
+
+- Fourth Workshop on Multimodal AI — TBC
+- MultimodalAI forum 2026 — TBC
 
 ---
 
@@ -35,14 +36,10 @@ UKOMAIN connects researchers, industry partners, and policymakers across eight [
 ---
 
 ### 🔔 Key Events & Opportunities
+- Fourth Workshop on Multimodal AI — TBC
+- MultimodalAI Forum 2026 — TBC
 
-- **7 September 2025 (11 PM)** — Registration Deadline for MultimodalAI’25 (Registration closed) 
 
-- **16 September 2025** —  Submission Deadline for the MultimodalAI’25 Photo Competition → [Details](/multimodalai25/photo-competition/)
-
-- **15 September 2025** — Mini-Hackathon Preceding the MultimodalAI’25 Workshop → [Details](/multimodalai25/hackathon/)
-
-- **16–17 September 2025** — MultimodalAI’25 Workshop → [Details](/multimodalai25/)
 
 ---
 

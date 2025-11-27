@@ -21,7 +21,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.6
-        media: sliderv2.png
+        media: sliderv3.jpg
       content: >
         <font size="3" style="color: white !important;">16th-17th September 2025, Barbican Centre, London, UK</font>
         <div style="text-align: center;">
@@ -62,7 +62,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.6
-        media: sliderv2.png
+        media: sliderv4.jpg
       content: >
         <font size="3" style="color: white !important;">25th June 2024, Sheffield, UK</font>
         <div style="text-align: center;">
@@ -108,7 +108,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.6
-        media: sliderv2.png
+        media: sliderv5.jpg
       content: >
        <font size="3" style="color: white !important;">27th June 2023, Sheffield, UK</font>
         <div style="text-align: center;">
