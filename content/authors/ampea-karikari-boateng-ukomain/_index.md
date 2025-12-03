@@ -6,15 +6,14 @@ title: Ampea Karikari-Boateng
 superuser: false
 
 # Order that this section appears on the page.
-weight: 1
+weight: 2
 
 # Role/position
-role: Principal R&D Engineer, Offshore Renewable Energy Catapult; UKOMAIN Advisory Board
+role: Advisory Board Member - Offshore Renewable Energy Catapult
 
 # Organizations/Affiliations
 organizations:
-  - name: Offshore Renewable Energy Catapult
-    url: https://ore.catapult.org.uk/
+  - name: 
 
 interests: []
 
@@ -23,9 +22,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ampea-karikari-boateng-8b684a27/
-  - icon: globe
-    icon_pack: fas
-    link: https://ore.catapult.org.uk/
+  - icon: 
+    icon_pack: 
+    link: 
 
 email: ""
 
@@ -33,7 +32,7 @@ email: ""
 user_groups:
   - UKOMAIN Advisory Board
 ---
-Biography: Dr. Ampea Karikari-Boateng is a Principal R&D Engineer specializing in the integration of digital innovations into offshore renewable energy systems. With over a decade of experience in advanced engineering design and digital technologies, Ampea leads pioneering efforts to develop and apply cutting-edge digital tools that accelerate the global transition to clean and renewable energy.
+Dr. Ampea Karikari-Boateng is a Principal R&D Engineer specializing in the integration of digital innovations into offshore renewable energy systems. With over a decade of experience in advanced engineering design and digital technologies, Ampea leads pioneering efforts to develop and apply cutting-edge digital tools that accelerate the global transition to clean and renewable energy.
 
 As a thought leader in the digitalisation of offshore renewables, Ampea has led national and international collaborations, published in leading journals, and engaged with global audiences through workshops, conferences, and outreach. His current work explores the convergence of traditional engineering expertise with emerging digital technologies to create robust, tailored solutions for asset management and lifecycle optimisation.
 
