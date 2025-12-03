@@ -75,8 +75,9 @@ design:
 **Latest news**
   - [Full programme](media/MultimodalAI'25%20Programme.pdf)
   - [Workshop Photos](https://drive.google.com/drive/folders/1c59tzuhV90QFEucdTNqIxiQSMPjPPqiI?usp=sharing)
-  - [MultimodalAI'25 Keynotes Speakers Videos](https://www.youtube.com/@UKMultimodalAI/playlists)
-  - [MultimodalAI'25 Invited talks Videos](https://www.youtube.com/@UKMultimodalAI/playlists)
+  - [MultimodalAI'25 Keynotes Speakers Videos](https://youtube.com/playlist?list=PLgpPK9aGX2JPosXyrP0D-nhCWSegmZbeN&si=YejZ_ZwxlghsMJ3o)
+  - [MultimodalAI'25 Invited talks Videos](https://youtube.com/playlist?list=PLgpPK9aGX2JMjHZIX6QzExO4EikI2lLiN&si=yXHWhljz9P7uEwYV)
+  - [Multimodal'AI25 Short talks](https://youtube.com/playlist?list=PLgpPK9aGX2JPW-VomPUU_CyJB6NeC7WWq&si=Lmi_nXNKOvT3jsNc)
 
 <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
 
