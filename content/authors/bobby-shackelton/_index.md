@@ -60,5 +60,5 @@ At SNL Financial (now S&P Global), he launched SNL Maps from scratch, created an
 
 He is currently serve on the Advisory Board of the UK Open Multimodal AI Network (UKOMAIN), a £1.8M EPSRC-funded initiative advancing AI innovation across climate, space, and nature.
 
-Throughout my career, He has shared insights at the White House, The Pentagon, World Bank, WWF, The Economist, Bloomberg Markets and global ESG forums. My work continues to be guided by one principle: building technologies that help people and the planet thrive, today and in the future.
+Throughout his career, He has shared insights at the White House, The Pentagon, World Bank, WWF, The Economist, Bloomberg Markets and global ESG forums. My work continues to be guided by one principle: building technologies that help people and the planet thrive, today and in the future.
 
