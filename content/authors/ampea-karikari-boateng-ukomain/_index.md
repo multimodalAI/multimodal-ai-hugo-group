@@ -1,6 +1,11 @@
 ---
 # Display name
-title: Ampea Karikari-Boateng 
+title: Ampea Karikari-Boateng
+
+# Username/slug (must match this folder name)
+authors:
+  - ampea-karikari-boateng-ukomain
+slug: ampea-karikari-boateng-ukomain
 
 # Is this the primary user of the site?
 superuser: false

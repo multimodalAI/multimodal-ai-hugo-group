@@ -1,6 +1,11 @@
 ---
 # Display name
-title: Maria Luciana Axente 
+title: Maria Luciana Axente
+
+# Username/slug (must match this folder name)
+authors:
+  - maria-luciana-axente-ukomain
+slug: maria-luciana-axente-ukomain
 
 # Is this the primary user of the site?
 superuser: false

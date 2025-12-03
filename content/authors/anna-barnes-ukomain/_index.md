@@ -1,6 +1,11 @@
 ---
 # Display name
-title: Anna Barnes 
+title: Anna Barnes
+
+# Username/slug (must match this folder name)
+authors:
+  - anna-barnes-ukomain
+slug: anna-barnes-ukomain
 
 # Is this the primary user of the site?
 superuser: false

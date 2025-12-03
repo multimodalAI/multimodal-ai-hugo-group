@@ -1,6 +1,11 @@
 ---
 # Display name
-title: Emine Yilmaz  
+title: Emine Yilmaz
+
+# Username/slug (must match this folder name)
+authors:
+  - emine-yilmaz-ukomain
+slug: emine-yilmaz-ukomain
 
 # Is this the primary user of the site?
 superuser: false
