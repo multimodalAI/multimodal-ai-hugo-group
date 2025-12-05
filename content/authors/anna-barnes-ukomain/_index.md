@@ -14,7 +14,7 @@ superuser: false
 weight: 1
 
 # Role/position
-role: Adivsory Board Chair - King's College London
+role: Adivsory Board Chair, King's College London
 # Organizations/Affiliations
 organizations:
   - name:

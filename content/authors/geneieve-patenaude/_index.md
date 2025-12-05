@@ -9,7 +9,7 @@ superuser: false
 weight: 4
 
 # Role/position
-role: Advisory Board Member - Earth Blox
+role: Advisory Board Member, Earth Blox
 
 # Organizations/Affiliations
 organizations:

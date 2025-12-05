@@ -14,7 +14,7 @@ superuser: false
 weight: 4
 
 # Role/position
-role: Advisory Board Member - University College London
+role: Advisory Board Member, University College London
 
 # Organizations/Affiliations
 organizations:

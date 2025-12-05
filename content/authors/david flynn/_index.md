@@ -13,7 +13,7 @@ superuser: false
 weight: 17
 
 # Role/position
-role: Advisory Board Member - University of Glasgow
+role: Advisory Board Member, University of Glasgow
 
 # Organizations/Affiliations
 organizations:

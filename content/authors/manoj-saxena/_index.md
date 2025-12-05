@@ -9,7 +9,7 @@ superuser: false
 weight: 4
 
 # Role/position
-role: Advisory Board Member - Responsible AI Institute
+role: Advisory Board Member, Responsible AI Institute
 
 # Organizations/Affiliations
 organizations:
