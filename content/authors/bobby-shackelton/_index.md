@@ -9,7 +9,7 @@ superuser: false
 weight: 4
 
 # Role/position
-role: Advisory Board Member, 3E(USA)
+role: Advisory Board Member, 3E (USA)
 
 # Organizations/Affiliations
 organizations:
