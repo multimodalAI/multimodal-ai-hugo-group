@@ -18,8 +18,8 @@ design:
 
 > 🔔 **Upcoming UKOMAIN Events**   
 
-- Fourth Workshop on Multimodal AI — TBC
-- MultimodalAIForum'26 — TBC
+- Fourth Workshop on Multimodal AI — **11th and 12th June 2026**. More details will be shared with the community soon — stay tuned! 
+- MultimodalAIForum'26 — **11th March**. More details will be shared with the community soon — stay tuned! 
 
 ---
 
@@ -36,8 +36,8 @@ UKOMAIN connects researchers, industry partners, and policymakers across eight [
 ---
 
 ### 🔔 Key Events & Opportunities
-- Fourth Workshop on Multimodal AI — TBC
-- MultimodalAIForum'26 — TBC
+- Fourth Workshop on Multimodal AI — **11th and 12th June**. More details will be shared with the community soon — stay tuned!
+- MultimodalAIForum'26 — **11th March**. More details will be shared with the community soon — stay tuned!
 
 
 
