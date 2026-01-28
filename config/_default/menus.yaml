@@ -16,6 +16,21 @@ main:
     url: "#"
     weight: 20
 
+  - name: "Resources"
+    url: "#"
+    weight: 30
+
+  - name: "Landscape Explorer"
+    parent: "Resources" # Parent name must match exactly
+    url: https://multimodalai.github.io/multimodal-ai-landscape/
+    weight: 1
+
+  - name: "YouTube"
+    parent: "Resources" # Parent name must match exactly
+    url: https://www.youtube.com/@UKMultimodalAI
+    weight: 2
+
+
   - name: "Past Events"
     url: "#"
     weight: 40

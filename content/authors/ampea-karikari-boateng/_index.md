@@ -16,7 +16,7 @@ organizations:
   - name:
     url: ''
 
-interests:
+interests: []
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -54,7 +54,6 @@ Biography: Dr. Ampea Karikari-Boateng is a Principal R&D Engineer specializing i
 As a thought leader in the digitalisation of offshore renewables, Ampea has led national and international collaborations, published in leading journals, and engaged with global audiences through workshops, conferences, and outreach. His current work explores the convergence of traditional engineering expertise with emerging digital technologies to create robust, tailored solutions for asset management and lifecycle optimisation.
 
 Ampea is passionate about bridging the gap between cutting-edge research and real-world application, driving digital transformation as we move toward a smarter, cleaner energy future.
-
 
 **MultimodalAI'25 Keynote Title:** AI-renewed: transforming offshore renewables with multimodal intelligence 
 
