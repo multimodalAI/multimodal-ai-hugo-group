@@ -1,5 +1,5 @@
 ---
-title: Call for Sponsorship - MMAI'26
+title: Call for Sponsorship - MultimodalAI'26
 subtitle: #30 April, 2024
 widget: blank
 headless: true
