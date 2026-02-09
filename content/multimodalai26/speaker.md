@@ -68,7 +68,7 @@ design:
   <a href="#speaker" style="text-decoration: none;">
     <button>Speakers</button>
   </a>
-  <a href="/call-for-sponsorship/" style="text-decoration: none;">
+  <a href="/multimodalai26-sponsorship/" style="text-decoration: none;">
     <button>Sponsor Us</button>
   </a>
   <a href="#programme" style="text-decoration: none;">
