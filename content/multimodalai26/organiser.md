@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Organising Committee (To be updated)
+title: Organising Committee
 
 content:
   # Choose which groups/teams of users to display.

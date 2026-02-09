@@ -48,6 +48,7 @@ highlight_name: true
 user_groups:
   - UKOMAIN Team
   - MultimodalAI25 Organizer
+  - MultimodalAI26 Organizer
 ---
 Dr. Yao Zhang had her PhD from the Harbin Institute of Technology in 2018. She subsequently worked as a postdoctoral researcher at Queen Mary University of London from 2017 to 2020. She then joined Northumbria University as a Senior Lecturer before taking up a Lectureship at the University of Southampton in 2022. In December 2024, Dr. Zhang joined UCL as a Lecturer in Marine/Maritime Digitalization and Automation.
 

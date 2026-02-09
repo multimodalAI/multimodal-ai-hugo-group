@@ -40,6 +40,7 @@ user_groups:
 - MultimodalAI24 Organizer
 - MultimodalAI25 Organizer
 - embc25workshop-organiser
+- MultimodalAI26 Organizer
 ---
 
 Xianyuan is an Assistant Head of AI Research Engineering at the Centre for Machine Intelligence and Senior AI Research Engineer at the University of Sheffield.

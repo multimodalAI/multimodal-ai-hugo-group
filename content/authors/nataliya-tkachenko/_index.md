@@ -45,5 +45,6 @@ user_groups:
   - multimodalai24
   - UKOMAIN Team
   - MultimodalAI25 Organizer
+  - MultimodalAI26 Organizer
 ---
 Dr Nataliya Tkachenko has a background in computational environmental sciences (EO applied to agro-ecology) from AgroParisTech (France) PhD in Urban Analytics (multimodal flood detection using AI) from the University of Warwick (UK) and postdoctoral research fellowship in sustainable finance (AI for ESG and physical climate risks) from Oxford University. She is currently working on developing data & AI ethics guardrails in financial customer services industry (Lloyds Banking Group), focusing on the role of conversational AI in sustainable investment and insurance products.

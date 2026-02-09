@@ -71,6 +71,13 @@ design:
 
 </div>
 
+**Latest news:**
+
+[Sponsorship opportunities](https://multimodalai.github.io/multimodalai26-sponsorship/)
+
+---
+
+
 
 We are pleased to invite you to join us for our Fourth Workshop on Multimodal AI (MultimodalAI’26), taking place on **11–12 June 2026** at the **UCL East Campus, London.** Based on strong attendance in previous years, we expect over 120 in-person participants, with capacity for up to 150 attendees from academia, industry, and applied domains.
 
