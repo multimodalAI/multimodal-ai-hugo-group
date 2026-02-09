@@ -6,7 +6,7 @@ widget: blank
 headless: true # This file represents a page section.
 
 weight: 20 # Order that this section will appear.
-title: Third Workshop on Multimodal AI
+title: Fourth Workshop on Multimodal AI
 subtitle: 
 hero_media: 
 design:
@@ -72,7 +72,22 @@ design:
 </div>
 
 
-**Latest news**
+We are pleased to invite you to become a sponsor of the Fourth Workshop on Multimodal AI (MultimodalAI’26), taking place on **11–12 June 2026** at the **UCL East Campus, London.** Based on strong attendance in previous years, we expect over 120 in-person participants, with capacity for up to 150 attendees from academia, industry, and applied domains.
+
+Multimodal AI integrates diverse types of data, including text, images, audio, time series, graphs, and more. It is rapidly transforming how we engage with information and technology. MultimodalAI’26 will bring together researchers and practitioners from AI, data science, and related scientific and applied fields to discuss challenges, share innovative solutions, explore future collaborations, and strengthen the UK’s growing multimodal AI community.
+
+The workshop is hosted by the UK Open Multimodal AI Network (UKOMAIN), a £1.8 million EPSRC Network Plus initiative. The programme will feature:
+
+- Keynote presentations by leading experts
+- Community pitches, talks, and poster sessions
+- Engaging panel discussions
+- Updates from open multimodal AI benchmark projects
+- Funding and policy briefings
+- A full-day pre-workshop hackathon on 10 June
+- Travel bursaries and volunteering opportunities to support inclusive participation
+
+Prizes will be awarded for outstanding talks, pitches, posters, and hackathon contributions.
+
 
 
 ---
