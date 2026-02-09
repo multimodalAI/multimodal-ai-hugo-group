@@ -37,7 +37,6 @@ social:
 user_groups:
 - MultimodalAI25 Organizer
 - UKOMAIN Team
-- 
 
 ---
 Aayush is a successful marketing specialist with knowledge of digital media, social media strategy, and content production. His areas of expertise are social media channel management, compelling campaign development, and producing powerful marketing collateral. He approaches marketing creatively and analytically, having a Master's in Digital Media Management and a solid foundation in business administration and content creation. He has worked in a variety of industries, including project management, operations, video production, and social media marketing. He has a strong interest in creative marketing techniques that increase brand awareness, stimulate customer interaction, and support company expansion.
