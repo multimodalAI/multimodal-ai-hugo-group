@@ -19,7 +19,4 @@ design:
 
 Welcome to **“The Second Multimodal AI Community Forum”**, an online event. This event is scheduled from **13:00 to 18:00 (GMT)** on **Monday, 11th March 2026.**
 
-The Second Online Multimodal AI Forum brings together **researchers, industry, and policymakers** to explore how multimodal AI can tackle real-world challenges across domains. 
-The forum is organised by the **UK Open Multimodal AI Network (UKOMAIN)**, funded by [Engineering and Physical Sciences Research Council (EPSRC)](https://www.ukri.org/councils/epsrc/)
-
 Registrations will open soon.
