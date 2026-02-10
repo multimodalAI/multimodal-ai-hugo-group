@@ -8,6 +8,7 @@ main:
     url: omaib
     weight: 5
 
+
   - name: MultimodalAI'26
     url: multimodalai26
     weight: 10
