@@ -6,12 +6,12 @@
 main:
   - name: "Funding Call"
     url: omaib
+    parent: "About"
     weight: 5
-
 
   - name: MultimodalAI'26
     url: multimodalai26
-    weight: 10
+    weight: 15
 
   - name: "About"
     url: "#"
@@ -37,6 +37,7 @@ main:
 
   - name: "Code of Conduct"
     url: code-of-conduct
+    parent: "About"
     weight: 50
 
   - name: "MultimodalAI'25"
