@@ -9,6 +9,10 @@ main:
     parent: "About"
     weight: 5
 
+  - name: MultimodalAIForum'26
+    url: multimodalai-forum26
+    weight: 10
+
   - name: MultimodalAI'26
     url: multimodalai26
     weight: 15

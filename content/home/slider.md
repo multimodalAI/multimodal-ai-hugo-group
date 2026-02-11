@@ -23,7 +23,7 @@ content:
         brightness: 0.6
         media: sliderv2.png
       content: >
-        <font size="3" style="color: white !important;">11th-12th June 2026, UCL East Campus, E20 2AF, London, UK</font>
+        <font size="3" style="color: white !important;">11th-12th June 2026, UCL East Campus, One Pool Street, London, UK</font>
         <div style="text-align: center;">
           <a href="/multimodalai26/" class="btn" style="margin: 5px; background-color: white !important; color: sky !important;"><i class="fas fa-globe"></i> Event Details </a>
         </div>

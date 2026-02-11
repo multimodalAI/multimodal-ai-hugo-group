@@ -18,7 +18,7 @@ design:
 
 > 🔔 **Upcoming UKOMAIN Events**   
 
-- Fourth Workshop on Multimodal AI — **11th and 12th June 2026**. 📍 **UCL East Campus, One Pool Street, E20 2AF**. More details coming soon.
+- Fourth Workshop on Multimodal AI — **11th and 12th June 2026**. 📍 **UCL East Campus, One Pool Street, London, UK**. More details will be share with community soon. — stay tuned! 
 - MultimodalAIForum'26 — **11th March**. More details will be shared with the community soon — stay tuned! 
 
 ---
@@ -36,7 +36,7 @@ UKOMAIN connects researchers, industry partners, and policymakers across eight [
 ---
 
 ### 🔔 Key Events & Opportunities
-- Fourth Workshop on Multimodal AI — **11th and 12th June**. 📍**UCL East Campus, One Pool Street, E20 2AF**. More details will be shared with the community soon — stay tuned!
+- Fourth Workshop on Multimodal AI — **11th and 12th June**. 📍**UCL East Campus, One Pool Street, London, UK**. More details will be shared with the community soon — stay tuned!
 - MultimodalAIForum'26 — **11th March**. More details will be shared with the community soon — stay tuned!
 
 
