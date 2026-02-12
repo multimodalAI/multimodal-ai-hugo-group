@@ -35,6 +35,11 @@ main:
     url: https://www.youtube.com/@UKMultimodalAI
     weight: 2
 
+  - name: "Newsletter"
+    parent: "Resources" # Parent name must match exactly
+    url: https://www.linkedin.com/newsletters/ukomain-news-7406633621865938944/
+    weight: 3
+
   - name: "Past Events"
     url: "#"
     weight: 40
