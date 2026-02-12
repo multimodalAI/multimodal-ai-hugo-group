@@ -18,8 +18,8 @@ design:
 
 > 🔔 **Upcoming UKOMAIN Events**   
 
-- Fourth Workshop on Multimodal AI — **11th and 12th June 2026**. 📍 **UCL East Campus, One Pool Street, London, UK**. More details will be share with community soon. — stay tuned! 
-- MultimodalAIForum'26 — **11th March**. More details will be shared with the community soon — stay tuned! 
+- [Fourth Workshop on Multimodal AI](https://multimodalai.github.io/multimodalai26/) — **11th and 12th June 2026**. 📍 **UCL East Campus, One Pool Street, London, UK**. More details will be share with community soon. — stay tuned! 
+- [MultimodalAIForum'26](https://multimodalai.github.io/multimodalai-forum26/) — **11th March**. More details will be shared with the community soon — stay tuned! 
 
 ---
 
@@ -32,6 +32,8 @@ UKOMAIN connects researchers, industry partners, and policymakers across eight [
 🔗 **Further reading**:  
 - [UKRI official announcement](https://www.ukri.org/news/tackling-tomorrows-engineering-research-challenges/)  
 - [UKOMAIN Network Summary (PDF)](https://multimodalai.github.io/files/UKOMAIN-Network-Summary.pdf)
+- [Multimodal AI Landscape explorer](https://multimodalai.github.io/multimodal-ai-landscape/) 
+- [UKOMAIN Newsletter](https://www.linkedin.com/newsletters/ukomain-news-7406633621865938944/)
 
 ---
 
