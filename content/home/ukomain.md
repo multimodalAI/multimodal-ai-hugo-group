@@ -18,7 +18,7 @@ design:
 
 > 🔔 **Upcoming UKOMAIN Events and Opportunities**   
 - [Second Multimodal AI Community Forum](https://multimodalai.github.io/multimodalai-forum26/) — 11 March 2026 (Online). 👉 [Register here (and optionally submit a flash talk)](https://forms.gle/L1Z5XdYksX8EvqhG9) 
-- UKOMAIN Interest Groups — Join a focused community and help shape tangible annual outputs in multimodal AI. 👉 [Sign up here](https://forms.gle/NvS4dd2jZTbwazEc6)  
+- UKOMAIN Interest Groups — Join a focused community and help shape tangible outputs in multimodal AI. 👉 [Sign up here](https://forms.gle/NvS4dd2jZTbwazEc6)  
 - [Fourth Workshop on Multimodal AI](https://multimodalai.github.io/multimodalai26/) — 11–12 June 2026. 📍UCL East Campus, One Pool Street, London, UK.
 
 ---
