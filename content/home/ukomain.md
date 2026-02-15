@@ -35,11 +35,11 @@ UKOMAIN connects researchers, industry partners, and policymakers across eight [
 - [UKRI official announcement](https://www.ukri.org/news/tackling-tomorrows-engineering-research-challenges/)  
 - [UKOMAIN Network Summary (PDF)](https://multimodalai.github.io/files/UKOMAIN-Network-Summary.pdf)
 
----
+<!-- ---
 
 ### 🔔 Key Events & Opportunities
 - [MultimodalAIForum'26](https://multimodalai.github.io/multimodalai-forum26/) — **11th March**. More details will be shared with the community soon — stay tuned!
-- [Fourth Workshop on Multimodal AI](https://multimodalai.github.io/multimodalai26/) — **11th and 12th June**. 📍**UCL East Campus, One Pool Street, London, UK**. More details will be shared with the community soon — stay tuned!
+- [Fourth Workshop on Multimodal AI](https://multimodalai.github.io/multimodalai26/) — **11th and 12th June**. 📍**UCL East Campus, One Pool Street, London, UK**. More details will be shared with the community soon — stay tuned! -->
 
 
 
