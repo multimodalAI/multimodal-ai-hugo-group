@@ -69,7 +69,7 @@ Join our growing community and stay updated on the latest developments, opportun
 Do you have an upcoming event, collaboration opportunity, open position, funding success, or research highlight related to multimodal AI or Tomorrow’s Engineering Research Challenges (TERCs) that you’d like us to feature in a future UKOMAIN newsletter? 
 
 Please share your item via our short [Google Form](https://forms.gle/BqjqyiqNMwaQTMEs8) which helps us curate and present submissions consistently. We also welcome brief comments or suggestions for future UKOMAIN activities through the same form.
-To help us capture UKOMAIN’s wider impact, we also particularly welcome private notifications of successful grants or major research outcomes that UKOMAIN activities or connections have helped enable. These can be shared directly with us at ukomain.contact@gmail.com and do not need to be submitted via the form.
+To help us capture UKOMAIN’s wider impact, we also particularly welcome private notifications of successful grants or major research outcomes that UKOMAIN activities or connections have helped enable. These can be shared directly with us at [ukomain.contact@gmail.com](mailto:ukomain.contact@gmail.com) and do not need to be submitted via the form.
 
 ---
 
