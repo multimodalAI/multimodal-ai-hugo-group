@@ -15,6 +15,22 @@ design:
 
 content:
   slides:
+    - title: Second Multimodal AI Community Forum
+      align: center
+      background:
+        position: right
+        color: '#666'
+        brightness: 0.6
+        media: sliderv2.png
+      content: >
+        <font size="3" style="color: white !important;">11th March 2026, Virtual </font>
+        <div style="text-align: center;">
+          <a href="/multimodalai-forum26/" class="btn" style="margin: 5px; background-color: white !important; color: sky !important;"><i class="fas fa-globe"></i> Event Details </a>
+        </div>
+#        <div style="text-align: center;">
+#          <a href="https://multimodalai.github.io/multimodalai-forum26/" class="btn" style="margin: 5px; background-color: white !important; color: sky !important;"><i class="fas fa-globe"></i> Register Now</a>
+#        </div>
+
     - title: Fourth Workshop on Multimodal AI
       align: center
       background:
