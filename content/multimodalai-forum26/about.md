@@ -17,6 +17,13 @@ design:
   css_class:
 ---
 
+
+
+**Latest updates:** 
+ - [Keynote title and abstract confirmed](https://multimodalai.github.io/author/hoifung-poon/)
+
+
+---
 👉 **[Register here (and optionally submit a flash talk)](https://forms.gle/L1Z5XdYksX8EvqhG9)**  
 
 **Flash talk submission deadline:** 4 March 2026  
