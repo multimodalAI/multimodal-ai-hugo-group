@@ -16,20 +16,73 @@ design:
   css_style:
   css_class:
 ---
+<style>
+  .sticky-buttons {
+    position: fixed;
+    top: 6px !important;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(255, 255, 255, 0.9);
+    padding: 5px 8px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    z-index: 9999;
+
+    display: flex;            /* Enable flex layout */
+    flex-direction: row;      /* Keep items in a row */
+    flex-wrap: nowrap;        /* Prevent wrapping */
+    overflow-x: auto;         /* Allow scrolling on very small screens */
+    max-width: 100vw;         /* Avoid overflowing viewport width */
+  }
+
+  .sticky-buttons button {
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 2px 12px;
+    border: none;
+    border-radius: 4px;
+    background-color: #154c79;
+    color: #abdbe3;
+    cursor: pointer;
+    margin-right: 8px;
+    flex: 0 0 auto;           /* Prevent flex shrink/grow */
+    min-width: 120px;
+    white-space: nowrap;     /* Prevent button text from wrapping */
+  }
+</style>
+
+<div class="sticky-buttons">
+  <a href="#speaker" style="text-decoration: none;">
+    <button>Speakers</button>
+  </a>
+  <a href="#programme" style="text-decoration: none;">
+    <button>Programme</button>
+  </a>
+  <a href="#about" style="text-decoration: none;">
+    <button>About</button>
+  </a>
+  <a href="#contact" style="text-decoration: none;">
+    <button>Contact Us</button>
+  </a>
+
+</div>
 
 
 
-**Latest updates:** 
+**Latest updates:**
+ - [Tentative Programme](#programme)
  - [Keynote title and abstract confirmed](https://multimodalai.github.io/author/hoifung-poon/)
-
-
 ---
+<!-- 
+
 👉 **[Register here (and optionally submit a flash talk)](https://forms.gle/L1Z5XdYksX8EvqhG9)**  
 
 **Flash talk submission deadline:** 4 March 2026  
 **Registration deadline:** 9 March 2026 
 
----
+
+-->
 
 The Second Multimodal AI Community Forum brings together researchers, practitioners, and students working on or interested in multimodal AI across disciplines and sectors.
 
@@ -37,7 +90,9 @@ Multimodal AI integrates diverse data types such as vision, language, audio, tim
 
 This forum aims to foster collaboration, share innovations, and address cross-cutting challenges aligned with Tomorrow’s Engineering Research Challenges (TERCs).
 
----
+We look forward to welcoming you online.
+
+<!-- 
 
 ## 🌟 Highlights
 
@@ -64,6 +119,6 @@ We welcome short flash talk submissions on multimodal AI topics, including:
 Flash talks will be allocated **3 minutes each**.  
 If submissions exceed capacity, the programme will be curated to ensure relevance, diversity, and balance across themes.
 
----
+-->
 
-We look forward to welcoming you online.
+
