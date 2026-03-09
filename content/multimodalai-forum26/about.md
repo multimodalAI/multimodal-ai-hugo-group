@@ -69,20 +69,15 @@ design:
 </div>
 
 
-
 **Latest updates:**
- - [Tentative Programme](#programme)
+ - [Tentative Programme announced](#programme)
  - [Keynote title and abstract confirmed](https://multimodalai.github.io/author/hoifung-poon/)
 ---
-<!-- 
 
 👉 **[Register here (and optionally submit a flash talk)](https://forms.gle/L1Z5XdYksX8EvqhG9)**  
 
 **Flash talk submission deadline:** 4 March 2026  
-**Registration deadline:** 9 March 2026 
-
-
--->
+**Registration deadline:** 9 March 2026
 
 The Second Multimodal AI Community Forum brings together researchers, practitioners, and students working on or interested in multimodal AI across disciplines and sectors.
 
