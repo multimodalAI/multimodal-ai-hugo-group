@@ -6,7 +6,7 @@ widget: blank
 headless: true # This file represents a page section.
 
 weight: 30 # Order that this section will appear.
-title: Tentative Programme
+title: Full Programme
 subtitle: Wednesday, 11 March 2026
 hero_media: 
 design:
