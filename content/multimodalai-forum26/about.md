@@ -70,8 +70,9 @@ design:
 
 
 **Latest updates:**
- - [Tentative Programme announced](#programme)
+ - [Full programme](media/multimodalai26forum-full programme)
  - [Keynote title and abstract confirmed](https://multimodalai.github.io/author/hoifung-poon/)
+
 ---
 
 👉 **[Register here](https://forms.gle/L1Z5XdYksX8EvqhG9)**
