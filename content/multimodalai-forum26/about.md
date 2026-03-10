@@ -70,7 +70,7 @@ design:
 
 
 **Latest updates:**
- - [Full Programme released](media/MultimodalAIForum'26%Programme.pdf)
+ - [Full Programme released](media/Programme.pdf)
  - [Keynote title and abstract confirmed](https://multimodalai.github.io/author/hoifung-poon/)
 
 ---
