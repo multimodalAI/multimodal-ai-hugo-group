@@ -70,7 +70,7 @@ design:
 
 
 **Latest updates:**
- - [Full programme](media/multimodalai26forum-full programme)
+ - [Full programme](media/multimodalai26forumfullprogramme)
  - [Keynote title and abstract confirmed](https://multimodalai.github.io/author/hoifung-poon/)
 
 ---
