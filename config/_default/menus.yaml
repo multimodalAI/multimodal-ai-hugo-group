@@ -11,7 +11,7 @@ main:
 
   - name: OMAIB Projects
     url: omaib-projects
-    weight: 10
+    weight: 16
 
   - name: MultimodalAIForum'26
     url: multimodalai-forum26
