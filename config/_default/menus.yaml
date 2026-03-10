@@ -5,7 +5,7 @@
 
 main:
   - name: "Funding Call"
-    url: omaib
+    url: omaib-r1
     parent: "About"
     weight: 5
 
