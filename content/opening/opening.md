@@ -1,4 +1,4 @@
----
+~~---~~
 title: Openings in Multimodal AI
 subtitle:
 widget: blank

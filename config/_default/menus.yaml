@@ -4,18 +4,22 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: "Funding Call"
-    url: omaib-r1
-    parent: "About"
-    weight: 5
 
-  - name: OMAIB Projects
-    url: omaib-projects
-    weight: 16
+  #- name: OMAIB Projects
+   # url: omaib-projects
+    #weight: 16
 
   - name: MultimodalAI'26
     url: multimodalai26
     weight: 15
+
+  - name: "Funding Call"
+    url: omaib-r2
+    weight: 16
+
+  - name: "UKOMAIN IG"
+    url: interest-groups
+    weight: 17
 
   - name: "About"
     url: "#"
