@@ -13,10 +13,6 @@ main:
     url: omaib-projects
     weight: 16
 
-  - name: MultimodalAIForum'26
-    url: multimodalai-forum26
-    weight: 10
-
   - name: MultimodalAI'26
     url: multimodalai26
     weight: 15
@@ -53,40 +49,45 @@ main:
     parent: "About"
     weight: 50
 
+  - name: "MultimodalAIForum'26"
+    parent: "Past Events" # Parent name must match exactly
+    url: multimodalai-forum26
+    weight: 1
+
   - name: "MultimodalAI'25"
     parent: "Past Events" # Parent name must match exactly
     url: multimodalai25
-    weight: 1
+    weight: 2
 
   - name: "MultimodalAI'25 Hackathon"
     parent: "Past Events" # Parent name must match exactly
     url: multimodalai25/hackathon/
-    weight: 2
+    weight: 3
 
   - name: "EMBC'25Workshop"
     parent: "Past Events" # Parent name must match exactly
     url: embc25workshop
-    weight: 3
+    weight: 4
 
   - name: "MultimodalAI'24"
     parent: "Past Events" # Parent name must match exactly
     url: multimodalai24
-    weight: 4
+    weight: 5
 
   - name: "MultimodalAIForum'24"
     parent: "Past Events" # Parent name must match exactly
     url: multimodalai-forum24
-    weight: 5
+    weight: 6
 
   - name: "MultimodalAISprint'23"
     parent: "Past Events" # Parent name must match exactly
     url: multimodalai-sprint23
-    weight: 6
+    weight: 7
 
   - name: "MultimodalAI'23"
     parent: "Past Events" # Parent name must match exactly
     url: multimodalai23
-    weight: 7
+    weight: 8
 
   - name: "UKOMAIN"
     parent: "About" # Parent name must match exactly

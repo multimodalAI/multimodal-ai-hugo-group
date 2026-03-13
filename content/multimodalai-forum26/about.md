@@ -74,11 +74,6 @@ design:
  - [Keynote title and abstract confirmed](https://multimodalai.github.io/author/hoifung-poon/)
 
 ---
-
-👉 **[Register here](https://forms.gle/L1Z5XdYksX8EvqhG9)**
-
-**Registration deadline:** 9 March 2026
-
 The Second Multimodal AI Community Forum brings together researchers, practitioners, and students working on or interested in multimodal AI across disciplines and sectors.
 
 Multimodal AI integrates diverse data types such as vision, language, audio, time series, sensor, spatial, tabular, and graph data. We adopt a broad and deployment-centric perspective, embracing multiple levels of multimodality, including data types, subtypes, views, and fidelities.  
