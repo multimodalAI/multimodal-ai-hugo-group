@@ -17,7 +17,7 @@ main:
     url: omaib-r2
     weight: 16
 
-  - name: "UKOMAIN IG"
+  - name: "Interest Groups"
     url: interest-groups
     weight: 17
 
