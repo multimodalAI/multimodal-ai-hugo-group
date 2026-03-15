@@ -32,4 +32,4 @@ design:
   columns: '1'
 
 ---
-<i class="fas fa-envelope fa-2x" style="margin-right:20px;"></i> Contact us: <a href="mailto:omaib-ukomain-group@sheffield.ac.uk">omaib-ukomain-group@sheffield.ac.uk</a>
+<i class="fas fa-envelope fa-2x" style="margin-right:20px;"></i> Contact us: <a href="mailto:ukomain.contact@gmail.com">ukomain.contact@gmail.com</a>

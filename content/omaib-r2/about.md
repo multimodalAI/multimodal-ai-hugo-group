@@ -17,6 +17,7 @@ design:
 - Online briefing: [slides](https://multimodalai.github.io/files/OMAIB-R2-Briefing-Slides.pdf)
 
 For any questions regarding the call, please email us at [ukomain.contact@gmail.com](mailto:ukomain.contact@gmail.com).
+
 ---
 
 The UK Open Multimodal AI Network ([UKOMAIN](https://multimodalai.github.io/)) invites proposals for the second funding call under the Open Multimodal AI Benchmark (OMAIB) initiative. OMAIB (pronounced “Oh-Maybe”) is a major implementation strategy of UKOMAIN to address [Tomorrow’s Engineering Research Challenges (TERCs)](https://www.ukri.org/publications/tomorrows-engineering-research-challenges/) systematically through open, interdisciplinary, and community-driven benchmarking. We define Multimodal AI broadly as the integration of any two or more types of data, not limited to text and images. 
