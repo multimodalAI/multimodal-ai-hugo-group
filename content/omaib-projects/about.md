@@ -1,18 +1,18 @@
 ---
-title: "Open Multimodal AI Benchmark"
-subtitle: "Round 1 Funded Projects"
+title: "Open Multimodal AI Benchmark - Funded Projects"
+# subtitle: "Round 1 Funded Projects"
 widget: blank
 headless: true
 weight: 10
 design:
   columns: '1'
 ---
+
+### Funded Projects from OMAIB Round 1
+
 **CRITICAL-MM: Cross-modal Reasoning with Integrated Clinical Assessment for Large Multimodal Models**
   
   Munib Mesinovic, University of Oxford
-
-
-
 
 Summary: Clinical AI deployment failures rarely stem from technical limitations, and they arise when models cannot be trusted by clinicians, integrated by healthcare systems, or understood by patients. Current multimodal benchmarks evaluate what foundation models can do (accuracy, speed), not what they should do (trustworthiness, safety, fairness). CRITICAL-MM addresses this gap by developing the first benchmark co-designed with the complete ICU stakeholder ecosystem across multiple international sites. We will create a two-tier evaluation framework for multimodal foundation models on real-world ICU tasks (asynchronous data fusion, explainable deterioration prediction, clinical handover generation, resource-constrained triage). Tier 1 (Technical) measures predictive performance using publicly accessible ICU datasets: MIMIC-IV, MIMIC-III, eICU, HiRID, and AmsterdamUMCdb, enabling multinational cross-institutional generalisability testing. Tier 2 (Socio-Technical) evaluates outputs through participatory workshops with ICU clinicians, patient representatives, ethicists, and industry partners, assessing trust, interpretability, and ethical acceptability using co-designed rubrics. Through bidirectional exchange with NYU Abu Dhabi (Cleveland Clinic) and clinical validation at Oxford NHS Trust, we will test benchmark generalisability across diverse healthcare contexts. CRITICAL-MM will establish global standards for AI evaluation, directly informing NHS decisions and cross-cultural AI safety practices.
 
@@ -38,5 +38,3 @@ SONAIR is a new platform that helps researchers and industry test artificial int
 SONAIR also includes an “AI Lab” to choose how different types of data—such as video, depth, lidar, or sensor readings—are combined. The platform supports long-horizon reasoning, streaming data, uncertainty estimation, and efficient models that run on edge devices. All code, starter kits, and tools will be openly released on GitHub so the wider community can reuse and expand them. 
 
 Our UK and international industrial partners will contribute real equipment, safety requirements, and testing facilities. They will help review tasks, run pilot trials, and provide practical guidance. This ensures SONAIR is grounded in real operational needs and supports safe, trustworthy AI deployment in robotics, aerospace, marine, and industrial settings.
-
- 
