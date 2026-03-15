@@ -89,4 +89,4 @@ design:
 
 </div>
 
-<i class="fas fa-envelope fa-2x" style="margin-right:20px;"></i> Email the organisers: <a href="mailto:ukomain-mmai25@googlegroups.com">ukomain-mmai26@googlegroups.com</a>
+<i class="fas fa-envelope fa-2x" style="margin-right:20px;"></i> Email the organisers: <a href="mailto:multimodalai26-group@sheffield.ac.uk">multimodalai26-group@sheffield.ac.uk</a>
