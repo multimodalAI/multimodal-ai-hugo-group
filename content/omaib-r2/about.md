@@ -16,7 +16,7 @@ design:
 - Funding available: £320,000 total; up to £40,000 per project 
 - Online briefing: [slides](https://multimodalai.github.io/files/OMAIB-R2-Briefing-Slides.pdf)
 
-For any questions regarding the call, please email us at [ukomain.contact@gmail.com](mailto:ukomain.contact@gmail.com).
+For any questions regarding the call, please email us at [omaib-ukomain-group@sheffield.ac.uk](mailto:omaib-ukomain-group@sheffield.ac.uk).
 
 ---
 
