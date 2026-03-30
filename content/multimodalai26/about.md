@@ -73,8 +73,9 @@ design:
 
 **Latest news:**
 
+- [Call for abstracts - Submit now](https://forms.gle/dQ37m7xPzYLVvJKQA) or by 6 May 2026
 - [Sponsorship opportunities](/multimodalai26-sponsorship/)
-- [Call for abstracts - Submit now](https://forms.gle/dQ37m7xPzYLVvJKQA) or by 6 May 2026  
+
 
 ---
 
