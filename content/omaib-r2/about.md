@@ -24,7 +24,7 @@ The UK Open Multimodal AI Network ([UKOMAIN](https://multimodalai.github.io/)) i
 
 We expect this second round to fund up to 8 well-scoped, cost-effective research projects across a diverse range of domains and TERCs.
 
-**Online briefing:** An online briefing was held on 11 March 2026 at the Second Multimodal AI Community Forum to highlight the key differences from the first round and answer community questions. Slides are shared above. A recording will be available here shortly.
+**Online briefing:** An online briefing was held on 11 March 2026 at the Second Multimodal AI Community Forum to highlight the key differences from the first round and answer community questions. Slides are shared above. [Video recording now available](https://youtu.be/IayqW03HO4Q).
 
 ---
 
