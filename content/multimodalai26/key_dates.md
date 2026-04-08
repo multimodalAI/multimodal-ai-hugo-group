@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Key Dates and Deadlines (To be updated)
+title: Key Dates and Deadlines
 
 content:
   # Choose which groups/teams of users to display.
@@ -81,5 +81,25 @@ design:
 </div>
 <center>
 
-</center>
+|                                                                                 |     | Close Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|---------------------------------------------------------------------------------|-------------------------------|------------------------------------------------------|
+| Call for Abstracts   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                       |     | Wed, 6th May                                         |
+| <div style="line-height: 0.4;">&#8203;</div>                                    | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>         |
+| Abstract Acceptance Notification   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         |                               | Mon, 11th May                                        |
+| <div style="line-height: 0.4;">&#8203;</div>                                    | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>         |
+| Early Bird Registration &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    |  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Closes when full or Mon, 18th May                    |
+| <div style="line-height: 0.4;">&#8203;</div>                                    | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>         |
+| Cancellation Deadline (with refund)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       |                               | Tue, 26th May                                        |
+| <div style="line-height: 0.4;">&#8203;</div>                                    | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>         |
+| Call for Volunteers   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                      |  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Wed, 6th May                                         |
+| <div style="line-height: 0.4;">&#8203;</div>                                    | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>         |
+| Volunteer Acceptance Notification &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          |                               | Mon, 11th May                                        |
+| <div style="line-height: 0.4;">&#8203;</div>                                    | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>         |
+| Travel Bursary for Inclusive Participation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Wed, 6th May                                         |
+| <div style="line-height: 0.4;">&#8203;</div>                                    | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>         |
+| Travel Bursary Decision Notification &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       |                               | Mon, 11th May                                        |
+| <div style="line-height: 0.4;">&#8203;</div>                                    | <div style="line-height: 0.4;">&#8203;</div> | <div style="line-height: 0.4;">&#8203;</div>         |
+|
+
+
 

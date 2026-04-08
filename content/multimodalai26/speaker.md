@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Keynote Speakers (To be updated)
+title: Keynote Speakers 
 
 content:
   # Choose which groups/teams of users to display.

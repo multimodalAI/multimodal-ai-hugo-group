@@ -75,6 +75,8 @@ design:
 
 - [Early bird registrations now open](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/fourth-workshop-on-multimodal-ai): Register by 18 May 2026 to enjoy a lower fee
 - [Call for abstracts - Submit now](https://forms.gle/dQ37m7xPzYLVvJKQA) or by 6 May 2026
+- [Travel bursaries - Submit now](https://forms.gle/QSnZkfiT9H7gEnmFA) or by 6 May 2026
+- [Volunteer opportunities - Submit now](https://forms.gle/kPHfiwUqQpVvjbhx5) or by 6 May 2026
 - [Sponsorship opportunities](/multimodalai26-sponsorship/)
 
 
