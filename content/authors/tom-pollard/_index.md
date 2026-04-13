@@ -9,7 +9,7 @@ superuser: false
 weight: 4
 
 # Role/position
-role: Research Scientist at Massachusetts Institute of Technology
+role: Research Scientist at Massachusetts Institute of Technology and Technical Director of PhysioNet
 
 # Organizations/Affiliations
 organizations:
