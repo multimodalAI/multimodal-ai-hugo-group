@@ -9,7 +9,7 @@ superuser: false
 weight: 4
 
 # Role/position
-role: Columbia University
+role: Professor of Computer Science at Columbia University
 
 # Organizations/Affiliations
 organizations:
