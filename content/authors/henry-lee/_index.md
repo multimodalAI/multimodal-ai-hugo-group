@@ -9,7 +9,7 @@ superuser: false
 weight: 4
 
 # Role/position
-role: Chief Executive Officer at Cultivarium
+role: CEO at Cultivarium
 
 # Organizations/Affiliations
 organizations:

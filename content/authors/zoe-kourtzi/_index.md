@@ -9,7 +9,7 @@ superuser: false
 weight: 4
 
 # Role/position
-role: Professor of Cognitive Computational Neuroscience at University of Cambridge and Chief Scientific Officer at Prodromic
+role: Professor of Cognitive Computational Neuroscience at University of Cambridge and CSO at Prodromic
 
 # Organizations/Affiliations
 organizations:

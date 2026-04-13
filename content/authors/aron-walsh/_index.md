@@ -9,7 +9,7 @@ superuser: false
 weight: 4
 
 # Role/position
-role: Chief Scientific Officer at CuspAI and Professor at Imperial College London
+role: CSO at CuspAI and Professor at Imperial College London
 
 # Organizations/Affiliations
 organizations:

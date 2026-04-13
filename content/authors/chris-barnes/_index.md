@@ -9,7 +9,7 @@ superuser: false
 weight: 4
 
 # Role/position
-role: National Physical Laboratory and UCL
+role: Head of Science of AI at National Physical Laboratory and Professor of Systems and Synthetic Biology at UCL
 
 # Organizations/Affiliations
 organizations:
