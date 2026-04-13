@@ -9,7 +9,7 @@ superuser: false
 weight: 4
 
 # Role/position
-role: CSO at CuspAI and Professor at Imperial College London
+role: CSO at CuspAI and Professor in Materials Design at Imperial College London
 
 # Organizations/Affiliations
 organizations:
