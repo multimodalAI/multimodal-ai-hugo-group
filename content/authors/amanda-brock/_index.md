@@ -43,7 +43,7 @@ user_groups:
 - mmai_26_welcome_address
 
 ---
-Biography: Amanda is CEO of OpenUK and has built one of the most recognised and impactful organisations in open source and the first organisation set up to not only be an industry organisation but undertake policy work in open source.
+Amanda is CEO of OpenUK and has built one of the most recognised and impactful organisations in open source and the first organisation set up to not only be an industry organisation but undertake policy work in open source.
 
 She is also the Executive Producer of State of Open Con 25 having founded and produced the ‘23 – ‘25 events building to over 800 attendees, and over 200 speakers and in ‘26 will be taking it on the road. 
 
