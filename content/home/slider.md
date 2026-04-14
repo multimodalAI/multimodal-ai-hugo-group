@@ -25,7 +25,7 @@ content:
       content: >
         <font size="3" style="color: white !important;">11th-12th June 2026, UCL East Campus, One Pool Street, London, UK</font>
         <div style="text-align: center;">
-          <a href="/multimodalai26/" class="btn" style="margin: 5px; background-color: white !important; color: sky !important;"><i class="fas fa-globe"></i> Event Details </a>
+          <a href="/multimodalai26/" class="btn" style="margin: 5px; background-color: white !important; color: sky !important;"><i class="fas fa-globe"></i> Register now: early bird ends 18 May 2026 </a>
         </div>
 #        <div style="text-align: center;">
 #          <a href="https://multimodalai.github.io/multimodalai26/" class="btn" style="margin: 5px; background-color: white !important; color: sky !important;"><i class="fas fa-globe"></i> Register Now</a>
