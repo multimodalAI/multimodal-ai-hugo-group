@@ -29,7 +29,7 @@ We offer four sponsorship tiers: **Platinum (£5,000)**, **Gold (£3,500)**, **S
 
 **Platinum Sponsors (£5,000)**
 
-- Invited 10-minute talk on a topic related to multimodal AI
+- Invited 15-minute talk on a topic related to multimodal AI
 - Eight complimentary registrations
 - Priority exhibition stand at the registration and/or reception area
 - Banner display at registration and reception areas
@@ -41,7 +41,7 @@ We offer four sponsorship tiers: **Platinum (£5,000)**, **Gold (£3,500)**, **S
 
 **Gold Sponsors (£3,500)**
 
-- Invited 5-minute short talk on a topic related to multimodal AI
+- Invited 10-minute talk on a topic related to multimodal AI
 - Six complimentary registrations
 - Exhibition stand at the registration and/or reception area
 - Banner display at registration and/or reception areas
@@ -53,7 +53,7 @@ We offer four sponsorship tiers: **Platinum (£5,000)**, **Gold (£3,500)**, **S
 
 **Silver Sponsors (£2,000)**
 
-- Invited 1-minute pitch relevant to multimodal AI
+- Invited 5-minute short talk relevant to multimodal AI
 - Four complimentary registrations
 - Exhibition stand at the registration area (subject to availability)
 - Organisation name, logo, and a 100-word profile in the workshop programme
