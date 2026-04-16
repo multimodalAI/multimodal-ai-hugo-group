@@ -65,7 +65,7 @@ We offer four sponsorship tiers: **Platinum (£5,000)**, **Gold (£3,500)**, **S
 - Organisation name and logo in the workshop programme
 - Logo and URL featured on workshop webpages
 
-To express interest or discuss sponsorship options further, please contact us at ukomain-mmai26@googlegroups.com.
+To express interest or discuss sponsorship options further, please contact us at multimodalai26-group@sheffield.ac.uk.
 
 Thank you for considering this opportunity. We would be delighted to welcome you as a sponsor of MultimodalAI’26.
 
