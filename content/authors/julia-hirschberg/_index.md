@@ -58,6 +58,6 @@ She was on the Executive Board of the Association for Computational Linguistics 
 
 She was elected to the American Philosophical Society in 2014 and as an Honorary Member of the Association for Laboratory Phonology in the same year. She has received honorary doctorates from the Royal Institute of Technology (KTH) Stockholm in 2007 and from Tilburg University in the Netherlands in 2018, a Columbia Engineering School Alumni Association (CESAA) Distinguished Faculty Teaching Award in 2009 and the Janette and Armen Avanessians Diversity Award in 2018. She received the IEEE James L. Flanagan Speech and Audio Processing Award in 2011, the ISCA Medal for Scientific Achievement in 2011, and received the ISCA Special Service medal in 2020. She was selected as the Fillmore Professor at the LSA Summer Institute in 2017. She was an Amazon Scholar (2020-2025).
 
-**MultimodalAI'26 Keynote Title:** To be updated
+**MultimodalAI'26 Keynote Title:** Radicalization and De-Radicalization in Social Media.
 
 **MultimodalAI'26 Keynote Abstract:** To be updated
