@@ -58,6 +58,6 @@ Prior to joining MIT he completed an interdisciplinary PhD on computational mode
 
 He is a Fellow of the Software Sustainability Institute, Instructor for The Carpentries, and a Member of the MIT Task Force on Open Access. He serves on the Editorial Board of PLOS Digital Health and NPJ Scientific Data, and on the Committee for the Conference on Health, Inference, and Learning (CHIL).
 
-**MultimodalAI'26 Keynote Title:** Data for Health AI in a Time of Change
+**MultimodalAI'26 Keynote Title:** Data for Health AI in a Time of Change.
 
 **MultimodalAI'26 Keynote Abstract:** To be updated
