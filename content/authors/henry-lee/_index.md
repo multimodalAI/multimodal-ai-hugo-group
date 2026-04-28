@@ -58,6 +58,6 @@ He has a background in electrical engineering and a PhD in Biomedical Engineerin
 
 By bridging academic discovery and industrial deployment, he aims to make selecting the "right microbe for the job" as routine as choosing a software library. At SynBioBeta 2025 he is assembling the ecosystem that can turn today's esoteric non-model microbes into tomorrow's bio-industries.
 
-**MultimodalAI'26 Keynote Title:** To be updated
+**MultimodalAI'26 Keynote Title:** Scaling Biological Expertise
 
 **MultimodalAI'26 Keynote Abstract:** To be updated
