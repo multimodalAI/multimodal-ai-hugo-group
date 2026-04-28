@@ -59,7 +59,7 @@ design:
   <a href="/multimodalai26-sponsorship/" style="text-decoration: none;">
     <button>Sponsor Us</button>
   </a>
-  <a href="#programme" style="text-decoration: none;">
+  <a href="#pre-events" style="text-decoration: none;">
     <button>Programme</button>
   </a>
   <a href="#about" style="text-decoration: none;">
@@ -72,7 +72,7 @@ design:
 </div>
 
 **Latest news:**
-
+- [Tentative programme](#pre-events) now available
 - [Early bird registrations now open](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/fourth-workshop-on-multimodal-ai): Register by 18 May 2026 to enjoy a lower fee
 - [Call for abstracts - Submit now](https://forms.gle/dQ37m7xPzYLVvJKQA) or by 6 May 2026
 - [Travel bursaries - Submit now](https://forms.gle/QSnZkfiT9H7gEnmFA) or by 6 May 2026
