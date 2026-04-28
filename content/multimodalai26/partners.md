@@ -50,7 +50,7 @@ design:
   <a href="/call-for-sponsorship/" style="text-decoration: none;">
     <button>Sponsor Us</button>
   </a>
-  <a href="#pre-events" style="text-decoration: none;">
+  <a href="#programme" style="text-decoration: none;">
     <button>Programme</button>
   </a>
   <a href="#about" style="text-decoration: none;">
