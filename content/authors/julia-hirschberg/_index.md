@@ -60,4 +60,7 @@ She was elected to the American Philosophical Society in 2014 and as an Honorary
 
 **MultimodalAI'26 Keynote Title:** Radicalization and De-Radicalization in Social Media.
 
-**MultimodalAI'26 Keynote Abstract:** To be updated
+**MultimodalAI'26 Keynote Abstract:** Our prior work on radicalization focuses on Increasing our understanding of online radicalization efforts from analyzing right- and left-leaning group videos
+in social media including groups from outside the USA. We studied what viewers  found the videos appealing, what techniques were employed in producing radical  content, and how we could computationally identify these techniques. More
+recently we have worked to identify potentially effective de-radicalizing techniques and worked to build a unified multimodal processing pipeline  toolkit to help us create conversational systems on social media that are useful
+in de-radicalizing viewers.
