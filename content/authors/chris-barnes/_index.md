@@ -59,6 +59,8 @@ Chris earned both his MSci and PhD in Physics from Imperial College London, spec
 
 Chris has authored over 100 peer-reviewed articles, with a Google Scholar h-index of 67 and more than 26,000 citations. His research spans statistics, machine learning, engineering biology, systems biology, and quantitative modelling. He was a Turing Fellow, and recipient of the UCL Provost Teaching Award. He has received funding from Wellcome, European Research Council, EPSRC, BBSRC, and Leverhulme Trust. 
 
-**MultimodalAI'26 Keynote Title:** To be updated
+**MultimodalAI'26 Keynote Title:** An overview of AI at NPL  
 
-**MultimodalAI'26 Keynote Abstract:** To be updated
+**MultimodalAI'26 Keynote Abstract:** The National Physical Laboratory (NPL) is the UK’s national metrology institute. It develops and maintains the country’s primary measurement standards and provides the measurement science, calibration, testing, and scientific expertise that underpin industry, innovation, and public services—helping ensure measurements are accurate, comparable, and trustworthy. In this talk, Chris Barnes (Head of Science for AI, NPL) will give an overview of NPL’s AI activity and how it supports the UK’s ambitions for trustworthy and deployable AI across industry.
+ 
+The talk is structured into three parts covering the main aspects of AI@NPL. First, Trustworthy AI: how measurement thinking translates into AI practice, covering concepts such as uncertainty, robustness, interpretability, and data quality, and how these properties can be characterised, tested, and compared in a repeatable way. Second, AI for Metrology: examples of how modern machine learning can be used to enhance the scientific process. Third, AI assurance: the emerging methods, standards, and evaluation approaches needed to build justified confidence in AI systems for critical applications.
