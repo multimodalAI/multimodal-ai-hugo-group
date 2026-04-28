@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 39
 
-title: Pre-workshop Hackathon (To be updated)
-subtitle:
+title: Tentative Pre-workshop Programme
+subtitle: 10 June 2026
 
 content:
   # Choose which groups/teams of users to display.
@@ -27,3 +27,12 @@ design:
   show_role: true
   show_social: true
 ---
+
+<center>
+
+| Time          | &nbsp;&nbsp;&nbsp;&nbsp;Event               |
+|---------------|---------------------------------------------|
+| 10:00 – 18:00 | &nbsp;&nbsp;&nbsp;&nbsp;Hackathon           |
+| 10:00 – 17:00 | &nbsp;&nbsp;&nbsp;&nbsp;Early registration  |
+
+</center>
