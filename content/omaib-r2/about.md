@@ -15,6 +15,7 @@ design:
 - [Call for Proposals (Full Document)](https://docs.google.com/document/d/1tR-SoS-CA0kkk4FOuqIbOebCADMeBNze47QOL6M_cQk/edit?usp=sharing): Last updated on 10 April 2026
 - Funding available: £320,000 total; up to £40,000 per project 
 - Online briefing: [slides](https://multimodalai.github.io/files/OMAIB-R2-Briefing-Slides.pdf), [video recording](https://youtu.be/IayqW03HO4Q?t=817)
+- [OMAIB-R1: Projects Overview](https://youtube.com/playlist?list=PLgpPK9aGX2JPxU2q_6Fi5PLhPZUK-LD0f&si=FYG3cUFV43vcJuAV)
 
 For any questions regarding the call, please email us at [omaib-ukomain-group@sheffield.ac.uk](mailto:omaib-ukomain-group@sheffield.ac.uk).
 
