@@ -7,11 +7,13 @@ weight: 10
 design:
   columns: '1'
 ---
+# Prove It—Building Evidence for Trustworthy Multimodal AI Deployment
+
 **Hackathon registration is now open — 15 May 2026.**
 
 If you are registered for the MultimodalAI'26 workshop, you are already eligible. Please complete the hackathon [registration form](https://docs.google.com/forms/d/e/1FAIpQLSchf1_YM5nRCPjTMNLZ7kVLUscdDLqyv20Xi6FaACAzD9fXVA/viewform?usp=header) to secure your place.
 
-Registration closes **9 June 2026**. 
+Registration closes **4 June 2026**. 
 Full participant details — strand guides and test notebooks — will be sent to all registered attendees on **4 June 2026**. Watch your inbox.
 
 ## The Challenge
