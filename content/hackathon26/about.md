@@ -73,7 +73,7 @@ The winners will receive **Amazon vouchers**. Two teams will be recognised at th
 - 💡 **Best Multimodal Idea**
 - 🖥️ **Best Demo**
 
-Winners will be announced on **Day 1** of the workshop (11 June) and the prizes will be awarded on **Day 2** (12 June).
+Winners will be announced on **Day 1** of the workshop (11 June).
 
 ## Practical Information
 
@@ -106,7 +106,7 @@ Winners will be announced on **Day 1** of the workshop (11 June) and the prizes 
   </tr>
   <tr>
     <td style="width: 30%; padding: 8px;"><strong>Eligibility</strong></td>
-    <td style="width: 70%; padding: 8px;">Registered MultimodalAI'26 workshop attendees</td>
+    <td style="width: 70%; padding: 8px;">Each team must have at least one member who is a registered attendee of the MultimodalAI'26 workshop and present at the event on 11th June 2026.</td>
   </tr>
   <tr>
     <td style="width: 30%; padding: 8px;"><strong>Team size</strong></td>
