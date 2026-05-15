@@ -1,5 +1,5 @@
 ---
-title: "Fourth Workshop on Multimodal AI - Hackathon 2026"
+title: "MultimodalAI'26 Hackathon"
 subtitle: "10 June 2026 · Teaching Space 4 Room 301, One Pool Street, London, E20 2AF· 10:00–18:00"
 widget: blank
 headless: true
