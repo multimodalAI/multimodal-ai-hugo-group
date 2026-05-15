@@ -8,7 +8,7 @@ design:
   columns: '1'
 ---
 
-# Prove It—Building Evidence for Trustworthy Multimodal AI Deployment
+## Prove It—Building Evidence for Trustworthy Multimodal AI Deployment
 
 <!-- **Hackathon registration is open until 4 June 2026.** -->
 
@@ -18,7 +18,7 @@ You are welcome to join a webinar on Thursday, 21 May 2026, from 12:30 to 13:30,
 
 Full participant details — strand guides and test notebooks — will be sent to all registered attendees on **4 June 2026**. Watch your inbox.
 
-## The Challenge
+### The Challenge
 
 AI systems are being deployed in ICUs, autonomous vehicles, social housing, and robotic platforms — but can the people who depend on them actually trust them? Trust has to be earned with evidence, not assumed.
 
@@ -67,13 +67,11 @@ Each strand provides guided notebooks, synthetic datasets, and parallel track ro
 
 ## Awards
 
-The winners will receive **Amazon vouchers**. Two teams will be recognised at the MultimodalAI'26 Workshop, taking place on **11–12 June 2026**:
+Three teams will be selected as the winners of the following awards to receive prizes (Amazon vouchers) on **Day 1** (11 June 2026) of the MultimodalAI'26 Workshop:
 
 - 🥇 **Promising Benchmark Award**
 - 💡 **Best Multimodal Idea**
 - 🖥️ **Best Demo**
-
-Winners will be announced on **Day 1** of the workshop (11 June).
 
 ## Practical Information
 
