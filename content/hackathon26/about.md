@@ -16,6 +16,8 @@ design:
 
 If you have completed the main workshop registration, please complete [this registration form](https://docs.google.com/forms/d/e/1FAIpQLSchf1_YM5nRCPjTMNLZ7kVLUscdDLqyv20Xi6FaACAzD9fXVA/viewform?usp=header) to secure your place for the hackathon.
 
+You are welcome to join a webinar on Thursday, 21 May 2026, from 12:30 to 13:30, where we will provide an overview of the hackathon format, participation requirements, key dates, prizes, judging criteria, and next steps for attendees interested in taking part. [Register for the webinar](https://docs.google.com/forms/d/e/1FAIpQLSe3jN4pZzhdSoG-lNc3kpQQv0YoMbHxry0M1pq5H3PhHndxXw/viewform), and we will share with you further information, including the webinar link, when closer to the date.
+
 Full participant details — strand guides and test notebooks — will be sent to all registered attendees on **4 June 2026**. Watch your inbox.
 
 ## The Challenge
