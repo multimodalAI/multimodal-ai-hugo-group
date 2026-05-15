@@ -7,18 +7,20 @@ weight: 10
 design:
   columns: '1'
 ---
+
 # Prove It—Building Evidence for Trustworthy Multimodal AI Deployment
 
-**Hackathon registration is now open — 15 May 2026.**
+**Hackathon registration is open until 4 June 2026.**
 
-If you are registered for the MultimodalAI'26 workshop, you are already eligible. Please complete the hackathon [registration form](https://docs.google.com/forms/d/e/1FAIpQLSchf1_YM5nRCPjTMNLZ7kVLUscdDLqyv20Xi6FaACAzD9fXVA/viewform?usp=header) to secure your place.
+**Eligibility**: Participants of the [Fourth Workshop on Multimodal AI](https://multimodalai.github.io/multimodalai26/) are eligible to participate in the hackathon. Click [here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/fourth-workshop-on-multimodal-ai) to register for the workshop (Register by 18 May 2026 to enjoy a lower fee).
 
-Registration closes **4 June 2026**. 
+If you have completed the main workshop registration, please complete [this registration form](https://docs.google.com/forms/d/e/1FAIpQLSchf1_YM5nRCPjTMNLZ7kVLUscdDLqyv20Xi6FaACAzD9fXVA/viewform?usp=header) to secure your place for the hackathon.
+
 Full participant details — strand guides and test notebooks — will be sent to all registered attendees on **4 June 2026**. Watch your inbox.
 
 ## The Challenge
 
-AI systems are being deployed in ICUs, autonomous vehicles, social housing, and robotic platforms — but can the people who depend on them actually trust them? Trust has to be earned with evidence, not assumed. 
+AI systems are being deployed in ICUs, autonomous vehicles, social housing, and robotic platforms — but can the people who depend on them actually trust them? Trust has to be earned with evidence, not assumed.
 
 The MultimodalAI'26 Hackathon is a **deployment-centric** event. It invites registered workshop attendees to spend a day doing what most AI development skips: rigorously auditing **whether AI systems that combine multiple data types are safe, fair, and honest about their own failures.**
 
@@ -45,7 +47,7 @@ Working in teams of 2–4, you will spend a day evaluating AI systems across fou
   </tr>
   <tr>
     <td>🏠 Housing</td>
-    <td>Is this dataset good enough for housing decisions?</td>
+    <td>Can you trust a dataset used for housing decisions?</td>
   </tr>
   <tr>
     <td>🤖 Robotics</td>
@@ -58,21 +60,20 @@ Each strand provides guided notebooks, synthetic datasets, and parallel track ro
 ## Why Join?
 
 - Explore real-world challenges in trustworthy multimodal AI.
-- Produce research tools and papers via collaborative work. Our previous sprint produced a [perspective paper in Nature Machine Intelligence](https://www.nature.com/articles/s42256-025-01116-5)—strong deployment-centric findings from this hackathon will be considered for contributions to the OMAIB benchmark and future publications.
+- Produce research tools and papers via collaborative work. Our previous [sprint](https://multimodalai.github.io/multimodalai-sprint23/) produced a [perspective paper in Nature Machine Intelligence](https://www.nature.com/articles/s42256-025-01116-5). Strong deployment-centric findings from this hackathon will be considered for contributions to the OMAIB benchmark and future publications.
 - Build ideas that funders and users can understand and trust.
 - Experience the shaping of future AI assurance by regulations.
 - Win Amazon voucher prizes.
 
-
 ## Awards
 
-The winning team will receive an **Amazon voucher**. Two teams will be recognised at the MultimodalAI'26 Workshop, taking place on **11–12 June 2026**:
+The winners will receive **Amazon vouchers**. Two teams will be recognised at the MultimodalAI'26 Workshop, taking place on **11–12 June 2026**:
 
 - 🥇 **Promising Benchmark Award**
 - 💡 **Best Multimodal Idea**
 - 🖥️ **Best Demo**
 
-Winners are announced on **Day 1** of the workshop (11 June); the prize is awarded on **Day 2** (12 June).
+Winners will be announced on **Day 1** of the workshop (11 June) and the prizes will be awarded on **Day 2** (12 June).
 
 ## Practical Information
 
@@ -121,4 +122,4 @@ Winners are announced on **Day 1** of the workshop (11 June); the prize is award
 
 Full strand details and test notebook with detailed instructions will be sent directly to registered MultimodalAI'26 workshop & hackathon attendees on **4 June 2026**.
 
-If you have a question in the meantime, contact the organising team: multimodalai26-group@sheffield.ac.uk
+If you have a question in the meantime, contact the organising team: <multimodalai26-group@sheffield.ac.uk>
