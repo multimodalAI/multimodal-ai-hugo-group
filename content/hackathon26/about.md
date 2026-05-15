@@ -57,20 +57,20 @@ Each strand provides guided notebooks, synthetic datasets, and parallel track ro
 
 ## Why Join?
 
-- Strong submissions may be invited for publication outputs.
-- Our previous sprint produced a perspective paper in *Nature Machine Intelligence*.
-- Strong deployment-centric findings from this hackathon will be considered for OMAIB benchmark contributions and future publications.
-- The EU AI Act creates demand for auditors. Spend a day becoming one.
-- Have fun building something that funders and collaborators can understand and use.
-- Good food, good teams, real contribution.
+- Explore real-world challenges in trustworthy multimodal AI.
+- Produce research tools and papers via collaborative work. Our previous sprint produced a [perspective paper in Nature Machine Intelligence](https://www.nature.com/articles/s42256-025-01116-5)—strong deployment-centric findings from this hackathon will be considered for contributions to the OMAIB benchmark and future publications.
+- Build ideas that funders and users can understand and trust.
+- Experience the shaping of future AI assurance by regulations.
+- Win Amazon voucher prizes.
+
 
 ## Awards
 
 The winning team will receive an **Amazon voucher**. Two teams will be recognised at the MultimodalAI'26 Workshop, taking place on **11–12 June 2026**:
 
-- 🥇 **OMAIB Future Path Award** — for the submission most likely to become a lasting benchmark contribution.
-- 💡 **Best Multimodal Idea** — for the most insightful finding across modalities.
-- 🖥️ **Best Demo/User Experience** — for the most engaging and usable demonstration.
+- 🥇 **Promising Benchmark Award**
+- 💡 **Best Multimodal Idea**
+- 🖥️ **Best Demo**
 
 Winners are announced on **Day 1** of the workshop (11 June); the prize is awarded on **Day 2** (12 June).
 
