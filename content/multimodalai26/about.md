@@ -72,6 +72,8 @@ design:
 </div>
 
 **Latest news:**
+
+- [Standard registrations are now open](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/fourth-workshop-on-multimodal-ai): Early-bird registration has now closed. Register by 5 June 2026
 - [Accepted abstracts](accepted-abstracts/)
 - [Tentative programme](#programme) now available
 - [Early bird registrations now open](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/fourth-workshop-on-multimodal-ai): Register by 18 May 2026 to enjoy a lower fee

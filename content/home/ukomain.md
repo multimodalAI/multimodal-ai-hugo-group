@@ -19,6 +19,7 @@ design:
 > 🔔 **Upcoming UKOMAIN Events and Opportunities**   
 <!-- - [Second Multimodal AI Community Forum](https://multimodalai.github.io/multimodalai-forum26/) — 11 March 2026 (Online). 👉 [Register here](https://forms.gle/L1Z5XdYksX8EvqhG9) by 9 March 2026
 - Hiring: [AI Research Engineer / Senior AI Research Engineer](https://jobsite.sheffield.ac.uk/job/AI-Research-Engineer-Senior-AI-Research-Engineer/2214-en_GB/) — apply by 11 March 2026 -->
+- [Standard registrations are now open](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/fourth-workshop-on-multimodal-ai): Early-bird registration has now closed. Register by 5 June 2026 for MultimodalAI’26, 11–12 June 2026, UCL East Campus, London.
 - [Early bird registrations now open](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/fourth-workshop-on-multimodal-ai): Register by 18 May 2026 to enjoy a lower fee for MultimodalAI’26, 11–12 June 2026, UCL East Campus, London.
 - Call for abstracts is now open for the Fourth Workshop on Multimodal AI taking place at UCL East Campus, London on 11–12 June 2026 — [Submit now](https://forms.gle/UBQqgigk4iNJxSy56) or by 6 May 2026
 - [Travel bursaries](https://forms.gle/pw5YMdn8q9zcNkVXA) and [Volunteer opportunities](https://forms.gle/yDcawvbHdigwFqSg9) is now open for the Fourth Workshop on Multimodal AI taking place at UCL East Campus, London on 11–12 June 2026 — Submit now or by 6 May 2026
