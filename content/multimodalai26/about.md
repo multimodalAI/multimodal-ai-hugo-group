@@ -77,9 +77,9 @@ design:
 - [Accepted abstracts](accepted-abstracts/)
 - [Tentative programme](#programme) now available
 - Early bird registrations now closed
-- Call for abstracts - Now closed
-- Travel bursaries - Now closed
-- Volunteer opportunities - Now closed
+- Call for abstracts now closed
+- Travel bursaries now closed
+- Volunteer opportunities now closed
 - [Sponsorship opportunities](/multimodalai26-sponsorship/)
 
 
