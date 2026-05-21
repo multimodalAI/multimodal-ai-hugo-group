@@ -12,7 +12,7 @@ design:
 
 <!-- **Hackathon registration is open until 4 June 2026.** -->
 
-**Eligibility**: This hackathon is free to attend. Please note that at least one member of each team must be registered for the [Fourth Workshop on Multimodal AI](https://multimodalai.github.io/multimodalai26/) and present their hackathon project at the event on 11 June 2026. Click [here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/fourth-workshop-on-multimodal-ai) to register for the workshop (Register by 18 May 2026 to enjoy a lower fee).
+**Eligibility**: This hackathon is free to attend. Please note that at least one member of each team must be registered for the [Fourth Workshop on Multimodal AI](https://multimodalai.github.io/multimodalai26/) and present their hackathon project at the event on 11 June 2026. Click [here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/fourth-workshop-on-multimodal-ai) to register for the workshop by 5 June 2026.
 
 **MultimodalAI'26 Hackathon registration are now open**: [Register here](https://docs.google.com/forms/d/e/1FAIpQLSchf1_YM5nRCPjTMNLZ7kVLUscdDLqyv20Xi6FaACAzD9fXVA/viewform) by 4 June 2026.
 
