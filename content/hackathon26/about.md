@@ -28,7 +28,7 @@ No single "best model" wins here. The strongest entry finds the most important r
 
 Most AI hackathons ask you to build the best model. This one asks you to **prove it deserves to be trusted**.
 
-Working in teams of 2–3, you will spend a day evaluating AI systems across four consequential real-world scenarios — using synthetic datasets carefully designed to reflect genuine deployment conditions — and producing structured evidence of whether it should be trusted. You will not be judged on accuracy alone. You will be judged on **evidence**.
+Working in teams of 3–4, you will spend a day evaluating AI systems across four consequential real-world scenarios — using synthetic datasets carefully designed to reflect genuine deployment conditions — and producing structured evidence of whether it should be trusted. You will not be judged on accuracy alone. You will be judged on **evidence**.
 
 ## Four Strands. Four Questions.
 
@@ -40,10 +40,6 @@ Working in teams of 2–3, you will spend a day evaluating AI systems across fou
   <tr>
     <td>🏥 Clinical</td>
     <td>Can you trust an AI in the ICU?</td>
-  </tr>
-  <tr>
-    <td>🚗 Automotive</td>
-    <td>Can you trust an AI dashcam?</td>
   </tr>
   <tr>
     <td>🏠 Housing</td>
@@ -104,7 +100,7 @@ Three teams will be selected as the winners of the following awards to receive p
   </tr>
   <tr>
     <td style="width: 30%; padding: 8px;"><strong>Team size</strong></td>
-    <td style="width: 70%; padding: 8px;">2–3 participants. Solo registration is welcome, with team formation on the day.</td>
+    <td style="width: 70%; padding: 8px;">3–4 participants. Solo registration is welcome, with team formation on the day.</td>
   </tr>
   <tr>
     <td style="width: 30%; padding: 8px;"><strong>Co-located with</strong></td>
