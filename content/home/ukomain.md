@@ -21,12 +21,9 @@ design:
 - Hiring: [AI Research Engineer / Senior AI Research Engineer](https://jobsite.sheffield.ac.uk/job/AI-Research-Engineer-Senior-AI-Research-Engineer/2214-en_GB/) — apply by 11 March 2026 -->
 - [MultimodalAI’26 Hackathon registration is now open](https://docs.google.com/forms/d/e/1FAIpQLSchf1_YM5nRCPjTMNLZ7kVLUscdDLqyv20Xi6FaACAzD9fXVA/viewform): Register by 4 June 2026. The hackathon will take place on Wednesday 10 June 2026, 10:00–18:00, at UCL East Campus, One Pool Street, London.
 - [Hackathon webinar](https://www.youtube.com/watch?v=jW3s9_jMaRg) and [Hackathon slides](https://drive.google.com/file/d/1IgRUnOAIDA4hN00pPeOSZsMNLYCyaHwa/view?usp=sharing) are now available.
-- [Standard registrations are now open](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/fourth-workshop-on-multimodal-ai): Early-bird registration has now closed. Register by 5 June 2026 for MultimodalAI’26, 11–12 June 2026, UCL East Campus, London.
-- Early bird registrations now closed: for MultimodalAI’26, 11–12 June 2026, UCL East Campus, London.
-- Call for abstracts is now closed for the Fourth Workshop on Multimodal AI taking place at UCL East Campus, London on 11–12 June 2026 
-- [Travel bursaries](https://forms.gle/pw5YMdn8q9zcNkVXA) and [Volunteer opportunities](https://forms.gle/yDcawvbHdigwFqSg9) is now closed for the Fourth Workshop on Multimodal AI taking place at UCL East Campus, London on 11–12 June 2026
+- [Standard registrations are now open](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/fourth-workshop-on-multimodal-ai): Register by 5 June 2026 for Fourth Workshop on Multimodal AI, 11–12 June 2026, UCL East Campus, London.
 - UKOMAIN Interest Groups — Join a focused community and help shape tangible outputs in multimodal AI. 👉 [Sign up here](https://forms.gle/NvS4dd2jZTbwazEc6)  
-- [Fourth Workshop on Multimodal AI](https://multimodalai.github.io/multimodalai26/) — 11–12 June 2026. 📍UCL East Campus, One Pool Street, London, UK.
+
 
 ---
 
