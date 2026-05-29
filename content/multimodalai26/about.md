@@ -72,9 +72,8 @@ design:
 </div>
 
 **Latest news:**
-- [Hackathon registration is now open](https://docs.google.com/forms/d/e/1FAIpQLSchf1_YM5nRCPjTMNLZ7kVLUscdDLqyv20Xi6FaACAzD9fXVA/viewform): Register by 4 June 2026
-- [Hackathon webinar](https://www.youtube.com/watch?v=jW3s9_jMaRg) and [Hackathon slides](https://drive.google.com/file/d/1IgRUnOAIDA4hN00pPeOSZsMNLYCyaHwa/view?usp=sharing) are now available
-- [Standard registrations are now open](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/fourth-workshop-on-multimodal-ai): Early-bird registration has now closed. Register by 5 June 2026
+- [Standard registration is open until 5 June 2026](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/fourth-workshop-on-multimodal-ai).
+- [Hackathon registration is open until 4 June 2026](https://docs.google.com/forms/d/e/1FAIpQLSchf1_YM5nRCPjTMNLZ7kVLUscdDLqyv20Xi6FaACAzD9fXVA/viewform). See [Hackathon webinar recording](https://www.youtube.com/watch?v=jW3s9_jMaRg) and [slides](https://drive.google.com/file/d/1IgRUnOAIDA4hN00pPeOSZsMNLYCyaHwa/view?usp=sharing).
 - [Accepted abstracts](accepted-abstracts/)
 - [Tentative programme](#programme) now available
 - Early bird registrations now closed
