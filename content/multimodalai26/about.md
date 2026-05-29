@@ -72,8 +72,8 @@ design:
 </div>
 
 **Latest news:**
-- [Standard registration](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/fourth-workshop-on-multimodal-ai) is open until 5 June 2026.
-- [Hackathon registration](https://docs.google.com/forms/d/e/1FAIpQLSchf1_YM5nRCPjTMNLZ7kVLUscdDLqyv20Xi6FaACAzD9fXVA/viewform) is open until 4 June 2026. See [Hackathon webinar recording](https://www.youtube.com/watch?v=jW3s9_jMaRg) and [slides](https://drive.google.com/file/d/1IgRUnOAIDA4hN00pPeOSZsMNLYCyaHwa/view?usp=sharing).
+- [Standard registration](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/fourth-workshop-on-multimodal-ai) is open until **5 June 2026**.
+- [Hackathon registration](https://docs.google.com/forms/d/e/1FAIpQLSchf1_YM5nRCPjTMNLZ7kVLUscdDLqyv20Xi6FaACAzD9fXVA/viewform) is open until **4 June 2026**. See [hackathon webinar recording](https://www.youtube.com/watch?v=jW3s9_jMaRg) and [slides](https://drive.google.com/file/d/1IgRUnOAIDA4hN00pPeOSZsMNLYCyaHwa/view?usp=sharing).
 - [Accepted abstracts](accepted-abstracts/) posted
 - [Tentative programme](#programme) now available
 - [Sponsorship opportunities](/multimodalai26-sponsorship/)
