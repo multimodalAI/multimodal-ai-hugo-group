@@ -60,4 +60,4 @@ He is a Fellow of the Software Sustainability Institute, Instructor for The Carp
 
 **MultimodalAI'26 Keynote Title:** Data for Health AI in a Time of Change.
 
-**MultimodalAI'26 Keynote Abstract:** To be updated
+**MultimodalAI'26 Keynote Abstract:** We will explore how the health AI community is moving from an era focused mainly on model building to one that must confront deeper questions about data quality, access, governance, and representation. Using examples from recent controversies in medical AI and from the development of open research resources such as PhysioNet and MIMIC, the talk will argue that progress now depends on creating data ecosystems that are more trustworthy, more reusable, and more faithful to the realities of clinical care.
