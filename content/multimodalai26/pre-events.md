@@ -32,7 +32,7 @@ design:
 
 | Time          | &nbsp;&nbsp;&nbsp;&nbsp;Event               |
 |---------------|---------------------------------------------|
-| 10:00 – 18:00 | &nbsp;&nbsp;&nbsp;&nbsp;Hackathon           |
+| 09:30 – 18:00 | &nbsp;&nbsp;&nbsp;&nbsp;Hackathon           |
 | 10:00 – 17:00 | &nbsp;&nbsp;&nbsp;&nbsp;Early registration  |
 
 </center>

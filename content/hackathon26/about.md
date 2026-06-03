@@ -1,6 +1,6 @@
 ---
 title: "MultimodalAI'26 Hackathon"
-subtitle: "10 June 2026 · Teaching Space 4 Room 301, One Pool Street, London, E20 2AF· 10:00–18:00"
+subtitle: "10 June 2026 · Teaching Space 4 Room 301, One Pool Street, London, E20 2AF· 09:30–18:00"
 widget: blank
 headless: true
 weight: 10
@@ -88,7 +88,7 @@ Three teams will be selected as the winners of the following awards to receive p
   </tr>
   <tr>
     <td style="width: 30%; padding: 8px;"><strong>Time</strong></td>
-    <td style="width: 70%; padding: 8px;">10:00–18:00</td>
+    <td style="width: 70%; padding: 8px;">09:30–18:00</td>
   </tr>
   <tr>
     <td style="width: 30%; padding: 8px;"><strong>Venue</strong></td>
