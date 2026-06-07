@@ -71,7 +71,7 @@ design:
 
 </div>
 
-**Latest news:*
+**Latest news:**
 <!--
 - [Standard registration](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/fourth-workshop-on-multimodal-ai) is open until **5 June 2026**.
 - [Hackathon registration](https://docs.google.com/forms/d/e/1FAIpQLSchf1_YM5nRCPjTMNLZ7kVLUscdDLqyv20Xi6FaACAzD9fXVA/viewform) is open until **4 June 2026**. 
