@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 39
 
-title: Tentative Pre-workshop Programme
+title: Pre-workshop Programme
 subtitle: 10 June 2026
 
 content:
@@ -30,9 +30,11 @@ design:
 
 <center>
 
-| Time          | &nbsp;&nbsp;&nbsp;&nbsp;Event               |
-|---------------|---------------------------------------------|
-| 09:30 – 18:00 | &nbsp;&nbsp;&nbsp;&nbsp;Hackathon           |
-| 10:00 – 17:00 | &nbsp;&nbsp;&nbsp;&nbsp;Early registration  |
+| Time          | &nbsp;&nbsp;&nbsp;&nbsp;Event                                       |
+|---------------|---------------------------------------------------------------------|
+| 09:30 – 18:00 | &nbsp;&nbsp;&nbsp;&nbsp;MultimodalAI'26 hackathon                   |
+| 10:00 – 17:00 | &nbsp;&nbsp;&nbsp;&nbsp;MultimodalAI'26 workshop early registration |
+
+[Know more about the hackathon](/multimodalai26/hackathon/)
 
 </center>
