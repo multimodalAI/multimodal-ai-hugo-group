@@ -30,7 +30,7 @@ Most AI hackathons ask you to build the best model. This one asks you to **prove
 
 Working in teams of 3–4, you will spend a day evaluating AI systems across four consequential real-world scenarios — using synthetic datasets carefully designed to reflect genuine deployment conditions — and producing structured evidence of whether it should be trusted. You will not be judged on accuracy alone. You will be judged on **evidence**.
 
-## Four Strands. Four Questions.
+## Three Strands. Three Questions.
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
