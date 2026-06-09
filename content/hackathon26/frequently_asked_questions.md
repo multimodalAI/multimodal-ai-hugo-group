@@ -125,7 +125,7 @@ There is no required IDE. You may use any tool you prefer, such as VS Code, PyCh
 
 ### How do I submit?
 
-Submission is via GitHub. Your team should push its work to a team branch and open a Pull Request against the relevant strand branch before the deadline. The submission window is **18:00–23:59 on 10 June 2026**.
+Submission is via GitHub. Your team should push its work to a team branch and open a Pull Request against the relevant strand branch before the deadline.
 
 ### What is the team branch naming convention?
 
