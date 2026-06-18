@@ -37,7 +37,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.6
-        media: sliderv2.png
+        media: sliderv1.png
       content: >
         <font size="3" style="color: white !important;">11th March 2026, Virtual </font>
         <div style="text-align: center;">
@@ -69,7 +69,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.6
-        media: sliderv2.png
+        media: sliderv1.png
       content: >
         <font size="3" style="color: white !important;">Open Multimodal AI Benchmark - Launch Webinar on 11 July 2025 </font>
         <div style="text-align: center;">
@@ -110,7 +110,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.6
-        media: sliderv2.png
+        media: sliderv1.png
       content: >
        <font size="3" style="color: white !important;">25th March 2024, Virtual</font>
         <div style="text-align: center;">
@@ -125,7 +125,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.6
-        media: sliderv2.png
+        media: sliderv1.png
       content: >
        <font size="3" style="color: white !important;">22nd November 2023, London, UK</font>
         <div style="text-align: center;">

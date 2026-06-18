@@ -80,10 +80,34 @@ design:
 - [Accepted abstracts](accepted-abstracts/) posted
 - [Tentative programme](#programme) now available
 - [Sponsorship opportunities](/multimodalai26-sponsorship/)
-- Early bird registrations now closed
-- Call for abstracts now closed
-- Travel bursaries now closed
-- Volunteer opportunities now closed
+- [Workshop photos](https://drive.google.com/drive/folders/1zP0g-JQ1OHkfvY4tJN3PSxKtKIREy2X9?usp=sharing)
+
+<div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
+
+  <div style="width: 49%; text-align: center;">
+    <p style="font-weight: bold; margin-bottom: 8px;">Group Photo</p>
+    <img src="media/group.JPG" alt="Group Photo" style="width: 100%; border-radius: 8px;">
+  </div>
+</div>
+
+
+<p style="text-align: center; margin-bottom: 0px; font-weight: bold;"> Pre-Workshop Hackathon</p>
+<div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
+  <img src="media/hackathon.jpg" alt="Pre-Workshop Hackathon" style="width: 50%; border-radius: 8px;">
+  <img src="media/Hackathon 2.JPG" alt="prize distribution" style="width: 50%; border-radius: 8px;">
+</div>
+
+
+<p style="text-align: center; margin-bottom: 0px; font-weight: bold;"> Congratulations to all our prize winners! 🎉🏆👏🎊 .</p>
+<div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
+  <img src="media/hackathonwinner1.JPG" alt="prize winner" style="width: 50%; border-radius: 8px;">
+  <img src="media/hackathonwinner2.JPG" alt="prize winner" style="width: 50%; border-radius: 8px;">
+</div>
+<div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
+  <img src="media/hackathonwinner3.JPG" alt="prize winner" style="width: 50%; border-radius: 8px;">
+  <img src="media/abstractwinners.JPG" alt="prize winner" style="width: 50%; border-radius: 8px;">
+</div>
+
 
 ---
 
