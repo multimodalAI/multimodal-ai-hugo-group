@@ -78,7 +78,7 @@ design:
 -->
 - Access to the [hackathon webinar recording](https://www.youtube.com/watch?v=jW3s9_jMaRg) and [slides](https://drive.google.com/file/d/1IgRUnOAIDA4hN00pPeOSZsMNLYCyaHwa/view?usp=sharing).
 - [Accepted abstracts](accepted-abstracts/) posted
-- [Tentative programme](#programme) now available
+- [Full programme](media/MultimodalAI'26%20Programme.pdf)
 - [Sponsorship opportunities](/multimodalai26-sponsorship/)
 - [Workshop photos](https://drive.google.com/drive/folders/1zP0g-JQ1OHkfvY4tJN3PSxKtKIREy2X9?usp=sharing)
 
