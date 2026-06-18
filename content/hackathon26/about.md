@@ -56,7 +56,7 @@ Each strand provides guided notebooks, synthetic datasets, and parallel track ro
 ## Why Join?
 
 - Explore real-world challenges in trustworthy multimodal AI.
-- Produce research tools and papers via collaborative work. Our previous [sprint](https://multimodalai.github.io/multimodalai-sprint23/) produced a [perspective paper in Nature Machine Intelligence](https://www.nature.com/articles/s42256-025-01116-5). Strong deployment-centric findings from this hackathon will be considered for contributions to the OMAIB benchmark and future publications.
+- Produce research tools and papers via collaborative work. One of our previous [sprint](https://multimodalai.github.io/multimodalai-sprint23/) produced a [perspective paper in Nature Machine Intelligence](https://www.nature.com/articles/s42256-025-01116-5). Strong deployment-centric findings from this hackathon will be considered for contributions to the OMAIB benchmark and future publications.
 - Build ideas that funders and users can understand and trust.
 - Experience the shaping of future AI assurance by regulations.
 - Win Amazon voucher prizes.
