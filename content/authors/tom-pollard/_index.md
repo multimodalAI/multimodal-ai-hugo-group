@@ -51,6 +51,7 @@ email:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - mmai_26_keynote
+  - UKOMAIN Advisory Board
 ---
  Tom is a Research Scientist at MIT and Technical Director of PhysioNet. He is also an Instructor in the Department of Biostatistics at Harvard T.H. Chan School of Public Health. His current efforts center on sharing data for use in research, education, and industry, with a focus on critical care.
 

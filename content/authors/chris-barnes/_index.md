@@ -51,7 +51,8 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - mmai_26_keynote 
+  - mmai_26_keynote
+  - UKOMAIN Advisory Board
 ---
 Chris Barnes is Head of Science of AI at the National Physical Laboratory (NPL), where he leads strategic research into AI uncertainty quantification, trustworthy AI, and metrics for data quality. His work supports the development of reliable, transparent, and fit-for-purpose AI systems, particularly in critical sectors such as healthcare and manufacturing. He also holds a professorship in Systems and Synthetic Biology at University College London (UCL), where his academic research focuses on AI, computational modelling, engineering biology, and biomedical applications.
 
