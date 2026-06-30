@@ -2,6 +2,11 @@
 # Display name
 title: Tom Pollard
 
+# Username/slug (must match this folder name)
+authors:
+  - tom-pollard-ukomain
+slug: tom-pollard-ukomain
+
 # Is this the primary user of the site?
 superuser: false
 

@@ -2,6 +2,11 @@
 # Display name
 title: Chris Barnes
 
+# Username/slug (must match this folder name)
+authors:
+  - chris-barnes-ukomain
+slug: chris-barnes-ukomain
+
 # Is this the primary user of the site?
 superuser: false
 
