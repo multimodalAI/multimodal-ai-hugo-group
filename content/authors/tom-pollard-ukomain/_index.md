@@ -14,7 +14,7 @@ superuser: false
 weight: 4
 
 # Role/position
-role: Advisory Board Member, Research Scientist at Massachusetts Institute of Technology
+role: Advisory Board Member, Massachusetts Institute of Technology
 
 # Organizations/Affiliations
 organizations:

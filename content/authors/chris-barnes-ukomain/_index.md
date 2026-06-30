@@ -14,7 +14,7 @@ superuser: false
 weight: 4
 
 # Role/position
-role: Advisory Board Member, Head of Science of AI at National Physical Laboratory
+role: Advisory Board Member, National Physical Laboratory
 
 # Organizations/Affiliations
 organizations:
