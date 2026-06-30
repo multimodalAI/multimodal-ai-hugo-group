@@ -9,7 +9,7 @@ superuser: false
 weight: 4
 
 # Role/position
-role: Research Scientist at Massachusetts Institute of Technology and Technical Director of PhysioNet
+role: Advisory Board Member, Research Scientist at Massachusetts Institute of Technology
 
 # Organizations/Affiliations
 organizations:
@@ -50,14 +50,12 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - mmai_26_keynote
+  - UKOMAIN Advisory Board
 ---
- Tom is a Research Scientist at MIT and Technical Director of PhysioNet. He is also an Instructor in the Department of Biostatistics at Harvard T.H. Chan School of Public Health. His current efforts center on sharing data for use in research, education, and industry, with a focus on critical care.
+
+Tom is a Research Scientist at MIT and Technical Director of PhysioNet. He is also an Instructor in the Department of Biostatistics at Harvard T.H. Chan School of Public Health. His current efforts center on sharing data for use in research, education, and industry, with a focus on critical care.
 
 Prior to joining MIT he completed an interdisciplinary PhD on computational modeling of patient physiology at University College London, based between Mullard Space Science Laboratory and University College Hospital.
 
 He is a Fellow of the Software Sustainability Institute, Instructor for The Carpentries, and a Member of the MIT Task Force on Open Access. He serves on the Editorial Board of PLOS Digital Health and NPJ Scientific Data, and on the Committee for the Conference on Health, Inference, and Learning (CHIL).
 
-**MultimodalAI'26 Keynote Title:** Data for Health AI in a Time of Change.
-
-**MultimodalAI'26 Keynote Abstract:** We will explore how the health AI community is moving from an era focused mainly on model building to one that must confront deeper questions about data quality, access, governance, and representation. Using examples from recent controversies in medical AI and from the development of open research resources such as PhysioNet and MIMIC, the talk will argue that progress now depends on creating data ecosystems that are more trustworthy, more reusable, and more faithful to the realities of clinical care.
