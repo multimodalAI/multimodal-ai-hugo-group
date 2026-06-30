@@ -50,9 +50,11 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - mmai_26_keynote
+  
+- mmai_26_keynote
 ---
- Tom is a Research Scientist at MIT and Technical Director of PhysioNet. He is also an Instructor in the Department of Biostatistics at Harvard T.H. Chan School of Public Health. His current efforts center on sharing data for use in research, education, and industry, with a focus on critical care.
+ 
+Tom is a Research Scientist at MIT and Technical Director of PhysioNet. He is also an Instructor in the Department of Biostatistics at Harvard T.H. Chan School of Public Health. His current efforts center on sharing data for use in research, education, and industry, with a focus on critical care.
 
 Prior to joining MIT he completed an interdisciplinary PhD on computational modeling of patient physiology at University College London, based between Mullard Space Science Laboratory and University College Hospital.
 
