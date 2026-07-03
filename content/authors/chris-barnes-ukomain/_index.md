@@ -14,7 +14,7 @@ superuser: false
 weight: 4
 
 # Role/position
-role: Advisory Board Member, National Physical Laboratory
+role: Advisory Board Member, National Physical Laboratory 
 
 # Organizations/Affiliations
 organizations:
@@ -56,7 +56,6 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
- 
  - UKOMAIN Advisory Board
 ---
 
