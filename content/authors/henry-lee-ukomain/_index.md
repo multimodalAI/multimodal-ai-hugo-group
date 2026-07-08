@@ -2,6 +2,11 @@
 # Display name
 title: Henry Lee
 
+# Username/slug (must match this folder name)
+authors:
+  - henry-lee-ukomain
+slug: henry-lee-ukomain
+
 # Is this the primary user of the site?
 superuser: false
 
