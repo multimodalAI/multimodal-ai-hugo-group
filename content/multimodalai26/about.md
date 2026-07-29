@@ -77,8 +77,8 @@ design:
 - [Hackathon registration](https://docs.google.com/forms/d/e/1FAIpQLSchf1_YM5nRCPjTMNLZ7kVLUscdDLqyv20Xi6FaACAzD9fXVA/viewform) is open until **4 June 2026**. 
 -->
 - [MultimodalAI'26 Keynote Speakers Videos](https://youtube.com/playlist?list=PLVw9eB2zX1i0&si=kTBtoLgEKg7MxXfn) 
-- Access to the [hackathon webinar recording](https://www.youtube.com/watch?v=jW3s9_jMaRg) and [slides](https://drive.google.com/file/d/1IgRUnOAIDA4hN00pPeOSZsMNLYCyaHwa/view?usp=sharing).
-- [Accepted abstracts](accepted-abstracts/) posted
+-  [Hackathon webinar recording](https://www.youtube.com/watch?v=jW3s9_jMaRg) & [slides](https://drive.google.com/file/d/1IgRUnOAIDA4hN00pPeOSZsMNLYCyaHwa/view?usp=sharing).
+- [Accepted abstracts](accepted-abstracts/) 
 - [Full programme](media/MultimodalAI'26%20Programme.pdf)
 - [Sponsorship opportunities](/multimodalai26-sponsorship/)
 - [Workshop photos](https://drive.google.com/drive/folders/1zP0g-JQ1OHkfvY4tJN3PSxKtKIREy2X9?usp=sharing)
