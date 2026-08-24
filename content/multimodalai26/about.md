@@ -78,6 +78,7 @@ design:
 -->
 - [MultimodalAI'26 Keynote Speakers Videos](https://youtube.com/playlist?list=PLVw9eB2zX1i0&si=kTBtoLgEKg7MxXfn) 
 - [MultimodalAI'26 Invited Talks Videos](https://www.youtube.com/playlist?list=PLalmsoucEJ7M)
+- [MultimodalAI'26 award-winning abstracts](https://www.youtube.com/playlist?list=PLXwIeZiJSQxU)
 - [MultimodalAI'26 Panel Discussions](https://www.youtube.com/playlist?list=PLT_68mVXCdho) 
 -  [Hackathon webinar recording](https://www.youtube.com/watch?v=jW3s9_jMaRg) & [slides](https://drive.google.com/file/d/1IgRUnOAIDA4hN00pPeOSZsMNLYCyaHwa/view?usp=sharing)
 - [Accepted abstracts](accepted-abstracts/) 
