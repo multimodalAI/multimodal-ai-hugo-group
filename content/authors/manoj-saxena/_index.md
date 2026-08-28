@@ -6,7 +6,7 @@ title: Manoj Saxena
 superuser: false
 
 # Order that this section appears on the page.
-weight: 4
+weight: 11
 
 # Role/position
 role: Founder and Chairman, Responsible AI Institute (USA)

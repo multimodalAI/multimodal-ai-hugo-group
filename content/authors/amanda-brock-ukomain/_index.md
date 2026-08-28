@@ -10,10 +10,10 @@ authors:
 superuser: false
 
 # Order that this section appears on the page.
-weight: 17
+weight: 4
 
 # Role/position
-role: CEO at OpenUK
+role: CEO, OpenUK
 
 # Organizations/Affiliations
 organizations:

@@ -6,7 +6,7 @@ title: Katerina Christofidou
 superuser: false
 
 # Order that this section appears on the page.
-weight: 4
+weight: 5
 
 # Role/position
 role: Professor in Digital and Sustainable Metallurgy, University of Sheffield

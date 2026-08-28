@@ -6,10 +6,10 @@ title: Geneieve Patenaude
 superuser: false
 
 # Order that this section appears on the page.
-weight: 4
+weight: 9
 
 # Role/position
-role: CEO at Earth Blox
+role: CEO, Earth Blox
 
 # Organizations/Affiliations
 organizations:

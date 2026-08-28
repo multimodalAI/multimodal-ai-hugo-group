@@ -11,7 +11,7 @@ slug: tom-pollard-ukomain
 superuser: false
 
 # Order that this section appears on the page.
-weight: 4
+weight: 10
 
 # Role/position
 role: Research Scientist at Massachusetts Institute of Technology (USA)

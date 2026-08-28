@@ -13,7 +13,7 @@ superuser: false
 weight: 17
 
 # Role/position
-role: CEO at OpenUK
+role: CEO, OpenUK
 
 # Organizations/Affiliations
 organizations:

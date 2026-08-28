@@ -11,7 +11,7 @@ slug: chris-barnes-ukomain
 superuser: false
 
 # Order that this section appears on the page.
-weight: 4
+weight: 3
 
 # Role/position
 role: Head of Science/AI at NPL and Professor of Systems and Synthetic Biology at UCL

@@ -6,7 +6,7 @@ title: Bobby Shackelton
 superuser: false
 
 # Order that this section appears on the page.
-weight: 4
+weight: 12
 
 # Role/position
 role: Senior Director, Product Management, 3E (USA)

@@ -11,7 +11,7 @@ slug: ampea-karikari-boateng-ukomain
 superuser: false
 
 # Order that this section appears on the page.
-weight: 2
+weight: 7
 
 # Role/position
 role: Principal R&D Engineer, Offshore Renewable Energy Catapult

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Order that this section appears on the page.
-weight: 17
+weight: 6
 
 # Role/position
 role: Professor of Cyber Physical Systems, University of Glasgow
