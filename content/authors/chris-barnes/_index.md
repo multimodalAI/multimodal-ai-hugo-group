@@ -6,7 +6,7 @@ title: Chris Barnes
 superuser: false
 
 # Order that this section appears on the page.
-weight: 3
+weight: 4
 
 # Role/position
 role: Head of Science of AI at National Physical Laboratory and Professor of Systems and Synthetic Biology at UCL
