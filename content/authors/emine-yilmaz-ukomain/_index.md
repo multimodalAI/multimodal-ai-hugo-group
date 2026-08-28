@@ -14,7 +14,7 @@ superuser: false
 weight: 13
 
 # Role/position
-role: Professor at University College London
+role: Professor, University College London
 
 # Organizations/Affiliations
 organizations:
