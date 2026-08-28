@@ -40,7 +40,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- mmai_26_welcome_address
+- UKOMAIN Advisory Board
 
 ---
 Amanda is CEO of OpenUK and has built one of the most recognised and impactful organisations in open source and the first organisation set up to not only be an industry organisation but undertake policy work in open source.
