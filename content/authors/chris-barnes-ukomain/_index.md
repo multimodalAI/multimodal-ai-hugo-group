@@ -14,7 +14,7 @@ superuser: false
 weight: 3
 
 # Role/position
-role: Head of Science/AI at NPL and Professor of Systems and Synthetic Biology at UCL
+role: Head of Science of AI, NPL; Professor of Systems and Synthetic Biology, UCL
 
 # Organizations/Affiliations
 organizations:
