@@ -14,7 +14,7 @@ superuser: false
 weight: 1
 
 # Role/position
-role: Adivsory Board Chair, King's College London
+role: Joint Head of Medical Physics and Clinical Engineering, Guy's and St Thomas' NHS Foundation Trust
 # Organizations/Affiliations
 organizations:
   - name:

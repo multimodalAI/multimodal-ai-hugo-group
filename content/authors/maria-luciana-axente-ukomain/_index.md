@@ -14,7 +14,7 @@ superuser: false
 weight: 4
 
 # Role/position
-role: Advisory Board Member, Responsible Intelligence 
+role: Founder and CEO, Responsible Intelligence 
 
 # Organizations/Affiliations
 organizations:

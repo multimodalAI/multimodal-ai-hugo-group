@@ -14,7 +14,7 @@ superuser: false
 weight: 4
 
 # Role/position
-role: Advisory Board Member, National Physical Laboratory 
+role: Head of Science/AI at NPL and Professor of Systems and Synthetic Biology at UCL
 
 # Organizations/Affiliations
 organizations:
