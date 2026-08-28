@@ -14,7 +14,7 @@ superuser: false
 weight: 10
 
 # Role/position
-role: Research Scientist at Massachusetts Institute of Technology (USA)
+role: Research Scientist, Massachusetts Institute of Technology (USA)
 
 # Organizations/Affiliations
 organizations:
