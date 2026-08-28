@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 16
 
-title:
+title: UKOMAIN Advisory Board
 
 content:
   # Choose which groups/teams of users to display.
@@ -22,6 +22,6 @@ design:
   show_role: true
   show_social: false
 ---
-[UKOMAIN Advisory Board](https://multimodalai.github.io/#advisoryboard)
+
 
 
