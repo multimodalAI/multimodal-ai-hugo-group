@@ -9,7 +9,7 @@ superuser: false
 weight: 4
 
 # Role/position
-role: Advisory Board Member, Responsible AI Institute (USA)
+role: Founder and Chairman, Responsible AI Institute (USA)
 
 # Organizations/Affiliations
 organizations:

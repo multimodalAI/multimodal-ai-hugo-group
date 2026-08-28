@@ -9,7 +9,7 @@ superuser: false
 weight: 4
 
 # Role/position
-role: Advisory Board Member, University of Sheffield
+role: Professor in Digital and Sustainable Metallurgy, University of Sheffield
 
 # Organizations/Affiliations
 organizations:

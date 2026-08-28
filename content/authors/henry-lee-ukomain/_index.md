@@ -14,7 +14,7 @@ superuser: false
 weight: 4
 
 # Role/position
-role: Advisory Board Member, Cultivarium
+role: CEO at Cultivarium
 
 # Organizations/Affiliations
 organizations:

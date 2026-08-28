@@ -14,7 +14,7 @@ superuser: false
 weight: 2
 
 # Role/position
-role: Advisory Board Member, Offshore Renewable Energy Catapult
+role: Principal R&D engineer, Offshore Renewable Energy Catapult
 
 # Organizations/Affiliations
 organizations:
