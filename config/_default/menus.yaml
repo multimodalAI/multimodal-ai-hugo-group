@@ -113,7 +113,12 @@ main:
     url: "#team"
     weight: 2
 
+  - name: "Advisory Board"
+    parent: "About" # Parent name must match exactly
+    url: "#advisoryboard"
+    weight: 3
+
   - name: "Contact"
     parent: "About" # Parent name must match exactly
     url: "#contact"
-    weight: 3
+    weight: 4
