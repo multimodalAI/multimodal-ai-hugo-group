@@ -9,20 +9,6 @@ main:
    # url: omaib-projects
     #weight: 16
 
-  - name: "MultimodalAI'26"
-    url: "#"
-    weight: 15
-
-  - name: "Workshop"
-    parent: "MultimodalAI'26" # Parent name must match exactly
-    url: multimodalai26
-    weight: 1
-
-  - name: "Hackathon"
-    parent: "MultimodalAI'26" # Parent name must match exactly
-    url: multimodalai26/hackathon/
-    weight: 2
-
   - name: "Funding Call"
     url: omaib-r2
     weight: 17
@@ -63,45 +49,55 @@ main:
     parent: "About"
     weight: 50
 
+  - name: "MultimodalAI'26"
+    parent: "Past Events" # Parent name must match exactly
+    url: multimodalai26
+    weight: 1
+
+  - name: "MultimodalAI'26 Hackathon"
+    parent: "Past Events" # Parent name must match exactly
+    url: multimodalai26/hackathon/
+    weight: 2
+
   - name: "MultimodalAIForum'26"
     parent: "Past Events" # Parent name must match exactly
     url: multimodalai-forum26
-    weight: 1
+    weight: 3
 
   - name: "MultimodalAI'25"
     parent: "Past Events" # Parent name must match exactly
     url: multimodalai25
-    weight: 2
+    weight: 4
 
   - name: "MultimodalAI'25 Hackathon"
     parent: "Past Events" # Parent name must match exactly
     url: multimodalai25/hackathon/
-    weight: 3
+    weight: 5
 
   - name: "EMBC'25Workshop"
     parent: "Past Events" # Parent name must match exactly
     url: embc25workshop
-    weight: 4
+    weight: 6
 
   - name: "MultimodalAI'24"
     parent: "Past Events" # Parent name must match exactly
     url: multimodalai24
-    weight: 5
+    weight: 7
 
   - name: "MultimodalAIForum'24"
     parent: "Past Events" # Parent name must match exactly
     url: multimodalai-forum24
-    weight: 6
+    weight: 8
 
   - name: "MultimodalAISprint'23"
     parent: "Past Events" # Parent name must match exactly
     url: multimodalai-sprint23
-    weight: 7
+    weight: 9
 
   - name: "MultimodalAI'23"
     parent: "Past Events" # Parent name must match exactly
     url: multimodalai23
-    weight: 8
+    weight: 10
 
   - name: "UKOMAIN"
     parent: "About" # Parent name must match exactly
