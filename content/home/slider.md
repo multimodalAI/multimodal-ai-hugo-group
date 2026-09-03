@@ -43,6 +43,19 @@ content:
 #          <a href="https://multimodalai.github.io/multimodalai26/" class="btn" style="margin: 5px; background-color: white !important; color: sky !important;"><i class="fas fa-globe"></i> Register Now</a>
 #        </div>
     
+    - title: UKOMAIN Funding Call 2026
+      align: center
+      background:
+        position: right
+        color: '#666'
+        brightness: 0.6
+        media: sliderv1.png
+      content: >
+        <font size="3" style="color: white !important;"> </font>
+         <div style="text-align: center;">
+            <a href="https://multimodalai.github.io/omaib-r2/" class="btn" style="margin: 5px; background-color: white !important; color: sky !important;"><i class="fas fa-arrow-right"></i> View Details</a>
+        </div>
+    
     - title: Second Multimodal AI Community Forum
       align: center
       background:
