@@ -17,7 +17,7 @@ design:
 ---
 
 > **Latest News from UKOMAIN**
-- UKOMAIN welcomes Henry Lee (CEO at Cultivarium), Tom Pollard (Research Scientist, Massachusetts Institute of Technology, USA) and Amanda Brock (CEO, OpenUK)  as a new members of the UKOMAIN Advisory Board
+- UKOMAIN welcomes Henry Lee (CEO at Cultivarium), Tom Pollard (Research Scientist, Massachusetts Institute of Technology, USA), Chris Barnes, Head of Science of AI, National Physical Laboratory; Professor of Systems and Synthetic Biology, UCL and Amanda Brock (CEO, OpenUK)  as a new members of the UKOMAIN Advisory Board
 - Video recordings from the Fourth Workshop on Multimodal AI are now available on our YouTube channel, including [keynotes](https://youtube.com/playlist?list=PLVw9eB2zX1i0&si=5fA6ilbfY1_VUuTz), [invited talks](https://youtube.com/playlist?list=PLalmsoucEJ7M&si=jJt-xEeeS8vUvfqP), [panel discussions](https://youtube.com/playlist?list=PLT_68mVXCdho&si=yb6kHiWB616JUAx_), and [award-winning abstracts](https://youtube.com/playlist?list=PLXwIeZiJSQxU&si=sPVYfwq8ybo46Qke) on our YouTube channel. 
 - UKOMAIN has awarded funding to **seven** new Open Multimodal AI Benchmark (OMAIB) projects advancing trustworthy, responsible, and deployment-centric multimodal AI across the UK's Tomorrow's Engineering Research Challenges.
 - UKOMAIN Interest Groups — Join a focused community and help shape tangible outputs in multimodal AI. 👉 [Sign up here](https://forms.gle/NvS4dd2jZTbwazEc6)  
