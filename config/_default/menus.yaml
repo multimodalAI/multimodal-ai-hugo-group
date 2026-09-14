@@ -10,8 +10,18 @@ main:
     #weight: 16
 
   - name: "Funding Call"
-    url: omaib-r2
+    url: "#"
     weight: 17
+
+  - name: "Round 2"
+    parent: "Funding Call" # Parent name must match exactly
+    url: omaib-r2
+    weight: 1
+
+  - name: "Round 1"
+    parent: "Funding Call" # Parent name must match exactly
+    url: omaib-r1
+    weight: 2
 
   - name: "Interest Groups"
     url: interest-groups
