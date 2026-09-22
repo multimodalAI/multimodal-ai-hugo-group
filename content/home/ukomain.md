@@ -18,6 +18,8 @@ design:
 
 > **Latest News from UKOMAIN**
 
+- UKOMAIN is previewing OMAIB [Round 3: Challenge-led Open Multimodal AI Benchmark,](https://multimodalai.github.io/omaib-r3/) launching 29 September 2026, with up to £50,000 per project for up to three projects.
+  Briefing webinar: 6 October 2026, 12:00–13:00 BST. [Register for the webinar](https://forms.gle/WhvUPxrEE34UoKvt7)
 - 👉[Watch the video](https://youtu.be/mN4WGduEx7Q?si=6KxESOqjL5lSMOr7) to discover UKOMAIN’s impact so far and the next phase of the network.
 - UKOMAIN welcomes Chris Barnes (Head of Science of AI, NPL), Amanda Brock (CEO, OpenUK), Henry Lee (CEO, Cultivarium), and Tom Pollard (Research Scientist, Massachusetts Institute of Technology, USA), as new members of the UKOMAIN Advisory Board.
 - Video recordings from the Fourth Workshop on Multimodal AI are now available on our YouTube channel, including [keynotes](https://youtube.com/playlist?list=PLVw9eB2zX1i0&si=5fA6ilbfY1_VUuTz), [invited talks](https://youtube.com/playlist?list=PLalmsoucEJ7M&si=jJt-xEeeS8vUvfqP), [panel discussions](https://youtube.com/playlist?list=PLT_68mVXCdho&si=yb6kHiWB616JUAx_), and [award-winning abstracts](https://youtube.com/playlist?list=PLXwIeZiJSQxU&si=sPVYfwq8ybo46Qke). 

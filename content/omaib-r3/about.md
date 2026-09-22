@@ -67,7 +67,16 @@ In addition to the typical eligibility above, proposals must meet the following 
 
 ---
 
-### 
+### Previous funding call and outcomes
+
+Round 1 funding call: The first round of the OMAIB call is available at https://multimodalai.github.io/omaib-r1/
+
+👉[View the projects funded](https://multimodalai.github.io/omaib-projects-r1/)
+
+
+Round 2 funding call: The second round of the OMAIB call is available at https://multimodalai.github.io/omaib-r2/
+
+👉[View the projects funded](https://multimodalai.github.io/omaib-projects-r2/)
 
 
 
