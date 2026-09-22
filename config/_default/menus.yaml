@@ -6,22 +6,37 @@
 main:
 
   #- name: OMAIB Projects
-   # url: omaib-projects
+   # url: omaib-projects-r1
     #weight: 16
 
-  - name: "Funding Call"
+  - name: "Funding"
     url: "#"
     weight: 17
 
-  - name: "Round 2"
-    parent: "Funding Call" # Parent name must match exactly
-    url: omaib-r2
+  - name: "Round 3 call"
+    parent: "Funding" # Parent name must match exactly
+    url: omaib-r3
     weight: 1
 
-  - name: "Round 1"
-    parent: "Funding Call" # Parent name must match exactly
-    url: omaib-r1
+  - name: "Round 2 projects"
+    parent: "Funding" # Parent name must match exactly
+    url: omaib-projects-r2
     weight: 2
+
+  - name: "Round 2 call"
+    parent: "Funding" # Parent name must match exactly
+    url: omaib-r2
+    weight: 3
+
+  - name: "Round 1 projects "
+    parent: "Funding" # Parent name must match exactly
+    url: omaib-projects-r1
+    weight: 4
+
+  - name: "Round 1 call"
+    parent: "Funding" # Parent name must match exactly
+    url: omaib-r1
+    weight: 5
 
   - name: "Interest Groups"
     url: interest-groups
