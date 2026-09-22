@@ -16,8 +16,8 @@ design:
 - [Register now for briefing webinar](https://forms.gle/WhvUPxrEE34UoKvt7) 6 October 2026, 12:00-13:00 UK time
 - [Call for proposals (Full Document)](https://docs.google.com/document/d/1fVzXvcdsbOGKJTW2_8a00Rnp5tfaisoAkC86C8XqmyA/edit?usp=sharing): Comments are welcome before the official launch on 29 September.
 - Challenge proposal deadline: 16:00 UK time, 6 November 2026
-- OMAIB-R1: Projects Overview
-- OMAIB-R2: Projects Overview
+- [OMAIB-R1: Projects Overview](https://multimodalai.github.io/omaib-projects-r1/)
+- [OMAIB-R2: Projects Overview](https://multimodalai.github.io/omaib-projects-r2/)
 
 
 For any questions regarding the call, please email us at [omaib-ukomain-group@sheffield.ac.uk](mailto:omaib-ukomain-group@sheffield.ac.uk).
