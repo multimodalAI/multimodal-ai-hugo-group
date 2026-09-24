@@ -30,7 +30,7 @@ Selected challenge owners will work with a multidisciplinary community to shape 
 
 OMAIB (pronounced “Oh-Maybe”) is a major implementation strategy of UKOMAIN, supporting open, interdisciplinary and deployment-centric multimodal AI aligned with Tomorrow’s Engineering Research Challenges (TERCs).
 We define multimodal AI broadly as the integration of two or more types of data, including images, text, audio, time series, graphs, tabular, spatial, sensor, and omics data.
-Round 3 will select up to three real-world challenges and fund up to four benchmark-development projects.
+Round 3 will select up to four real-world challenges and fund up to four benchmark-development projects.
 
 **Online briefing:** A briefing webinar will be held on 6 October 2026, 12:00–13:00 UK time, to introduce the key features of the round and answer community questions. [Register now for the briefing webinar](https://forms.gle/WhvUPxrEE34UoKvt7). 
 
