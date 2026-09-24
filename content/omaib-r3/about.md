@@ -27,6 +27,7 @@ For any questions regarding the call, please email us at [omaib-ukomain-group@sh
 
 The UK Open Multimodal AI Network (UKOMAIN) invites challenge proposals from organisations with real-world problems, followed by applications from researchers and other specialists to participate in a collaborative sandpit.
 Selected challenge owners will work with a multidisciplinary community to shape benchmark opportunities, while selected sandpit participants will form teams to develop project proposals. Funded teams will build open multimodal AI benchmarks that enable the wider community to develop, evaluate and compare solutions to important real-world problems.
+
 OMAIB (pronounced “Oh-Maybe”) is a major implementation strategy of UKOMAIN, supporting open, interdisciplinary and deployment-centric multimodal AI aligned with Tomorrow’s Engineering Research Challenges (TERCs).
 We define multimodal AI broadly as the integration of two or more types of data, including images, text, audio, time series, graphs, tabular, spatial, sensor, and omics data.
 Round 3 will select up to three real-world challenges and fund up to four benchmark-development projects.
