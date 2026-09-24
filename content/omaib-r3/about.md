@@ -57,7 +57,7 @@ Round 3 will select up to three real-world challenges and fund up to three bench
 
 We welcome companies, national laboratories, research institutes, charities, NHS and care providers, public bodies, regulators, standards bodies, Catapults and other organisations with a real-world problem. Universities and university-hosted facilities are also welcome where they hold a genuine problem and relevant resources.
 
-An existing UKOMAIN partnership is not required; overseas organisations may apply with an accountable UK-based co-owner
+An existing UKOMAIN partnership is not required; overseas organisations may apply with an accountable UK-based co-owner.
 
 Challenge owners should bring a challenge with a clearly defined problem, relevant data or an accessible data source, and one named contact authorised to coordinate their organisation’s involvement.
 
