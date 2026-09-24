@@ -52,19 +52,24 @@ Round 3 will select up to three real-world challenges and fund up to three bench
 
 ---
 ### 📌 Who Can Apply
-This call is open to academic researchers based at [UK institutions eligible for UKRI funding](https://www.ukri.org/publications/organisation-eligibility/). Following the [EPSRC individual eligibility guideline](https://www.ukri.org/councils/epsrc/guidance-for-applicants/check-if-you-are-eligible-for-funding/), fixed-term researchers (e.g. PDRAs) are also eligible as a PI if they can obtain support from their organisation (e.g., line manager approval) and the term of employment extends beyond the duration of the proposed research project. We strongly encourage applications from:
 
-- Interdisciplinary and cross-institutional teams  
-- Projects involving industry or policy partners  
-- Early-career and underrepresented researchers  
-- Collaborators aligned with UKRI’s Tomorrow’s Engineering Research Challenges
+**Challenge owners**
 
-In addition to the typical eligibility above, proposals must meet the following **scope expectations**:
+We welcome companies, national laboratories, research institutes, charities, NHS and care providers, public bodies, regulators, standards bodies, Catapults and other organisations with a real-world problem. Universities and university-hosted facilities are also welcome where they hold a genuine problem and relevant resources.
 
-- Include at least one industry partner, with a letter of support required in the full application
-- Involve at least one end-user stakeholder, with a clear plan for engagement
-- Demonstrate a commitment to open research practices, including releasing code and data using platforms such as GitHub
-- Include at least one named applicant (PI or Co-I) with prior experience in collaborative open-source software or benchmark development relevant to the proposed work.
+An existing UKOMAIN partnership is not required; overseas organisations may apply with an accountable UK-based co-owner.
+
+Challenge owners should bring a challenge with a clearly defined problem, relevant data or an accessible data source, and one named contact authorised to coordinate their organisation’s involvement.
+
+**Sandpit applicants and funded teams**
+
+UK-based researchers, research engineers and domain or evaluation specialists may apply, including ECRs and suitably experienced students. Applicants should bring relevant skills, attend both days and have time to contribute afterwards. Teams will form or develop at the sandpit.
+
+Each funded project must have one Principal Investigator (PI) based at a UK institution eligible for UKRI funding. Following the EPSRC individual eligibility guideline, fixed-term employees, such as Postdoctoral Research Associates (PDRAs), are eligible as a PI if they can obtain support from their organisation (e.g., line manager approval) and the term of employment extends beyond the duration of the proposed research project.
+
+At least one PI or Co-I must have relevant open-source or benchmark-development experience. Cross-institutional teams are welcome; non-UK collaborators or UK collaborators ineligible for funding may contribute as unfunded partners.
+
+**Important:** Challenge owners and funded teams have separate roles. The challenge owner’s organisation and its representatives cannot be lead applicants or co-applicants for project funding to address their own challenge. The funded project must be led by a different organisation.
 
 ---
 
