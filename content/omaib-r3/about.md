@@ -48,29 +48,23 @@ Round 3 will select up to four real-world challenges and fund up to four benchma
 - Final short project plans and costs: 29 January 2027, 16:00 UK time
 - **Formal funding decisions:** By 5 February 2027
 - **Agreed project start window:** 8 February – 1 March 2027
-- Provisional benchmark-readiness deadline for R4 applicants: 4 June 2027
-- R4 funding decisions: Mid-June 2027, provisionally
 
 ---
 ### 📌 Who Can Apply
 
 **Challenge owners**
 
-We welcome companies, national laboratories, research institutes, charities, NHS and care providers, public bodies, regulators, standards bodies, Catapults and other organisations with a real-world problem. Universities and university-hosted facilities are also welcome where they hold a genuine problem and relevant resources.
-
-An existing UKOMAIN partnership is not required; overseas organisations may apply with an accountable UK-based co-owner.
-
-Challenge owners should bring a challenge with a clearly defined problem, relevant data or an accessible data source, and one named contact authorised to coordinate their organisation’s involvement.
+We welcome companies, national laboratories, research institutes, charities, NHS and care providers, public bodies, regulators, standards bodies, Catapults and other organisations with a real-world problem. Universities and university-hosted facilities are also welcome where they hold a genuine problem and relevant resources. An existing UKOMAIN partnership is not required; overseas organisations may apply with an accountable UK-based co-owner. Challenge proposals should identify real-world users or beneficiaries and explain the owner’s practical responsibility for, or involvement in, the problem, beyond a research interest in it.
 
 **Sandpit applicants and funded teams**
 
-UK-based researchers, research engineers and domain or evaluation specialists may apply, including ECRs and suitably experienced students. Applicants should bring relevant skills, attend both days and have time to contribute afterwards. Teams will form or develop at the sandpit.
+The sandpit is an in-person event in Sheffield for UK-based applicants; remote participation is not available. We welcome researchers, research engineers and domain or evaluation specialists, including ECRs and suitably experienced students. Applicants must be able to attend both days and contribute afterwards. Selection will prioritise applicants eligible to lead or co-lead a funded project, alongside participants offering complementary expertise. Teams may begin forming beforehand and will develop their proposals at the sandpit.
 
-Each funded project must have one Principal Investigator (PI) based at a UK institution eligible for UKRI funding. Following the EPSRC individual eligibility guideline, fixed-term employees, such as Postdoctoral Research Associates (PDRAs), are eligible as a PI if they can obtain support from their organisation (e.g., line manager approval) and the term of employment extends beyond the duration of the proposed research project.
+Each funded project must have one Principal Investigator (PI) based at a [UK institution eligible for UKRI funding](https://www.ukri.org/publications/organisation-eligibility/). Following the [EPSRC individual eligibility guideline](https://www.ukri.org/councils/epsrc/guidance-for-applicants/check-if-you-are-eligible-for-funding/), fixed-term employees, such as Postdoctoral Research Associates (PDRAs), are eligible as a PI if they can obtain support from their organisation (e.g., line manager approval) and the term of employment extends beyond the duration of the proposed research project. At least one PI or Co-I must have relevant open-source or benchmark-development experience. Cross-institutional teams are welcome; non-UK collaborators or UK collaborators ineligible for funding may contribute as unfunded partners.
 
-At least one PI or Co-I must have relevant open-source or benchmark-development experience. Cross-institutional teams are welcome; non-UK collaborators or UK collaborators ineligible for funding may contribute as unfunded partners.
+Challenge owners and funded teams have separate roles. The challenge owner’s organisation and its representatives cannot be lead applicants or co-applicants for project funding to address their own challenge. The funded project must be led by a different organisation. Challenge owners provide domain expertise and support data access, while UKOMAIN makes funding decisions independently.
 
-**Important:** Challenge owners and funded teams have separate roles. The challenge owner’s organisation and its representatives cannot be lead applicants or co-applicants for project funding to address their own challenge. The funded project must be led by a different organisation.
+For the two-day sandpit, UKOMAIN will cover reasonable approved travel within the UK, accommodation and subsistence for selected UK-based sandpit participants and UK-based challenge-owner representatives, normally including one hotel night. International travel is not funded. Additional accessibility, caring or UK travel needs can be discussed. Please wait for booking guidance issued with invitations.
 
 ---
 
