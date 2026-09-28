@@ -40,7 +40,7 @@ Round 3 will select up to four real-world challenges and fund up to four benchma
 
 - **Official call and challenge proposal form opens:** 29 September 2026
 - [Briefing webinar](https://forms.gle/WhvUPxrEE34UoKvt7): 6 October 2026, 12:00–13:00 UK time
-- **Challenge proposal deadline:** 6 November 2026, 16:00
+- [**Challenge proposal deadline:**](https://forms.gle/zgMfoM68AiF7mvWz8) 6 November 2026, 16:00
 - Selected challenges announced; sandpit applications open: 20 November 2026
 - **Sandpit application deadline:** 11 December 2026, 16:00 UK time
 - Sandpit decisions: By 18 December 2026
