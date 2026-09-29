@@ -29,9 +29,9 @@ For any questions regarding the call, please email us at [omaib-ukomain-group@sh
 
 ---
 
-The UK Open Multimodal AI Network (UKOMAIN) invites [challenge proposals](https://forms.gle/zgMfoM68AiF7mvWz8) from real-world problem owners, followed by applications from researchers to attend a collaborative sandpit to co-design, develop, and pitch innovative project ideas for funding. Selected sandpit teams will receive funding to build open benchmarks that help the community develop and compare solutions to measure progress.
+The UK Open Multimodal AI Network (UKOMAIN) invites [challenge proposals](https://forms.gle/zgMfoM68AiF7mvWz8) **from real-world problem owners,** followed by **applications from researchers to attend a collaborative sandpit** to co-design, develop, and pitch innovative project ideas for funding. Selected sandpit teams will receive funding to build open benchmarks that help the community develop and compare solutions to measure progress.
 
-Open Multimodal AI Benchmark (OMAIB) supports open, interdisciplinary and deployment-centric multimodal AI. We define multimodal AI broadly as the integration of two or more types of data, including images, text, time series, graphs, tabular, spatial, sensor and omics data. Round 3 will select up to four challenges and fund up to four benchmark-development projects. A selected challenge may have no or multiple projects funded.
+Open Multimodal AI Benchmark (OMAIB) supports open, interdisciplinary and deployment-centric multimodal AI. We define multimodal AI broadly as the integration of two or more types of data, including images, text, time series, graphs, tabular, spatial, sensor and omics data. Round 3 will select up to **four challenges** and fund up to **four benchmark-development projects.** A selected challenge may have no or multiple projects funded.
 
 **Online briefing:** A briefing webinar will be held on 6 October 2026, 12:00–13:00 UK time, to introduce the key features of the round and answer community questions. [Register now for the briefing webinar](https://forms.gle/WhvUPxrEE34UoKvt7). 
 
@@ -41,13 +41,13 @@ Open Multimodal AI Benchmark (OMAIB) supports open, interdisciplinary and deploy
 
 - **Official call and challenge proposal form opens:** 29 September 2026
 - [Briefing webinar for both audiences (recorded)](https://forms.gle/WhvUPxrEE34UoKvt7): 6 October 2026, 12:00–13:00 UK time
-- [**Challenge proposal deadline:**](https://forms.gle/zgMfoM68AiF7mvWz8) 6 November 2026, 16:00
+- [**Challenge proposal deadline:**](https://forms.gle/zgMfoM68AiF7mvWz8) **6 November 2026, 16:00**
 - Selected challenges announced; sandpit applications open: 20 November 2026
-- **Sandpit application deadline:** 11 December 2026, 16:00 UK time
+- **Sandpit application deadline:** **11 December 2026, 16:00**
 - Sandpit participant decisions: By 18 December 2026
-- Sandpit online induction: 15 January, 2027, 14:00-15:00
+- **Online preparation session for selected sandpit participants: 15 January, 2027, 12:00-13:00**
 - Sandpit, Sheffield: 21 January 2027, 11:00 – 22 January 2027, 16:00 
-- Final short project plans and costs: 5 February 2027, 16:00
+- Finalised project proposals and costings for shortlisted teams: 5 February 2027, 16:00
 - **Funding decisions:** By 19 February 2027
 - **Project start date:** Latest by 1 April 2027
 
@@ -58,6 +58,8 @@ Open Multimodal AI Benchmark (OMAIB) supports open, interdisciplinary and deploy
 
 We welcome companies, national laboratories, research institutes, charities, NHS and care providers, public bodies, regulators, standards bodies, Catapults and other organisations with a real-world problem. Universities and university-hosted facilities are also welcome where they hold a genuine problem and relevant resources. An existing UKOMAIN partnership is not required; overseas organisations may apply with an accountable UK-based co-owner. Challenge proposals should identify real-world users or beneficiaries and explain the owner’s practical responsibility for, or involvement in, the problem, beyond a research interest in it.
 
+Complete the [challenge proposal Google Form](https://forms.gle/zgMfoM68AiF7mvWz8) by **16:00 on 6 November 2026.** Short answers about the problem, data, benefit, expertise sought, and your involvement are sufficient. Complete the designated public fields ready for publication, with permission to use them as the selected challenge brief. 
+
 **Sandpit applicants and funded teams**
 
 The sandpit is an in-person event in Sheffield for UK-based applicants; remote participation is not available. We welcome researchers, research engineers and domain or evaluation specialists, including ECRs and suitably experienced students. Applicants must be able to attend both days and contribute afterwards. Selection will prioritise applicants eligible to lead or co-lead a funded project, alongside participants offering complementary expertise.  UKOMAIN will share selected participant list within themselves. Teams may begin forming beforehand and will develop their proposals at the sandpit.
@@ -67,6 +69,9 @@ Each funded project must have one Principal Investigator (PI) based at a [UK ins
 Challenge owners and funded teams have separate roles. The challenge owner’s organisation and its representatives cannot be lead applicants or co-applicants for project funding to address their own challenge. The funded project must be led by a different organisation. Challenge owners serve as project partners, providing domain expertise and support data access, while UKOMAIN makes funding decisions independently.
 
 For the two-day sandpit, UKOMAIN will cover reasonable approved travel within the UK, accommodation and subsistence for selected UK-based sandpit participants and UK-based challenge-owner representatives, normally including one hotel night. International travel is not funded. Additional accessibility, caring or UK travel needs can be discussed. Please wait for booking guidance issued with invitations.
+
+Complete the sandpit application Google Form between 20 November and 16:00 on 11 December 2026, indicating relevant skills, interests and availability. 
+The project proposal template will be available before the sandpit. Potential PIs should check staffing availability, eligibility and indicative costs with their institution before the sandpit.
 
 ---
 
