@@ -70,7 +70,6 @@ Challenge owners and funded teams have separate roles. The challenge owner’s o
 
 For the two-day sandpit, UKOMAIN will cover reasonable approved travel within the UK, accommodation and subsistence for selected UK-based sandpit participants and UK-based challenge-owner representatives, normally including one hotel night. International travel is not funded. Additional accessibility, caring or UK travel needs can be discussed. Please wait for booking guidance issued with invitations.
 
-Complete the sandpit application Google Form between 20 November and 16:00 on 11 December 2026, indicating relevant skills, interests and availability. 
 The project proposal template will be available before the sandpit. Potential PIs should check staffing availability, eligibility and indicative costs with their institution before the sandpit.
 
 ---
