@@ -19,7 +19,7 @@ design:
 > **Latest News from UKOMAIN**
 
 
-- The UKOMAIN invites challenge proposals from real-world problem owners, followed by researcher applications to co-design and pitch projects at a collaborative sandpit. Challenge proposals close at 16:00 UK time, 6 November 2026. [Submit your challenge proposal now.](https://forms.gle/zgMfoM68AiF7mvWz8) 
+- UKOMAIN invites challenge proposals from real-world problem owners, followed by researcher applications to co-design and pitch projects at a collaborative sandpit. Challenge proposals close at 16:00 UK time, 6 November 2026. [Submit your challenge proposal now.](https://forms.gle/zgMfoM68AiF7mvWz8) 
 - UKOMAIN is previewing OMAIB [Round 3: Challenge-led Open Multimodal AI Benchmark,](https://multimodalai.github.io/omaib-r3/) launching 29 September 2026, with up to £50,000 per project for up to four projects.
   Briefing webinar: 6 October 2026, 12:00–13:00 BST. [Register now for the webinar](https://forms.gle/WhvUPxrEE34UoKvt7)
 - 👉[Watch the video](https://youtu.be/mN4WGduEx7Q?si=6KxESOqjL5lSMOr7) to discover UKOMAIN’s impact so far and the next phase of the network.
