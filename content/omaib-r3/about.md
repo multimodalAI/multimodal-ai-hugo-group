@@ -25,12 +25,9 @@ For any questions regarding the call, please email us at [omaib-ukomain-group@sh
 
 ---
 
-The UK Open Multimodal AI Network (UKOMAIN) invites challenge proposals from organisations with real-world problems, followed by applications from researchers and other specialists to participate in a collaborative sandpit.
-Selected challenge owners will work with a multidisciplinary community to shape benchmark opportunities, while selected sandpit participants will form teams to develop project proposals. Funded teams will build open multimodal AI benchmarks that enable the wider community to develop, evaluate and compare solutions to important real-world problems.
+The UK Open Multimodal AI Network (UKOMAIN) invites [challenge proposals](https://forms.gle/zgMfoM68AiF7mvWz8) from organisations with real-world problems, followed by applications from researchers and other specialists to participate in a collaborative sandpit to co-design, develop, and pitch innovative project ideas for funding. Selected sandpit teams will receive funding to build open benchmarks that help the community develop and compare solutions to measure progress.
 
-OMAIB (pronounced “Oh-Maybe”) is a major implementation strategy of UKOMAIN, supporting open, interdisciplinary and deployment-centric multimodal AI aligned with Tomorrow’s Engineering Research Challenges (TERCs).
-We define multimodal AI broadly as the integration of two or more types of data, including images, text, audio, time series, graphs, tabular, spatial, sensor, and omics data.
-Round 3 will select up to four real-world challenges and fund up to four benchmark-development projects.
+Open Multimodal AI Benchmark (OMAIB) supports open, interdisciplinary and deployment-centric multimodal AI. We define multimodal AI broadly as the integration of two or more types of data, including images, text, time series, graphs, tabular, spatial, sensor and omics data. Round 3 will select up to four challenges and fund up to four benchmark-development projects. A selected challenge may have no or multiple projects funded.
 
 **Online briefing:** A briefing webinar will be held on 6 October 2026, 12:00–13:00 UK time, to introduce the key features of the round and answer community questions. [Register now for the briefing webinar](https://forms.gle/WhvUPxrEE34UoKvt7). 
 
@@ -39,15 +36,16 @@ Round 3 will select up to four real-world challenges and fund up to four benchma
 ### 📅 Key Dates
 
 - **Official call and challenge proposal form opens:** 29 September 2026
-- [Briefing webinar](https://forms.gle/WhvUPxrEE34UoKvt7): 6 October 2026, 12:00–13:00 UK time
+- [Briefing webinar for both audiences (recorded)](https://forms.gle/WhvUPxrEE34UoKvt7): 6 October 2026, 12:00–13:00 UK time
 - [**Challenge proposal deadline:**](https://forms.gle/zgMfoM68AiF7mvWz8) 6 November 2026, 16:00
 - Selected challenges announced; sandpit applications open: 20 November 2026
 - **Sandpit application deadline:** 11 December 2026, 16:00 UK time
-- Sandpit decisions: By 18 December 2026
-- Sandpit, Sheffield: 21 January 2027, 11:00 – 22 January 2027, 16:00 UK time
-- Final short project plans and costs: 29 January 2027, 16:00 UK time
-- **Formal funding decisions:** By 5 February 2027
-- **Agreed project start window:** 8 February – 1 March 2027
+- Sandpit participant decisions: By 18 December 2026
+- Sandpit online induction: 15 January, 2027, 14:00-15:00
+- Sandpit, Sheffield: 21 January 2027, 11:00 – 22 January 2027, 16:00 
+- Final short project plans and costs: 5 February 2027, 16:00
+- **Funding decisions:** By 19 February 2027
+- **Project start date:** Latest by 1 April 2027
 
 ---
 ### 📌 Who Can Apply
@@ -58,11 +56,11 @@ We welcome companies, national laboratories, research institutes, charities, NHS
 
 **Sandpit applicants and funded teams**
 
-The sandpit is an in-person event in Sheffield for UK-based applicants; remote participation is not available. We welcome researchers, research engineers and domain or evaluation specialists, including ECRs and suitably experienced students. Applicants must be able to attend both days and contribute afterwards. Selection will prioritise applicants eligible to lead or co-lead a funded project, alongside participants offering complementary expertise. Teams may begin forming beforehand and will develop their proposals at the sandpit.
+The sandpit is an in-person event in Sheffield for UK-based applicants; remote participation is not available. We welcome researchers, research engineers and domain or evaluation specialists, including ECRs and suitably experienced students. Applicants must be able to attend both days and contribute afterwards. Selection will prioritise applicants eligible to lead or co-lead a funded project, alongside participants offering complementary expertise.  UKOMAIN will share selected participant list within themselves. Teams may begin forming beforehand and will develop their proposals at the sandpit.
 
 Each funded project must have one Principal Investigator (PI) based at a [UK institution eligible for UKRI funding](https://www.ukri.org/publications/organisation-eligibility/). Following the [EPSRC individual eligibility guideline](https://www.ukri.org/councils/epsrc/guidance-for-applicants/check-if-you-are-eligible-for-funding/), fixed-term employees, such as Postdoctoral Research Associates (PDRAs), are eligible as a PI if they can obtain support from their organisation (e.g., line manager approval) and the term of employment extends beyond the duration of the proposed research project. At least one PI or Co-I must have relevant open-source or benchmark-development experience. Cross-institutional teams are welcome; non-UK collaborators or UK collaborators ineligible for funding may contribute as unfunded partners.
 
-Challenge owners and funded teams have separate roles. The challenge owner’s organisation and its representatives cannot be lead applicants or co-applicants for project funding to address their own challenge. The funded project must be led by a different organisation. Challenge owners provide domain expertise and support data access, while UKOMAIN makes funding decisions independently.
+Challenge owners and funded teams have separate roles. The challenge owner’s organisation and its representatives cannot be lead applicants or co-applicants for project funding to address their own challenge. The funded project must be led by a different organisation. Challenge owners serve as project partners, provideing domain expertise and support data access, while UKOMAIN makes funding decisions independently.
 
 For the two-day sandpit, UKOMAIN will cover reasonable approved travel within the UK, accommodation and subsistence for selected UK-based sandpit participants and UK-based challenge-owner representatives, normally including one hotel night. International travel is not funded. Additional accessibility, caring or UK travel needs can be discussed. Please wait for booking guidance issued with invitations.
 
