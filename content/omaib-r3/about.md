@@ -12,20 +12,24 @@ design:
 ### UKOMAIN Funding Call 2026: Challenge-led Open Multimodal AI Benchmark (OMAIB-R3)
 
 
-- Official call launch: 29 September 2026
+- Total funding: £200,000
+- Max award value: £50,000 (full economic cost: £62,500)
+- Official launch: 29 September 2026
 - [Register now for briefing webinar](https://forms.gle/WhvUPxrEE34UoKvt7) 6 October 2026, 12:00-13:00 UK time
 - [Call for proposals (Full Document)](https://docs.google.com/document/d/1fVzXvcdsbOGKJTW2_8a00Rnp5tfaisoAkC86C8XqmyA/edit?usp=sharing): Comments are welcome before the official launch on 29 September.
-- Funding available: £200,000 total; up to £50,000 per project
 - Challenge proposal deadline: 16:00 UK time, 6 November 2026
-- [OMAIB-R1: Projects Overview](https://multimodalai.github.io/omaib-projects-r1/)
-- [OMAIB-R2: Projects Overview](https://multimodalai.github.io/omaib-projects-r2/)
+- Selected challenges announced: 20 November 2026
+- **Sandpit application deadline: 11 December 2026, 16:00**
+- **Sandpit: 21–22 January 2027, Sheffield**
+
+
 
 
 For any questions regarding the call, please email us at [omaib-ukomain-group@sheffield.ac.uk](mailto:omaib-ukomain-group@sheffield.ac.uk).
 
 ---
 
-The UK Open Multimodal AI Network (UKOMAIN) invites [challenge proposals](https://forms.gle/zgMfoM68AiF7mvWz8) from organisations with real-world problems, followed by applications from researchers and other specialists to participate in a collaborative sandpit to co-design, develop, and pitch innovative project ideas for funding. Selected sandpit teams will receive funding to build open benchmarks that help the community develop and compare solutions to measure progress.
+The UK Open Multimodal AI Network (UKOMAIN) invites [challenge proposals](https://forms.gle/zgMfoM68AiF7mvWz8) from real-world problem owners, followed by applications from researchers to attend a collaborative sandpit to co-design, develop, and pitch innovative project ideas for funding. Selected sandpit teams will receive funding to build open benchmarks that help the community develop and compare solutions to measure progress.
 
 Open Multimodal AI Benchmark (OMAIB) supports open, interdisciplinary and deployment-centric multimodal AI. We define multimodal AI broadly as the integration of two or more types of data, including images, text, time series, graphs, tabular, spatial, sensor and omics data. Round 3 will select up to four challenges and fund up to four benchmark-development projects. A selected challenge may have no or multiple projects funded.
 
@@ -60,7 +64,7 @@ The sandpit is an in-person event in Sheffield for UK-based applicants; remote p
 
 Each funded project must have one Principal Investigator (PI) based at a [UK institution eligible for UKRI funding](https://www.ukri.org/publications/organisation-eligibility/). Following the [EPSRC individual eligibility guideline](https://www.ukri.org/councils/epsrc/guidance-for-applicants/check-if-you-are-eligible-for-funding/), fixed-term employees, such as Postdoctoral Research Associates (PDRAs), are eligible as a PI if they can obtain support from their organisation (e.g., line manager approval) and the term of employment extends beyond the duration of the proposed research project. At least one PI or Co-I must have relevant open-source or benchmark-development experience. Cross-institutional teams are welcome; non-UK collaborators or UK collaborators ineligible for funding may contribute as unfunded partners.
 
-Challenge owners and funded teams have separate roles. The challenge owner’s organisation and its representatives cannot be lead applicants or co-applicants for project funding to address their own challenge. The funded project must be led by a different organisation. Challenge owners serve as project partners, provideing domain expertise and support data access, while UKOMAIN makes funding decisions independently.
+Challenge owners and funded teams have separate roles. The challenge owner’s organisation and its representatives cannot be lead applicants or co-applicants for project funding to address their own challenge. The funded project must be led by a different organisation. Challenge owners serve as project partners, providing domain expertise and support data access, while UKOMAIN makes funding decisions independently.
 
 For the two-day sandpit, UKOMAIN will cover reasonable approved travel within the UK, accommodation and subsistence for selected UK-based sandpit participants and UK-based challenge-owner representatives, normally including one hotel night. International travel is not funded. Additional accessibility, caring or UK travel needs can be discussed. Please wait for booking guidance issued with invitations.
 
