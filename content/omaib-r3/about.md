@@ -40,7 +40,7 @@ Open Multimodal AI Benchmark (OMAIB) supports open, interdisciplinary and deploy
 ### 📅 Key Dates
 
 - **Official call and challenge proposal form opens:** 29 September 2026
-- **Briefing webinar for both audiences (recorded):** 6 October 2026, 12:00–13:00 UK time
+- [**Briefing webinar for both audiences (recorded):**](https://youtu.be/7DxYBFDPM74) 6 October 2026, 12:00–13:00 UK time
 - [**Challenge proposal deadline:**](https://forms.gle/zgMfoM68AiF7mvWz8) **6 November 2026, 16:00**
 - Selected challenges announced; sandpit applications open: 20 November 2026
 - **Sandpit application deadline:** **11 December 2026, 16:00**
