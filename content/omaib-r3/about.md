@@ -15,7 +15,7 @@ design:
 - Total funding: £200,000
 - Max award value: £50,000 (full economic cost: £62,500)
 - Official launch: 29 September 2026
-- Briefing webinar: [Slides](https://multimodalai.github.io/files/OMAIB-R3-briefing-slides.pdf), [video recording](https://youtu.be/7DxYBFDPM74)
+- Briefing webinar: [slides](https://multimodalai.github.io/files/OMAIB-R3-briefing-slides.pdf), [video recording](https://youtu.be/7DxYBFDPM74)
 - [Call for proposals (Full Document)](https://docs.google.com/document/d/1fVzXvcdsbOGKJTW2_8a00Rnp5tfaisoAkC86C8XqmyA/edit?usp=sharing)
 - [Challenge proposal deadline:](https://forms.gle/zgMfoM68AiF7mvWz8) 16:00 UK time, 6 November 2026
 - Selected challenges announced: 20 November 2026
