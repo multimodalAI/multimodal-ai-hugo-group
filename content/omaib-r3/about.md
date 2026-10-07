@@ -33,7 +33,7 @@ The UK Open Multimodal AI Network (UKOMAIN) invites [challenge proposals](https:
 
 Open Multimodal AI Benchmark (OMAIB) supports open, interdisciplinary and deployment-centric multimodal AI. We define multimodal AI broadly as the integration of two or more types of data, including images, text, time series, graphs, tabular, spatial, sensor and omics data. Round 3 will select up to **four challenges** and fund up to **four benchmark-development projects.** A selected challenge may have no or multiple projects funded.
 
-**Online briefing:** A briefing webinar will be held on 6 October 2026, 12:00–13:00 UK time, to introduce the key features of the round and answer community questions. [Register now for the briefing webinar](https://forms.gle/WhvUPxrEE34UoKvt7). 
+**Online briefing:** A briefing webinar was held on 6 October 2026, 12:00–13:00 UK time, to introduce the key features of the round and answer community questions. [Video recording now available](https://youtu.be/7DxYBFDPM74). 
 
 ---
 
