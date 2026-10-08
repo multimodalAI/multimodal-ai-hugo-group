@@ -16,7 +16,7 @@ design:
 - Max award value: £50,000 (full economic cost: £62,500)
 - Official launch: 29 September 2026
 - Briefing webinar: [slides](https://multimodalai.github.io/files/OMAIB-R3-briefing-slides.pdf), [video recording](https://youtu.be/7DxYBFDPM74)
-- [Call for proposals (Full Document)](https://docs.google.com/document/d/1fVzXvcdsbOGKJTW2_8a00Rnp5tfaisoAkC86C8XqmyA/edit?usp=sharing)
+- [Call for proposals (Full Document)](https://docs.google.com/document/d/1fVzXvcdsbOGKJTW2_8a00Rnp5tfaisoAkC86C8XqmyA/edit?usp=sharing): Last updated on 7 October 2026
 - [Challenge proposal deadline:](https://forms.gle/zgMfoM68AiF7mvWz8) 16:00 UK time, 6 November 2026
 - Selected challenges announced: 20 November 2026
 - **Sandpit application deadline: 11 December 2026, 16:00**
@@ -76,21 +76,6 @@ The project proposal template will be available before the sandpit. Potential PI
 
 ---
 
-### Previous funding call and outcomes
-
-Round 1 funding call: The first round of the OMAIB call is available at https://multimodalai.github.io/omaib-r1/
-
-👉[View the projects funded](https://multimodalai.github.io/omaib-projects-r1/)
-
-
-Round 2 funding call: The second round of the OMAIB call is available at https://multimodalai.github.io/omaib-r2/
-
-👉[View the projects funded](https://multimodalai.github.io/omaib-projects-r2/)
-
-
-
----
-
 ### 💬 Questions and Answers
 
 _**Updated: 7 October 2026 - These answers provide practical guidance alongside the call document.**_
@@ -121,6 +106,19 @@ _**Updated: 7 October 2026 - These answers provide practical guidance alongside 
 <p>Yes. Assessment focuses on the team’s ability to deliver a strong benchmark, rather than the number of institutions represented. Cross-institutional teams are also welcome, but the £50,000 maximum applies to the whole project, not each institution. In either case, the challenge owner must be from a different organisation from the funded applicants for that challenge.
 </p>
 </details>
+
+---
+
+### Previous funding call and outcomes
+
+Round 1 funding call: The first round of the OMAIB call is available at https://multimodalai.github.io/omaib-r1/
+
+👉[View the projects funded](https://multimodalai.github.io/omaib-projects-r1/)
+
+
+Round 2 funding call: The second round of the OMAIB call is available at https://multimodalai.github.io/omaib-r2/
+
+👉[View the projects funded](https://multimodalai.github.io/omaib-projects-r2/)
 
 
 
