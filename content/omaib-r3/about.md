@@ -93,8 +93,34 @@ Round 2 funding call: The second round of the OMAIB call is available at https:/
 
 ### 💬 Questions and Answers
 
-To be updated.
+_**Updated: 7 October 2026 - These answers provide practical guidance alongside the call document.**_
 
+<details>
+<summary>How can academic groups get involved in OMAIB Round 3?</summary>
+<p>Academic groups can propose a challenge where they have a genuine real-world problem, relevant resources and the commitment to support another organisation’s funded team; connect suitable problem owners from their clinical, experimental, industrial or other networks; or apply to participate in benchmark development through the sandpit application opening on 20 November. Researchers whose main contribution is AI methods, software or evaluation should consider the sandpit route. The challenge owner’s organisation cannot receive project funding for its own challenge. </p>
+</details>
+
+<details>
+<summary>What could our academic group gain by introducing a challenge owner?</summary>
+<p>You can help bring a useful benchmark into your research area and strengthen connections around a shared problem. A resulting open benchmark can support your own method development, comparisons and applications, even if your group is not funded to build it. You may also contribute to its development as an unfunded collaborator, by agreement with the funded team. Funding remains competitive.</p>
+</details>
+
+<details>
+<summary>Can challenge owners discuss their ideas with researchers before submitting?</summary>
+<p>Yes. Early discussions with existing or potential collaborators can help clarify the problem, available resources and expertise needed. Researchers can subsequently apply for the sandpit, where teams may develop or expand. UKOMAIN selects participants and projects against the published criteria, so these discussions do not reserve places or funding for a particular team. 
+ </p>
+</details>
+
+<details>
+<summary>Can a challenge build on an existing prototype or proof of concept?</summary>
+<p>Yes. Existing work can provide a useful starting point and evidence of feasibility. Explain what it already enables and what additional open benchmarking capability is needed, such as reusable evaluation protocols, baselines or testing under realistic conditions. The proposed work should add value rather than repeat work already completed or funded. A prototype is not required to submit a challenge. </p>
+</details>
+
+<details>
+<summary>Can a research team from one institution be competitive?</summary>
+<p>Yes. Assessment focuses on the team’s ability to deliver a strong benchmark, rather than the number of institutions represented. Cross-institutional teams are also welcome, but the £50,000 maximum applies to the whole project, not each institution. In either case, the challenge owner must be from a different organisation from the funded applicants for that challenge.
+</p>
+</details>
 
 
 
