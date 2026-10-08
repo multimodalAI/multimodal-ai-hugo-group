@@ -9,7 +9,7 @@ superuser: false
 weight: 12
 
 # Role/position
-role: Senior Director, Product Management, 3E (USA)
+role: Vice President, Product Management, 3E (USA)
 
 # Organizations/Affiliations
 organizations:
