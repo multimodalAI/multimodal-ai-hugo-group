@@ -1,0 +1,74 @@
+// Nested navbar sub-menus (rendered by layouts/partials/navbar.html),
+// e.g. Interest Groups > TERC-Focused Groups > Robotics.
+
+// The theme adds `.show` to every dropdown menu inside a hovered dropdown,
+// so nested menus are hidden here and only shown on hover/click below.
+.navbar .dropdown-submenu > .dropdown-menu {
+  display: none;
+}
+
+.navbar .dropdown-submenu.open > .dropdown-menu {
+  display: block;
+}
+
+// Caret after a sub-menu title (points down on mobile).
+.dropdown-submenu-toggle::after {
+  content: "";
+  display: inline-block;
+  margin-left: 0.5em;
+  vertical-align: 0.255em;
+  border-top: 0.3em solid;
+  border-right: 0.3em solid transparent;
+  border-left: 0.3em solid transparent;
+}
+
+// Mobile (collapsed menu): show sub-menu items indented below their title.
+@include media-breakpoint-down(md) {
+  .navbar .dropdown-submenu > .dropdown-menu {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    box-shadow: none;
+  }
+
+  .navbar .dropdown-submenu > .dropdown-menu .dropdown-item {
+    padding-left: 3rem;
+  }
+}
+
+// Desktop: show sub-menu as a fly-out to the right (or to the left if there is no room).
+@include media-breakpoint-up(lg) {
+  .navbar .dropdown-submenu {
+    position: relative;
+  }
+
+  .navbar .dropdown-submenu > .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: calc(-0.5rem - 1px); // Line up the first item with the sub-menu title.
+  }
+
+  .navbar .dropdown-submenu.dropdown-submenu-left > .dropdown-menu {
+    left: auto;
+    right: 100%;
+  }
+
+  .dropdown-submenu-toggle::after {
+    vertical-align: 0;
+    border-top: 0.3em solid transparent;
+    border-right: 0;
+    border-bottom: 0.3em solid transparent;
+    border-left: 0.3em solid;
+  }
+
+  .dropdown-submenu-left > .dropdown-submenu-toggle::after {
+    border-right: 0.3em solid;
+    border-left: 0;
+  }
+
+  @media (hover: hover) {
+    .navbar .dropdown-submenu:hover > .dropdown-menu {
+      display: block;
+    }
+  }
+}

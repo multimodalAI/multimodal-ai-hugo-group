@@ -120,7 +120,7 @@ Round 2 funding call: The second round of the OMAIB call is available at https:/
 
 👉[View the projects funded](https://multimodalai.github.io/omaib-projects-r2/)
 
-
+---
 
 ### ✅ Learn More
 
