@@ -42,10 +42,15 @@ main:
     url: interest-groups
     weight: 18
 
+  - name: "Overview"
+    parent: "Interest Groups" # Parent name must match exactly
+    url: interest-groups
+    weight: 1
+
   - name: "TERC-Focused Groups"
     parent: "Interest Groups" # Parent name must match exactly
     url: "#"
-    weight: 1
+    weight: 2
 
   - name: "Health and Wellbeing"
     parent: "TERC-Focused Groups" # Parent name must match exactly
@@ -70,7 +75,7 @@ main:
   - name: "Community Focused Interest Groups"
     parent: "Interest Groups" # Parent name must match exactly
     url: "#"
-    weight: 2
+    weight: 3
 
   - name: "Early Career Researchers"
     parent: "Community Focused Interest Groups" # Parent name must match exactly
