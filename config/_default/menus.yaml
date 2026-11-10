@@ -53,22 +53,22 @@ main:
     weight: 2
 
   - name: "Health and Wellbeing"
-    parent: "TERC-Focused Groups" # Parent name must match exactly
+    parent: "TERC-aligned Interest Groups" # Parent name must match exactly
     url: health-and-wellbeing
     weight: 1
 
   - name: "Robotics"
-    parent: "TERC-Focused Groups" # Parent name must match exactly
+    parent: "TERC-aligned Interest Groups" # Parent name must match exactly
     url: robotics
     weight: 2
 
   - name: "Materials Discovery"
-    parent: "TERC-Focused Groups" # Parent name must match exactly
+    parent: "TERC-aligned Interest Groups" # Parent name must match exactly
     url: materials-discovery
     weight: 3
 
   - name: "Responsible Engineering"
-    parent: "TERC-Focused Groups" # Parent name must match exactly
+    parent: "TERC-aligned Interest Groups" # Parent name must match exactly
     url: responsible-engineering
     weight: 4
 
@@ -78,17 +78,17 @@ main:
     weight: 3
 
   - name: "Early Career Researchers"
-    parent: "Community Focused Interest Groups" # Parent name must match exactly
+    parent: "Community-focused Interest Groups" # Parent name must match exactly
     url: early-career-researchers
     weight: 1
 
   - name: "Women In Multimodal AI"
-    parent: "Community Focused Interest Groups" # Parent name must match exactly
+    parent: "Community-focused Interest Groups" # Parent name must match exactly
     url: women-in-multimodal-ai
     weight: 2
 
   - name: "Industry Collaboration and Innovation"
-    parent: "Community Focused Interest Groups" # Parent name must match exactly
+    parent: "Community-focused Interest Groups" # Parent name must match exactly
     url: industry-collaboration-and-innovation
     weight: 3
 
