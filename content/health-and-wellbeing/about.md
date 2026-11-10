@@ -3,7 +3,7 @@ title: Health and Wellbeing
 subtitle:
 widget: blank
 headless: true
-weight: 50
+weight: 10
 design:
   columns: '1'
 ---

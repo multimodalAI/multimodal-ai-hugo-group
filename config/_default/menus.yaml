@@ -47,7 +47,7 @@ main:
     url: interest-groups
     weight: 1
 
-  - name: "TERC-Focused Groups"
+  - name: "TERC-aligned Interest Groups"
     parent: "Interest Groups" # Parent name must match exactly
     url: "#"
     weight: 2
@@ -72,7 +72,7 @@ main:
     url: responsible-engineering
     weight: 4
 
-  - name: "Community Focused Interest Groups"
+  - name: "Community-focused Interest Groups"
     parent: "Interest Groups" # Parent name must match exactly
     url: "#"
     weight: 3
