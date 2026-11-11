@@ -6,7 +6,7 @@ title: Chen Chen
 superuser: false
 
 # Role/position
-role: Lecturer in Computer Vision, School of Computer Science
+role: Co-lead | Lecturer in Computer Vision, School of Computer Science
 
 # Order that this section appears on the page.
 weight: 45
@@ -48,5 +48,6 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - MultimodalAI24 Organizer
+  - women leads
 ---
 Dr Chen (Cherise) Chen obtained her MSc and Ph.D. degree in Advanced Computing from Imperial College London, in 2016 and 2022, respectively. From 2022, she worked as a research associate at Imperial College London. During the time at Imperial, she worked closely with Prof. Daniel Rueckert and Dr. Wenjia Bai, on numerous projects with cardiac imaging. She was also a research scientist at HeartFlow. After that, she joined Oxford BioMedIA group, University of Oxford in 2023, working closely with Prof. Vicente Grau. She has engaged in a variety of projects that apply artificial intelligence to cardiac, brain, and prostate imaging.
