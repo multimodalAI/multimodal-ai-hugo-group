@@ -26,7 +26,7 @@ social:
 #    link: 'mlap@inf.ed.ac.uk'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/shu-xiaoyi-563491bb/
+    link: https://www.linkedin.com/in/mmhplus/
     
 
 # Social/Academic Networking
