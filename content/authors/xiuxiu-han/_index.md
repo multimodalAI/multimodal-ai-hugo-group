@@ -13,7 +13,7 @@ superuser: false
 weight: 18
 
 # Role/position
-role: Co-lead |Postdoctoral Fellow, School of Chemical Engineering  at University of Birmingham
+role: Co-lead | Postdoctoral Fellow, School of Chemical Engineering  at University of Birmingham
 
 # Organizations/Affiliations
 organizations:
