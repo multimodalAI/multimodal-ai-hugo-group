@@ -1,5 +1,5 @@
 ---
-title: Early Career Researchers
+title: Early Career Researchers Interest group
 subtitle:
 widget: blank
 headless: true

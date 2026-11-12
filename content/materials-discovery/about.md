@@ -1,5 +1,5 @@
 ---
-title: Materials Discovery
+title: Materials Discovery Interest group
 subtitle:
 widget: blank
 headless: true

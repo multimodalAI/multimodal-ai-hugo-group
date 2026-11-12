@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Md Mahmudul Hasan
+title: Md Mahmudul Hasan
 
 # Username (this should match the folder name)
 authors:

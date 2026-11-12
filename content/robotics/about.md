@@ -1,5 +1,5 @@
 ---
-title: Robotics
+title: Robotics Interest group
 subtitle:
 widget: blank
 headless: true

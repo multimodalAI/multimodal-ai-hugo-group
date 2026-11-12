@@ -1,5 +1,5 @@
 ---
-title: Responsible Engineering
+title: Responsible Engineering Interest group
 subtitle:
 widget: blank
 headless: true

@@ -1,5 +1,5 @@
 ---
-title: Industry collaboration and Innovation
+title: Industry collaboration and Innovation Interest group
 subtitle:
 widget: blank
 headless: true

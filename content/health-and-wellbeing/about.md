@@ -1,5 +1,5 @@
 ---
-title: Health and Wellbeing
+title: Health and Wellbeing Interest group
 subtitle:
 widget: blank
 headless: true

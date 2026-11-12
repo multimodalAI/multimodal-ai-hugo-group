@@ -1,5 +1,5 @@
 ---
-title: Women In Multimodal AI
+title: Women In Multimodal AI Interest group
 subtitle:
 widget: blank
 headless: true
