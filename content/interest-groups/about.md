@@ -18,7 +18,7 @@ Membership is open to anyone interested in multimodal AI. Each IG aims to develo
 
 ## Our Interest Groups
 
-UKOMAIN Interest Groups are organised into two categories:
+The following Interest Groups are currently active within UKOMAIN and are organised into two categories::
 
 **TERC-aligned Interest Groups**
 
