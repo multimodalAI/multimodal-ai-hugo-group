@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 25
 
-title: Group leads/co-leads
+title: Leadership Team
 
 content:
   # Choose which groups/teams of users to display.
