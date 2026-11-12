@@ -47,50 +47,41 @@ main:
     url: interest-groups
     weight: 1
 
-  - name: "TERC-aligned Interest Groups"
-    parent: "Interest Groups" # Parent name must match exactly
-    url: "#"
-    weight: 2
 
   - name: "Health and Wellbeing"
-    parent: "TERC-aligned Interest Groups" # Parent name must match exactly
+    parent: "Interest Groups" # Parent name must match exactly
     url: health-and-wellbeing
-    weight: 1
+    weight: 3
 
   - name: "Robotics"
-    parent: "TERC-aligned Interest Groups" # Parent name must match exactly
+    parent: "Interest Groups" # Parent name must match exactly
     url: robotics
-    weight: 2
+    weight: 7
 
   - name: "Materials Discovery"
-    parent: "TERC-aligned Interest Groups" # Parent name must match exactly
+    parent: "Interest Groups" # Parent name must match exactly
     url: materials-discovery
-    weight: 3
+    weight: 5
 
   - name: "Responsible Engineering"
-    parent: "TERC-aligned Interest Groups" # Parent name must match exactly
-    url: responsible-engineering
-    weight: 4
-
-  - name: "Community-focused Interest Groups"
     parent: "Interest Groups" # Parent name must match exactly
-    url: "#"
-    weight: 3
+    url: responsible-engineering
+    weight: 6
 
   - name: "Early Career Researchers"
-    parent: "Community-focused Interest Groups" # Parent name must match exactly
+    parent: "Interest Groups" # Parent name must match exactly
     url: early-career-researchers
-    weight: 1
-
-  - name: "Women In Multimodal AI"
-    parent: "Community-focused Interest Groups" # Parent name must match exactly
-    url: women-in-multimodal-ai
     weight: 2
 
+  - name: "Women In Multimodal AI"
+    parent: "Interest Groups" # Parent name must match exactly
+    url: women-in-multimodal-ai
+    weight: 8
+
   - name: "Industry Collaboration and Innovation"
-    parent: "Community-focused Interest Groups" # Parent name must match exactly
+    parent: "Interest Groups" # Parent name must match exactly
     url: industry-collaboration-and-innovation
-    weight: 3
+    weight: 4
 
   - name: "About"
     url: "#"
