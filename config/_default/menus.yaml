@@ -13,7 +13,7 @@ main:
     url: "#"
     weight: 17
 
-  - name: "Round 3 Challenge proposals"
+  - name: "Round 3 challenge proposals"
     parent: "Funding" # Parent name must match exactly
     url: omaib-r3-challenges
     weight: 1
@@ -111,9 +111,9 @@ main:
     url: https://www.linkedin.com/newsletters/ukomain-news-7406633621865938944/
     weight: 3
 
-  - name: "Multimodal Data Analysis Session - 2026"
+  - name: "Multimodal Data Analysis Session"
     parent: "Resources" # Parent name must match exactly
-    url: mdas-2026
+    url: https://pykale.github.io/mdas/
     weight: 4
 
   - name: "Past Events"
