@@ -20,7 +20,7 @@ We welcome UK-based researchers, engineers and domain specialists who can make a
 
 Up to £50,000 per project (80% FEC) is available competitively for benchmark development. UKOMAIN will cover reasonable UK travel, accommodation and subsistence for selected participants.
 
-Apply by 11 December 2026, 16:00 UK time via the Sandpit application form at https://forms.gle/ugpbMWuuMNY1TLL28
+Apply by 11 December 2026, 16:00 UK time via the [Sandpit application form](https://forms.gle/ugpbMWuuMNY1TLL28) 
 
 Please read the [full call document](https://docs.google.com/document/d/1fVzXvcdsbOGKJTW2_8a00Rnp5tfaisoAkC86C8XqmyA/edit?usp=sharing) for eligibility, funding conditions and participation requirements.
 
