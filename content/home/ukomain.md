@@ -19,6 +19,8 @@ design:
 > **Latest News from UKOMAIN**
 
 
+- The [OMAIB Round 3 (R3) challenges](https://multimodalai.github.io/omaib-r3-challenges/) have now been announced! Explore the challenges and discover opportunities to develop innovative multimodal AI solutions addressing real-world problems.
+- OMAIB Round 3 [Sandpit applications are now open!](https://forms.gle/ugpbMWuuMNY1TLL28) Apply by 11 December 2026, 16:00 for an opportunity to collaborate and develop innovative multimodal AI solutions addressing real-world challenges.
 - Challenge-led Open Multimodal AI Benchmark has now launched, with up to £50,000 per project for up to four projects. Challenge proposals from real-world problem owners close at 16:00 UK time on 6 November 2026. [ Briefing webinar recording](https://youtu.be/7DxYBFDPM74) and [slides](https://multimodalai.github.io/files/OMAIB-R3-briefing-slides.pdf) are now available. [Submit your challenge proposal now.](https://forms.gle/zgMfoM68AiF7mvWz8)
 - Seven Interest Groups are now active across TERC-aligned and community-focused categories, with Leads and Co-Leads appointed for each group. 👉 [More information](https://multimodalai.github.io/interest-groups/)
 - Preparations are underway for the Fifth Multimodal AI Workshop, provisionally scheduled for 24–25 June 2027 in London. Further details will be shared with the community soon.

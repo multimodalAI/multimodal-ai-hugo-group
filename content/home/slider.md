@@ -26,7 +26,7 @@ content:
       content: >
         <font size="3" style="color: white !important;"> UKOMAIN Call for Proposals Round 3 </font>
          <div style="text-align: center;">
-            <a href="https://multimodalai.github.io/omaib-r3/" class="btn" style="margin: 5px; background-color: white !important; color: sky !important;"><i class="fas fa-arrow-right"></i> View Details</a>
+            <a href="https://multimodalai.github.io/omaib-r3/" class="btn" style="margin: 5px; background-color: white !important; color: sky !important;"><i class="fas fa-arrow-right"></i> View Challenges and register for Sandpit</a>
         </div>
     
     - title: 

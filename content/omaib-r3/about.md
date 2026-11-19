@@ -18,8 +18,8 @@ design:
 - Briefing webinar: [slides](https://multimodalai.github.io/files/OMAIB-R3-briefing-slides.pdf), [video recording](https://youtu.be/7DxYBFDPM74)
 - [Call for proposals (Full Document)](https://docs.google.com/document/d/1fVzXvcdsbOGKJTW2_8a00Rnp5tfaisoAkC86C8XqmyA/edit?usp=sharing): Last updated on 7 October 2026
 - [Challenge proposal deadline:](https://forms.gle/zgMfoM68AiF7mvWz8) 16:00 UK time, 6 November 2026
-- Selected challenges announced: 20 November 2026
-- **Sandpit application deadline: 11 December 2026, 16:00**
+- [Selected challenges announced:](https://multimodalai.github.io/omaib-r3-challenges/) 20 November 2026
+- **[Sandpit application deadline:](https://forms.gle/ugpbMWuuMNY1TLL28) 11 December 2026, 16:00**
 - **Sandpit: 21–22 January 2027, Sheffield**
 
 
@@ -42,8 +42,8 @@ Open Multimodal AI Benchmark (OMAIB) supports open, interdisciplinary and deploy
 - **Official call and challenge proposal form opens:** 29 September 2026
 - [**Briefing webinar for both audiences (recorded):**](https://youtu.be/7DxYBFDPM74) 6 October 2026, 12:00–13:00 UK time
 - [**Challenge proposal deadline:**](https://forms.gle/zgMfoM68AiF7mvWz8) **6 November 2026, 16:00**
-- Selected challenges announced; sandpit applications open: 20 November 2026
-- **Sandpit application deadline:** **11 December 2026, 16:00**
+- [Selected challenges announced; sandpit applications open:](https://multimodalai.github.io/omaib-r3-challenges/) 20 November 2026
+- [**Sandpit application deadline**](https://forms.gle/ugpbMWuuMNY1TLL28) **11 December 2026, 16:00**
 - Sandpit participant decisions: By 18 December 2026
 - **Online preparation session for selected sandpit participants: 15 January, 2027, 12:00-13:00**
 - Sandpit, Sheffield: 21 January 2027, 11:00 – 22 January 2027, 16:00 
