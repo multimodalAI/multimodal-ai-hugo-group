@@ -20,10 +20,8 @@ design:
 
 
 - Challenge-led Open Multimodal AI Benchmark has now launched, with up to £50,000 per project for up to four projects. Challenge proposals from real-world problem owners close at 16:00 UK time on 6 November 2026. [ Briefing webinar recording](https://youtu.be/7DxYBFDPM74) and [slides](https://multimodalai.github.io/files/OMAIB-R3-briefing-slides.pdf) are now available. [Submit your challenge proposal now.](https://forms.gle/zgMfoM68AiF7mvWz8)
-- 👉[Watch the video](https://youtu.be/mN4WGduEx7Q?si=6KxESOqjL5lSMOr7) to discover UKOMAIN’s impact so far and the next phase of the network.
-- UKOMAIN welcomes Chris Barnes (Head of Science of AI, NPL), Amanda Brock (CEO, OpenUK), Henry Lee (CEO, Cultivarium), and Tom Pollard (Research Scientist, Massachusetts Institute of Technology, USA), as new members of the UKOMAIN Advisory Board.
-- Video recordings from the Fourth Workshop on Multimodal AI are now available on our YouTube channel, including [keynotes](https://youtube.com/playlist?list=PLVw9eB2zX1i0&si=5fA6ilbfY1_VUuTz), [invited talks](https://youtube.com/playlist?list=PLalmsoucEJ7M&si=jJt-xEeeS8vUvfqP), [panel discussions](https://youtube.com/playlist?list=PLT_68mVXCdho&si=yb6kHiWB616JUAx_), and [award-winning abstracts](https://youtube.com/playlist?list=PLXwIeZiJSQxU&si=sPVYfwq8ybo46Qke). 
-- UKOMAIN has awarded funding to **seven** new Open Multimodal AI Benchmark (OMAIB) projects advancing trustworthy, responsible, and deployment-centric multimodal AI across the UK's Tomorrow's Engineering Research Challenges.
+- Seven Interest Groups are now active across TERC-aligned and community-focused categories, with Leads and Co-Leads appointed for each group. 👉 [More information](https://multimodalai.github.io/interest-groups/)
+- Preparations are underway for the Fifth Multimodal AI Workshop, provisionally scheduled for 24–25 June 2027 in London. Further details will be shared with the community soon.
 - UKOMAIN Interest Groups — Join a focused community and help shape tangible outputs in multimodal AI. 👉 [Sign up here](https://forms.gle/NvS4dd2jZTbwazEc6)  
 
 
