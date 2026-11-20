@@ -13,17 +13,21 @@ superuser: false
 weight: 20
 
 # Role/position
-role: Co-Lead | Assistant Professor at University of Hull
+role: Co-Lead | Lecturer & Research Lead at Data Science, AI and Modelling Centre, University of Hull
 
 # Organizations/Affiliations
 organizations:
-- name:
-  url: "" 
+- name: DAIM, University of Hull
+  url: "[https://www.hull.ac.uk/](https://www.hull.ac.uk/research/centres/centre-of-excellence-for-data-science-artificial-intelligence-and-modelling)"
 
 social:
 #  - icon: envelope
 #    icon_pack: fas
 #    link: 'mlap@inf.ed.ac.uk'
+  - icon: globe
+    icon_pack: fas
+    link: https://drzekunguo.github.io/
+    
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/dr-zekun-guo/
@@ -41,4 +45,6 @@ user_groups:
 
 ---
 
-To be updated.
+Dr Zekun Guo is a Lecturer and Research Lead at the Centre for Data Science, Artificial Intelligence and Modelling (DAIM), University of Hull.
+
+His research focuses on foundation models, agentic AI, and intelligent decision-making for complex engineering systems, with particular emphasis on energy and infrastructure applications. He leads research initiatives in time-series foundation models and autonomous AI agents, bridging fundamental AI research with real-world optimisation, control, and industrial deployment.
