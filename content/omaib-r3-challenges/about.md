@@ -7,7 +7,7 @@ weight: 10
 design:
   columns: '1'
 ---
-UKOMAIN has selected two challenges for OMAIB Round 3 and invites applications to the sandpit in Sheffield on 21–22 January 2027, where participants will form teams and develop proposals for open multimodal AI benchmarks.
+UKOMAIN has selected two challenges for OMAIB Round 3 and invites [applications to the sandpit](https://forms.gle/ugpbMWuuMNY1TLL28) in Sheffield on **21–22 January 2027**, where participants will form teams and develop proposals for open multimodal AI benchmarks.
 
 We are seeking complementary expertise for:
 
